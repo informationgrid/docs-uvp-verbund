@@ -65,30 +65,30 @@ Abb.:
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
- - Neu anlegen (Verfahren / Adressen)
- - Neuen Ordner anlegen
- - Vorschau und Druckansicht 
+- Neu anlegen (Verfahren / Adressen)
+- Neuen Ordner anlegen
+- Vorschau und Druckansicht 
 
- - Verfahren / Adressen / Teilbaum ausschneiden 
- - Verfahren / Adressen kopieren 
- - Teilbäume kopieren 
- - Einfügen (Verfahren / Adressen / Teilbaum)
+- Verfahren / Adressen / Teilbaum ausschneiden 
+- Verfahren / Adressen kopieren 
+- Teilbäume kopieren 
+- Einfügen (Verfahren / Adressen / Teilbaum)
 
-  - Zwischenspeichern 
-  - Rückgängig 
-  - Änderungen am aktuellen Verfahren / Adresse verwerfen
+- Zwischenspeichern 
+- Rückgängig 
+- Änderungen am aktuellen Verfahren / Adresse verwerfen
  
-   - Abschließendes Speichern & Veröffentlichen 
-   - Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
-   - Änderungen anzeigen
+- Abschließendes Speichern & Veröffentlichen 
+- Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
+- Änderungen anzeigen
 
-    - Kommentar ansehen / hinzufügen 
-    - Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
-    - Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
-    - Alle Felder aufklappen
-    - Nur Pflichtfelder aufklappen
+- Kommentar ansehen / hinzufügen 
+- Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
+- Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
+- Alle Felder aufklappen
+- Nur Pflichtfelder aufklappen
        
-    - Hilfe
+- Hilfe
 
 
 Eingabefelder
