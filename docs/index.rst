@@ -26,11 +26,12 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
    uvp-verfahren/bearbeitung-verfahren-adressen-strukturbaum
    
  .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Hilfe, Bebauungspläne & Statistik  
    
-   uvp-verfahren/hilfe-erfassung
-   uvp-verfahren/bebauungsplandaten
-   uvp-verfahren/eu-statistik
+   hilfe-bebauungsplaene-statistik/hilfe-erfassung
+   hilfe-bebauungsplaene-statistik/bebauungsplandaten
+   hilfe-bebauungsplaene-statistik/eu-statistik
 
 
