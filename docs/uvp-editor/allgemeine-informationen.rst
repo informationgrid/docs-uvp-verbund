@@ -8,7 +8,7 @@ Abb.:
 
 
 Strukturbaum
----------------
+------------
 
 Der UVP-Editor verfügt über einen Strukturbaum, den Sie über den Menüpunkt *Hierarchie & Erfassung* aufrufen. Er unterteilt sich in Verfahren und Adressen:
 
@@ -20,7 +20,7 @@ Abb.:
 
 
 Icons im Strukturbaum
--------------------------
+---------------------
 
 Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ besitzt ein eigenes Symbol (Icon), welches im Strukturbaum neben dem Verfahrensnamen bzw. dem Adresstitel dargestellt wird. 
 
@@ -41,7 +41,7 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 
 
 Bearbeitungsstand
----------------------
+-----------------
 
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstand an.
 
@@ -51,13 +51,13 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 Ausgegraute Verfahren/Adressen im Strukturbaum
---------------------------------------------------------
+----------------------------------------------
 
 Teilweise werden im Strukturbaum Verfahren oder Adressen nicht schwarz, sondern nur in grau angezeigt. Dieses hängt mit der Zuweisung von Berechtigungen zusammen. Ändern kann ein Erfasser nur die Verfahren/Adressen, die im Strukturbaum schwarz dargestellt sind.
 
 
 Toolbar 
---------
+-------
 
 Die Toolbar hat folgenden grundlegenden Aufbau: 
 
@@ -92,7 +92,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 Eingabefelder
-----------------
+-------------
 
 Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften oder durch ein Sternchen. 
 
@@ -102,7 +102,7 @@ Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können,
 
 
 Auf- und Zuklappen der Eingabefelder
---------------------------------------------
+------------------------------------
 
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
@@ -117,7 +117,7 @@ Abb.:
 
 
 Unterschiedliche Feldarten
--------------------------------
+--------------------------
 
 **Textfelder**
 
@@ -150,7 +150,7 @@ Abb.:
 
 
 Zwischenspeichern, Speichern & Veröffentlichen
-------------------------------------------------------
+----------------------------------------------
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
@@ -169,7 +169,7 @@ Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die F
 
 
 Zeitgesteuerte Veröffentlichung von Datensätzen
--------------------------------------------------------
+-----------------------------------------------
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
@@ -181,7 +181,7 @@ Abb.:
 
 
 Session abgelaufen
-----------------------
+------------------
 
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
@@ -191,7 +191,7 @@ Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu di
 
 
 Hilfe
-------
+-----
 
 
 Eine allgemeine Hilfe zum InGrid-Editor kann durch einen Klick auf das Fragezeichen-Symbol ganz rechts in der Toolbar aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
@@ -208,7 +208,7 @@ Abb.:
 
 
 UVP-Editor schließen
---------------------------
+--------------------
 
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
@@ -222,7 +222,7 @@ Sie müssen sich noch aus dem UVP-Portal abmelden. Hierfür betätigen Sie in de
 
 
 Passwort vergessen
------------------------
+------------------
 
 1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
 2. Klick auf den Link *Passwort vergessen?*
@@ -252,6 +252,6 @@ Abb.:
 
 
 Benutzername vergessen
------------------------------
+----------------------
 
 Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
