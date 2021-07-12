@@ -9,7 +9,7 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
 
    uvp-editor/allgemeine-informationen
    uvp-editor/registrierung-anmeldung
-   uvp-editor/allgemeine-informationen
+
 
 .. toctree::
    :maxdepth: 2
