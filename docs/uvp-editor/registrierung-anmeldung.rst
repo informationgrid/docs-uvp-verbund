@@ -43,9 +43,8 @@ Zur Freischaltung Ihrer neuen Benutzerkennung klicken Sie bitte auf den Link in 
 Bevor Sie UVP-Verfahren erfassen und pflegen können, muss ihre neue Benutzerkennung noch für die Erfassung und Pflege der UVP-Verfahren freigeschaltet werden. Bisher dürfen Sie sich nur am Portal anmelden und persönliche Einstellungen vornehmen, aber noch keine UVP-Verfahren erfassen oder bearbeiten. 
 Schicken Sie Ihrem Katalogadministrator eine E-Mail oder rufen Sie ihn an. Teilen Sie ihm mit, dass Sie zum Erfassen von UVP-Verfahren einen Zugang zum UVP-Editor benötigen. Ihnen werden dann die Berechtigungen eingerichtet.
 
-
 Anmeldung
------------ 
+---------
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich im UVP-Portal anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "ANMELDEN INTERNER BEREICH" ab.
 
