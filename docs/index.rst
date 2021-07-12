@@ -11,13 +11,11 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
    uvp-editor/registrierung-anmeldung
    uvp-editor/allgemeine-informationen
 
-
-
 .. toctree::
    :maxdepth: 2
    :caption: UVP-Verbund Nutzerverwaltung
 
-   uvp-nutzerverwaltung/index
+   uvp-nutzerverwaltung/anlegen-von-ige-benutzern
 
 .. toctree::
    :maxdepth: 2
