@@ -1,7 +1,7 @@
 UVP-Verbund - Bedienungsanleitung
 =================================
 
-Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
+Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
 
 .. toctree::
    :maxdepth: 2
