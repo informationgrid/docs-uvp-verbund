@@ -1,7 +1,7 @@
 UVP-Verbund - Bedienungsanleitung
 =================================
 
-Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
+Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
 
 .. toctree::
    :maxdepth: 2
@@ -24,7 +24,13 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    uvp-verfahren/erfassung-uvp-verfahren
    uvp-verfahren/bearbeitung-verfahren-adressen
    uvp-verfahren/bearbeitung-verfahren-adressen-strukturbaum
+   
+ .. toctree::
+   :maxdepth: 2
+   :caption: Hilfe, Bebauungspläne & Statistik  
+   
    uvp-verfahren/hilfe-erfassung
    uvp-verfahren/bebauungsplandaten
+   uvp-verfahren/eu-statistik
 
 
