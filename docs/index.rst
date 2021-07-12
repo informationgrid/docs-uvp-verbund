@@ -9,6 +9,8 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
 
    uvp-editor/allgemeine-informationen
    uvp-editor/registrierung-anmeldung
+   uvp-editor/allgemeine-informationen
+
 
 
 .. toctree::
@@ -25,7 +27,6 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 4 Teile.
    uvp-verfahren/bearbeitung-verfahren-adressen
    uvp-verfahren/bearbeitung-verfahren-adressen-strukturbaum
    
- .. toctree::
 .. toctree::
    :maxdepth: 2
    :caption: Hilfe, Bebauungspläne & Statistik  
