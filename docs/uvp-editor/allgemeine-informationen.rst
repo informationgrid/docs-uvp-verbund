@@ -1,7 +1,7 @@
 Allgemeines zum UVP-Editor
 ==========================
 
-UVP-Editor - Ausgangszustand
+UVP-Editor im Ausgangszustand
 ----------------------------
  
 Nach dem Laden des Editors wird zuerst das Dashboard gezeigt. Hier wird dargestellt, welche Verfahren bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
