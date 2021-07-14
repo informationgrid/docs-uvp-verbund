@@ -19,9 +19,12 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :maxdepth: 2
    :caption: Erfassung von UVP-Verfahren
 
-   uvp-verfahren/erfassung-uvp-verfahren
-   uvp-verfahren/bearbeitung-verfahren-adressen
-   uvp-verfahren/bearbeitung-verfahren-adressen-strukturbaum
+   uvp-verfahren/anlegen-von-adressen.rst
+   uvp-verfahren/erfassung-von-uvp-verfahren.rst
+   uvp-verfahren/bestehende-adressen-oder-verfahren-bearbeiten.rst
+   uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
+   uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
+
    
 .. toctree::
    :maxdepth: 2
