@@ -281,7 +281,4 @@ Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnit
 
 Abb.:
 
-Dokument-Upload & Verfahrensschritt löschen
--------------------------------------------
-
 
