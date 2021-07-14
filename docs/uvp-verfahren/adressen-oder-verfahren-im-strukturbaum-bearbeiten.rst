@@ -53,7 +53,7 @@ Abb.:
 Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Verfahren / der kopierten Adresse vornehmen. 
 
 **Hinweis:**
-Wichtig ist zudem, dass der Verfahrensname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden! 
+*Wichtig ist zudem, dass der Verfahrensname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
 
 
 Verfahren/Adresse/Teilbaum ausschneiden und wieder einfügen

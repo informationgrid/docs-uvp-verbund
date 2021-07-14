@@ -14,8 +14,7 @@ Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das V
 
 Abb.:
 
-Es öffnet sich ein gesondertes Dialog-Fenster „Vergleichsansicht“, welches die Informationen vor der Bearbeitung eines Verfahrens bzw. einer Adresse anzeigt (Ausgangsversion) und nach der Bearbeitung (Bearbeitungsversion). In der Differenz-Ansicht sind die gelöschten Daten in Rot dargestellt, die neu eingefügten Daten werden dagegen grün angezeigt.
-Hilfreich ist diese Ansicht beispielsweise, wenn ein Verfahren bzw. eine Adresse vor längerem zwischengespeichert wurden. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Verfahren bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen.
+Es öffnet sich ein gesondertes Dialog-Fenster „Vergleichsansicht“, welches die Informationen vor der Bearbeitung eines Verfahrens bzw. einer Adresse anzeigt (Ausgangsversion) und nach der Bearbeitung (Bearbeitungsversion). In der Differenz-Ansicht sind die gelöschten Daten in Rot dargestellt, die neu eingefügten Daten werden dagegen grün angezeigt. Hilfreich ist diese Ansicht beispielsweise, wenn ein Verfahren bzw. eine Adresse vor längerem zwischengespeichert wurden. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Verfahren bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen.
 
 
 Rückgängig machen
@@ -29,8 +28,7 @@ Klickt man auf den Rückgängig-Button, so öffnet sich ein kleines Fenster, in 
 
 Abb.:
  
-"Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden.
-Um das Verfahren bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen, nutzen Sie bitte die Funktion *Änderungen am aktuellen Verfahren/Adresse verwerfen*.
+"Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden. Um das Verfahren bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen, nutzen Sie bitte die Funktion *Änderungen am aktuellen Verfahren/Adresse verwerfen*.
 
 
 Änderungen verwerfen
