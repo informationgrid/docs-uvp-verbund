@@ -59,6 +59,41 @@ Durch einen Klick auf den Menüpunkt "UVP KATALOG" und anschließend auf den But
 
 Abb.: 
 
+Passwort vergessen
+------------------
+
+1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
+2. Klick auf den Link *Passwort vergessen?*
+
+Abb.:
+
+3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
+4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
+
+Abb.:
+
+5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Passwort versendet Ihr neues Passwort wurde erfolgreich an Sie versendet.*
+
+Abb.:
+
+6. Es erfolgt eine automatische E-Mail aus dem System mit Betreff *UVP: Ihre Anfrage* Hier auf die URL unterhalb von *Sie können Ihr Passwort über folgende URL ändern:* klicken.
+
+Abb.:
+
+7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
+
+Abb.:
+
+8. Es wird automatisch auf die *Anmeldung* Seite weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+
+Abb.:
+
+
+Benutzername vergessen
+----------------------
+
+Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
+
 
 UVP-Editor - Ausgangszustand
 ----------------------------
