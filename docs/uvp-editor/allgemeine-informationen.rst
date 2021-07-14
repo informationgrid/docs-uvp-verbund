@@ -190,23 +190,6 @@ Abb.:
 Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern.
 
 
-Hilfe
------
-
-
-Eine allgemeine Hilfe zum InGrid-Editor kann durch einen Klick auf das Fragezeichen-Symbol ganz rechts in der Toolbar aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
-
-Abb.:
-
-In den Dialogfenstern steht ebenfalls eine Hilfe zur Verfügung. Hinter dem Symbol „[?]“ ist ein Link hinterlegt, über den der Hilfetext aufgerufen werden kann.
-
- Abb.:
- 
-Zusätzlich erhalten Sie Hilfe zu der Befüllung einzelner Felder, indem Sie den Mauszeiger über die Überschrift des jeweiligen Feldes ziehen. Er verändert dann seine Form zu einer Kombination aus Zeiger und Fragezeichen. Ein einfacher Klick mit der linken Maustaste öffnet ein Dialogfeld, welches einen Hilfetext zu dem zugehörigen Feld anzeigt. 
-
-Abb.:
-
-
 UVP-Editor schließen
 --------------------
 
@@ -219,39 +202,3 @@ Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der But
 Abb.:
  
 Sie müssen sich noch aus dem UVP-Portal abmelden. Hierfür betätigen Sie in der Seite Anmeldung auf den Link: *Logout*.
-
-
-Passwort vergessen
-------------------
-
-1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
-2. Klick auf den Link *Passwort vergessen?*
-
-Abb.:
-
-3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
-4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
-
-Abb.:
-
-5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Passwort versendet Ihr neues Passwort wurde erfolgreich an Sie versendet.*
-
-Abb.:
-
-6. Es erfolgt eine automatische E-Mail aus dem System mit Betreff *UVP: Ihre Anfrage* Hier auf die URL unterhalb von *Sie können Ihr Passwort über folgende URL ändern:* klicken.
-
-Abb.:
-
-7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
-
-Abb.:
-
-8. Es wird automatisch auf die *Anmeldung* Seite weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
-
-Abb.:
-
-
-Benutzername vergessen
-----------------------
-
-Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
