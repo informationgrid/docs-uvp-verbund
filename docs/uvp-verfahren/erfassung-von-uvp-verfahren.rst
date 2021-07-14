@@ -12,7 +12,7 @@ Die Verfahren werden in vier Verfahrenstypen untergliedert:
   - Ausländische Verfahren
 
 
-Anlegen eises Verfahrens
+Anlegen eines Verfahrens
 ------------------------
 
 Soll ein neues Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
