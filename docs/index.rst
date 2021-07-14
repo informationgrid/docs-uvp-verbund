@@ -27,8 +27,13 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :maxdepth: 2
    :caption: UVP-Verbund Nutzerverwaltung
 
-   uvp-nutzerverwaltung/anlegen-von-ige-benutzern   
-   
+   uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
+   uvp-nutzerverwaltung/anlegen-von-ige-benutzern
+   uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
+   uvp-nutzerverwaltung/gruppenadministration.rst
+   uvp-nutzerverwaltung/berechtigungsuebersicht.rst
+   uvp-nutzerverwaltung/anzeige-der-berechtigungen
+
 .. toctree::
    :maxdepth: 2
    :caption: Hilfe, Bebauungspläne & Statistik  
