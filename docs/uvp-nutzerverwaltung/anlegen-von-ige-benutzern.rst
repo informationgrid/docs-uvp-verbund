@@ -152,9 +152,8 @@ Abb.:
 **Die spezielle Gruppe administrators des Katalogadministrators**
 Dem Katalogadministrator wird immer automatisch die Gruppe administrators zugewiesen. Diese Zuweisung kann nicht verändert werden. Die Gruppe hat Schreibrechte auf den gesamten Katalog (natürlich einschließlich des Rechts auf Anlegen von neuen Verfahren und Adressen auf der obersten Ebene). Die Gruppe hat feste Rechte und ist in jedem Katalog automatisch vorhanden. Sie lässt sich nicht über die Gruppenadministration pflegen und wird daher auch nicht in der Liste der Gruppen angezeigt.
 
-
 Berechtigungsübersicht
-----------------------
+======================
 
 In der Berechtigungsübersicht werden alle Nutzer angezeigt, die auf ein Verfahren, eine Adresse oder einen Teilbaum Schreibrechte oder das Recht für Unter-Verfahren/Unteradressen oder zur Qualitätssicherung haben.
 
