@@ -28,10 +28,10 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :caption: UVP-Verbund Nutzerverwaltung
 
    uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
-   uvp-nutzerverwaltung/anlegen-von-ige-benutzern
+   uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
    uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
+   uvp-nutzerverwaltung/anzeige-der-verantwortlichkeiten.rst
    uvp-nutzerverwaltung/gruppenadministration.rst
-   uvp-nutzerverwaltung/anzeige-der-berechtigungen.rst
    uvp-nutzerverwaltung/berechtigungsuebersicht.rst
 
 .. toctree::
