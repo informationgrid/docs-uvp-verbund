@@ -80,7 +80,7 @@ Abb.:
 
 
 Gruppenadministration
----------------------
+=====================
 
 Über die (Nutzer-) Gruppen werden die Schreibrechte auf Verfahren und Adressen festgelegt.
 
