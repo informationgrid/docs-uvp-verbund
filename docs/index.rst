@@ -31,6 +31,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern
    uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
    uvp-nutzerverwaltung/gruppenadministration.rst
+   uvp-nutzerverwaltung/anzeige-der-berechtigungen.rst
    uvp-nutzerverwaltung/berechtigungsuebersicht.rst
 
 .. toctree::
