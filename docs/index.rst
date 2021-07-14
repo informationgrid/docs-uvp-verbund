@@ -26,7 +26,6 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
    uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
 
-   
 .. toctree::
    :maxdepth: 2
    :caption: UVP-Verbund Nutzerverwaltung
