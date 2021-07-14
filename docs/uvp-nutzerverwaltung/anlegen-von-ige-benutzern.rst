@@ -132,21 +132,5 @@ Abb.:
 Dem Katalogadministrator wird immer automatisch die Gruppe administrators zugewiesen. Diese Zuweisung kann nicht verändert werden. Die Gruppe hat Schreibrechte auf den gesamten Katalog (natürlich einschließlich des Rechts auf Anlegen von neuen Verfahren und Adressen auf der obersten Ebene). Die Gruppe hat feste Rechte und ist in jedem Katalog automatisch vorhanden. Sie lässt sich nicht über die Gruppenadministration pflegen und wird daher auch nicht in der Liste der Gruppen angezeigt.
 
 
-Berechtigungsübersicht
-======================
-
-In der Berechtigungsübersicht werden alle Nutzer angezeigt, die auf ein Verfahren, eine Adresse oder einen Teilbaum Schreibrechte oder das Recht für Unter-Verfahren/Unteradressen oder zur Qualitätssicherung haben.
-
-Abb.:
- 
-Klicken Sie auf ein beliebiges Verfahren unter Berechtigung für Verfahren oder auf eine beliebige Adresse unter Berechtigung für Adressen. Das ausgewählte Verfahren bzw. die ausgewählte Adresse werden blau markiert. Es werden die Nutzernamen und die Rollen aller Nutzer angezeigt, die auf das Verfahren bzw. die Adresse mindestens eines der folgenden Rechte haben:
- • Schreibrecht auf das Einzelverfahren bzw. die Einzeladresse
- • Schreibrecht auf den Teilbaum
- • Recht zur Erstellung direkter Unter-Verfahren bzw. Unteradressen
-
-
-**Hinweis:** *Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
-
-
 
 **Hinweis:** *Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
