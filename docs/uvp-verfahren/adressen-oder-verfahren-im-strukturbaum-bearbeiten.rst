@@ -1,11 +1,11 @@
-Erfassung von UVP-Verfahren
-===========================
+Bestehende Verfahren oder Adressen im Strukturbaum bearbeiten
+=============================================================
 
-Erfassung von Adressen
-----------------------
+Verfahren / Adresse löschen
+---------------------------
 
-Erfassung von Verfahren
------------------------
+Verfahren / Adresse kopieren und einfügen
+-----------------------------------------
 
-Verfahrenstypen
-~~~~~~~~~~~~~~~
+Adressangaben in nachgeordnete Adressen übernehmen
+--------------------------------------------------

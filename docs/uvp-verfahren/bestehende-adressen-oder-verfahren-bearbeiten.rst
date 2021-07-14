@@ -1,11 +1,14 @@
-Erfassung von UVP-Verfahren
-===========================
+Bestehende Adressen oder Verfahren bearbeiten
+=============================================
 
-Erfassung von Adressen
-----------------------
+Bearbeiten eines UVP-Verfahrens
+-------------------------------
 
-Erfassung von Verfahren
------------------------
+Änderungen anzeigen
+-------------------
 
-Verfahrenstypen
-~~~~~~~~~~~~~~~
+Rückgängig machen
+-----------------
+
+Änderungen verwerfen
+--------------------
