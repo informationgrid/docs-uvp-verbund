@@ -1,4 +1,4 @@
-Anzeige der Berechtigungen eines IGE-Nutzers
+Anzeige der Verantwortlichkeiten eines IGE-Nutzers
 ==================================================
 
 Über den Reiter *Verfahren / Adressen* (Nutzeradministration) werden zwei Tabellen angezeigt,
