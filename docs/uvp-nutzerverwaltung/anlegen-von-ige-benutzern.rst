@@ -55,11 +55,11 @@ Ein Portal-Nutzer, der bereits einem UVP-Editor-Katalog zugeordnet ist, kann kei
 
 Abb.:
  
-3.	Mit „Speichern“ (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
+3.	Mit *Speichern* (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
 
 
 Bearbeiten und Löschen eines bereits existierenden IGE-Nutzers
---------------------------------------------------------------
+==============================================================
 
 Wählen Sie durch Mausklick im Hierarchiebaum auf der linken Seite des Fensters einen Nutzer aus, den Sie bearbeiten oder löschen wollen.
 
@@ -73,8 +73,9 @@ Abb.:
  
 
 Anzeige der Verantwortlichkeiten eines IGE-Nutzers
---------------------------------------------------
-Über den Reiter "Verfahren / Adressen" (Nutzeradministration) werden zwei Tabellen angezeigt, die die Verfahren und Adressen auflisten, in denen der ausgewählte Benutzer als Verantwortlicher eingetragen ist. Es ist möglich direkt aus diesen Tabellen-Zeilen auf ein Verfahren bzw. Adresse zu springen.
+==================================================
+
+Über den Reiter *Verfahren / Adressen* (Nutzeradministration) werden zwei Tabellen angezeigt, die die Verfahren und Adressen auflisten, in denen der ausgewählte Benutzer als Verantwortlicher eingetragen ist. Es ist möglich direkt aus diesen Tabellen-Zeilen auf ein Verfahren bzw. Adresse zu springen.
  
 Abb.:
 
@@ -151,6 +152,7 @@ Abb.:
 
 **Die spezielle Gruppe administrators des Katalogadministrators**
 Dem Katalogadministrator wird immer automatisch die Gruppe administrators zugewiesen. Diese Zuweisung kann nicht verändert werden. Die Gruppe hat Schreibrechte auf den gesamten Katalog (natürlich einschließlich des Rechts auf Anlegen von neuen Verfahren und Adressen auf der obersten Ebene). Die Gruppe hat feste Rechte und ist in jedem Katalog automatisch vorhanden. Sie lässt sich nicht über die Gruppenadministration pflegen und wird daher auch nicht in der Liste der Gruppen angezeigt.
+
 
 Berechtigungsübersicht
 ======================
