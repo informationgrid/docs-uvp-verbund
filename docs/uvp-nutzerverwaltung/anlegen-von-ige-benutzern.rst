@@ -48,14 +48,6 @@ Hinweis: Dem Katalog-Administrator ist immer automatisch die Gruppe administrato
 Zum Löschen des Nutzers klicken Sie auf die Schaltfläche Nutzer löschen und bestätigen den Vorgang in dem sich öffnenden Dialog.
 
 Abb.:
- 
-
-Anzeige der Verantwortlichkeiten eines IGE-Nutzers
-==================================================
-
-Über den Reiter *Verfahren / Adressen* (Nutzeradministration) werden zwei Tabellen angezeigt, die die Verfahren und Adressen auflisten, in denen der ausgewählte Benutzer als Verantwortlicher eingetragen ist. Es ist möglich direkt aus diesen Tabellen-Zeilen auf ein Verfahren bzw. Adresse zu springen.
- 
-Abb.:
 
 
 
