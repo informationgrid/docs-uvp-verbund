@@ -1,8 +1,7 @@
-Anlegen von IGE-Benutzern
-=========================
+
 
 Konzept der Nutzerverwaltung des InGrid-Editors
------------------------------------------------
+===============================================
 
 
 Der UVP-Editor ist eine Komponente der Portal-Software InGrid. Durch die Verknüpfung der Nutzverwaltungen des UVP-Portals und des UVP-Editors ergibt sich der Vorteil, dass sich ein Nutzer nur einmal zentral im Portal anmelden muss.
@@ -21,7 +20,7 @@ Der Katalog-Administrator kann Metadaten-Autoren unter beliebigen Metadaten-Admi
 
 
 Neuanlegen eines IGE-Nutzers
-----------------------------
+============================
 
 Vorbereitende Schritte:
 
@@ -165,6 +164,10 @@ Klicken Sie auf ein beliebiges Verfahren unter Berechtigung für Verfahren oder 
  • Schreibrecht auf das Einzelverfahren bzw. die Einzeladresse
  • Schreibrecht auf den Teilbaum
  • Recht zur Erstellung direkter Unter-Verfahren bzw. Unteradressen
+
+
+**Hinweis:** *Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
+
 
 
 **Hinweis:** *Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
