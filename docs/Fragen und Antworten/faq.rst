@@ -34,8 +34,8 @@ Häufig gestellte Fragen
 
 **Was muss bei der Erfassung von negativen Vorprüfungen erfasst werden?**
 
-  *-Variante 1: Werden die Verfahren nur für die EU Zählung erfasst, muss der Titel,...
-  -Variante 2: Werden die Verfahren erfasst um sie im Portal anzuzeigen, muss der Titel, die Beschreibung, der Raumbezug, ...*
+  *- Variante 1: Werden die Verfahren nur für die EU Zählung erfasst, muss der Titel,...
+   - Variante 2: Werden die Verfahren erfasst um sie im Portal anzuzeigen, muss der Titel, die Beschreibung, der Raumbezug, ...*
   
 
 **Wann wird ein Verfahren in der EU Statistik gezählt?**
