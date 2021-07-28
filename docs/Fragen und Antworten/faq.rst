@@ -57,7 +57,7 @@ Häufig gestellte Fragen
 **Wann wird ein Verfahren für die EU Statistik gezählt?**
 
    1. Das Verfahren muss abgeschlossen sein.
-   2. Das Verfahren muss veröffentlicht sein (im Strukturbaum Blau).
+   2. Das Verfahren muss veröffentlicht sein (im Strukturbaum blau).
 
 
 **Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?**
