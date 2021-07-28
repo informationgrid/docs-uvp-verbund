@@ -4,9 +4,11 @@ Häufig gestellte Fragen
 
 **Wann trat die Novellierung des UVP-Gesetzes in Kraft?**
 
-  Am 07. Juli 2017 passierte das Gesetz den Bundesrat.
-  Am 28. Juli 2017 wurde das Gesetz im Bundesgesetzblatt veröffentlicht.
-  Am 29. Juli 2017 trat das Gesetz in Kraft.
+    - Am 07. Juli 2017 passierte das Gesetz den Bundesrat.
+    - Am 28. Juli 2017 wurde das Gesetz im Bundesgesetzblatt veröffentlicht.
+    - Am 29. Juli 2017 trat das Gesetz in Kraft.
+  
+  
   Weitere Informationen bietet die Internetseite Infozentrum UmweltWirtschaft des Bayrischen Landesamtes für Umwelt: https://www.umweltpakt.bayern.de/abfall/recht/bund/9/uvpg-gesetz-ueber-umweltvertraeglichkeitspruefung
 
 
