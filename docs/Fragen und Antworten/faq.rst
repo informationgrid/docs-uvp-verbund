@@ -40,12 +40,12 @@ Häufig gestellte Fragen
 
 **Wann wird ein Verfahren in der EU Statistik gezählt?**
 
-  *1. Das Verfahren muss abgeschlossen sein.*
-  *2. Das Verfahren muss veröffentlicht sein (im Strukturbaum Blau).*
+  1.*Das Verfahren muss abgeschlossen sein.*
+  2.*Das Verfahren muss veröffentlicht sein (im Strukturbaum Blau).*
 
 
 **Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?**
 
-  *1. Nutzen Sie die Erfassungsanleitung und lesen Sie sich die entsprechenden Punkte durch.*
-  *2. Fragen Sie Ihren Katalog-Administrator im Bundesland.*
-  *3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist Ihre Frage so dokumentiert und kann so nicht verloren gehen.*
+  1.*Nutzen Sie die Erfassungsanleitung und lesen Sie sich die entsprechenden Punkte durch.*
+  2.*Fragen Sie Ihren Katalog-Administrator im Bundesland.*
+  3.*Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist Ihre Frage so dokumentiert und kann so nicht verloren gehen.*
