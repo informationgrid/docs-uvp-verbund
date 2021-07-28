@@ -5,7 +5,15 @@ Häufig gestellte Fragen
 **Was bedeutet "Abschließendes Speichern und Veröffentlichen"?**
 
   Mit "Abschließendes Speichern und Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Die Nutzer des UVP-Portals können dann das Verfahren einsehen.
+  
+**Gibt es im UVP-Editor eine Vorschaufunktion?**
 
+  Nein, es existiert keine Vorschaufunktion. Sie können aber die Druckfunktion für die Kontrolle der eingegebenen Daten nutzen. 
+
+**Wie schnell sind veröffentlichte Adressen und Verfahren in der Portalsuche recherchierbar?**
+
+  Die Indexierung der neu angelegten Adressen und Verfahren erfolgt "on the fly".
+  Das heißt, dass die Daten sofort nach der Veröffentlichung in der Portalsuche recherchierbar sind.
 
 **Lassen sich einzelne Verfahrensschritte löschen und müssen vorher die Dokumente entfernt werden?**
 
