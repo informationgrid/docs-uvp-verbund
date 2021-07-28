@@ -19,7 +19,7 @@ Häufig gestellte Fragen
 
 **Werden die Dokumente nach dem Löschen noch im Portal gespeichert?**
 
-  *Wenn Dokumente gelöscht werden, bleiben als Nachweis, dass sie im Portal waren, in der Datenbank erhalten.*
+  *Wenn Dokumente gelöscht werden bleiben sie als Nachweis, dass sie im Portal waren, in der Datenbank erhalten.*
 
 
 **Wird dokumentiert ob ein Verfahren zu einem bestimmten Zeitpunkt veröffentlicht war?**
