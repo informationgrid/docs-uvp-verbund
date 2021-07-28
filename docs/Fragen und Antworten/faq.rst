@@ -38,7 +38,7 @@ Häufig gestellte Fragen
   - Variante 2: Werden die Verfahren erfasst um sie im Portal anzuzeigen, muss der Titel, die Beschreibung, der Raumbezug, ...*
   
 
-**Wann wird ein Verfahren in der EU Statistik gezählt?**
+**Wann wird ein Verfahren für die EU Statistik gezählt?**
 
   *1. Das Verfahren muss abgeschlossen sein.
    2. Das Verfahren muss veröffentlicht sein (im Strukturbaum Blau).*
