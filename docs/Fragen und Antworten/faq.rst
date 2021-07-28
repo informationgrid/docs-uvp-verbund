@@ -48,7 +48,7 @@ Häufig gestellte Fragen
   Das legen die Bundesländer für sich fest, fragen sie Ihren Ansprechpartner in Ihren Bundesland.
   
 
-**Was muss bei der Erfassung von negativen Vorprüfungen erfasst werden?**
+**Was muss bei der Erfassung von negativen Vorprüfungen in des Formular eingetragen werden?**
 
   - Variante 1: Werden die Verfahren nur für die EU Zählung erfasst, muss der Titel,...
   - Variante 2: Werden die Verfahren erfasst um sie im Portal anzuzeigen, muss der Titel, die Beschreibung, der Raumbezug, ...*
