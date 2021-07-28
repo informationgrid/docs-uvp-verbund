@@ -52,6 +52,8 @@ Häufig gestellte Fragen
 
 **Was muss bei der Erfassung von negativen Vorprüfungen in des Formular eingetragen werden?**
 
+  Das ist Bundeslandabhängig.
+
   - Variante 1: Werden die negativen Vorprüfungen nur für die EU Zählung erfasst, müssen: der Titel, die Kontaktdaten der federführenden Dienststelle und das Datum der Entscheidung erfasst werden. Die Vorprüfung erscheint nicht im UVP-Portal (nicht in  der Suche und nicht in der Karte).
   
   - Variante 2: Werden die negativen Vorprüfungen erfasst um sie im Portal und in der Karte anzuzeigen, müssen: der Titel, die allgemeine Vorhabenbeschreibung, die Kontaktdaten der federführenden Stelle, der Raumbezug, die UVP-Nummer, das Datum der Entscheidung und das Ergebnis der UVP-Vorprüfung (Dokument) erfasst werden.*
