@@ -14,12 +14,13 @@ Häufig gestellte Fragen
   
 - **Was passiert mit Verfahren, die abgeschlossen sind.**
 
-  *Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Dokumente können entfernt werden, bis auf ...
+  *Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Dokumente können entfernt werden, bis auf ...*
   
 
 - **Werden die Dokumente nach dem Löschen noch im Portal gespeichert?**
 
   *Wenn Dokumente gelöscht werden, bleiben als Nachweis, dass sie im Portal waren, in der Datenbank erhalten.*
+
 
 - **Wird dokumentiert ob ein Verfahren zu einem bestimmten Zeitpunkt veröffentlicht war?**
 
@@ -41,7 +42,8 @@ Häufig gestellte Fragen
 
   *1. Das Verfahren muss abgeschlossen sein.*
   *2. Das Verfahren muss veröffentlicht sein (im Strukturbaum Blau).*
-  
+
+
 - **Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?**
 
   *1. Nutzen Sie die Erfassungsanleitung und lesen Sie sich die entsprechenden Punkte durch.*
