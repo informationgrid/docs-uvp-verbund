@@ -32,7 +32,7 @@ Häufig gestellte Fragen
   
 **Was passiert mit Verfahren die abgeschlossen sind?**
 
-  Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Dokumente können entfernt werden, bis auf ...
+  Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Verfahrensschritte "Öffentliche Auslegung" und "Erörterungstermin" können gelöscht werden, der Verfahrensschritt "Entscheidung über die Zulassung" darf nicht gelöscht werden, die Dokumente müssen erhalten bleiben, damit das Verfahren für die EU Statistik gezählt werden kann.
   
 
 **Werden die Dokumente nach dem Löschen noch im Portal gespeichert?**
@@ -52,14 +52,15 @@ Häufig gestellte Fragen
 
 **Was muss bei der Erfassung von negativen Vorprüfungen in des Formular eingetragen werden?**
 
-  - Variante 1: Werden die Verfahren nur für die EU Zählung erfasst, muss der Titel,...
-  - Variante 2: Werden die Verfahren erfasst um sie im Portal anzuzeigen, muss der Titel, die Beschreibung, der Raumbezug, ...*
+  - Variante 1: Werden die negativen Vorprüfungen nur für die EU Zählung erfasst, müssen: der Titel, die Kontaktdaten der federführenden Dienststelle und das Datum der Entscheidung erfasst werden. Die Vorprüfung erscheint nicht im UVP-Portal (nicht in  der Suche und nicht in der Karte).
+  
+  - Variante 2: Werden die negativen Vorprüfungen erfasst um sie im Portal und in der Karte anzuzeigen, müssen: der Titel, die allgemeine Vorhabenbeschreibung, die Kontaktdaten der federführenden Stelle, der Raumbezug, die UVP-Nummer, das Datum der Entscheidung und das Ergebnis der UVP-Vorprüfung (Dokument) erfasst werden.*
   
 
 **Wann wird ein Verfahren für die EU Statistik gezählt?**
 
-   1. Das Verfahren muss abgeschlossen sein.
-   2. Das Verfahren muss veröffentlicht sein (im Strukturbaum blau).
+   1. Das Verfahren muss abgeschlossen, der Verfahrensschritt "Zulassungsentscheidung" muss angelegt sein.
+   2. Das Verfahren muss veröffentlicht sein - im Menü: "Abschließendes Speichern & Veröffentlichen" (das Symbol erscheint im Strukturbaum nur in blau).
 
 
 **Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?**
