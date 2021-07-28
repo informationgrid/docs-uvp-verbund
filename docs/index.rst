@@ -44,5 +44,11 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    hilfe-bebauungsplaene-statistik/hilfe-erfassung
    hilfe-bebauungsplaene-statistik/bebauungsplandaten
    hilfe-bebauungsplaene-statistik/eu-statistik
+   
+   .. toctree::
+   :maxdepth: 2
+   :caption: Fragen und Antworten 
+   
+   Fragen und Antworten/faq
 
 
