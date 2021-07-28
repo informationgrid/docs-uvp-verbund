@@ -12,7 +12,7 @@ Häufig gestellte Fragen
   *Die Verfahrensschritte lassen sich einzeln löschen, die Dokumente müssen vorher nicht entfernt werden.*
  
   
-**Was passiert mit Verfahren, die abgeschlossen sind.**
+**Was passiert mit Verfahren, die abgeschlossen sind?**
 
   *Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Dokumente können entfernt werden, bis auf ...*
   
