@@ -9,7 +9,7 @@ Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgen
 .. image:: ../img/anmeldung.png
    :width: 80
 
-Abb.: UVP-Portal Anmeldung
+Abb.: UVP-Portal - Anmeldung
 
 Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
 *REGISTRIEREN*. 
@@ -23,7 +23,7 @@ Wird ein neues Passwort angelegt, erscheint die Passwortprüfung. Die Passwortpr
 .. image:: ../img/anmeldeformular.png
    :width: 80
 
-Abb.: UVP-Portal Anmeldeformular
+Abb.: UVP-Portal - Anmeldeformular
 
 Verwenden sie möglichst starke Passwörter!
 Für die Vergabe von Passwörtern können Sie verwenden: große und kleine Buchstaben, Zahlen und Sonderzeichen. Verzichten sollten Sie auf Umlaute und Leerzeichen.
