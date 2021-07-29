@@ -14,6 +14,11 @@ Abb.: UVP-Portal - Anmeldung
 Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
 *REGISTRIEREN*. 
 
+.. image:: ../img/anmeldeformular.png
+   :width: 500
+
+Abb.: UVP-Portal - Anmeldeformular für die Registrierung
+
 In dem sich öffnenden Fenster müssen mindestens alle Pflichtfelder (Kennzeichnung durch ein Sternchen) ausgefüllt werden.
 Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei wählen. Ihr Benutzername darf jedoch weder Sonder- noch Leerzeichen beinhalten. Bei Ihrer Passwortwahl verwenden Sie bitte eine Kombination aus Buchstaben, Zahlen und Sonderzeichen, um den unerlaubten Zugriff zu erschweren.
 
