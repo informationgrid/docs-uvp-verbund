@@ -23,7 +23,7 @@ Wird ein neues Passwort angelegt, erscheint die Passwortprüfung. Die Passwortpr
 .. image:: ../img/passwort.png
    :width: 500
 
-Abb.: UVP-Portal - Anmeldeformular
+Abb.: UVP-Portal - Passwortprüfung
 
 Verwenden sie möglichst starke Passwörter!
 Für die Vergabe von Passwörtern können Sie verwenden: große und kleine Buchstaben, Zahlen und Sonderzeichen. Verzichten sollten Sie auf Umlaute und Leerzeichen.
