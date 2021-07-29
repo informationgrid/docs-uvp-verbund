@@ -19,6 +19,8 @@ Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei
 Wird ein neues Passwort angelegt, erscheint die Passwortprüfung. Die Passwortprüfung enthält einen Balken, der seine Farbe von Rot bis Grün verändert, je nach Stärke des verwendeten Passwortes. Zusätzlich werden folgende Wörter angezeigt: Ganz Schlecht, Schlecht, Schwach, Gut und Stark.
 
 .. image:: ../img/anmeldeformular.png
+:scale: 50
+
 Abb.: UVP-Portal Anmeldeformular
 
 Verwenden sie möglichst starke Passwörter!
