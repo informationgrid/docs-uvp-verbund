@@ -89,7 +89,7 @@ Passwort vergessen
 1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
 2. Klick auf den Link *Passwort vergessen?*
 
-.. image:: ../img/passwort-vergessen.png
+.. image:: ../img/link-passwort-vergessen.png
    :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
@@ -97,15 +97,24 @@ Abb.: UVP-Portal - Passwort vergessen?
 3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
 4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
 
-Abb.:
+.. image:: ../img/passwort-vergessen.png
+   :width: 500
+
+Abb.: UVP-Portal - Passwort vergessen?
 
 5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Passwort versendet Ihr neues Passwort wurde erfolgreich an Sie versendet.*
 
-Abb.:
+.. image:: ../img/passwort-vergessen-mailadresse.png
+   :width: 500
+
+Abb.: UVP-Portal - Bestätigung Passwort versendet
 
 6. Es erfolgt eine automatische E-Mail aus dem System mit Betreff *UVP: Ihre Anfrage* Hier auf die URL unterhalb von *Sie können Ihr Passwort über folgende URL ändern:* klicken.
 
-Abb.:
+.. image:: ../img/bestätigung-neues-passwort.png
+   :width: 500
+
+Abb.: UVP-Portal - Bestätigung Passwort versendet
 
 7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
 
