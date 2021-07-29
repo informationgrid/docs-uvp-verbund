@@ -7,7 +7,7 @@ Zugang zum UVP-Editor
 Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
 .. image:: ../img/anmeldung.png
-Abb.:
+Abb.: UVP-Portal Anmeldung
 
 Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
 *REGISTRIEREN*. 
@@ -18,7 +18,8 @@ Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei
 **Hinweis zur Passwortprüfung:**
 Wird ein neues Passwort angelegt, erscheint die Passwortprüfung. Die Passwortprüfung enthält einen Balken, der seine Farbe von Rot bis Grün verändert, je nach Stärke des verwendeten Passwortes. Zusätzlich werden folgende Wörter angezeigt: Ganz Schlecht, Schlecht, Schwach, Gut und Stark.
 
-Abb.:
+.. image:: ../img/anmeldeformular.png
+Abb.: UVP-Portal Anmeldeformular
 
 Verwenden sie möglichst starke Passwörter!
 Für die Vergabe von Passwörtern können Sie verwenden: große und kleine Buchstaben, Zahlen und Sonderzeichen. Verzichten sollten Sie auf Umlaute und Leerzeichen.
