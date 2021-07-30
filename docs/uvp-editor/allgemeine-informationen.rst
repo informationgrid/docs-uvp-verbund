@@ -122,6 +122,11 @@ Abb.:
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
+.. csv-table::
+    :widths: 50 300
+
+    Symbol , Bezeichnung
+
 - Neu anlegen (Verfahren / Adressen)
 - Neuen Ordner anlegen
 - Vorschau und Druckansicht 
