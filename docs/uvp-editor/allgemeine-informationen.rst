@@ -70,7 +70,7 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 +--------+----------------------------------------------------+
 | Symbol | Verfahrenstyp                                      |
 +========+====================================================+
-|.. image:: ../img/editor/icons/uvp_41x41_ordner.png | Ordner |
+| .. image:: ../img/editor/icons/uvp_41x41_ordner.png | Ordner |
 +--------+----------------------------------------------------+
 - 
 - Zulassungsverfahren
