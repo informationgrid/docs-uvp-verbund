@@ -1,4 +1,4 @@
-Upload von BLP Daten
+Upload von BLP-Daten
 =====================
 
 UVP-Testsystem: https://test.uvp-verbund.de/iplug-admin-blp-xx
