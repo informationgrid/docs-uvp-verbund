@@ -67,6 +67,13 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 
 **Verfahren**
 
+.. csv-table::
+    :widths: 50 300
+
+    Symbol , Bezeichnung
+    image:: ../img/editor/icons/uvp_41x41_ordner.png , Ordner
+
+
 .. image:: ../img/editor/icons/uvp_41x41_ordner.png
    :width: 30
 
