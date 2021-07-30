@@ -83,7 +83,6 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 - Ausländische Vorhaben
 
 .. image:: ../img/editor/icons/uvp_41x41_ordner.png
-   :border: 1
 
 **Adressen**
 - Institution
