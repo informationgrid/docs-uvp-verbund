@@ -115,6 +115,19 @@ Bearbeitungsstand
 
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstand an.
 
+.. csv-table::
+        :widths: 50 50  50
+
+        Symbol , Farbe , Beschreibung
+        .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , blau , Verfahren bzw. Adresse ist veröffentlicht
+        .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png , rot , Verfahren bzw. Adresse ist in Bearbeitung
+		.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot.png , blau/rot , Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version.
+
+
+
+
+
+
 .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png
    :width: 30
 
@@ -128,7 +141,7 @@ Abb.: Rot - Verfahren bzw. Adresse ist in Bearbeitung
 .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot.png
    :width: 30
 
-Abb.: Blau / Rot - Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version
+Abb.: Blau / Rot - Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version.
 
 
 Ausgegraute Verfahren/Adressen im Strukturbaum
