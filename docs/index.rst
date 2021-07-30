@@ -55,6 +55,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :maxdepth: 2
    :caption: Administration 
    
+   administration/ige-uvp_katalogeinstellungen.rst
    administration/bauleitplanung_upload.rst
 
 
