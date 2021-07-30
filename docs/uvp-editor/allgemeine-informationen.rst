@@ -80,7 +80,7 @@ Abb.: Zulassungsverfahren
 .. image:: ../img/editor/icons/uvp_40x40_linie-blau.png
    :width: 30
    
-Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
+Abb.: Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
 
 .. image:: ../img/editor/icons/uvp_40x40_raumordnung-blau.png
    :width: 30
