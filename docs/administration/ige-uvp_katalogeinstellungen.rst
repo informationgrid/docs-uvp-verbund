@@ -2,6 +2,6 @@ Katalogeinstellungen
 ====================
 
 .. image:: ../img/administration/ige-uvp_katalogeinstellungen.png
-   :width: 500
+   :width: 700
 
 Abb.: Katalogeinstellungen UVP
