@@ -131,7 +131,7 @@ Abb.: Blau - Verfahren bzw. Adresse ist veröffentlicht
 
 Abb.: Rot - Verfahren bzw. Adresse ist in Bearbeitung
 
-.. image:: ../img/editor/icons/uvp_40x40_person_blau-rot.png
+.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot.png
    :width: 30
 
 Abb.: Blau / Rot - Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version
