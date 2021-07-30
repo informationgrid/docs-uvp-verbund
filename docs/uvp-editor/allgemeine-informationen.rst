@@ -101,7 +101,7 @@ Abb.: Ausländische Vorhaben
 **Adressen**
 
 .. csv-table::
-        :widths: 50 50 50
+        :widths: 50 50
 
         Art der Einträge , Eigenschaft 1
         .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
