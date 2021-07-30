@@ -25,7 +25,7 @@ Abb.: UVP-Editor - Dashboard - Meine Datensätze
 
 Im Bereich „Alle Datensätze“ gibt es nur die Tabellen, in denen die Verfahren und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die so angezeigten Verfahren bzw. Adressen sind mit Links hinterlegt, so dass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. 
 
-.. image:: ../img/dashboard_02.png
+.. image:: ../img/statistik/dashboard_02.png
    :width: 700
    
 Abb.: UVP-Editor - Dashboard - Alle Datensätze
@@ -34,7 +34,10 @@ Abb.: UVP-Editor - Dashboard - Alle Datensätze
 Aufbau der Benutzeroberfläche
 ------------------------------
 
-Abb.:
+.. image:: ../img/editor/ige-uvp_benutzeroberflaeche_02.png
+   :width: 500
+   
+Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
 
 
 Strukturbaum
@@ -42,11 +45,17 @@ Strukturbaum
 
 Der UVP-Editor verfügt über einen Strukturbaum, den Sie über den Menüpunkt *Hierarchie & Erfassung* aufrufen. Er unterteilt sich in Verfahren und Adressen:
 
-Abb.: 
+.. image:: ../img/editor/ige-uvp_strukturbaum_02.png
+   :width: 300
+   
+Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
 
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen.
 
-Abb.:
+.. image:: ../img/editor/ige-uvp_knoten.png
+   :width: 300
+   
+Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
 
 
 Icons im Strukturbaum
@@ -57,7 +66,11 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 **Hinweis:** *Die blauen und roten Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
 
 **Verfahren**
-- Ordner
+
++--------+-----------------------------------------------------------------------------------------------+
+|  .. image:: ../img/editor/uvp_41x41_ordner.png|Ordner                                                    |
++--------+-----------------------------------------------------------------------------------------------+
+- 
 - Zulassungsverfahren
 - Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
 - Vorgelagerte Verfahren - Raumordnungsverfahren nach ROG mit UVP
