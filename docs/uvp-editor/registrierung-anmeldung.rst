@@ -6,7 +6,7 @@ Zugang zum UVP-Editor
 
 Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
-.. image:: ../img/portal/anmeldung.png
+.. image:: ../img/portal/ige-uvp_anmeldung.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldung
@@ -14,7 +14,7 @@ Abb.: UVP-Portal - Anmeldung
 Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
 *REGISTRIEREN*. 
 
-.. image:: ../img/portal/anmeldeformular.png
+.. image:: ../img/portal/ige-uvp_anmeldeformular.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldeformular für die Registrierung
@@ -25,7 +25,7 @@ Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei
 **Hinweis zur Passwortprüfung:**
 Wird ein neues Passwort angelegt, erscheint die Passwortprüfung. Die Passwortprüfung enthält einen Balken, der seine Farbe von Rot bis Grün verändert, je nach Stärke des verwendeten Passwortes. Zusätzlich werden folgende Wörter angezeigt: Ganz Schlecht, Schlecht, Schwach, Gut und Stark.
 
-.. image:: ../img/portal/passwort.png
+.. image:: ../img/portal/ige-uvp_passwort.png
    :width: 500
 
 Abb.: UVP-Portal - Passwortprüfung
@@ -39,7 +39,7 @@ Sie bekommen folgende Nachricht im Browserfenster angezeigt:
 
 *Ihr Account wurde erfolgreich angelegt. Zur abschließenden Freischaltung wurde Ihnen eine Email zugesendet. Bitte folgen Sie den darin angegebenen Anweisungen.*
 
-.. image:: ../img/portal/account-angelegt.png
+.. image:: ../img/portal/ige-uvp_account-angelegt.png
    :width: 500
 Abb.: UVP-Portal - Account erfolgreich angelegt
 
@@ -63,14 +63,14 @@ Anmeldung
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich im UVP-Portal anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "ANMELDEN INTERNER BEREICH" ab.
 
-.. image:: ../img/portal/anmeldung.png
+.. image:: ../img/portal/ige-uvp_anmeldung.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldung
 
 Im Unterschied zu einem Nutzer ohne Zugang zum UVP-Editor, finden Sie nach der Anmeldung im Menü den Punkt "UVP-KATALOG". Diesen Menüpunkt sehen Sie immer nur dann, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum UVP-Editor. 
 
-.. image:: ../img/portal/uvp-katalog-öffnen.png
+.. image:: ../img/portal/ige-uvp_uvp-katalog-öffnen.png
    :width: 500
 
 Abb.: UVP-Portal - UVP-Katalog öffnen
@@ -78,7 +78,7 @@ Abb.: UVP-Portal - UVP-Katalog öffnen
 Durch einen Klick auf den Menüpunkt "UVP KATALOG" und anschließend auf den Button "LOGIN IGE" gelangen Sie in die Datenerfassungskomponente (UVP-Editor). Der UVP-Editor öffnet sich in einer neuen Registerkarte Ihres Browsers. 
 
 
-.. image:: ../img/portal/login-ige.png
+.. image:: ../img/portal/ige-uvp_login-ige.png
    :width: 500
 
 Abb.: UVP-Portal - LOGIN IGE
@@ -89,7 +89,7 @@ Passwort vergessen
 1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
 2. Klick auf den Link *Passwort vergessen?*
 
-.. image:: ../img/portal/link-passwort-vergessen.png
+.. image:: ../img/portal/ige-uvp_link-passwort-vergessen.png
    :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
@@ -97,21 +97,21 @@ Abb.: UVP-Portal - Passwort vergessen?
 3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
 4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
 
-.. image:: ../img/portal/passwort-vergessen.png
+.. image:: ../img/portal/ige-uvp_passwort-vergessen.png
    :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
 
 5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Passwort versendet Ihr neues Passwort wurde erfolgreich an Sie versendet.*
 
-.. image:: ../img/portal/passwort-vergessen-mailadresse.png
+.. image:: ../img/portal/ige-uvp_passwort-vergessen-mailadresse.png
    :width: 500
 
 Abb.: UVP-Portal - Bestätigung Passwort versendet
 
 6. Es erfolgt eine automatische E-Mail aus dem System mit Betreff *UVP: Ihre Anfrage* Hier auf die URL unterhalb von *Sie können Ihr Passwort über folgende URL ändern:* klicken.
 
-.. image:: ../img/portal/bestätigung-neues-passwort.png
+.. image:: ../img/portal/ige-uvp_bestätigung-neues-passwort.png
    :width: 500
 
 Abb.: UVP-Portal - Bestätigung Passwort versendet
@@ -130,7 +130,7 @@ Benutzername vergessen
 
 Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
 
-.. image:: ../img/portal/kontaktformular.png
+.. image:: ../img/portal/ige-uvp_kontaktformular.png
    :width: 500
 
 Abb.: UVP-Portal - Kontaktformular
