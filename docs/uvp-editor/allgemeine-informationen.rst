@@ -101,12 +101,12 @@ Abb.: Ausländische Vorhaben
 **Adressen**
 
 .. csv-table::
-        :widths: 50 50
+    :widths: 50 50
 
-        Symbol , Bezeichnung
-        .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
-        .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit
-		.. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
+    Symbol , Bezeichnung
+    .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
+    .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit
+    .. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
 
 
 
@@ -116,12 +116,12 @@ Bearbeitungsstand
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstand an.
 
 .. csv-table::
-        :widths: 50 50  300
+    :widths: 50 50 300
 
-        Symbol , Farbe , Beschreibung
-        .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , blau , Verfahren bzw. Adresse ist veröffentlicht
-        .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png , rot , Verfahren bzw. Adresse ist in Bearbeitung
-		.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot.png , blau/rot , Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version.
+    Symbol , Farbe , Beschreibung
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , blau , Verfahren bzw. Adresse ist veröffentlicht
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png , rot , Verfahren bzw. Adresse ist in Bearbeitung
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot.png , blau/rot , Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version.
 
 
 
