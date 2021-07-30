@@ -117,7 +117,7 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 .. csv-table::
-    :widths: 50 50 500
+    :widths: 50 70 500
 
     Symbol , Farbe , Beschreibung
     .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , blau , Verfahren bzw.Adresse ist veröffentlicht
