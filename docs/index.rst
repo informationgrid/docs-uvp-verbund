@@ -41,14 +41,20 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :maxdepth: 2
    :caption: Hilfe, Bebauungspläne & Statistik  
    
-   hilfe-bebauungsplaene-statistik/hilfe-erfassung
-   hilfe-bebauungsplaene-statistik/bebauungsplandaten
-   hilfe-bebauungsplaene-statistik/eu-statistik
+   hilfe/hilfe-erfassung.rst
+   bauleitplanung/bauleitplanung_erfassung.rst
+   statistik/eu-statistik.rst
    
 .. toctree::
    :maxdepth: 2
    :caption: Fragen und Antworten 
    
-   Fragen und Antworten/faq
+   faq/faq.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Administration 
+   
+   administration/bauleitplanung_upload.rst
 
 
