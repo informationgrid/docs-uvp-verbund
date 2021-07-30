@@ -97,7 +97,6 @@ Abb.: Vorprüfung, negativ
    
 Abb.: Ausländische Vorhaben
 
-.. code-block:: rst
 
     .. csv-table::
         :widths: 50 50 50
