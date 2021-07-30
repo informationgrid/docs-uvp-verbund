@@ -70,7 +70,7 @@ Abb.: UVP-Portal - Anmeldung
 
 Im Unterschied zu einem Nutzer ohne Zugang zum UVP-Editor, finden Sie nach der Anmeldung im Menü den Punkt "UVP-KATALOG". Diesen Menüpunkt sehen Sie immer nur dann, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum UVP-Editor. 
 
-.. image:: ../img/portal/uvp-portal_uvp-katalog-öffnen_02.png
+.. image:: ../img/portal/uvp-portal_katalog-öffnen_02.png
    :width: 500
 
 Abb.: UVP-Portal - UVP-Katalog öffnen
