@@ -102,16 +102,17 @@ Abb.: Ausländische Vorhaben
         :widths: 50 50 50
 
         Art der Einträge , Eigenschaft 1 , Eigenschaft 2
-        .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution , rot
-        Gegenstand 2 , rund , blau
+        .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
+        .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , rund , Einheit
+		.. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
 
-+------------------+---------------+---------------+
-| Art der EintrÃ¤ge | Eigenschaft 1 | Eigenschaft 2 |
-+==================+===============+===============+
-| Gegenstand 1     | eckig         | rot           |
-+------------------+---------------+---------------+
-| Gegenstand 2     | rund          | blau          |
-+------------------+---------------+---------------+
++------------------+---------------+
+| Art der Einträge | Eigenschaft 1 |
++==================+===============+
+| Gegenstand 1     | eckig         |
++------------------+---------------+
+| Gegenstand 2     | rund          |
++------------------+---------------+
 
 
 **Adressen**
