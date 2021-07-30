@@ -18,14 +18,14 @@ Alle Verfahren des Benutzers, die bereits veröffentlicht sind.
 3. Adressen in Bearbeitung
 Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Adressen, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Adressen, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
 
-.. image:: ../img/statistik/dashboard_01.png
+.. image:: ../img/statistik/statistik_dashboard_01.png
    :width: 700
    
 Abb.: UVP-Editor - Dashboard - Meine Datensätze
 
 Im Bereich „Alle Datensätze“ gibt es nur die Tabellen, in denen die Verfahren und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die so angezeigten Verfahren bzw. Adressen sind mit Links hinterlegt, so dass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. 
 
-.. image:: ../img/statistik/dashboard_02.png
+.. image:: ../img/statistik/statistik_dashboard_02.png
    :width: 700
    
 Abb.: UVP-Editor - Dashboard - Alle Datensätze
