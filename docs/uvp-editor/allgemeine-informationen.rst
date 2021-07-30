@@ -119,11 +119,11 @@ Abb.: Person
    +-----------------------+-----------------------+
    | Symbol                | Bezeichnung           |
    +=======================+=======================+
-   | .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png   | Institution            |
+   | .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png   | Institution |
    +-----------------------+-----------------------+
-   | .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png  | Einheit                  |
+   | .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png  | Einheit |
    +-----------------------+-----------------------+
-   | .. image:: ../img/editor/icons/uvp_40x40_person_blau.png   | Person            |
+   | .. image:: ../img/editor/icons/uvp_40x40_person_blau.png   | Person |
    +-----------------------+-----------------------+
 
 
