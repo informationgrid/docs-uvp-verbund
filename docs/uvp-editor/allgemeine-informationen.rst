@@ -108,7 +108,8 @@ Abb.: Ausländische Vorhaben
 +------------------+---------------+---------------+
 | Art der EintrÃ¤ge | Eigenschaft 1 | Eigenschaft 2 |
 +==================+===============+===============+
-| Gegenstand 1     | eckig         | rot           |
+| .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png
+   :width: 30    | Institution        | rot           |
 +------------------+---------------+---------------+
 | Gegenstand 2     | rund          | blau          |
 +------------------+---------------+---------------+
