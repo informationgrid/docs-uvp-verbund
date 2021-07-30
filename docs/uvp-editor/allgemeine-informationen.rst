@@ -119,7 +119,7 @@ Toolbar
 Die Toolbar hat folgenden grundlegenden Aufbau: 
 
 .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png
-   :width: 300
+   :width: 30
    
 Abb.: Toolbar (Symbolleiste)
 
