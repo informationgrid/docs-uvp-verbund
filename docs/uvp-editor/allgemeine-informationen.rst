@@ -110,8 +110,8 @@ Abb.: Institution
 
 Abb.: Einheit
 
-.. image:: ../img/editor/icons/uvp_40x40_person_blau.png
-   :width: 30
+    .. image:: ../img/editor/icons/uvp_40x40_person_blau.png
+       :width: 30
 
 Abb.: Person
 
