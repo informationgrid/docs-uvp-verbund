@@ -4,8 +4,8 @@ Upload von BLP-Daten
 UVP-Testsystem: https://test.uvp-verbund.de/iplug-admin-blp-xx
 (xx- durch das Kürzel des Bundeslandes ersetzten)
 
-- Der Zugang zu der iPlug Admin GUI ist mit Benutzer "admin" und dem kommunizierten Passwort geschützt.
-- In der Anmeldemaske bitte mit Name "admin", Passwort "admin" anmelden.
+- Der Zugang zu der iPlug Admin GUI ist mit Benutzer "..." und dem kommunizierten Passwort geschützt.
+- In der Anmeldemaske bitte mit Name "...", Passwort "..." anmelden.
 
 **Upload der BLP-Excel Datei**
 
