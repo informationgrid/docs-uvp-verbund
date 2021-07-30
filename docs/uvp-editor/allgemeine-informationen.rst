@@ -97,6 +97,15 @@ Abb.: Vorprüfung, negativ
    
 Abb.: Ausländische Vorhaben
 
+.. code-block:: rst
+
+    .. csv-table::
+        :widths: 50 50 50
+
+        Art der EintrÃ¤ge , Eigenschaft 1 , Eigenschaft 2
+        Gegenstand 1 , eckig , rot
+        Gegenstand 2 , rund , blau
+
     +------------------+---------------+---------------+
     | Art der EintrÃ¤ge | Eigenschaft 1 | Eigenschaft 2 |
     +==================+===============+===============+
