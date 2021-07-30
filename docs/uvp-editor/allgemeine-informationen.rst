@@ -67,27 +67,53 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 
 **Verfahren**
 
-+--------+----------------------------------------------------+
-| Symbol | Verfahrenstyp                                      |
-+========+====================================================+
-
-
-.. image:: ../img/editor/icons/uvp_41x41_ordner.png | Ordner |
-
-+--------+----------------------------------------------------+
-- 
-- Zulassungsverfahren
-- Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
-- Vorgelagerte Verfahren - Raumordnungsverfahren nach ROG mit UVP
-- Vorprüfung, negativ
-- Ausländische Vorhaben
-
 .. image:: ../img/editor/icons/uvp_41x41_ordner.png
+   :width: 10
+
+Abb.: Ordner
+
+.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png
+   :width: 10
+   
+Abb.: Zulassungsverfahren
+
+.. image:: ../img/editor/icons/uvp_40x40_linie-blau.png
+   :width: 10
+   
+Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
+
+.. image:: ../img/editor/icons/uvp_40x40_raumordnung-blau.png
+   :width: 10
+   
+Abb.: Vorgelagerte Verfahren - Raumordnungsverfahren nach ROG mit UVP
+
+.. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-blau.png
+   :width: 10
+   
+Abb.: Vorprüfung, negativ
+
+.. image:: ../img/editor/icons/uvp_40x40_ausland-blau.png
+   :width: 10
+   
+Abb.: Ausländische Vorhaben
+
 
 **Adressen**
-- Institution
-- Einheit
-- Person
+
+.. image:: ../img/editor/icons/uvp_40x40_institution_blau.png
+   :width: 10
+
+Abb.: Institution
+
+.. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png
+   :width: 10
+
+Abb.: Einheit
+
+.. image:: ../img/editor/icons/uvp_40x40_person_blau.png
+   :width: 10
+
+Abb.: Person
 
 
 Bearbeitungsstand
@@ -95,9 +121,20 @@ Bearbeitungsstand
 
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstand an.
 
-- Blau - Verfahren bzw. Adresse ist veröffentlicht 
-- Rot - Verfahren bzw. Adresse ist in Bearbeitung
-- Blau / Rot - Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version
+.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png
+   :width: 10
+
+Abb.: Blau - Verfahren bzw. Adresse ist veröffentlicht 
+
+.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png
+   :width: 10
+
+Abb.: Rot - Verfahren bzw. Adresse ist in Bearbeitung
+
+.. image:: ../img/editor/icons/uvp_40x40_person_blau-rot.png
+   :width: 10
+
+Abb.: Blau / Rot - Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Verfahrens bzw. der Adresse und eine bearbeitete Version
 
 
 Ausgegraute Verfahren/Adressen im Strukturbaum
