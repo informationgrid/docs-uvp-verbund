@@ -6,7 +6,7 @@ Zugang zum UVP-Editor
 
 Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
-.. image:: ../img/portal/uvp-portal_anmeldung.png
+.. image:: ../img/portal/uvp-portal_anmeldung_01.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldung
@@ -14,7 +14,7 @@ Abb.: UVP-Portal - Anmeldung
 Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
 *REGISTRIEREN*. 
 
-.. image:: ../img/portal/uvp-portal_anmeldeformular.png
+.. image:: ../img/portal/uvp-portal_anmeldeformular_03.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldeformular für die Registrierung
@@ -63,14 +63,14 @@ Anmeldung
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich im UVP-Portal anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "ANMELDEN INTERNER BEREICH" ab.
 
-.. image:: ../img/portal/uvp-portal_anmeldung.png
+.. image:: ../img/portal/uvp-portal_anmeldung_01.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldung
 
 Im Unterschied zu einem Nutzer ohne Zugang zum UVP-Editor, finden Sie nach der Anmeldung im Menü den Punkt "UVP-KATALOG". Diesen Menüpunkt sehen Sie immer nur dann, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum UVP-Editor. 
 
-.. image:: ../img/portal/uvp-portal_uvp-katalog-öffnen.png
+.. image:: ../img/portal/uvp-portal_uvp-katalog-öffnen_02.png
    :width: 500
 
 Abb.: UVP-Portal - UVP-Katalog öffnen
@@ -78,7 +78,7 @@ Abb.: UVP-Portal - UVP-Katalog öffnen
 Durch einen Klick auf den Menüpunkt "UVP KATALOG" und anschließend auf den Button "LOGIN IGE" gelangen Sie in die Datenerfassungskomponente (UVP-Editor). Der UVP-Editor öffnet sich in einer neuen Registerkarte Ihres Browsers. 
 
 
-.. image:: ../img/portal/uvp-portal_login-ige.png
+.. image:: ../img/portal/uvp-portal_login-ige_01.png
    :width: 500
 
 Abb.: UVP-Portal - LOGIN IGE
