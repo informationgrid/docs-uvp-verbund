@@ -70,7 +70,7 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 +--------+----------------------------------------------------+
 | Symbol | Verfahrenstyp                                      |
 +========+====================================================+
-| .. image:: ../img/editor/icons/uvp_41x41_ordner.png | Ordner |
+| .. figure:: ../img/editor/icons/uvp_41x41_ordner.png | Ordner |
 +--------+----------------------------------------------------+
 - 
 - Zulassungsverfahren
@@ -78,6 +78,8 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 - Vorgelagerte Verfahren - Raumordnungsverfahren nach ROG mit UVP
 - Vorprüfung, negativ
 - Ausländische Vorhaben
+
+.. figure:: ../img/editor/icons/uvp_41x41_ordner.png
 
 **Adressen**
 - Institution
