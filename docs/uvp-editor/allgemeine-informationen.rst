@@ -98,53 +98,16 @@ Abb.: Vorprüfung, negativ
 Abb.: Ausländische Vorhaben
 
 
+**Adressen**
+
 .. csv-table::
         :widths: 50 50 50
 
         Art der Einträge , Eigenschaft 1 , Eigenschaft 2
         .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
-        .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , rund , Einheit
+        .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit
 		.. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
 
-+------------------+---------------+
-| Art der Einträge | Eigenschaft 1 |
-+==================+===============+
-| Gegenstand 1     | eckig         |
-+------------------+---------------+
-| Gegenstand 2     | rund          |
-+------------------+---------------+
-
-
-**Adressen**
-
-.. image:: ../img/editor/icons/uvp_40x40_institution_blau.png
-   :width: 30
-
-Abb.: Institution
-
-.. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png
-   :width: 30
-
-Abb.: Einheit
-
-.. image:: ../img/editor/icons/uvp_40x40_person_blau.png
-   :width: 30
-
-Abb.: Person
-
-.. code-block:: rst
-   +-----------------------+-----------------------+
-   | Symbol                | Bezeichnung           |
-   +=======================+=======================+
-   |.. image:: ../img/editor/icons/uvp_40x40_institution_blau.png | Institution |
-   |   :width: 30 ||
-   +-----------------------+-----------------------+
-   |.. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png | Einheit |
-   |   :width: 30 ||
-   +-----------------------+-----------------------+
-   |.. image:: ../img/editor/icons/uvp_40x40_person_blau.png | Person |
-   |   :width: 30 ||
-   +-----------------------+-----------------------+
 
 
 Bearbeitungsstand
