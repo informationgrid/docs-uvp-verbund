@@ -126,45 +126,45 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    , Neu anlegen (Verfahren / Adressen)
-    , Neuen Ordner anlegen
-    , Vorschau und Druckansicht 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Neu anlegen (Verfahren / Adressen)
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Neuen Ordner anlegen
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Vorschau und Druckansicht 
 
 .. csv-table::
     :widths: 50 300
 
-    , Verfahren / Adressen / Teilbaum ausschneiden 
-    , Verfahren / Adressen kopieren 
-    , Teilbäume kopieren 
-    , Einfügen (Verfahren / Adressen / Teilbaum)
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Verfahren / Adressen / Teilbaum ausschneiden 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Verfahren / Adressen kopieren 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Teilbäume kopieren 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Einfügen (Verfahren / Adressen / Teilbaum)
 	
 .. csv-table::
     :widths: 50 300
 
-    , Zwischenspeichern 
-    , Rückgängig 
-    , Änderungen am aktuellen Verfahren / Adresse verwerfen
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Zwischenspeichern 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Rückgängig 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Änderungen am aktuellen Verfahren / Adresse verwerfen
 
 .. csv-table::
     :widths: 50 300
  
-    , Abschließendes Speichern & Veröffentlichen 
-    , Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
-    , Änderungen anzeigen
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Abschließendes Speichern & Veröffentlichen 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Änderungen anzeigen
 	
 .. csv-table::
     :widths: 50 300
 
-    , Kommentar ansehen / hinzufügen 
-    , Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
-    , Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
-    , Alle Felder aufklappen
-    , Nur Pflichtfelder aufklappen
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Kommentar ansehen / hinzufügen 
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Alle Felder aufklappen
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Nur Pflichtfelder aufklappen
 	
 .. csv-table::
     :widths: 50 300
        
-    , Hilfe
+    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Hilfe
 
 
 Eingabefelder
