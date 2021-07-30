@@ -116,7 +116,7 @@ Bearbeitungsstand
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstand an.
 
 .. csv-table::
-        :widths: 50 50  50
+        :widths: 50 50  300
 
         Symbol , Farbe , Beschreibung
         .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , blau , Verfahren bzw. Adresse ist veröffentlicht
