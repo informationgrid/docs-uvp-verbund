@@ -116,18 +116,18 @@ Abb.: Einheit
 Abb.: Person
 
 
- +-----------------------+-----------------------+
- | Symbol                | Bezeichnung           |
- +=======================+=======================+
- | .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png | Institution |
- |    :width: 30 ||
- +-----------------------+-----------------------+
- | .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png | Einheit |
- |    :width: 30 ||
- +-----------------------+-----------------------+
- | .. image:: ../img/editor/icons/uvp_40x40_person_blau.png | Person |
- |    :width: 30 ||
- +-----------------------+-----------------------+
+   +-----------------------+-----------------------+
+   | Symbol                | Bezeichnung           |
+   +=======================+=======================+
+   | .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png | Institution |
+   |    :width: 30 ||
+   +-----------------------+-----------------------+
+   | .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png | Einheit |
+   |    :width: 30 ||
+   +-----------------------+-----------------------+
+   | .. image:: ../img/editor/icons/uvp_40x40_person_blau.png | Person |
+   |    :width: 30 ||
+   +-----------------------+-----------------------+
 
 
 Bearbeitungsstand
