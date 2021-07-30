@@ -97,6 +97,14 @@ Abb.: Vorprüfung, negativ
    
 Abb.: Ausländische Vorhaben
 
+    +------------------+---------------+---------------+
+    | Art der EintrÃ¤ge | Eigenschaft 1 | Eigenschaft 2 |
+    +==================+===============+===============+
+    | Gegenstand 1     | eckig         | rot           |
+    +------------------+---------------+---------------+
+    | Gegenstand 2     | rund          | blau          |
+    +------------------+---------------+---------------+
+
 
 **Adressen**
 
