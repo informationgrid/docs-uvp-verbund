@@ -81,7 +81,8 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 - Vorprüfung, negativ
 - Ausländische Vorhaben
 
-.. figure:: ../img/editor/icons/uvp_41x41_ordner.png
+.. image:: ../img/editor/icons/uvp_41x41_ordner.png
+   :border: 1
 
 **Adressen**
 - Institution
