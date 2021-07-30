@@ -103,7 +103,7 @@ Abb.: Ausländische Vorhaben
 .. csv-table::
         :widths: 50 50 50
 
-        Art der Einträge , Eigenschaft 1 , Eigenschaft 2
+        Art der Einträge , Eigenschaft 1
         .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
         .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit
 		.. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
