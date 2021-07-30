@@ -130,24 +130,39 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     , Neuen Ordner anlegen
     , Vorschau und Druckansicht 
 
+.. csv-table::
+    :widths: 50 300
+
     , Verfahren / Adressen / Teilbaum ausschneiden 
     , Verfahren / Adressen kopieren 
     , Teilbäume kopieren 
     , Einfügen (Verfahren / Adressen / Teilbaum)
 	
+.. csv-table::
+    :widths: 50 300
+
     , Zwischenspeichern 
     , Rückgängig 
     , Änderungen am aktuellen Verfahren / Adresse verwerfen
 
+.. csv-table::
+    :widths: 50 300
+ 
     , Abschließendes Speichern & Veröffentlichen 
     , Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
     , Änderungen anzeigen
 	
+.. csv-table::
+    :widths: 50 300
+
     , Kommentar ansehen / hinzufügen 
     , Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
     , Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
     , Alle Felder aufklappen
     , Nur Pflichtfelder aufklappen
+	
+.. csv-table::
+    :widths: 50 300
        
     , Hilfe
 
