@@ -181,9 +181,9 @@ Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können,
 .. csv-table::
     :widths: 50 300
 
-    .. image:: ../img/editor/ige-uvp_eingabefelder_allgemeine_vohabenbeschreibung.png, Überschrift Eingabefeld (fett - Pflichtfeld)
-    .. image:: ../img/editor/ige-uvp_eingabefelder_weitere_unterlagen.png, Überschrift Eingabefeld (optional)
-    .. image:: ../img/editor/ige-uvp_eingabefelder_dokument.png, Überschrift Tabellenspalte (mit Sternchen - Pflichtfeld)	
+    .. image:: ../img/editor/icons/uvp_feldueberschrift.png, Überschrift Eingabefeld (fett - Pflichtfeld)
+    .. image:: ../img/editor/icons/uvp_eingabefeld_duenn.png, Überschrift Eingabefeld (optional)
+    .. image:: ../img/editor/icons/uvp_eingabefeld.png, Überschrift Tabellenspalte (mit Sternchen - Pflichtfeld)	
 ´
 
 Auf- und Zuklappen der Eingabefelder
@@ -191,10 +191,15 @@ Auf- und Zuklappen der Eingabefelder
 
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
-Abb.: 
+.. image:: ../img/editor/ige-uvp_kopf_01.png
 
-- Nur Pflichtfelder aufklappen
-- Alle Abschnitte zuklappen
+Abb.: Symbol zum Auf- und Zuklappen
+
+.. csv-table::
+    :widths: 50 300
+
+    .. image:: ../img/editor/ige-uvp_eingabefelder_allgemeine_vohabenbeschreibung.png, Nur Pflichtfelder aufklappen
+    .. image:: ../img/editor/ige-uvp_eingabefelder_allgemeine_vohabenbeschreibung.png, Alle Abschnitte zuklappen
 
 Desweitern gibt es die Möglichkeit, die Abschnitte einzeln auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Abschnittnamen klicken.
 
