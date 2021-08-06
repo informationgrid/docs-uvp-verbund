@@ -46,14 +46,14 @@ Strukturbaum
 Der UVP-Editor verfügt über einen Strukturbaum, den Sie über den Menüpunkt *Hierarchie & Erfassung* aufrufen. Er unterteilt sich in Verfahren und Adressen:
 
 .. image:: ../img/editor/ige-uvp_strukturbaum_02.png
-   :width: 300
+   :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
 
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen.
 
 .. image:: ../img/editor/ige-uvp_knoten.png
-   :width: 300
+   :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
 
