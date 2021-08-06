@@ -307,9 +307,9 @@ UVP-Editor schließen
 
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
-.. image:: ../img/editor/meldung/ige-uvp_abmelden.png
+.. image:: ../img/editor/menü/ige-uvp_abmelden.png
 
-Abb.: Editor schließen
+Abb.: Menü - Editor schließen
  
 Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
 
