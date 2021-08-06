@@ -179,7 +179,7 @@ Eingabefelder
 Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften oder durch ein Sternchen. 
 
 .. csv-table::
-    :widths: 50 300
+    :widths: 150 300
 
     .. image:: ../img/editor/icons/uvp_feldueberschrift.png, Überschrift Eingabefeld (fett - Pflichtfeld)
     .. image:: ../img/editor/icons/uvp_eingabefeld_duenn.png, Überschrift Eingabefeld (optional)
