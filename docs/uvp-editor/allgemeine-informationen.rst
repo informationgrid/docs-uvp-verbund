@@ -34,7 +34,7 @@ Abb.: UVP-Editor - Dashboard - Alle Datensätze
 Aufbau der Benutzeroberfläche
 ------------------------------
 
-.. image:: ../img/editor/ige-uvp_benutzeroberflaeche_02.png
+.. image:: ../img/editor/ige/ige-uvp_benutzeroberflaeche_02.png
    :width: 500
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
@@ -45,14 +45,14 @@ Strukturbaum
 
 Der UVP-Editor verfügt über einen Strukturbaum, den Sie über den Menüpunkt *Hierarchie & Erfassung* aufrufen. Er unterteilt sich in Verfahren und Adressen:
 
-.. image:: ../img/editor/ige-uvp_strukturbaum_02.png
+.. image:: ../img/editor/ige/ige-uvp_strukturbaum_02.png
    :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
 
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen.
 
-.. image:: ../img/editor/ige-uvp_knoten.png
+.. image:: ../img/editor/ige/ige-uvp_knoten.png
    :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
