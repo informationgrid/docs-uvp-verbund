@@ -191,7 +191,7 @@ Auf- und Zuklappen der Eingabefelder
 
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
-  .. image:: ../img/editor/ige-uvp_kopf_01.png
+.. image:: ../img/editor/ige-uvp_kopf_01.png
 
 Abb.: Symbol zum Auf- und Zuklappen
 
@@ -220,14 +220,14 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
-  .. image:: ../img/editor/ige-uvp_feldtyp_textfeld.png
+.. image:: ../img/editor/ige-uvp_feldtyp_textfeld.png
 
   Abb.:  Feldtyp - Textfeld
 
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-  .. image:: ../img/editor/ige-uvp_feldtyp_auswahlliste.png
+.. image:: ../img/editor/ige-uvp_feldtyp_auswahlliste.png
 
  Abb.: Feldtyp - Auswahlliste
 
@@ -238,14 +238,14 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 
 Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle. 
 
-  .. image:: ../img/editor/ige-uvp_feldtyp_tabelle.png
+.. image:: ../img/editor/ige-uvp_feldtyp_tabelle.png
 
  Abb.: Feldtyp - Tabelle
 
 **Dialoge**
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
 
-  .. image:: ../img/editor/ige-uvp_feldtyp_dialog.png
+.. image:: ../img/editor/ige-uvp_feldtyp_dialog.png
 
 Abb.: Feldtyp - Dialoge
 
