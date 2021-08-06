@@ -142,7 +142,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ausschneiden.png , Verfahren / Adressen / Teilbaum ausschneiden 
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_kopieren.png , Verfahren / Adressen kopieren 
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_teilbäume_kopieren.png , Teilbäume kopieren 
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_teilbäume_kopieren.png , Einfügen (Verfahren / Adressen / Teilbaum)
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_teilbäume_einfügen.png , Einfügen (Verfahren / Adressen / Teilbaum)
 	
 .. csv-table::
     :widths: 50 300
