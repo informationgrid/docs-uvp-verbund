@@ -227,7 +227,7 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-  .. image:: ../img/editor/ige-uvp_auswahliste.png
+  .. image:: ../img/editor/ige-uvp_auswahlliste.png
 
  Abb.: Feldtyp - Auswahlliste
 
