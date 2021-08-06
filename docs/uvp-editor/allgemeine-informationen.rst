@@ -221,6 +221,7 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
 .. image:: ../img/editor/ige-uvp_feldtyp_textfeld.png
+   :width: 500
 
 Abb.:  Feldtyp - Textfeld
 
@@ -246,6 +247,7 @@ Abb.: Feldtyp - Tabelle
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
 
 .. image:: ../img/editor/ige-uvp_feldtyp_dialog.png
+   :width: 500
 
 Abb.: Feldtyp - Dialoge
 
