@@ -198,12 +198,15 @@ Abb.: Symbol zum Auf- und Zuklappen
 .. csv-table::
     :widths: 50 300
 
-    .. image:: ../img/editor/ige-uvp_eingabefelder_allgemeine_vohabenbeschreibung.png, Nur Pflichtfelder aufklappen
-    .. image:: ../img/editor/ige-uvp_eingabefelder_allgemeine_vohabenbeschreibung.png, Alle Abschnitte zuklappen
+    .. image:: ../img/editor/icons/uvp_aufklappen.png, Nur Pflichtfelder aufklappen
+    .. image:: ../img/editor/icons/uvp_zuklappen.png, Alle Abschnitte zuklappen
 
 Desweitern gibt es die Möglichkeit, die Abschnitte einzeln auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Abschnittnamen klicken.
 
-Abb.: 
+
+.. image:: ../img/editor/icons/uvp_auf-zuklappen.png
+
+Abb.: Abschnitt auf- oder zuklappen
 
 
 Unterschiedliche Feldarten
