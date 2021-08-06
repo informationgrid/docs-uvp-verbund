@@ -118,7 +118,12 @@ Toolbar
 
 Die Toolbar hat folgenden grundlegenden Aufbau: 
 
-.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png
+.. csv-table::
+    :widths: 150 15 150
+
+    .. image:: ../img/editor/icons/toolbar/ige-uvp_toolbar_01-1.png , ... , .. image:: ../img/editor/icons/toolbar/ige-uvp_toolbar_02.png
+
+.. image:: ../img/editor/icons/ige-uvp_symbolleiste.png
    :width: 30
    
 Abb.: Toolbar (Symbolleiste)
@@ -130,7 +135,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
     Symbol , Bezeichnung
     .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Neu anlegen (Verfahren / Adressen)
-    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Neuen Ordner anlegen
+    .. image:: ../img/editor/icons/uvp_toolbar_neuer-ordner.png , Neuen Ordner anlegen
     .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Vorschau und Druckansicht 
 
 .. csv-table::
