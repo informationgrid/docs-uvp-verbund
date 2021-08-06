@@ -209,7 +209,7 @@ Desweitern gibt es die Möglichkeit, die Abschnitte einzeln auf- bzw. zuzuklappe
 Abb.: Abschnitt auf- oder zuklappen
 
 
-Unterschiedliche Feldarten
+Unterschiedliche Feldtypen
 --------------------------
 
 **Textfelder**
