@@ -268,6 +268,7 @@ Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das In
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_abschließendes-speichern.png
+   :width: 300
 
 Abb.: Hinweis - Alle Pflichtfelder befüllen
 
@@ -280,6 +281,7 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
 .. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
+   :width: 300
 
 Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 
@@ -296,6 +298,7 @@ Session abgelaufen
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_session-abgelaufen.png
+   :width: 300
 
 Abb.: Meldung - Session abgelaufen
 
@@ -314,6 +317,7 @@ Abb.: Menü - Editor schließen
 Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_webseite-verlassen.png
+   :width: 300
 
 Abb.: Frage - Webseite verlassen?
  
