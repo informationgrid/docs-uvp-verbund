@@ -295,7 +295,7 @@ Session abgelaufen
 
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
-.. image:: ../img/editor/meldung/ige-uvp_session-abgelaufen.png
+.. image:: ../img/editor/meldungen/ige-uvp_session-abgelaufen.png
 
 Abb.: Meldung - Session abgelaufen
 
