@@ -220,12 +220,16 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
-Abb.:  
+.. image:: ../img/editor/ige-uvp_textfeld.png
+
+  Abb.:  Feldtyp - Textfeld
 
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
- Abb.:
+.. image:: ../img/editor/ige-uvp_auswahliste.png
+
+ Abb.: Feldtyp - Auswahlliste
 
 **Tabellen**
 In den Tabellen werden Zeilen durch einen einfachen Mausklick markiert. Sie können mehrere Zeilen markieren, in dem Sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
@@ -234,12 +238,16 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 
 Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle. 
 
- Abb.:
- 
+.. image:: ../img/editor/ige-uvp_tabelle.png
+
+ Abb.: Feldtyp - Tabelle
+
 **Dialoge**
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
 
-Abb.: 
+.. image:: ../img/editor/ige-uvp_dialoge.png
+
+Abb.: Feldtyp - Dialoge
 
 
 Zwischenspeichern, Speichern & Veröffentlichen
