@@ -313,7 +313,7 @@ Abb.: Menü - Editor schließen
  
 Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
 
-.. image:: ../img/editor/meldung/ige-uvp_webseite-verlassen.png
+.. image:: ../img/editor/meldungen/ige-uvp_webseite-verlassen.png
 
 Abb.: Frage - Webseite verlassen?
  
