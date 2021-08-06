@@ -269,7 +269,7 @@ Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher P
 
 .. image:: ../img/editor/meldungen/ige-uvp_abschließendes-speichern.png
 
-Abb.:
+Abb.: Hinweis - Alle Pflichtfelder befüllen
 
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion Zwischenspeichern. 
 
