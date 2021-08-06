@@ -192,7 +192,7 @@ Auf- und Zuklappen der Eingabefelder
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
 .. image:: ../img/editor/ige-uvp_kopf_01.png
-   :width: 300
+   :width: 500
 
 Abb.: Symbol zum Auf- und Zuklappen
 
@@ -294,6 +294,7 @@ Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
 .. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
+   :width: 500
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
