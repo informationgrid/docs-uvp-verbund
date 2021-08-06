@@ -132,45 +132,45 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Neu anlegen (Verfahren / Adressen)
-    .. image:: ../img/editor/toolbar/uvp_toolbar_neuer-ordner.png , Neuen Ordner anlegen
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Vorschau und Druckansicht 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_verfahren_neu_anlegen.png , Neu anlegen (Verfahren / Adressen)
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ordner_neu_anlegen.png , Neuen Ordner anlegen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_druckansicht.png , Vorschau und Druckansicht 
 
 .. csv-table::
     :widths: 50 300
 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Verfahren / Adressen / Teilbaum ausschneiden 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Verfahren / Adressen kopieren 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Teilbäume kopieren 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Einfügen (Verfahren / Adressen / Teilbaum)
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ausschneiden.png , Verfahren / Adressen / Teilbaum ausschneiden 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_kopieren.png , Verfahren / Adressen kopieren 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_teilbäume_kopieren.png , Teilbäume kopieren 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_teilbäume_kopieren.png , Einfügen (Verfahren / Adressen / Teilbaum)
 	
 .. csv-table::
     :widths: 50 300
 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Zwischenspeichern 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Rückgängig 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Änderungen am aktuellen Verfahren / Adresse verwerfen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_zwischenspeichern.png , Zwischenspeichern 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_rückgänig.png , Rückgängig 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_änderung_verwerfen.png , Änderungen am aktuellen Verfahren / Adresse verwerfen
 
 .. csv-table::
     :widths: 50 300
  
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Abschließendes Speichern & Veröffentlichen 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Änderungen anzeigen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_abschließendes_speichern_und_veröffentlichen.png , Abschließendes Speichern & Veröffentlichen 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_löschen.png , Ausgewähltes Verfahren / Adresse / Teilbaum löschen 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_änderungen_anzeigen.png , Änderungen anzeigen
 	
 .. csv-table::
     :widths: 50 300
 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Kommentar ansehen / hinzufügen 
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Klicken, um zum vorherigen Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Alle Felder aufklappen
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Nur Pflichtfelder aufklappen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_kommentare.png , Kommentar ansehen / hinzufügen 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorher.png , Klicken, um zum vorherigen Verfahren / Adresse zu gehen (gedrückt halten für Verlauf).
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_nachher.png , Klicken, um zum nächsten Vorhaben/Adresse zu gehen (gedrückt halten für Verlauf).
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_alle_felder_aufklappen.png , Alle Felder aufklappen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_nur_pflichtfelder_aufklappen.png , Nur Pflichtfelder aufklappen
 	
 .. csv-table::
     :widths: 50 300
        
-    .. image:: ../img/editor/toolbar/uvp_40x40_zulassungsverfahren_blau.png , Hilfe
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_hilfe.png , Hilfe
 
 
 Eingabefelder
