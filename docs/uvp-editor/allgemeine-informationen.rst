@@ -85,9 +85,9 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
     :widths: 50 50
 
     Symbol , Bezeichnung
-    .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution
-    .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit
-    .. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person
+    .. image:: ../img/editor/icons/uvp_40x40_institution_blau_01.png , Institution
+    .. image:: ../img/editor/icons/uvp_40x40_einheit_blau_01.png , Einheit
+    .. image:: ../img/editor/icons/uvp_40x40_person_blau_01.png , Person
 
 
 
