@@ -121,7 +121,7 @@ Die Toolbar hat folgenden grundlegenden Aufbau:
 .. csv-table::
     :widths: 150 15 150
 
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_01-1.png , ... , .. image:: ../img/editor/toolbar/ige-uvp_toolbar_02.png
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_01.png , ... , .. image:: ../img/editor/toolbar/ige-uvp_toolbar_02.png
 
 
 Abb.: Toolbar (Symbolleiste)
