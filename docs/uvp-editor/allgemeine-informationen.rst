@@ -222,14 +222,14 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 
 .. image:: ../img/editor/ige-uvp_feldtyp_textfeld.png
 
-  Abb.:  Feldtyp - Textfeld
+Abb.:  Feldtyp - Textfeld
 
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
 .. image:: ../img/editor/ige-uvp_feldtyp_auswahlliste.png
 
- Abb.: Feldtyp - Auswahlliste
+Abb.: Feldtyp - Auswahlliste
 
 **Tabellen**
 In den Tabellen werden Zeilen durch einen einfachen Mausklick markiert. Sie können mehrere Zeilen markieren, in dem Sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
@@ -240,7 +240,7 @@ Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen
 
 .. image:: ../img/editor/ige-uvp_feldtyp_tabelle.png
 
- Abb.: Feldtyp - Tabelle
+Abb.: Feldtyp - Tabelle
 
 **Dialoge**
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
