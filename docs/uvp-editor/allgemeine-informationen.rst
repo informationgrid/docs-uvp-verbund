@@ -279,11 +279,15 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
-Abb.:
+.. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
+
+Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
-Abb.:
+.. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
+
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
 
 Session abgelaufen
@@ -291,7 +295,9 @@ Session abgelaufen
 
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
-Abb.:
+.. image:: ../img/editor/meldung/ige-uvp_session-abgelaufen.png
+
+Abb.: Meldung - Session abgelaufen
 
 Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern.
 
@@ -301,10 +307,14 @@ UVP-Editor schließen
 
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
-Abb.: 
+.. image:: ../img/editor/meldung/ige-uvp_abmelden.png
+
+Abb.: Editor schließen
  
 Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
 
-Abb.:
+.. image:: ../img/editor/meldung/ige-uvp_webseite-verlassen.png
+
+Abb.: Frage - Webseite verlassen?
  
 Sie müssen sich noch aus dem UVP-Portal abmelden. Hierfür betätigen Sie in der Seite Anmeldung auf den Link: *Logout*.
