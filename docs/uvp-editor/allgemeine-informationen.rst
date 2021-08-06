@@ -192,6 +192,7 @@ Auf- und Zuklappen der Eingabefelder
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
 .. image:: ../img/editor/ige-uvp_kopf_01.png
+   :width: 300
 
 Abb.: Symbol zum Auf- und Zuklappen
 
@@ -313,6 +314,7 @@ UVP-Editor schließen
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
 .. image:: ../img/editor/menü/ige-uvp_abmelden.png
+   :width: 150
 
 Abb.: Menü - Editor schließen
  
