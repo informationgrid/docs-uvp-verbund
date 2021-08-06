@@ -123,9 +123,7 @@ Die Toolbar hat folgenden grundlegenden Aufbau:
 
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_01-1.png , ... , .. image:: ../img/editor/toolbar/ige-uvp_toolbar_02.png
 
-.. image:: ../img/editor/icons/ige-uvp_symbolleiste.png
-   :width: 30
-   
+
 Abb.: Toolbar (Symbolleiste)
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
