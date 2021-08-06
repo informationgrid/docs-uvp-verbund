@@ -222,7 +222,7 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
-.. image:: ../img/editor/ige-uvp_feldtyp_textfeld.png
+.. image:: ../img/editor/ige/ige-uvp_feldtyp_textfeld.png
    :width: 500
 
 Abb.:  Feldtyp - Textfeld
@@ -230,7 +230,7 @@ Abb.:  Feldtyp - Textfeld
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../img/editor/ige-uvp_feldtyp_auswahlliste.png
+.. image:: ../img/editor/ige/ige-uvp_feldtyp_auswahlliste.png
    :width: 500
 
 Abb.: Feldtyp - Auswahlliste
@@ -242,7 +242,7 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 
 Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle. 
 
-.. image:: ../img/editor/ige-uvp_feldtyp_tabelle.png
+.. image:: ../img/editor/ige/ige-uvp_feldtyp_tabelle.png
    :width: 500
 
 Abb.: Feldtyp - Tabelle
@@ -250,7 +250,7 @@ Abb.: Feldtyp - Tabelle
 **Dialoge**
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
 
-.. image:: ../img/editor/ige-uvp_feldtyp_dialog.png
+.. image:: ../img/editor/ige/ige-uvp_feldtyp_dialog.png
    :width: 500
 
 Abb.: Feldtyp - Dialoge
@@ -286,14 +286,14 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
-.. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
+.. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
    :width: 200
 
 Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
-.. image:: ../img/editor/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
+.. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
    :width: 500
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
