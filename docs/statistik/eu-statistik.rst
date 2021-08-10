@@ -12,6 +12,6 @@ Abb.: Löschen von Verfahren - Fenster mit Warnung
 Über das Menü im UVP Editor kann der Katalogadministrator die Seite UVP-Statistik aufrufen. Der Katalogadmin kann auf dieser Seite eine Statistik über verschiedene Aspekte der erfassten Verfahren generieren. Diese Auswertung bildet die Basis für die EU-Berichtpflicht.
 
 .. image:: ../img/statistik/ige-uvp_statistik.png
-   :width: 700
+   :width: 500
    
 Abb.: Katalogadministratoren - UVP Statistik

@@ -6,6 +6,6 @@ Im UVP Portal wurden Bauleitplanungsdaten integriert. Die Daten werden über ein
 Wenn die Bauleitplanungsdaten eines Bundeslandes in die Kartendarstellung aufgenommen werden sollen, nutzen Sie bitte das Kontaktformular des UVP-Portals.
 
 .. image:: ../img/karte/karte_bauleitplanung.png
-   :width: 700
+   :width: 500
 
 Abb.: Karte - Bauleitplanung
