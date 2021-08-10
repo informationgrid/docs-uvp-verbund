@@ -75,7 +75,7 @@ Abb.: Zeile löschen
 .. image:: ../img/editor/adressen/ige-uvp_daten-nicht-anzeigen.png
    :width: 500
 
-App.: checkbox Daten nicht anzeigen
+App.: Checkbox Daten nicht anzeigen
 
 **Achtung:**
 *Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend und wird empfohlen.* 
