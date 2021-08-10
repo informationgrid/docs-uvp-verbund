@@ -5,7 +5,7 @@ Für die Berichtspflicht an die EU, müssen abgeschlossene Verfahren und negativ
 Soll ein Verfahren gelöscht werden, erscheint ein Löschhinweis. Es wird darauf verwiesen, dass gelöschte Verfahren in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt werden.
 
 .. image:: ../img/editor/meldungen/ige-uvp_warnung-datensätze-werden-gelöscht.png
-   :width: 300
+   :width: 200
    
 Abb.: Löschen von Verfahren - Fenster mit Warnung
 
