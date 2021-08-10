@@ -16,7 +16,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Erfassung von UVP-Verfahren
+   :caption: UVP-Verfahren erfassen
 
    uvp-verfahren/anlegen-von-adressen.rst
    uvp-verfahren/erfassung-von-uvp-verfahren.rst
