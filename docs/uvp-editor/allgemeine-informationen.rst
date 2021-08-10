@@ -192,7 +192,7 @@ Auf- und Zuklappen der Eingabefelder
 Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
 
 .. image:: ../img/editor/ige/ige-uvp_kopf_01.png
-   :width: 500
+   :widths: 500
 
 Abb.: Symbol zum Auf- und Zuklappen
 
@@ -206,7 +206,7 @@ Desweitern gibt es die Möglichkeit, die Abschnitte einzeln auf- bzw. zuzuklappe
 
 
 .. image:: ../img/editor/icons/uvp_auf-zuklappen.png
-   :width: 500
+   :widths: 500
 
 Abb.: Abschnitt auf- oder zuklappen
 
@@ -223,7 +223,7 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
 .. image:: ../img/editor/ige/ige-uvp_feldtyp_textfeld.png
-   :width: 500
+   :widths: 500
 
 Abb.:  Feldtyp - Textfeld
 
@@ -231,7 +231,7 @@ Abb.:  Feldtyp - Textfeld
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
 .. image:: ../img/editor/ige/ige-uvp_feldtyp_auswahlliste.png
-   :width: 500
+   :widths: 500
 
 Abb.: Feldtyp - Auswahlliste
 
@@ -243,7 +243,7 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle. 
 
 .. image:: ../img/editor/ige/ige-uvp_feldtyp_tabelle.png
-   :width: 500
+   :widths: 500
 
 Abb.: Feldtyp - Tabelle
 
@@ -251,7 +251,7 @@ Abb.: Feldtyp - Tabelle
 Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
 
 .. image:: ../img/editor/ige/ige-uvp_feldtyp_dialog.png
-   :width: 500
+   :widths: 500
 
 Abb.: Feldtyp - Dialoge
 
@@ -274,7 +274,7 @@ Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das In
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_abschließendes-speichern.png
-   :width: 200
+   :widths: 200
 
 Abb.: Hinweis - Alle Pflichtfelder befüllen
 
@@ -287,14 +287,14 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
 .. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
-   :width: 200
+   :widths: 200
 
 Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
 .. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
-   :width: 500
+   :widths: 500
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
@@ -305,7 +305,7 @@ Session abgelaufen
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_session-abgelaufen.png
-   :width: 200
+   :widths: 200
 
 Abb.: Meldung - Session abgelaufen
 
@@ -318,14 +318,14 @@ UVP-Editor schließen
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
 .. image:: ../img/editor/menü/ige-uvp_abmelden.png
-   :width: 150
+   :widths: 150
 
 Abb.: Menü - Editor schließen
  
 Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
 
 .. image:: ../img/editor/meldungen/ige-uvp_webseite-verlassen.png
-   :width: 200
+   :widths: 200
 
 Abb.: Frage - Webseite verlassen?
  

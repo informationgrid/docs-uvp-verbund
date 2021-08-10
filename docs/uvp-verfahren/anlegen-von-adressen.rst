@@ -21,12 +21,12 @@ Abb.: Auswahl der Adresstypen
 
 
 .. csv-table::
-   :widths: 50 300
+    :widths: 50 300
 
      Symbol , Bezeichnung
-  .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , Institution (z. B. Behörde)
+  .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , "Institution (z. B. Behörde)"
   .. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , "Einheit (z. B. Amt, Referat, Fachbereich oder Abteilung)"
-  .. image:: ../img/editor/icons/uvp_40x40_person_blau.png , Person (Ansprechpartner für ein Verfahren)
+  .. image:: ../img/editor/icons/uvp_40x40_person_blau.png , "Person (Ansprechpartner für ein Verfahren)"
 
 
  
