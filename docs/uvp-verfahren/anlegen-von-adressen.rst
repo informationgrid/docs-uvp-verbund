@@ -21,7 +21,7 @@ Abb.: Auswahl der Adresstypen
 
 
 .. csv-table::
-    :widths: 50 300
+    :widths: 30 300
 
     Symbol , Bezeichnung
     .. image:: ../img/editor/icons/uvp_40x40_institution_blau.png , "Institution (z. B. Behörde)"
