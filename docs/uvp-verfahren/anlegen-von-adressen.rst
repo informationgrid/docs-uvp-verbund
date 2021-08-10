@@ -29,7 +29,7 @@ Abb.: Auswahl der Adresstypen
   .. image:: ../img/editor/icons/uvp_40x40_person_blau.png , "Person (Ansprechpartner für ein Verfahren)"
 
 
- 
+ Test
  
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 
