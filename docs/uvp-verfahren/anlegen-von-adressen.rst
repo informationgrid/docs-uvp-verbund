@@ -20,9 +20,15 @@ Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken 
 Abb.: Auswahl der Adresstypen
 
 
-  - Institution (z. B. Behörde)
-  - Einheit (z. B. Amt, Referat, Fachbereich oder Abteilung)
-  - Person (Ansprechpartner für ein Verfahren)
+.. csv-table::
+    :widths: 50 300
+
+    Symbol , Bezeichnung
+.. image:: ../img/editor/icons/uvp_40x40_institution_blau_01.png , Institution (z. B. Behörde)
+.. image:: ../img/editor/icons/uvp_40x40_einheit_blau.png , Einheit (z. B. Amt, Referat, Fachbereich oder Abteilung)
+.. image:: ../img/editor/icons/uvp_40x40_person_blau , Person (Ansprechpartner für ein Verfahren)
+
+
  
  
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
