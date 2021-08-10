@@ -27,7 +27,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hilfe, Bebauungspläne & EU Statistik  
+   :caption: Hilfe, B-Pläne & EU Statistik  
    
    hilfe/hilfe-erfassung.rst
    bauleitplanung/bauleitplanung_erfassung.rst
