@@ -14,7 +14,6 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    uvp-editor/registrierung-anmeldung
    uvp-editor/allgemeine-informationen
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Erfassung von UVP-Verfahren
@@ -25,17 +24,6 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    uvp-verfahren/bestehende-adressen-oder-verfahren-bearbeiten.rst
    uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
    uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: UVP-Verbund Nutzerverwaltung
-
-   uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
-   uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
-   uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
-   uvp-nutzerverwaltung/anzeige-der-verantwortlichkeiten.rst
-   uvp-nutzerverwaltung/gruppenadministration.rst
-   uvp-nutzerverwaltung/berechtigungsuebersicht.rst
 
 .. toctree::
    :maxdepth: 2
@@ -50,6 +38,17 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    :caption: Fragen und Antworten 
    
    faq/faq.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: UVP-Verbund Nutzerverwaltung
+
+   uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
+   uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
+   uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
+   uvp-nutzerverwaltung/anzeige-der-verantwortlichkeiten.rst
+   uvp-nutzerverwaltung/gruppenadministration.rst
+   uvp-nutzerverwaltung/berechtigungsuebersicht.rst
    
 .. toctree::
    :maxdepth: 2
