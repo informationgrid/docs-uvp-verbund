@@ -41,7 +41,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: UVP-Verbund Nutzerverwaltung
+   :caption: Nutzerverwaltung
 
    uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
