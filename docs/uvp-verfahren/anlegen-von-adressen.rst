@@ -1,18 +1,28 @@
-Anlegen von Adressen
-====================
+Adressen erfassen
+=================
 
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches *Freie Adressen* anzulegen. 
 
-Abb.: 
+.. image:: ../img/editor/adressen/ige-uvp_adressbaum.png
+   :width: 300
 
-Zum Anlegen einer neuen Adresse muss zunächst die Adresse ausgewählt werden, unterhalb der die neue Adresse erstellt werden soll. Dafür die entsprechende Adresse im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist. Sobald die Informationen der Adresse im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Es besteht hierbei die Wahl zwischen folgenden Adresstypen: Institution, Einheit und Person.
+Abb.: Anlegen einer Adressstruktur
 
-Abb.:
+Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
+
+**Anlegen eines Ordners oder einer Adresse**
+
+Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken und warten bis die Initialisierung abgeschlossen ist. Sobald die Eingabefelder im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Für die Strukturierung der Adressdaten kann zwischen folgenden Adresstypen gewählt werden: Institution, Einheit und Person.
+
+.. image:: ../img/editor/adressen/ige-uvp_adresse-anlegen.png
+   :width: 200
+
+Abb.: Auswahl der Adresstypen
 
 
   - Institution (z. B. Behörde)
   - Einheit (z. B. Amt, Referat, Fachbereich oder Abteilung)
-  - Person 
+  - Person (Ansprechpartner für ein Verfahren)
  
  
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.

@@ -1,5 +1,5 @@
-Erfassen von UVP-Verfahren
-===========================
+UVP-Verfahren erfassen
+======================
 
 Verfahrenstypen
 ---------------
