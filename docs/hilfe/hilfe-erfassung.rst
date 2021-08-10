@@ -3,7 +3,7 @@ Hilfe für die Erfassung
 
 Eine allgemeine Hilfe zum InGrid-Editor kann durch einen Klick auf das Fragezeichen-Symbol ganz rechts in der Toolbar aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
 
-.. image:: ../img/hilfe/uvp_hilfe_01.png
+.. image:: ../img/hilfe/ige-uvp_hilfe_01.png
    :width: 200
 
 Abb.: Menü - Hilfe
