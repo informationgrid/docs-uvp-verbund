@@ -35,7 +35,7 @@ Die Dokumentation ist in vier Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: Fragen und Antworten 
+   :caption: Fragen & Antworten 
    
    faq/faq.rst
    
