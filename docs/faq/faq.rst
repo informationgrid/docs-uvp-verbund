@@ -76,7 +76,7 @@ Wann wird ein Verfahren für die EU Statistik gezählt?
 -----------------------------------------------------
 
    1. Das Verfahren muss abgeschlossen, der Verfahrensschritt "Zulassungsentscheidung" muss angelegt sein.
-   2. Das Verfahren muss veröffentlicht sein - im Menü: "Abschließendes Speichern & Veröffentlichen" (das Symbol erscheint im Strukturbaum nur in blau).
+   2. Das Verfahren muss veröffentlicht sein. Im Menü das Symbol: "Abschließendes Speichern & Veröffentlichen" (das Symbol erscheint im Strukturbaum nur in blau) betätigen.
 
 
 Ich habe Probleme bei der Erfassung von Verfahren. Was kann ich tun?
