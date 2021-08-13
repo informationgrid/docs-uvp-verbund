@@ -108,13 +108,10 @@ Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Kl
 **Hierarchiebaum**
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
-.. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
-   :width: 150
-   
-.. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
-   :width: 300
+.. image:: ../img/verfahren/ige-uvp_hierarchiebaum.png
+   :width: 500
 
-Abb.:
+Abb.: Adressen im Hierarchiebaum
 
 Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
 
