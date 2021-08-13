@@ -87,17 +87,17 @@ Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?
    3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist Ihre Frage dokumentiert und kann nicht verloren gehen.
 
 
-Mehfaches Veröffentlichungen von gleichlautenden gezipten Dateien
-------------------------------------------------------------------
+Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien
+----------------------------------------------------------------
 
 Sofern im Rahmen eines Verfahrens mehrere Offenlegungen erfolgen und die Namen der (gezippten) Ordner in den verschiedenen Verfahrensstadien identisch sind, wird der Inhalt des älteren Ordners mit den Daten des neueren überschrieben. Um den Nutzern das Zurechtfinden in den Unterlagen zu vereinfachen ist jedoch eine gleichlautende Namensvergabe der Antragsunterlagen wünschenswert.
 
 Vorschläge: 
 
 - Variante 1: An die Dateibezeichnung eine Versionsnummer anhängen.
-  - Beispiel: _01, _02, _03, ...
+    - Beispiel: _01, _02, _03
 - Variante 2: An die Datei die Beteichnung des Verfahrensschrittes anhängen.
-  -Beispiel: _öffentliche-Auslegung, _Erörterungstermin oder _Zulassungsentscheidung
+    -Beispiel: _öffentliche-Auslegung, _Erörterungstermin oder _Zulassungsentscheidung
 
 
 Ein Datum sollte nicht verwendet werden, da dann unklar ist worauf sich das Datum bezieht.
