@@ -131,24 +131,33 @@ Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach 
 
 .. image:: ../img/editor/verfahren/ige-uvp_raumbezug-hinzufügen.png
    :width: 500
-   
-ige-uvp_raumbezug-hinzufügen.png
 
-Abb.: 
+Abb.: Raumbezug hinzufügen
 
 **Eingang des Antrags (*neues Feld*)**
 
-Abb.:
+.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_eingang-des-Antrags.png
+   :width: 200
+
+Abb.: Auswahlfeld: Eingang des Antrags
  
 Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht veröffentlicht, es dient nur statistischen Zwecken.
 
 **UVP-Nummer auswählen**
 
-Abb.:
+.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_uvp-nummer.png
+   :width: 500
+
+Abb.: Auswahlfeld: UVP-Nummer
  
 Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten. Die UVP-Nummern dienen der Einordnung des Zulassungsverfahrens in die Kategorien, nach denen auf der Portalseite gesucht werden kann. Außerdem sind sie wichtig zur Erfüllung der Berichtspflicht nach § 73 UVPG (Umsetzung von Artikel 12 der UVP-Richtlinie 2011/92/EU), wonach alle sechs Jahre die bis dahin durchgeführten Vorprüfungen und UVP-Verfahren ausgezählt und der EU-Kommission unter Zuordnung zu den Kategorien mitgeteilt werden müssen.
 
 **Vorprüfungen durchgeführt**
+
+.. image:: ../img/editor/verfahren/ige-uvp_checkbox_vorprüfung-durchgeführt.png
+   :width: 500
+
+Abb.: Checkbox: Vorprüfung durchgeführt
  
 Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig eine Vorprüfung zur Feststellung der UVP-Pflicht durchgeführt. Hierfür gibt es nicht immer eine genau passende UVP-Nummer (z.B. wenn es nur eine UVP-Nummer für UVP-pflichtige Zulassungsverfahren („X“) gibt). Andererseits kann aufgrund § 7 Abs. 3 UVPG eine UVP auch freiwillig durchgeführt werden, wenn eine Vorprüfung vorgesehen ist. Hier lässt die anzugebende UVP-Nummer den Schluss darauf zu, dass eine Vorprüfung durchgeführt wurde, obwohl dies nicht erfolgte. Wegen der Berichtspflicht nach § 73 UVPG werden daher die Zulassungsverfahren, bei denen eine Vorprüfung die UVP-Pflicht ergab, nunmehr durch diese Checkbox erfasst.
 
@@ -156,12 +165,17 @@ Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig 
 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
-Abb.:
+.. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritt-hinzufügen.png
+   :width: 200
+
+Abb.: Button: Verfahrensschritt hinzufügen
  
 Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
-Abb.:
+.. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritte.png
+   :width: 500
 
+Abb.: Auswahlbutton: Verfahrensschritte
 
 **Verfahrensschritt - Öffentliche Auslegung**
  
