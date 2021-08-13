@@ -115,7 +115,11 @@ Abb.: Adressen im Hierarchiebaum
 
 Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
 
-Abb.:
+
+.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_kontaktdaten.png
+   :width: 700
+
+Abb.: Eingabefeld Kontaktdaten: Kopieren einer Adresse
 
 Die Adresszeilen sind zwischen verschiedenen Verfahren und (Adress-) Elementen kopierbar. Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option *Adresse kopieren* gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse eingetragen. 
 
@@ -124,6 +128,11 @@ Die Adresszeilen sind zwischen verschiedenen Verfahren und (Adress-) Elementen k
 Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
 
 Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
+
+.. image:: ../img/editor/verfahren/ige-uvp_raumbezug-hinzufügen.png
+   :width: 500
+   
+ige-uvp_raumbezug-hinzufügen.png
 
 Abb.: 
 
