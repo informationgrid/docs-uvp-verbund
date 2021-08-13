@@ -54,7 +54,7 @@ Verfahrensschritte
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
-   :width: 500
+   :width: 700
 
 Abb.: Verfahrenstypen
 
