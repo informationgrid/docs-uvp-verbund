@@ -52,7 +52,11 @@ Verfahrensschritte
 
 **Abschnitt – Allgemein**
 
-Abb.:
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
+   :width: 500
+
+Abb.: Verfahrenstypen
 
 **Titel (Pflichtfeld)**
 
