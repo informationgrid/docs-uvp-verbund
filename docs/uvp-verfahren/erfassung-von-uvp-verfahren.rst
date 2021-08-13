@@ -11,7 +11,7 @@ Die Verfahren werden in vier Verfahrenstypen untergliedert:
   - Vorprüfung, negativ
   - Ausländische Verfahren
   
-  .. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
+.. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
    :width: 500
 
 Abb.: Verfahrenstypen
