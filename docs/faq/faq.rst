@@ -98,8 +98,7 @@ Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien
      - Beispiel: _01, _02, _03
   - Variante 2: An die Datei die Beteichnung des Verfahrensschrittes anhängen.
      - Beispiel: _öffentliche-Auslegung, _Erörterungstermin, _Zulassungsentscheidung
-
-
-  Ein Datum sollte nicht verwendet werden, da dann unklar ist worauf sich das Datum bezieht.
+  - Variante 3: Es gibt mehrere Auslegungstermine, dann kann auch das Veröffentlichungdatum der Dokumente angegeben werden.
+     - Beispiel: _öA_2021-08-13
 
    
