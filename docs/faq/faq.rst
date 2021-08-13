@@ -95,11 +95,11 @@ Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien
 Vorschläge: 
 
   - Variante 1: An die Dateibezeichnung eine Versionsnummer anhängen.
-    - Beispiel: _01, _02, _03
+     - Beispiel: _01, _02, _03
   - Variante 2: An die Datei die Beteichnung des Verfahrensschrittes anhängen.
-    - Beispiel: _öffentliche-Auslegung, _Erörterungstermin oder _Zulassungsentscheidung
+     - Beispiel: _öffentliche-Auslegung, _Erörterungstermin oder _Zulassungsentscheidung
 
 
-Ein Datum sollte nicht verwendet werden, da dann unklar ist worauf sich das Datum bezieht.
+  Ein Datum sollte nicht verwendet werden, da dann unklar ist worauf sich das Datum bezieht.
 
    
