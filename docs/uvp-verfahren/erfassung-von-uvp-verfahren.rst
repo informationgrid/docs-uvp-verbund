@@ -108,7 +108,7 @@ Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Kl
 **Hierarchiebaum**
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
-.. image:: ../img/verfahren/ige-uvp_hierarchiebaum.png
+.. image:: ../img/editor/verfahren/ige-uvp_hierarchiebaum.png
    :width: 500
 
 Abb.: Adressen im Hierarchiebaum
