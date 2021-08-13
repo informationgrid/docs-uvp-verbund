@@ -84,7 +84,7 @@ Ich habe Probleme bei der Erfassung von Verfahren. Was kann ich tun?
 
    1. Nutzen Sie die Erfassungsanleitung und lesen Sie sich die entsprechenden Punkte durch.
    2. Fragen Sie Ihren Katalog-Administrator im Bundesland.
-   3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist Ihre Frage dokumentiert und kann nicht verloren gehen.
+   3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist dann Ihre Frage dokumentiert und kann nicht verloren gehen.
 
 
 Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien - Was kann ich tun?
