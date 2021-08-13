@@ -59,12 +59,18 @@ Kontakt deutsche Behörde (Pflichtfeld)**
 An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weitergehende Informationen zum aktuellen Verfahren/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend.
  
 Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des Verweises (Ansprechpartner) automatisch mit der Verknüpfung einer Adresse eingetragen. In der rechten Spalte erscheint der Link zur eigentlichen Adresse.
- 
-Abb.:
+
+.. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
+   :width: 500
+
+Abb.: Verfahrenstypen
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
-Abb.:
+.. image:: ../img/verfahren/ige-uvp_ordner_anlegen.png
+   :width: 300
+
+Abb.: Ordner anlegen
 
 Die Adresse kann entweder über eine *Direkte Suche* oder den *Hierarchiebaum* ausgewählt werden. 
 
@@ -75,7 +81,14 @@ Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Kl
 **Hierarchiebaum**
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
-Abb.:
+.. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
+   :width: 150
+   
+.. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
+   :width: 300
+
+
+Abb.: Verfahren neu anlegen
 
 Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
 
