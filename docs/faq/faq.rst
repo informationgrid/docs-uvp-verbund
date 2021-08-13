@@ -79,16 +79,16 @@ Wann wird ein Verfahren für die EU Statistik gezählt?
    2. Das Verfahren muss veröffentlicht sein - im Menü: "Abschließendes Speichern & Veröffentlichen" (das Symbol erscheint im Strukturbaum nur in blau).
 
 
-Ich habe Probleme bei der Erfassung von Verfahren was kann ich tun?
--------------------------------------------------------------------
+Ich habe Probleme bei der Erfassung von Verfahren. Was kann ich tun?
+--------------------------------------------------------------------
 
    1. Nutzen Sie die Erfassungsanleitung und lesen Sie sich die entsprechenden Punkte durch.
    2. Fragen Sie Ihren Katalog-Administrator im Bundesland.
    3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist Ihre Frage dokumentiert und kann nicht verloren gehen.
 
 
-Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien
-----------------------------------------------------------------
+Mehfache Veröffentlichungen von gleichlautenden gezipten Dateien - Was kann ich tun?
+------------------------------------------------------------------------------------
 
   Sofern im Rahmen eines Verfahrens mehrere Offenlegungen erfolgen und die Namen der (gezippten) Ordner in den verschiedenen Verfahrensstadien identisch sind, wird der Inhalt des älteren Ordners mit den Daten des neueren überschrieben. Um den Nutzern das Zurechtfinden in den Unterlagen zu vereinfachen ist jedoch eine gleichlautende Namensvergabe der Antragsunterlagen wünschenswert.
 
