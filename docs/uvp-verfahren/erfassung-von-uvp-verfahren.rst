@@ -10,22 +10,37 @@ Die Verfahren werden in vier Verfahrenstypen untergliedert:
   - (Linienbestimmung nach § 16 Bundesfernstraßengesetz, oder Landstraßenrecht und Raumordnungsverfahren nach ROG mit UVP)
   - Vorprüfung, negativ
   - Ausländische Verfahren
+  
+  .. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
+   :width: 500
+
+Abb.: Verfahrenstypen
 
 
-Anlegen eines Verfahrens
+Anlegen eines UVP-Verfahrens
 ------------------------
 
-Soll ein neues Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
+Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
-Abb.:
+.. image:: ../img/verfahren/ige-uvp_ordner_anlegen.png
+   :width: 300
+
+Abb.: Ordner anlegen
+
 
 **Hinweis:**
 *Wenn Sie im Strukturbaum (z.B. unter Verfahren) keine Ordner oder Verfahren anlegen können, so fehlen Ihnen dafür die Schreibrechte. Wählen Sie einen entsprechenden Ordner für den Sie Schreibrechte erhalten haben oder wenden Sie sich an Ihren Administrator.*
 
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
-Abb.:
+.. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
+   :width: 150
+   
+.. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
+   :width: 300
+
+Abb.: UVP-Verfahren anlegen
 
 Sobald die Eingabemaske des Verfahrens im rechten Fenster (Inhaltsfenster) angezeigt wird, kann das neue Verfahren mit Hilfe des Toolbar-Symbols („Neu anlegen“) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) angelegt werden. 
 
@@ -63,14 +78,14 @@ Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des
 .. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
    :width: 500
 
-Abb.: Verfahrenstypen
+Abb.:
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
 .. image:: ../img/verfahren/ige-uvp_ordner_anlegen.png
    :width: 300
 
-Abb.: Ordner anlegen
+Abb.:
 
 Die Adresse kann entweder über eine *Direkte Suche* oder den *Hierarchiebaum* ausgewählt werden. 
 
@@ -87,8 +102,7 @@ Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher K
 .. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
    :width: 300
 
-
-Abb.: Verfahren neu anlegen
+Abb.:
 
 Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
 
