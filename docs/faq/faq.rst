@@ -47,10 +47,10 @@ Was passiert mit Verfahren die abgeschlossen sind?
 Werden die Dokumente nach dem Löschen noch im Portal gespeichert?
 -----------------------------------------------------------------
 
-  Wenn Dokumente gelöscht werden bleiben sie als Nachweis, dass sie im Portal waren, in der Datenbank erhalten.
+  Wenn Dokumente gelöscht werden bleiben sie als Nachweis, dass sie im Portal angelegt waren, in der Datenbank erhalten.
 
 
-Wird dokumentiert ob ein Verfahren zu einem bestimmten Zeitpunkt veröffentlicht war?
+Wird dokumentiert ob ein Verfahren zu einem bestimmten Zeitpunkt veröffentlicht wurde?
 ------------------------------------------------------------------------------------
 
   In Der Erfassungssoftware InGrid werden zu den Verfahren Log-Dateien angelegt. Anhand dieser Dateien kann nachvollzogen werden, wann an dem Verfahren gearbeitet wurde und wer das Verfahren bearbeitet hat.
@@ -59,7 +59,7 @@ Wird dokumentiert ob ein Verfahren zu einem bestimmten Zeitpunkt veröffentlicht
 Müssen negative Vorprüfungen erfasst werden?
 --------------------------------------------
 
-  Das legen die Bundesländer für sich fest, fragen sie Ihren Ansprechpartner in Ihren Bundesland.
+  Das legen die Bundesländer für sich fest. Fragen Sie Ihren Ansprechpartner in Ihren Bundesland.
   
 
 Was muss bei der Erfassung von negativen Vorprüfungen in des Formular eingetragen werden?
