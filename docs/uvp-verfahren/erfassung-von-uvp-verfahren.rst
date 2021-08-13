@@ -37,7 +37,7 @@ Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werd
 .. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
    :width: 150
    
-   Abb.: UVP-Verfahren anlegen über die Symbolleiste
+Abb.: UVP-Verfahren anlegen über die Symbolleiste
    
 .. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
    :width: 300
