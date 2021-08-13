@@ -92,7 +92,13 @@ Mehfaches Veröffentlichungen von gleichlautenden gezipten Dateien
 
 Sofern im Rahmen eines Verfahrens mehrere Offenlegungen erfolgen und die Namen der (gezippten) Ordner in den verschiedenen Verfahrensstadien identisch sind, wird der Inhalt des älteren Ordners mit den Daten des neueren überschrieben. Um den Nutzern das Zurechtfinden in den Unterlagen zu vereinfachen ist jedoch eine gleichlautende Namensvergabe der Antragsunterlagen wünschenswert.
 
-Vorschläg: An die Dateibezeichnung eine Versionsnummer anhängen Beispiel: _01, _02, _03
+Vorschläge: 
+
+- Variante 1: An die Dateibezeichnung eine Versionsnummer anhängen.
+  - Beispiel: _01, _02, _03, ...
+- Variante 2: An die Datei die Beteichnung des Verfahrensschrittes anhängen.
+  -Beispiel: _öffentliche-Auslegung, _Erörterungstermin oder _Zulassungsentscheidung
+
 
 Ein Datum sollte nicht verwendet werden, da dann unklar ist worauf sich das Datum bezieht.
 
