@@ -94,7 +94,7 @@ Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
-.. image:: ../img/editor/verfahren/ige-uvp_fenster_adresse-hinzufügen.png
+.. image:: ../img/editor/verfahren/ige-uvp_fenster_adresse-hinzufügen1.png
    :width: 700
 
 Abb.: Fenster: Adresse hinzufügen
