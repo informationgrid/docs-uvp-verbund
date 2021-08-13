@@ -87,7 +87,7 @@ Ich habe Probleme bei der Erfassung von Verfahren. Was kann ich tun?
    3. Stellen Sie die Frage im UVP-Portal Kontaktformular, hier ist ein Ticketsystem hinterlegt und Ihre Fragen werden an den entsprechenden Ansprechpartner weitergeleitet. Außerdem ist dann Ihre Frage dokumentiert und kann nicht verloren gehen.
 
 
-Wie können bei Mehrfach-Veröffentlichungen gleichlautende gezipte Dateien abgelegt werden?
+Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien abgelegt werden?
 --------------------------------------------------------------------------------------------------
 
   Sofern im Rahmen eines Verfahrens mehrere Offenlegungen erfolgen und die Namen der (gezippten) Ordner in den verschiedenen Verfahrensstadien identisch sind, wird der Inhalt des älteren Ordners mit den Daten des neueren überschrieben. Um den Nutzern das Zurechtfinden in den Unterlagen zu vereinfachen ist jedoch eine gleichlautende Namensvergabe der Antragsunterlagen wünschenswert.
