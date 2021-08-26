@@ -104,10 +104,12 @@ Abb.: Fenster: Adresse hinzufügen
 Die Adresse kann entweder über eine *Direkte Suche* oder den *Hierarchiebaum* ausgewählt werden. 
 
 **Direkte Suche**
+
 In der *Direkten Suche* können Sie entweder nach der Einheit bzw. Institution, dem Nachnamen, Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung). 
 Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Klicken auf einen dieser Einträge wird dieser markiert und durch ein anschließendes Klicken auf „Übernehmen“ zu den Adresskontakten des Verfahrens übernommen.
 
 **Hierarchiebaum**
+
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
 .. image:: ../img/editor/verfahren/ige-uvp_hierarchiebaum.png
