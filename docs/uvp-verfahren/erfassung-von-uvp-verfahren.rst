@@ -54,7 +54,7 @@ Verfahrensschritte
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
-   :width: 700
+   :width: 500
 
 Abb.: Abschnitt Allgemein
 
