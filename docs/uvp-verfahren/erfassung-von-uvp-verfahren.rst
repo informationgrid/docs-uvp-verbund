@@ -213,7 +213,10 @@ Abb.:
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation.png
+   :width: 500
+   
+Abb.: Tabelle Auslegungsinformation
 
 Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
@@ -224,8 +227,11 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 **Das “gültig-bis” Datum in mehreren Zeilen einer Tabelle in einem Schritt setzen**
 
 Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken Sie mit der rechten Maustaste auf eine der markierten Zeilen, wählen Sie aus dem Kontextmenü den Punkt „Gültig bis Datum festlegen“. Es öffnet sich der Dialog „Datum wählen“. Wählen Sie aus dem Kalender das entsprechende Datum aus und betätigen Sie „Übernehmen“. In den ausgewählten Zeilen wurde das angegebene Datum eingetragen.
- 
-Abb.: 
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen.png
+   :width: 400
+
+Abb.: Tabelle UVP-Bericht/Antragsunterlagen
 
 **Sortierfunktion für Zeilen in Dokumententabellen**
 
