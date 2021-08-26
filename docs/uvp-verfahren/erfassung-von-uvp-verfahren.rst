@@ -35,12 +35,12 @@ Abb.: Ordner anlegen
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
 .. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
-   :width: 150
+   :width: 100
    
 Abb.: UVP-Verfahren anlegen über die Symbolleiste
    
 .. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
-   :width: 300
+   :width: 200
 
 Abb.: UVP-Verfahren anlegen über das Kontextmenü (rechte Maustaste)
 
