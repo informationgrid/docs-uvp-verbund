@@ -173,7 +173,7 @@ Abb.: Button: Verfahrensschritt hinzufügen
 Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
 .. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritte.png
-   :width: 500
+   :width: 400
 
 Abb.: Auswahlbutton: Verfahrensschritte
 
