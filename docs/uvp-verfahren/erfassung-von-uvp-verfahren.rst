@@ -24,7 +24,7 @@ Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu pr�
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
 .. image:: ../img/verfahren/ige-uvp_ordner-anlegen.png
-   :width: 300
+   :width: 200
 
 Abb.: Ordner anlegen
 
