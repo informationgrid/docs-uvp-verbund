@@ -52,7 +52,7 @@ Verfahrensschritte
 ------------------
 
 Abschnitt – Allgemein
----------------------
+``````````````````````
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
@@ -164,7 +164,7 @@ Abb.: Checkbox: Vorprüfung durchgeführt
 Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig eine Vorprüfung zur Feststellung der UVP-Pflicht durchgeführt. Hierfür gibt es nicht immer eine genau passende UVP-Nummer (z.B. wenn es nur eine UVP-Nummer für UVP-pflichtige Zulassungsverfahren („X“) gibt). Andererseits kann aufgrund § 7 Abs. 3 UVPG eine UVP auch freiwillig durchgeführt werden, wenn eine Vorprüfung vorgesehen ist. Hier lässt die anzugebende UVP-Nummer den Schluss darauf zu, dass eine Vorprüfung durchgeführt wurde, obwohl dies nicht erfolgte. Wegen der Berichtspflicht nach § 73 UVPG werden daher die Zulassungsverfahren, bei denen eine Vorprüfung die UVP-Pflicht ergab, nunmehr durch diese Checkbox erfasst.
 
 Verfahrensschritt hinzufügen
-----------------------------
+````````````````````````````
 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
@@ -181,7 +181,7 @@ Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
 Abb.: Auswahlbutton: Verfahrensschritte
 
 Verfahrensschritt - Öffentliche Auslegung
------------------------------------------
+`````````````````````````````````````````
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
  
@@ -266,7 +266,7 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 
 
 Verfahrensschritt - Erörterungstermin
--------------------------------------
+``````````````````````````````````````
  
 *Erörterungstermin (Pflichtfeld)*
  
@@ -288,7 +288,7 @@ Beispiel: 170815 Bekanntmachung Ferienpark Garlau
 
 
 Verfahrensschritt - Entscheidung über die Zulassung
----------------------------------------------------
+````````````````````````````````````````````````````
 
 Abb.:
  
@@ -321,7 +321,7 @@ Beispiel: 17.03.30 Genehmigung Biblis
 
 
 Dokument-Upload & Verfahrensschritt löschen
--------------------------------------------
+````````````````````````````````````````````
 
 **Dokument Upload**
 
