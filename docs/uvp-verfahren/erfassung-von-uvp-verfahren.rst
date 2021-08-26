@@ -46,12 +46,12 @@ Abb.: UVP-Verfahren anlegen über das Kontextmenü (rechte Maustaste)
 
 Sobald die Eingabemaske des Verfahrens im rechten Fenster (Inhaltsfenster) angezeigt wird, kann das neue Verfahren mit Hilfe des Toolbar-Symbols („Neu anlegen“) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) angelegt werden. 
 
-------------------
+
 Verfahrensschritte
 ------------------
 
 Abschnitt – Allgemein
-``````````````````````
+---------------------
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
