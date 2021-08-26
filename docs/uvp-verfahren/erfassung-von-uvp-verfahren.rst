@@ -48,9 +48,10 @@ Sobald die Eingabemaske des Verfahrens im rechten Fenster (Inhaltsfenster) angez
 
 
 Verfahrensschritte
--------------------
+------------------
 
-**Abschnitt – Allgemein**
+Abschnitt – Allgemein
+``````````````````````
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
@@ -166,7 +167,7 @@ Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
 .. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritt-hinzufügen.png
-   :width: 200
+   :width: 150
 
 Abb.: Button: Verfahrensschritt hinzufügen
  
