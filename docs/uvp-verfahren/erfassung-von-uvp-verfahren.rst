@@ -234,7 +234,7 @@ Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken 
 Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
-   :width: 400
+   :width: 200
 
 Abb.: Datum wählen
 
@@ -245,7 +245,7 @@ Abb.: Datum wählen
 
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_sortierfunktion.png
-   :width: 400
+   :width: 300
    
 Abb.: Sortierfunktion in Tabellen
 
