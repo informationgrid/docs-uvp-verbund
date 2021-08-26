@@ -63,14 +63,14 @@ Abb.: Abschnitt Allgemein
 In dieses Feld geben Sie eine kurze und prägnante Bezeichnung des Verfahrens an.
 
 .. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_titel.png
-   :width: 700
+   :width: 500
 
 Abb.: Engabefeld: Titel
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
 .. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_allgemeine-vorhabenbeschreibung.png
-   :width: 700
+   :width: 500
 
 Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
  
@@ -88,14 +88,14 @@ An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weit
 Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des Verweises (Ansprechpartner) automatisch mit der Verknüpfung einer Adresse eingetragen. In der rechten Spalte erscheint der Link zur eigentlichen Adresse.
 
 .. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_kontaktdaten.png
-   :width: 700
+   :width: 500
 
 Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
 .. image:: ../img/editor/verfahren/ige-uvp_fenster_adresse-hinzufügen.png
-   :width: 700
+   :width: 500
 
 Abb.: Fenster: Adresse hinzufügen
 
@@ -117,7 +117,7 @@ Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszei
 
 
 .. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_kontaktdaten.png
-   :width: 700
+   :width: 500
 
 Abb.: Eingabefeld Kontaktdaten: Kopieren einer Adresse
 
