@@ -204,10 +204,10 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
-.. image:: ../img/editor/verfahrensschritte/uvp_verfahrensschritt-oeffentliche-auslegung.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-oeffentliche-auslegung.png
    :width: 500 
 
-Abb.:
+Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
  
 **Hinweis:** *Die Checkbox finden Sie unter jeder Tabelle.*
 
@@ -237,7 +237,6 @@ Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
    :width: 400
 
 Abb.: Datum wählen
-
 
 
 **Sortierfunktion für Zeilen in Dokumententabellen**
