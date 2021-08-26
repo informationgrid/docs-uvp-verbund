@@ -185,17 +185,27 @@ Abb.: Auswahlbutton: Verfahrensschritte
 Verfahrensschritt - Öffentliche Auslegung
 `````````````````````````````````````````
  
-**Zeitraum der Auslegung von/bis (Pflichtfeld)**
+.. image:: ../img/editor/verfahrensschritte/uvp_leiste-oeffentliche-auslegung.png
+   :width: 500 
  
-Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld).
+**Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
-**Wichtig:** *Genau in diesem Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_feld_zeitraum-der-auslegung.png
+   :width: 300
 
-Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
+Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
+
+**Wichtig:** 
+*Genau in diesem Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.*
+
+*Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
 
 **Erst mit Beginn des Auslegungszeitraus veröffentlichen**
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
+
+.. image:: ../img/editor/verfahrensschritte/uvp_verfahrensschritt-oeffentliche-auslegung.png
+   :width: 500 
 
 Abb.:
  
@@ -269,6 +279,9 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 
 Verfahrensschritt - Erörterungstermin
 ``````````````````````````````````````
+
+.. image:: ../img/editor/verfahrensschritte/uvp_leiste-eroerterungstermin.png
+   :width: 500 
  
 *Erörterungstermin (Pflichtfeld)*
  
@@ -292,7 +305,8 @@ Beispiel: 170815 Bekanntmachung Ferienpark Garlau
 Verfahrensschritt - Entscheidung über die Zulassung
 ````````````````````````````````````````````````````
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/uvp_leiste-zulassung.png
+   :width: 500 
  
 Datum der Entscheidung (Pflichtfeld)
 
