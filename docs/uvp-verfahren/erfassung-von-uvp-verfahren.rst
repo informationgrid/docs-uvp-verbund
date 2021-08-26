@@ -228,20 +228,34 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken Sie mit der rechten Maustaste auf eine der markierten Zeilen, wählen Sie aus dem Kontextmenü den Punkt „Gültig bis Datum festlegen“. Es öffnet sich der Dialog „Datum wählen“. Wählen Sie aus dem Kalender das entsprechende Datum aus und betätigen Sie „Übernehmen“. In den ausgewählten Zeilen wurde das angegebene Datum eingetragen.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
    :width: 400
 
-Abb.: Tabelle UVP-Bericht/Antragsunterlagen
+Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen-datum-waehlen.png
+   :width: 400
+
+Abb.: Datum wählen
+
+
 
 **Sortierfunktion für Zeilen in Dokumententabellen**
 
 Über Drag&Drop kann die Reihenfolge von Zeilen in den Dokumententabellen verändert werden. Die Reihenfolge wirkt sich auch auf die Darstellung im Portal aus.
 
-Abb.:
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_sortierfunktion.png
+   :width: 400
+   
+Abb.: Sortierfunktion in Tabellen
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_02.png
+   :width: 400
+
+Abb.: Feld - UVP Bericht / Antragsunterlagen
  
 UVP-Bericht/Antragsunterlagen hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
