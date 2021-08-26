@@ -233,7 +233,7 @@ Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken 
 
 Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen-datum-waehlen.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
    :width: 400
 
 Abb.: Datum wählen
