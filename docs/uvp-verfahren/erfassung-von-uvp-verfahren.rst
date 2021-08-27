@@ -364,7 +364,7 @@ Beispiel: TT.MM.JJJJ
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_auslegungsinformation_02.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
