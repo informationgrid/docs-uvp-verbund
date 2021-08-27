@@ -266,16 +266,27 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokumentupload_02.png
+   :width: 400
+
+Abb.: Dialog Dokument Upload
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_zip-entpacken.png
+   :width: 400
+
+Abb.: Tabelle UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
 Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP Archives bleibt erhalten.
 
 **Berichte und Empfehlungen (optionales Feld)**
  
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_berichte-empfehlungen.png
+   :width: 500
+
+Abb.: Tabelle Berichte und Empfehlungen
+
 Ggf. Berichte und Empfehlungen hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
 Wenn zum Zeitpunkt des Beginns des Beteiligungsverfahrens entscheidungserhebliche Berichte und Empfehlungen betreffend das Vorhaben bei der zuständigen Behörde vorgelegen haben, sind diese nach § 19 Abs. 2 Nr. 2 UVPG zur Einsicht für die Öffentlichkeit auszulegen und daher auch in das UVP-Portal einzustellen. Hierbei kann es sich um bereits vorab eingegangene Stellungnahmen der zu beteiligenden Behörden, aber auch von der zuständigen Behörde eingeholte besondere Gutachten zu dem beabsichtigten Vorhaben handeln (so Wagner in: Hoppe/Beckmann, UVPG-Kommentar, § 9 Rdnr. 32). Da solche Unterlagen nicht unbedingt vorliegen, handelt es sich um kein Pflichtfeld.
@@ -287,7 +298,10 @@ Beispiel: 2016-10-10 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 **Weitere Unterlagen (optionales Feld)**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_weitere-unterlagen.png
+   :width: 500
+
+Abb.: Tabelle Weitere Unterlagen
  
 Ggf. weitere Unterlagen - auch nach Ende der Auslegung - hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
@@ -303,7 +317,13 @@ Verfahrensschritt - Erörterungstermin
    :width: 500 
  
 *Erörterungstermin (Pflichtfeld)*
- 
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_zeitraum-erörterung.png
+   :width: 500
+
+Abb.: Zeitraum der Erörterung
+
+
 Eintragung des Zeitraums der Erörterung.
 
 Wenn der Erörterungstermin an einem Tag stattfinden wird, reicht es aus, das Feld „Am/vom“ auszufüllen. Wird der Erörterungstermin in mehrere Termine aufgeteilt, ist der Zeitraum vom ersten bis zum letzten Termin einzugeben. Eine Listung einzelner Termine ist nicht möglich. Diese Information wird sich aber aus dem Bekanntmachungstext bzw. den Informationen zum Erörterungstermin ergeben, auf die der Nutzer bzw. die Nutzerin des UVP-Portals durch einen Hinweis verwiesen wird.
@@ -312,7 +332,10 @@ Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
 **Information zum Erörterungstermin (optionales Feld)**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_informationen-zum-eroerterungstermin.png
+   :width: 500
+
+Abb.: Tabelle Informationen zum Erörterungstermin
  
 Informationen zum Erörterungstermin hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt – Pflichtfeld.
 
@@ -329,7 +352,10 @@ Verfahrensschritt - Entscheidung über die Zulassung
  
 Datum der Entscheidung (Pflichtfeld)
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_datum-der-entscheidung.png
+   :width: 500
+
+Abb.: Feld Datum der Entscheidung
  
 Eintragung des Datums der Entscheidung.
 
@@ -338,7 +364,10 @@ Beispiel: TT.MM.JJJJ
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_auslegungsinformation_02.png
+   :width: 500
+
+Abb.: Tabelle Auslegungsinformationen
  
 Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
@@ -347,6 +376,12 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 Beispiel: 2017-04-04 Biblis Staatsanzeiger
 
 **Entscheidung (Pflichtfeld)**
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_entscheidung.png
+   :width: 500
+
+Abb.: Tabelle Entscheidung
+
  
 Entscheidung über die Zulassung, ggf. mit Anlagen hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
@@ -363,13 +398,24 @@ Dokument-Upload & Verfahrensschritt löschen
 **Dateien hochladen**
 Über den Link *Dokument-Upload* können Dokumente zum beschreibenden Verfahren hochgeladen werden. Die Upload-Funktionalität steht jedoch erst nach dem ersten Speichern zur Verfügung.
  
-Abb.:
+.. image:: ../img/editor/menu/ige-uvp_menu-speichern.png
+   :width: 150
+
+Abb.: Symbolleiste - Speichern
+
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_auslegungsinformation_02.png
+   :width: 500
+
+Abb.: Tabelle Auslegungsinformationen
  
 Wählen Sie Dokumente durch Betätigen des Dateiauswahl Buttons oder per Drag and Drop auf die weiße Fläche aus. Der Upload beginnt automatisch. Durch Betätigung des Buttons Übernehmen übertragen Sie anschließend die hochgeladenen Dokumente in die Tabelle.
 
 **Link angeben**
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_02.png
+   :width: 300
+
+Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
 
 Tragen Sie hier einen Link zu einem Dokument ein.
 
@@ -379,6 +425,9 @@ Tragen Sie hier einen Link zu einem Dokument ein.
 **Verfahrensschritt löschen**
 Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnitt den Button „Verfahrensschritt löschen“.
 
-Abb.:
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_link.png
+   :width: 300
+
+Abb.: Dialogfenster Dokument-Upload Tab Link zum Dokument
 
 
