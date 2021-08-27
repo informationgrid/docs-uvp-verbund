@@ -20,8 +20,8 @@ Die Dokumentation ist in vier Blöcke untergliedert:
 
    uvp-verfahren/anlegen-von-adressen.rst
    uvp-verfahren/erfassung-von-uvp-verfahren.rst
-   uvp-verfahren/bestehende-adressen-oder-verfahren-bearbeiten.rst
    uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
+   uvp-verfahren/bestehende-adressen-oder-verfahren-bearbeiten.rst
    uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
 
 .. toctree::
