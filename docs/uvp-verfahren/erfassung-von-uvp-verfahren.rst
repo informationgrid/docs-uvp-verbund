@@ -318,7 +318,7 @@ Verfahrensschritt - Erörterungstermin
  
 *Erörterungstermin (Pflichtfeld)*
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_zeitraum-erörterung.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_zeitraum-eroerterung.png
    :width: 500
 
 Abb.: Zeitraum der Erörterung
