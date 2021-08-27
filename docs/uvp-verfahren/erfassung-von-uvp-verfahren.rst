@@ -9,14 +9,14 @@ Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
 
 .. csv-table::
-    :widths: 50 300
+   :widths: 50 300
 
-    Symbol , Bezeichnung
-    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png , "Zulassungsverfahren"
-	.. image:: ../img/editor/icons/uvp_40x40_raumordnung-rot.png , "Vorgelagerte Verfahren - Raumordnung"
-    .. image:: ../img/editor/icons/uvp_40x40_linie-rot.png , "Vorgelagerte Verfahren - (Linienbestimmung nach § 16 Bundesfernstraßengesetz, oder Landstraßenrecht und Raumordnungsverfahren nach ROG mit UVP)"
-	.. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-rot.png , "Vorprüfung, negativ"
-	.. image:: ../img/editor/icons/uvp_40x40_ausland-rot.png , "Ausländische Verfahren"
+   Symbol , Bezeichnung
+   .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png , "Zulassungsverfahren"
+   .. image:: ../img/editor/icons/uvp_40x40_raumordnung-rot.png , "Vorgelagerte Verfahren - Raumordnung"
+   .. image:: ../img/editor/icons/uvp_40x40_linie-rot.png , "Vorgelagerte Verfahren - (Linienbestimmung nach § 16 Bundesfernstraßengesetz, oder Landstraßenrecht und Raumordnungsverfahren nach ROG mit UVP)"
+   .. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-rot.png , "Vorprüfung, negativ"
+   .. image:: ../img/editor/icons/uvp_40x40_ausland-rot.png , "Ausländische Verfahren"
 
   
 .. image:: ../img/verfahren/ige-uvp_verfahrenstypen.png
