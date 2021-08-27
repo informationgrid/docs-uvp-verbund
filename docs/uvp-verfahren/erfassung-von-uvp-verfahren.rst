@@ -398,12 +398,12 @@ Dokument-Upload & Verfahrensschritt löschen
 **Dateien hochladen**
 Über den Link *Dokument-Upload* können Dokumente zum beschreibenden Verfahren hochgeladen werden. Die Upload-Funktionalität steht jedoch erst nach dem ersten Speichern zur Verfügung.
  
-.. image:: ../img/editor/menu/ige-uvp_menu-speichern.png
+.. image:: ../img/editor/menü/ige-uvp_menu-speichern.png
    :width: 150
 
 Abb.: Symbolleiste - Speichern
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_auslegungsinformation_02.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
