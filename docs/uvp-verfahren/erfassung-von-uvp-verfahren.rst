@@ -267,7 +267,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_02.png
-   :width: 400
+   :width: 300
 
 Abb.: Dialog Dokument Upload
  
@@ -353,7 +353,7 @@ Verfahrensschritt - Entscheidung über die Zulassung
 Datum der Entscheidung (Pflichtfeld)
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_datum-der-entscheidung.png
-   :width: 500
+   :width: 150
 
 Abb.: Feld Datum der Entscheidung
  
