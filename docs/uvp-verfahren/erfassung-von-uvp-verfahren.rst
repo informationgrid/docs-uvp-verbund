@@ -266,7 +266,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokumentupload_02.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_02.png
    :width: 400
 
 Abb.: Dialog Dokument Upload
