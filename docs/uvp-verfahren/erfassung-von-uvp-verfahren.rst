@@ -332,7 +332,7 @@ Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
 **Information zum Erörterungstermin (optionales Feld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_informationen-zum-eroerterungstermin.png
+.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_informationen-zum-eroerterungstermin.png
    :width: 500
 
 Abb.: Tabelle Informationen zum Erörterungstermin
