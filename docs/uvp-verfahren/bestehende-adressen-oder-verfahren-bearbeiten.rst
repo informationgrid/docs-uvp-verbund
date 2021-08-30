@@ -12,7 +12,10 @@ Ein bestehendes Verfahren kann geändert werden, in dem es im UVP-Editor aufgeru
 
 Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Verfahren bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen.
 
-Abb.:
+.. image:: ../img/editor/menü/ige-uvp_ige-menu_änderungen-anzeigen.png
+   :width: 500
+
+Abb.: Symbolleiste - Änderungen anzeigen
 
 Es öffnet sich ein gesondertes Dialog-Fenster „Vergleichsansicht“, welches die Informationen vor der Bearbeitung eines Verfahrens bzw. einer Adresse anzeigt (Ausgangsversion) und nach der Bearbeitung (Bearbeitungsversion). In der Differenz-Ansicht sind die gelöschten Daten in Rot dargestellt, die neu eingefügten Daten werden dagegen grün angezeigt. Hilfreich ist diese Ansicht beispielsweise, wenn ein Verfahren bzw. eine Adresse vor längerem zwischengespeichert wurden. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Verfahren bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen.
 
@@ -22,11 +25,17 @@ Rückgängig machen
 
 Mit dem Befehl „Rückgängig“ können Ihre Änderungen seit dem letzten Zwischenspeichern verworfen werden. Die Funktion „Rückgängig“ ist immer dann aktiv, wenn in einem Feld eine Veränderung vorgenommen und das Feld verlassen wurde.
 
-Abb.:
+.. image:: ../img/editor/menü/ige-uvp_ige-menu_rückgängig.png
+   :width: 500
+
+Abb.: Symbolleiste - Rückgängig machen
  
 Klickt man auf den Rückgängig-Button, so öffnet sich ein kleines Fenster, in dem bestätigt werden muss, dass die aktuellen Änderungen tatsächlich verworfen werden sollen.
 
-Abb.:
+.. image:: ../img/editor/menü/ige-uvp_ige-menu_änderungen-verwerfen.png
+   :width: 300
+
+Abb.: Dialogfenster - aktuelle Änderung verwerfen
  
 "Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden. Um das Verfahren bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen, nutzen Sie bitte die Funktion *Änderungen am aktuellen Verfahren/Adresse verwerfen*.
 
@@ -36,11 +45,17 @@ Abb.:
 
 Mit dieser Funktion können Verfahren und Adressen, die schon veröffentlicht wurden, auf den Stand zurückgesetzt werden, den sie bei der Veröffentlichung hatten. Die Bearbeitungen, auch die mit der Funktion Zwischenspeichern gesichert wurden, werden zurückgesetzt und gelöscht. Sie finden den Befehl in Toolbar:
 
-Abb.:
+.. image:: ../img/editor/menü/ige-uvp_aktuelle-änderungen-verwerfen.png
+   :width: 500
+
+Abb.: Symbolleiste - aktuelle Änderung verwerfen
  
 Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen wurden und das Verfahren bzw. die Adresse zwischengespeichert wurden. Klickt man auf das Symbol, so kommt eine Sicherheitsabfrage.
 
-Abb.:
+.. image:: ../img/editor/menü/ige-uvp_ige-menu_alle-änderungen-verwerfen.png
+   :width: 300
+
+Abb.: Dialogfenster - alle Änderungen verwerfen
  
 Wird an dieser Stelle mit "Ja" geantwortet, so werden alle Änderungen verworfen und das Verfahren bzw. die Adresse wird auf die Version der letzten Veröffentlichung zurückgesetzt.
 
