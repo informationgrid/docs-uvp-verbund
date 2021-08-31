@@ -45,7 +45,7 @@ Abb.: Dialogfenster - aktuelle Änderung verwerfen
 
 Mit dieser Funktion können Verfahren und Adressen, die schon veröffentlicht wurden, auf den Stand zurückgesetzt werden, den sie bei der Veröffentlichung hatten. Die Bearbeitungen, auch die mit der Funktion Zwischenspeichern gesichert wurden, werden zurückgesetzt und gelöscht. Sie finden den Befehl in Toolbar:
 
-.. image:: ../img/editor/menü/ige-uvp_menu_änderungen-verwerfen.png
+.. image:: ../img/editor/menü/ige-uvp_ige-menu_änderungen-verwerfen.png
    :width: 300
 
 Abb.: Symbolleiste - aktuelle Änderung verwerfen
