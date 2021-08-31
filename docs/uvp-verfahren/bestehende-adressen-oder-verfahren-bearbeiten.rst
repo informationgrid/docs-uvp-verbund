@@ -13,7 +13,7 @@ Ein bestehendes Verfahren kann geändert werden, in dem es im UVP-Editor aufgeru
 Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Verfahren bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen.
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_änderungen-anzeigen.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - Änderungen anzeigen
 
@@ -26,7 +26,7 @@ Rückgängig machen
 Mit dem Befehl „Rückgängig“ können Ihre Änderungen seit dem letzten Zwischenspeichern verworfen werden. Die Funktion „Rückgängig“ ist immer dann aktiv, wenn in einem Feld eine Veränderung vorgenommen und das Feld verlassen wurde.
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_rückgängig.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - Rückgängig machen
  
@@ -52,8 +52,8 @@ Abb.: Symbolleiste - aktuelle Änderung verwerfen
  
 Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen wurden und das Verfahren bzw. die Adresse zwischengespeichert wurden. Klickt man auf das Symbol, so kommt eine Sicherheitsabfrage.
 
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_alle-änderungen-verwerfen.png
-   :width: 300
+.. image:: ../img/editor/editor/meldung/ige-uvp_ige-menu_alle-änderungen-verwerfen.png
+   :width: 250
 
 Abb.: Dialogfenster - alle Änderungen verwerfen
  
