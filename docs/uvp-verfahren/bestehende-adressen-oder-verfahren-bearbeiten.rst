@@ -32,7 +32,7 @@ Abb.: Symbolleiste - Rückgängig machen
  
 Klickt man auf den Rückgängig-Button, so öffnet sich ein kleines Fenster, in dem bestätigt werden muss, dass die aktuellen Änderungen tatsächlich verworfen werden sollen.
 
-.. image:: ../img/editor/meldungen/ige-uvp_ige-menu_änderungen-verwerfen.png
+.. image:: ../img/editor/meldungen/ige-uvp_aktuelle-änderungen-verwerfen.png
    :width: 300
 
 Abb.: Dialogfenster - aktuelle Änderung verwerfen
