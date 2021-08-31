@@ -12,7 +12,7 @@ Soll ein Verfahren oder eine Adresse komplett gelöscht werden, ist der Befehl *
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
 
 .. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_löschen.png
-   :width: 250
+   :width: 150
 
 Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
 
@@ -128,7 +128,7 @@ Auf zwei Wegen können Adressangaben einer übergeordneten Adresse in eine nachg
   b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen übernommen werden sollen. Über das Kontextmenu (rechter Mausklick) die Option *Adressangaben in nachgeordnete Adressen übernehmen* auswählen. Die Adressangaben der gewählten Adresse werden in alle nachgeordneten Adressen übernommen. 
   
   .. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_adressen-übernehmen.png
-   :width: 250
+   :width: 150
 
 Abb.: Kontextmenü - Adressangaben in nachgeordnete Adressen übernehmen
   
