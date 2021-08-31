@@ -7,12 +7,12 @@ Verfahren / Adressen löschen
 Soll ein Verfahren oder eine Adresse komplett gelöscht werden, ist der Befehl *Ausgewähltes Verfahren/Teilbaum löschen* aus der Toolbar auszuwählen. Alternativ kann die Funktion *Löschen* auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_verfahren-adresse-löschen.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
 
 .. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_löschen.png
-   :width: 500
+   :width: 300
 
 Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
 
@@ -20,7 +20,7 @@ Wichtig ist, dass zuvor das Verfahren bzw. die Adresse markiert wird, welche(s) 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Verfahren bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf "Ok" werden die Daten endgültig gelöscht.
 
 .. image:: ../img/editor/meldungen/ige-uvp_neuen-md-s-verwerfen.png
-   :width: 300
+   :width: 250
 
 Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
 
@@ -48,14 +48,14 @@ Abb.: Symbolleiste - (Verfahren/Adressen) kopieren
 Alternativ können Sie nach dem Markieren des Verfahrens / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
 .. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_kopieren.png
-   :width: 400
+   :width: 300
 
 Abb.: Kontextmenü - Verfahren/Adressen kopieren
 
 Zum Einfügen markieren Sie bitte das Verfahren bzw. die Adresse, die hierarchisch über dem einzufügenden Verfahren bzw. der einzufügenden Adresse steht. Ist die entsprechende Adresse bzw. das entsprechende Verfahren markiert, so kann mit dem Icon „Einfügen“ der Toolbar die Kopie eingefügt werden. 
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
 
@@ -69,7 +69,7 @@ Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selekt
 Nach dem Einfügen wird das Symbol der kopierten Adresse bzw. des kopierten Verfahrens im Strukturbaum rot dargestellt. Es befindet sich somit im Bearbeitungszustand. 
 
 .. image:: ../img/editor/verfahren/ige-uvp_strukturbaum_kopieren-einfügen.png
-   :width: 500
+   :width: 400
 
 Abb.: Strukturbaum - Einfügen - Symbol rot
 
@@ -91,24 +91,24 @@ Um ein Verfahren, eine Adresse oder einen Teilbaum zu verschieben, markieren Sie
 Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Verfahren/Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Toolbar aufgerufen werden. 
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_ausschneiden.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - .. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 500
+   :width: 400
 
 Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
  
 Das Verfahren, die Adresse oder der Teilbaum befinden sich nun im Zwischenspeicher. Zu erkennen ist dieses im Strukturbaum. Das ausgeschnittene Verfahren wird dort nur noch grau dargestellt. 
 
 .. image:: ../img/editor/verfahren/ige-uvp_strukturbaum_ausschneiden.png
-   :width: 500
+   :width: 300
 
 Abb.: Strukturbaum - Einfügen - Symbol rot
 
 Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Verfahren bzw. die Adresse, die hierarchisch über dem einzufügenden Verfahren oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Toolbar auszuwählen. 
 
 .. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 500
+   :width: 300
 
 Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
 
