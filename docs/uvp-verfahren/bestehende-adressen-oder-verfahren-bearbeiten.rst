@@ -32,7 +32,7 @@ Abb.: Symbolleiste - Rückgängig machen
  
 Klickt man auf den Rückgängig-Button, so öffnet sich ein kleines Fenster, in dem bestätigt werden muss, dass die aktuellen Änderungen tatsächlich verworfen werden sollen.
 
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_änderungen-verwerfen.png
+.. image:: ../img/editor/meldungen/ige-uvp_ige-menu_änderungen-verwerfen.png
    :width: 300
 
 Abb.: Dialogfenster - aktuelle Änderung verwerfen
@@ -52,7 +52,7 @@ Abb.: Symbolleiste - aktuelle Änderung verwerfen
  
 Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen wurden und das Verfahren bzw. die Adresse zwischengespeichert wurden. Klickt man auf das Symbol, so kommt eine Sicherheitsabfrage.
 
-.. image:: ../img/editor/editor/meldung/ige-uvp_ige-menu_alle-änderungen-verwerfen.png
+.. image:: ../img/editor/meldungen/ige-uvp_ige-menu_alle-änderungen-verwerfen.png
    :width: 250
 
 Abb.: Dialogfenster - alle Änderungen verwerfen
