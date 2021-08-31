@@ -20,7 +20,7 @@ Wichtig ist, dass zuvor das Verfahren bzw. die Adresse markiert wird, welche(s) 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Verfahren bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf "Ok" werden die Daten endgültig gelöscht.
 
 .. image:: ../img/editor/meldungen/ige-uvp_neuen-md-s-verwerfen.png
-   :width: 250
+   :width: 200
 
 Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
 
