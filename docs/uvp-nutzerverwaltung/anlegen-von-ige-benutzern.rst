@@ -20,7 +20,7 @@ Abb.: Portal-Anmeldung - Anmeldeformular
 Um dem neuen Nutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der UVP-Editor-Nutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
 
 .. image:: ../img/nutzerverwaltung/ige-uvp_gruppen-zuweisen.png
-   :width: 300
+   :width: 500
 
 Abb.: Nutzer Gruppenberechtigung zuordnen
 
