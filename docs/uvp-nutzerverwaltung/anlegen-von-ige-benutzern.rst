@@ -8,10 +8,10 @@ Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter de
 
 Um dem neuen Nutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der UVP-Editor-Nutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
 
-.. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-anlegen.png
+.. image:: ../img/nutzerverwaltung/ige-uvp_registrieren.png
    :width: 500
 
-Abb.: Nutzeradministration
+Abb.: Portal-Anmeldung - Registrieren
 
  
 Nachdem gehen Sie bitte wie folgt vor:
