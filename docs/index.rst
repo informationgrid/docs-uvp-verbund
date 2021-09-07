@@ -6,11 +6,12 @@
 Erfassungsanleitung
 =================================
 
-Die Dokumentation ist in vier Blöcke untergliedert:
+Die Dokumentation ist in fünf Blöcke untergliedert:
   - Block 1 beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
   - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
-  - Block 3 beschreibt die Benutzerverwaltung für Administratoren.
-  - Block 4 beschreibt wo Nutzer die Hilfe finden, (für Administratoren) wie Webseiten zu Bebauungsplänen im Kartenclient erfasst werden und wie die Zählung für die EU-Statistik erfolgt.
+  - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
+  - Block 4 beschreibt die Nutzerverwaltung für Administratoren.
+  - Block 5 beschreibt für Katalog-Administratoren die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool
 
 .. toctree::
    :maxdepth: 2
