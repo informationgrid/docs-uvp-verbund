@@ -1,5 +1,5 @@
 
-.. image:: ../img/portal/logo-mit-tag.svg
+.. image:: img/portal/logo-mit-tag.svg
    :width: 150
 
 
