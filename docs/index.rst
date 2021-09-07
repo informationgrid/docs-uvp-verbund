@@ -1,3 +1,8 @@
+
+.. image:: ../img/portal/logo-mit-tag.svg
+   :width: 150
+
+
 UVP-Verbund - Erfassungsanleitung
 =================================
 
