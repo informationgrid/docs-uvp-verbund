@@ -1,9 +1,9 @@
 
 .. image:: img/portal/logo-mit-tag.svg
-   :width: 150
+   :width: 300
 
 
-UVP-Verbund - Erfassungsanleitung
+Erfassungsanleitung
 =================================
 
 Die Dokumentation ist in vier Blöcke untergliedert:
