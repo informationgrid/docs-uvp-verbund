@@ -15,14 +15,14 @@ Die Dokumentation ist in fünf Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: UVP-Editor - Allgemeines
+   :caption: Allgemeines zum UVP-Editor
 
    uvp-editor/registrierung-anmeldung
    uvp-editor/allgemeine-informationen
 
 .. toctree::
    :maxdepth: 2
-   :caption: UVP-Verfahren - Erfassung
+   :caption: Erfassung von UVP-Verfahren
 
    uvp-verfahren/anlegen-von-adressen.rst
    uvp-verfahren/erfassung-von-uvp-verfahren.rst
@@ -46,7 +46,7 @@ Die Dokumentation ist in fünf Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: UVP-Editor - Nutzerverwaltung
+   :caption: Nutzerverwaltung im UVP-Editor
 
    uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
@@ -57,7 +57,7 @@ Die Dokumentation ist in fünf Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: UVP-Portal - Administration 
+   :caption: Administration im UVP-Portal
    
    administration/ige-uvp_katalogeinstellungen.rst
    administration/bauleitplanung_upload.rst
