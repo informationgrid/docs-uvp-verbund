@@ -7,15 +7,27 @@ In der Gruppenadministration können Sie:
 
  • Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe. Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppenverwaltung.png
+   :width: 500
+
+Abb.: Gruppenadministration
+
 
  • Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppe-anlegen.png
+   :width: 500
+
+Abb.: Gruppe anlegen
+
 
  • Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppe-zeile-löschen.png
+   :width: 500
+
+Abb.: Gruppe löschen
+
  
 **Wichtig:** *Alle Änderungen an den Gruppen müssen über Speichern abgeschlossen werden, damit die Änderungen wirksam werden und nicht verloren gehen.*
 
@@ -26,7 +38,11 @@ Sie können Schreibberechtigungen für Verfahren vergeben. Wählen sie dazu den 
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorhaben:
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppen-berechtigung-verfahren.png
+   :width: 500
+
+Abb.: Berechtigungen für Verfahren
+
  
  •**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für dieses und alle nachgeordneten Verfahren eine Schreibberechtigung. Sie können unterhalb dieses Verfahrens und allen nachgeordneten Verfahren neue Verfahren anlegen.
 
@@ -40,6 +56,12 @@ Abb.:
 Sie können Schreibberechtigungen für Adressen vergeben. Wählen Sie dazu die Adresse unter Berechtigungen für Adressen aus dem Hierarchiebaum aus, für die Sie oder ab der Sie die Schreibberechtigung vergeben wollen. Ein Klick auf die Adresse färbt sie blau ein. Über die Schaltfläche > können Sie die markierte Adresse in die Liste der Berechtigungen übernehmen.
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
+
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppen-berechtigung-adressen.png
+   :width: 500
+
+Abb.: Berechtigungen für Adressen
+
  
  •**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für diese Adresse und alle nachgeordneten Adressen eine Schreibberechtigung. Sie können unterhalb dieser und allen nachgeordneten Adressen neue Adressen anlegen.
 
@@ -52,21 +74,33 @@ Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
 **Root-Verfahren und -Adressen anlegen**
 Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Verfahren und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neuangelegten Verfahrens bzw. der neuangelegten Adresse.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_root-verfahren.png
+   :width: 500
+
+Abb.: Root-Verfahren und -Adressen anlegen
+
  
 **Wichtig:** *Durch dieses Recht hat die Gruppe nicht automatisch das Schreibrecht auf schon vorhandene Teilbäume, für die ihr nicht explizit Schreibrechte eingeräumt wurden.*
 
 **Qualitätssichernder**
 Über die Berechtigung Qualitätssichernder werden die Nutzer der Gruppe für alle Verfahren und Adressen, für die sie ein Schreibrecht besitzen, zu Qualitätssichernden. Sie haben also das Recht (und auch die Pflicht), an sie überwiesene Verfahren und Adressen zur Veröffentlichung freizugeben bzw. endgültig zu löschen oder bei Qualitätsmängeln die Verfahren bzw. Adressen an den Zuständigen zurück zu überweisen.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_qs.png
+   :width: 500
+
+Abb.: Qualitätssichernder
+
  
 **Hinweis:** *Dieses Recht wird nur im Zusammenhang mit der eingeschalteten Workflow-Kontrolle in den Katalogeinstellungen wirksam.
 
 **Zugeordnete Nutzer**
 Auf dem dritten Reiter werden alle Benutzer aufgelistet, welche der gewählten Gruppe zugeordnet wurden.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_zugeordnete-nutzer.png
+   :width: 500
+
+Abb.: Zugeordnete Nutzer
+
 
 **Die spezielle Gruppe administrators des Katalogadministrators**
 Dem Katalogadministrator wird immer automatisch die Gruppe administrators zugewiesen. Diese Zuweisung kann nicht verändert werden. Die Gruppe hat Schreibrechte auf den gesamten Katalog (natürlich einschließlich des Rechts auf Anlegen von neuen Verfahren und Adressen auf der obersten Ebene). Die Gruppe hat feste Rechte und ist in jedem Katalog automatisch vorhanden. Sie lässt sich nicht über die Gruppenadministration pflegen und wird daher auch nicht in der Liste der Gruppen angezeigt.

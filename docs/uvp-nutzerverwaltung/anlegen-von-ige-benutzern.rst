@@ -8,7 +8,10 @@ Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter de
 
 Um dem neuen Nutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der UVP-Editor-Nutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-anlegen.png
+   :width: 500
+
+Abb.: Nutzeradministration
 
  
 Nachdem gehen Sie bitte wie folgt vor:
@@ -22,19 +25,26 @@ Klicken Sie auf die Schalfläche Nutzer anlegen (unterhalb des Hierarchiebaums).
 **Hinweis:**
 *Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.*
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-importieren.png
+   :width: 200
+
+Abb.: Portalbenutzer importieren
  
 **Hinweis**
-Ein Portal-Nutzer, der bereits einem UVP-Editor-Katalog zugeordnet ist, kann keinem zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit UVP-Editor-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.
+*Ein Portal-Nutzer, der bereits einem UVP-Editor-Katalog zugeordnet ist, kann keinem zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit UVP-Editor-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.*
 
 1. Für den neuen UVP-Editor-Nutzer müssen nun einige Nutzerdaten (Name, E-Mail, Institution) erfasst werden.
 
 2. Weisen Sie dem neuen UVP-Editor-Nutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
 
-Abb.:
+.. image:: ../img/nutzerverwaltung/ige-uvp_gruppen-zuweisen.png
+   :width: 200
+
+Abb.: Nutzergruppen zuweisen
  
 3.	Mit *Speichern* (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
 
 
 
-**Hinweis:** *Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
+**Hinweis:**
+*Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
