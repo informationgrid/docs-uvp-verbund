@@ -11,8 +11,8 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
   - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
   - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
   - Block 4 Beantwortung von häufig gestellten Fragen.
-  - Block 5 beschreibt (für Administratoren) die Nutzerverwaltung.
-  - Block 6 beschreibt (für Katalog-Administratoren) die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
+  - Block 5 (für Administratoren) beschreibt  die Nutzerverwaltung.
+  - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
 
 .. toctree::
    :maxdepth: 2
