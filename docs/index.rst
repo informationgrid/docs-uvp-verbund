@@ -3,7 +3,7 @@
    :width: 300
 
 
-Erfassungsanleitung
+Bedienungsanleitung
 =================================
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
