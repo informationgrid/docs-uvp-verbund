@@ -14,4 +14,4 @@ Abb.: Löschen von Verfahren - Fenster mit Warnung
 .. image:: ../img/statistik/ige-uvp_statistik.png
    :width: 500
    
-Abb.: Katalogadministratoren - UVP Statistik
+Abb.: UVP Statistik - im Menü sichtbar für Katalogadministratoren
