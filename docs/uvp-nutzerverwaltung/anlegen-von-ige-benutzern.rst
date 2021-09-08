@@ -1,5 +1,5 @@
-Neuanlegen eines IGE-Nutzers
-============================
+Nutzer neu anlegen
+==================
 
 Vorbereitende Schritte:
 
