@@ -12,12 +12,8 @@ letzte Änderung: 09.09.2021
 
 Was ist neu in den Versionen?
 
-  - Version: 5.8
-    - Protokollierung von gelöschten Unterdokumenten
-    - RSS-Feed für den UVP-Katalog
-    - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
-  - Version: 5.7 - 05.02.2021
-    - Protokollierung von gelöschten Unterdokumenten
+  - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
+  - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
 
 
 
