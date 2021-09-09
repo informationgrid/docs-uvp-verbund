@@ -4,7 +4,9 @@
 
 
 Bedienungsanleitung
-=================================
+===================
+
+InGrid-Version: 5.5.8
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
   - Block 1 beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
