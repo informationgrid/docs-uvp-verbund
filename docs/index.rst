@@ -11,7 +11,7 @@ InGrid-Version: 5.5.8
 letzte Änderung: 09.09.2021
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
-  - Block 1 beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
+  - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
   - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
   - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
   - Block 4 Beantwortung von häufig gestellten Fragen.
@@ -21,6 +21,8 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 .. toctree::
    :maxdepth: 2
    :caption: Allgemeines zum UVP-Editor
+   
+   Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet
 
    uvp-editor/registrierung-anmeldung
    uvp-editor/allgemeine-informationen
