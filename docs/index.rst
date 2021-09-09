@@ -22,8 +22,6 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :maxdepth: 2
    :caption: Allgemeines zum UVP-Editor
    
-Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet.
-
    uvp-editor/registrierung-anmeldung
    uvp-editor/allgemeine-informationen
 
