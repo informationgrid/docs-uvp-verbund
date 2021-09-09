@@ -44,7 +44,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    statistik/eu-statistik.rst
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Fragen & Antworten 
    
    faq/faq.rst
