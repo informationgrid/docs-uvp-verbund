@@ -23,7 +23,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
   - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Allgemeines zum UVP-Editor
    
    uvp-editor/registrierung-anmeldung
