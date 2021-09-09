@@ -11,11 +11,8 @@ InGrid-Version: 5.5.8
 letzte Änderung: 09.09.2021
 
 Was ist neu in den Versionen?
-
   - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
   - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
-
-
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
   - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
