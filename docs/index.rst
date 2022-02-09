@@ -2,7 +2,8 @@
 .. image:: img/portal/logo-mit-tag.svg
    :width: 300
 
-Bedienungsanleiung UVP Editor / UVP-Portal   
+Bedienungsanleiung UVP Editor / UVP-Portal
+==========================================   
    
 Version der Bedienungsanleitung
  - InGrid-Version: 5.10
