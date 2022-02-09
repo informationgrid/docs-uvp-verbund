@@ -11,18 +11,18 @@ Version der Bedienungsanleitung
 - Status: in Bearbeitung
 
 Was ist neu in den Versionen?
-  - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
-  - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
+ - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
+ - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
 
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
-  - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
-  - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
-  - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
-  - Block 4 Beantwortung von häufig gestellten Fragen.
-  - Block 5 (für Administratoren) beschreibt  die Nutzerverwaltung.
-  - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
+ - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
+ - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
+ - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
+ - Block 4 Beantwortung von häufig gestellten Fragen.
+ - Block 5 (für Administratoren) beschreibt  die Nutzerverwaltung.
+ - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
 
 .. toctree::
    :maxdepth: 2

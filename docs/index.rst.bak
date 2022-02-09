@@ -4,7 +4,6 @@
    
    
 Version der Bedienungsanleitung
--------------------------------
 
 - InGrid-Version: 5.10
 - Release 21.10.2021
@@ -76,14 +75,12 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 
 Installierte InGrid-Version auf UVP-Verbund.de
-----------------------------------------------
 
 - InGrid-Version: 5.10.1.3
 - Update am: 30.11.2021   
 
 
 InGrid-Version von Entwicklern breitgestellt
---------------------------------------------
 
 - InGrid-Version: 5.10
 - Release 21.10.2021
