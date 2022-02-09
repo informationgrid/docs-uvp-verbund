@@ -1,33 +1,21 @@
 
 .. image:: img/portal/logo-mit-tag.svg
    :width: 300
-
-InGrid-Version von Entwicklern breitgestellt
-============================================
-
-InGrid-Version: 5.10
-Release 21.10.2021
-Update auf UVP-Verbund.de am: 30.11.2021
-
-
-Installierte InGrid-Version auf UVP-Verbund.de
-==============================================
-
-InGrid-Version: 5.10.1.3
-Update am: 30.11.2021
-
-
+   
+   
 Version der Bedienungsanleitung
-===============================
+-------------------------------
 
-InGrid-Version: 5.10
-Release 21.10.2021
-letzte Änderung: 09.02.2022
-Status: in Bearbeitung
+- InGrid-Version: 5.10
+- Release 21.10.2021
+- letzte Änderung: 09.02.2022
+- Status: in Bearbeitung
 
 Was ist neu in den Versionen?
   - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
   - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
+
+
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
   - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
@@ -85,5 +73,23 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    administration/ige-uvp_katalogeinstellungen.rst
    administration/bauleitplanung_upload.rst
+   
+
+Installierte InGrid-Version auf UVP-Verbund.de
+----------------------------------------------
+
+- InGrid-Version: 5.10.1.3
+- Update am: 30.11.2021   
+
+
+InGrid-Version von Entwicklern breitgestellt
+--------------------------------------------
+
+- InGrid-Version: 5.10
+- Release 21.10.2021
+- Update auf UVP-Verbund.de am: 30.11.2021
+
+
+
 
 
