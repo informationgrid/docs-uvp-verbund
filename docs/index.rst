@@ -4,11 +4,11 @@
    
    
 Version der Bedienungsanleitung
-
 - InGrid-Version: 5.10
 - Release 21.10.2021
 - letzte Änderung: 09.02.2022
 - Status: in Bearbeitung
+
 
 Was ist neu in den Versionen?
  - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
@@ -75,13 +75,11 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 
 Installierte InGrid-Version auf UVP-Verbund.de
-
 - InGrid-Version: 5.10.1.3
 - Update am: 30.11.2021   
 
 
 InGrid-Version von Entwicklern breitgestellt
-
 - InGrid-Version: 5.10
 - Release 21.10.2021
 - Update auf UVP-Verbund.de am: 30.11.2021
