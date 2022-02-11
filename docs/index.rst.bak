@@ -12,6 +12,13 @@ Version der Bedienungsanleitung
 
 
 Was ist neu in den Versionen?
+ - Version: 5.11
+  - Link zu UVP-G in Hilfe zu Feld “UVP-Nummer” integriert
+  - Aktualisierung der UVP Nummern Sachsen
+  - Optimierte Darstellung der Verfahren in der Karte
+  - Button zum Sammeldownload aller Dokumente auf Detailergebnisseiten (Portalansicht)
+  - Beschränkung der Vorhaben im Überblick auf der Portal Startseite auf UVP- und Ausländische Verfahren
+
  - Version: 5.5.6 - Optionale Indexierung von neg. Vorprüfungen ohne Raumbezug
  - Version: 5.5.4 - Protokollierung von gelöschten Unterdokumenten
 

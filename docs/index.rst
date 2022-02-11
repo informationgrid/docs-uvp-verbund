@@ -81,16 +81,11 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    administration/ige-uvp_katalogeinstellungen.rst
    administration/bauleitplanung_upload.rst
    
-
-Installierte InGrid-Version auf UVP-Verbund.de
- - InGrid-Version: 5.10.1.3
- - Update wurde installiert am: 30.11.2021   
-
-
-InGrid-Version von Entwicklern breitgestellt
- - InGrid-Version: 5.11
- - Release: 27.01.2022
- - Update auf UVP-Verbund.de am: 16.02.2022
+.. toctree::
+   :maxdepth: 2
+   :caption: Informationen zu den Software-Versionen
+   
+   administration/ige-uvp_Versionen.rst
 
 
 
