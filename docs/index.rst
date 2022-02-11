@@ -70,7 +70,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: Infos zu den Software-Versionen
+   :caption: History Software-Versionen
    
    administration/ige-uvp_Versionen.rst
 
