@@ -77,13 +77,13 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 
 Installierte InGrid-Version auf UVP-Verbund.de
  - InGrid-Version: 5.10.1.3
- - Update am: 30.11.2021   
+ - Update wurde installiert am: 30.11.2021   
 
 
 InGrid-Version von Entwicklern breitgestellt
- - InGrid-Version: 5.10
- - Release 21.10.2021
- - Update auf UVP-Verbund.de am: 30.11.2021
+ - InGrid-Version: 5.11
+ - Release: 27.01.2022
+ - Update auf UVP-Verbund.de am: 16.02.2022
 
 
 
