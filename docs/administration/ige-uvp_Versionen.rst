@@ -26,8 +26,7 @@ InGrid-Version von Entwicklern breitgestellt
   - Aktualisierung der UVP Nummern Sachsen
   - Optimierte Darstellung der Verfahren in der Karte
   - Button zum Sammeldownload aller Dokumente auf Detailergebnisseiten (Portalansicht)
-  - Beschränkung der Vorhaben auf der Portal Startseite auf UVP- und Ausländische Verfahren
-    "Aktuell werden alle Verfahrenstypen für die Darstellung der Teaser auf der Startseite hinzugezogen. Da die Darstellung von neg. Vorprüfungen aber nicht von allen Partnern gewollt wird, wird die Darstellung insboesndere von neg. Vorprüfungen als Teaser diesen Partnern nicht gerecht. Die Auswahl der Teaser auf der Startseite soll daher auf UVP- und Ausländische Verfahren begrenzt werden."
+  - Beschränkung der Vorhaben auf der Portal Startseite auf UVP- und Ausländische Verfahren "Aktuell werden alle Verfahrenstypen für die Darstellung der Teaser auf der Startseite hinzugezogen. Da die Darstellung von neg. Vorprüfungen aber nicht von allen Partnern gewollt wird, wird die Darstellung insboesndere von neg. Vorprüfungen als Teaser diesen Partnern nicht gerecht. Die Auswahl der Teaser auf der Startseite soll daher auf UVP- und Ausländische Verfahren begrenzt werden."
 	
  - Version 5.10 - Verbesserung der Portal-Suchfunktion
 
