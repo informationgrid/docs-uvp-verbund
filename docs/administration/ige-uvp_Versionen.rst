@@ -2,18 +2,18 @@ InGrid - Versionen
 ====================
 
 Version der Bedienungsanleitung
- - InGrid-Version: 5.10
- - letzte Änderung: 09.02.2022
+ - InGrid-Version: 5.11.0
+ - letzte Änderung: 22.02.2022
  - Status: Bearbeitung abgeschlossen
 
 
 Installierte InGrid-Version auf UVP-Verbund.de
- - InGrid-Version: 5.10.1.3
- - Update wurde installiert am: 30.11.2021   
+ - InGrid-Version: 5.11.0
+ - Update wurde installiert am: 16.02.2022
 
 
 InGrid-Version von Entwicklern breitgestellt
- - InGrid-Version: 5.11
+ - InGrid-Version: 5.11.0
  - Release: 27.01.2022
  - Update auf UVP-Verbund.de am: 16.02.2022
  
