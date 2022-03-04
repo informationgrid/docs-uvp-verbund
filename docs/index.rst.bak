@@ -6,8 +6,8 @@ Bedienungsanleiung UVP Editor / UVP-Portal
 ==========================================   
    
 Version der Bedienungsanleitung
- - InGrid-Version: 5.10
- - letzte Änderung: 09.02.2022
+ - InGrid-Version: 5.11.0
+ - letzte Änderung: 22.02.2022
  - Status: Bearbeitung abgeschlossen
 
 
