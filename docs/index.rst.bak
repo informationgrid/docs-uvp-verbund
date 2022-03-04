@@ -50,10 +50,8 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    faq/faq.rst
    
-   Kontakt
-   _______
    
-   https://www.uvp-verbund.de/kontakt
+.. _Kontakt: https://www.uvp-verbund.de/kontakt
    
    
 .. toctree::
