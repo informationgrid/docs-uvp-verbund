@@ -52,6 +52,10 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    https://www.uvp-verbund.de/kontakt
    
+   `Kontakt`_
+   
+.. _Kontakt: https://www.uvp-verbund.de/kontakt
+   
 .. toctree::
    :maxdepth: 2
    :caption: Nutzerverwaltung im UVP-Editor
