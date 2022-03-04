@@ -52,7 +52,9 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    https://www.uvp-verbund.de/kontakt
    
-   `Kontakt <https://www.uvp-verbund.de/kontakt>`_
+   `Kontakt`_
+   
+.. _Kontakt: https://www.uvp-verbund.de/kontakt
    
 .. toctree::
    :maxdepth: 2
