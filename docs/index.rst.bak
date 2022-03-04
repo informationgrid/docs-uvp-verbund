@@ -50,10 +50,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    faq/faq.rst
    
-
-.. _Kontakt: https://www.uvp-verbund.de/kontakt
-   :ref:`Kontakt <Kontakt>`
-   
+   `Kontakt<https://www.uvp-verbund.de/kontakt>`
    
 .. toctree::
    :maxdepth: 2
