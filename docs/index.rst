@@ -2,7 +2,7 @@
 .. image:: img/portal/logo-mit-tag.svg
    :width: 300
 
-Bedienungsanlteiung UVP Editor / UVP-Portal
+Bedienungsanleitung UVP Editor / UVP-Portal
 ==========================================   
    
 Version der Bedienungsanleitung
