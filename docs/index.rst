@@ -3,12 +3,16 @@
    :width: 300
 
 Bedienungsanleitung UVP Editor (IGE-NG) / UVP-Portal
-==========================================   
+==================================================== 
    
 Version der Bedienungsanleitung
- - IGE-NG-Version: 0.4.0
- - letzte Änderung: 01.06.2022
+ - IGE-NG-Version: 0.0.0-3787
+ - letzte Änderung: 31.05.2022
  - Status: in Bearbeitung
+ 
+
+.. image:: img/uebersicht/screenshot 2022-05-31 at 16-07-17 ige-ng_uebersicht.png
+   :width: 500
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
