@@ -2,8 +2,10 @@
 .. image:: img/portal/logo-mit-tag.svg
    :width: 300
 
-Bedienungsanleitung UVP Editor (IGE-NG) / UVP-Portal
-==================================================== 
+Bedienungsanleitung UVP-Portal
+==============================
+UVP Editor (IGE-NG)
+===================
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3787
