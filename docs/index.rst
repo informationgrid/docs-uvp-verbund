@@ -2,13 +2,13 @@
 .. image:: img/portal/logo-mit-tag.svg
    :width: 300
 
-Bedienungsanleitung UVP Editor / UVP-Portal
+Bedienungsanleitung UVP Editor (IGE-NG) / UVP-Portal
 ==========================================   
    
 Version der Bedienungsanleitung
- - InGrid-Version: 5.11.0
- - letzte Änderung: 22.02.2022
- - Status: Bearbeitung abgeschlossen
+ - IGE-NG-Version: 0.4.0
+ - letzte Änderung: 01.06.2022
+ - Status: in Bearbeitung
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
