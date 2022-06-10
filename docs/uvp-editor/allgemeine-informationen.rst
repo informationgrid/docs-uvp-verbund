@@ -29,6 +29,8 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 .. image:: ../img-ige-ng/editor/ige-ng_icon_ordner.png
    :width: 50
 
+Abb.: UVP-Editor - Ordnersymbol
+
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :width: 300
    
