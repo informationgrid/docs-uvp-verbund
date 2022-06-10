@@ -29,7 +29,7 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :width: 300
    
-Abb.: UVP-Editor - Aufbau der Datenstruktur
+Abb.: UVP-Editor - Aufbau der Ordnerstruktur
 
 Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird der Strukturbaum geschlossen.
  

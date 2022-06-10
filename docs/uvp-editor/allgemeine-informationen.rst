@@ -26,6 +26,9 @@ Strukturierung der Daten
 
 Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
+.. image:: ../img-ige-ng/editor/ige-ng_ordner.png
+   :width: 300
+
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :width: 300
    
