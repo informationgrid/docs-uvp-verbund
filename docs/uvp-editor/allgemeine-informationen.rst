@@ -75,7 +75,7 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 Toolbar 
 -------
 
-    .. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
+.. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
    :width: 300
 
 
