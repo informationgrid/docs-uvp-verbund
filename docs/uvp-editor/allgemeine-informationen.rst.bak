@@ -27,7 +27,7 @@ Strukturierung der Daten
 Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
-   :width: 200
+   :width: 300
    
 Abb.: UVP-Editor - Aufbau der Datenstruktur
 
@@ -45,13 +45,13 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 **Vorhaben**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
-   :width: 200
+   :width: 300
 
 
 **Adressen**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
-   :width: 200
+   :width: 300
 
 
 
