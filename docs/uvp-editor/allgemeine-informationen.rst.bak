@@ -44,7 +44,7 @@ Abb.: UVP-Editor - Aufbau der Datenstruktur
 
 Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wieder geschlossen.
 
-.. image:: ../img-ige-ng/editor/ige/ige-ng_benutzeroberlaeche.png
+.. image:: ../img-ige-ng/editor/ige/ige-ng_benutzeroberflaeche.png
    :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
