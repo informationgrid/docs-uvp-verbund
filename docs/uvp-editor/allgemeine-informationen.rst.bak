@@ -94,7 +94,10 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     Symbol , Bezeichnung
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_verfahren_neu_anlegen.png , Vorhaben / Adressen anlegen
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ordner_neu_anlegen.png , Ordner anlegen
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_druckansicht.png , Vorschau und Druckansicht 
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_kopieren-einfuegen.png , Kopieren, Ausschneiden, Einfügen
+	.. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_loeschen.png , Löschen
+	.. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_vor.png , vor
+	.. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_zurueck.png , zurück
 
 
 
