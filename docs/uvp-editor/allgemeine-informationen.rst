@@ -40,9 +40,14 @@ Icons im Strukturbaum
 
 Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ besitzt ein eigenes Symbol (Icon), welches im Strukturbaum neben dem Verfahrensnamen bzw. dem Adresstitel dargestellt wird. 
 
-**Hinweis:** *Die blauen und roten Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
+**Hinweis:** *Die orangen und schwarzen Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
 
 **Verfahren**
+
+.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-verfahren.png
+   :width: 200
+
+
 
 .. csv-table::
     :widths: 50 300
@@ -57,6 +62,10 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 	
 
 **Adressen**
+
+.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-verfahren.png
+   :width: 200
+
 
 .. csv-table::
     :widths: 50 50

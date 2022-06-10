@@ -31,12 +31,8 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
    
 Abb.: UVP-Editor - Aufbau der Datenstruktur
 
-Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wieder geschlossen.
-
-.. image:: ../img-ige-ng/editor/ige/ige-ng_benutzeroberflaeche.png
-   :width: 200
-   
-Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
+Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird der Strukturbaum geschlossen.
+ 
 
 
 Icons im Strukturbaum
@@ -44,9 +40,14 @@ Icons im Strukturbaum
 
 Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ besitzt ein eigenes Symbol (Icon), welches im Strukturbaum neben dem Verfahrensnamen bzw. dem Adresstitel dargestellt wird. 
 
-**Hinweis:** *Die blauen und roten Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
+**Hinweis:** *Die orangen und schwarzen Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
 
 **Verfahren**
+
+.. image:: ../img-ige-ng/editor/ige-ng_icon-typen-verfahren.png
+   :width: 200
+
+
 
 .. csv-table::
     :widths: 50 300
