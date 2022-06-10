@@ -80,19 +80,19 @@ Menue
    :width: 300
 
 
-Toolbar 
--------
+Symbolleiste
+------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
    :width: 300
    
-Abb.: Toolbar (Symbolleiste)
+Abb.: Symbolleiste
 
 
 .. image:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
    :width: 300
 
-Abb.: Toolbar Untermenü
+Abb.: Symbolleiste Untermenü
 
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
