@@ -70,6 +70,11 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse, der Datensatz wurde bearbeitet, aber noch nicht veröffentlicht.
 
 
+Menue
+-----
+
+.. image:: ../img-ige-ng/editor/ige-ng_menue.png
+   :width: 300
 
 
 Toolbar 
@@ -89,8 +94,8 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_verfahren_neu_anlegen.png , Neu anlegen (Verfahren / Adressen)
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ordner_neu_anlegen.png , Neuen Ordner anlegen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_verfahren_neu_anlegen.png , Vorhaben / Adressen anlegen
+    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_ordner_neu_anlegen.png , Ordner anlegen
     .. image:: ../img/editor/toolbar/ige-uvp_toolbar_vorschau_und_druckansicht.png , Vorschau und Druckansicht 
 
 
