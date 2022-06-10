@@ -48,32 +48,10 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
    :width: 200
 
 
-
-.. csv-table::
-    :widths: 50 300
-
-    Symbol , Bezeichnung
-    .. image:: ../img/editor/icons/uvp_41x41_ordner.png , Ordner
-	.. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau.png , Zulassungsverfahren
-	.. image:: ../img/editor/icons/uvp_40x40_linie-blau.png , Vorgelagerte Verfahren - Linien (Linienbestimmungen nach §16 BFStrG Landesstraßenrecht)
-	.. image:: ../img/editor/icons/uvp_40x40_raumordnung-blau.png , Vorgelagerte Verfahren - Raumordnungsverfahren nach ROG mit UVP
-	.. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-blau.png, Vorprüfung negativ
-	.. image:: ../img/editor/icons/uvp_40x40_ausland-blau.png , Ausländische Vorhaben
-	
-
 **Adressen**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
    :width: 200
-
-
-.. csv-table::
-    :widths: 50 50
-
-    Symbol , Bezeichnung
-    .. image:: ../img/editor/icons/uvp_40x40_institution_blau_01.png , Institution
-    .. image:: ../img/editor/icons/uvp_40x40_einheit_blau_01.png , Einheit
-    .. image:: ../img/editor/icons/uvp_40x40_person_blau_01.png , Person
 
 
 
