@@ -95,12 +95,12 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. image:: ../img-ige-ng/editor/ige-uvp_toolbar_verfahren_neu_anlegen.png , Vorhaben / Adressen anlegen
-    .. image:: ../img-ige-ng/editor/ige-uvp_toolbar_ordner_neu_anlegen.png , Ordner anlegen
-    .. image:: ../img-ige-ng/editor/ige-uvp_toolbar_vorschau_und_kopieren-einfuegen.png , Kopieren, Ausschneiden, Einfügen
-	.. image:: ../img-ige-ng/editor/ige-uvp_toolbar_vorschau_und_loeschen.png , Löschen
-	.. image:: ../img-ige-ng/editor/ige-uvp_toolbar_vorschau_und_vor.png , vor
-	.. image:: ../img-ige-ng/editor/ige-uvp_toolbar_vorschau_und_zurueck.png , zurück
+    .. image:: ../img-ige-ng/editor/ige-ng_toolbar_verfahren_neu_anlegen.png , Vorhaben / Adressen anlegen
+    .. image:: ../img-ige-ng/editor/ige-ng_toolbar_ordner_neu_anlegen.png , Ordner anlegen
+    .. image:: ../img-ige-ng/editor/ige-ng_toolbar_vorschau_und_kopieren-einfuegen.png , Kopieren, Ausschneiden, Einfügen
+	.. image:: ../img-ige-ng/editor/ige-ng_toolbar_vorschau_und_loeschen.png , Löschen
+	.. image:: ../img-ige-ng/editor/ige-ng_toolbar_vorschau_und_vor.png , vor
+	.. image:: ../img-ige-ng/editor/ige-ng_toolbar_vorschau_und_zurueck.png , zurück
 
 
 

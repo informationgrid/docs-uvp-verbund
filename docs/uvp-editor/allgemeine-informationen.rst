@@ -41,7 +41,7 @@ Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. d
 Icons in der Datenstruktur
 --------------------------
 
-Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. 
+Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen. 
 
 **Vorhaben**
 
