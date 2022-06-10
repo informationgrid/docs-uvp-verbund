@@ -4,19 +4,8 @@ Allgemeines zum UVP-Editor
 UVP-Editor im Ausgangszustand
 ----------------------------
  
-Nach dem Laden des Editors wird zuerst das Dashboard gezeigt. Hier wird dargestellt, welche Verfahren bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
+Nach dem Laden des Editors wird zuerst die Übersicht angezeigt. Hier wird dargestellt, welche Verfahren bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
 Es gibt zwei Darstellungen: die Verfahren/Adressen, für welche der User selbst verantwortlich ist („Meine Datensätze“), sowie eine Übersicht über alle Verfahren/Adressen des Katalogs („Alle Datensätze“). 
-
-Im Bereich „Meine Datensätze“ gibt es drei Tabellen: 
-
-1. Verfahren in Bearbeitung
-Alle Verfahren des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Verfahren, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Verfahren, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
-
-2. Veröffentlichte Verfahren 
-Alle Verfahren des Benutzers, die bereits veröffentlicht sind. 
-
-3. Adressen in Bearbeitung
-Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Adressen, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Adressen, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    :width: 500
