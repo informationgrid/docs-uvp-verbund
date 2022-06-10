@@ -21,14 +21,6 @@ Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    :width: 500
    
-Abb.: UVP-Editor - Übersicht
-
-Im Bereich „Alle Datensätze“ gibt es nur die Tabellen, in denen die Verfahren und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die so angezeigten Verfahren bzw. Adressen sind mit Links hinterlegt, so dass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. 
-
-.. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
-   :width: 500
-   
-Abb.: UVP-Editor - Dashboard - Alle Datensätze
 
 
 Aufbau der Benutzeroberfläche
@@ -40,19 +32,19 @@ Aufbau der Benutzeroberfläche
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
 
 
-Strukturbaum
-------------
+Strukturierung der Daten
+------------------------
 
-Der UVP-Editor verfügt über einen Strukturbaum, den Sie über den Menüpunkt *Hierarchie & Erfassung* aufrufen. Er unterteilt sich in Verfahren und Adressen:
+Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
-.. image:: ../img/editor/ige/ige-uvp_strukturbaum_02.png
+.. image:: ../img-ige-ng/editor/ige-ng_datenschruktur.png
    :width: 200
    
-Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
+Abb.: UVP-Editor - Aufbau der Datenstruktur
 
-Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen.
+Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wieder geschlossen.
 
-.. image:: ../img/editor/ige/ige-uvp_knoten.png
+.. image:: ../img-ige-ng/editor/ige/ige-ng_benutzeroberlaeche.png
    :width: 200
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche 
