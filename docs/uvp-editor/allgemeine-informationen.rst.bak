@@ -26,7 +26,7 @@ Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also
 Aufbau der Benutzeroberfläche
 ------------------------------
 
-.. image:: ../img-ige-ng/editor/ige/ige-uvp_benutzeroberflaeche_02.png
+.. image:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    :width: 500
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
@@ -37,7 +37,7 @@ Strukturierung der Daten
 
 Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
-.. image:: ../img-ige-ng/editor/ige-ng_datenschruktur.png
+.. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :width: 200
    
 Abb.: UVP-Editor - Aufbau der Datenstruktur
