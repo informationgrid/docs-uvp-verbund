@@ -71,21 +71,14 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 
-Ausgegraute Verfahren/Adressen im Strukturbaum
-----------------------------------------------
-
-Teilweise werden im Strukturbaum Verfahren oder Adressen nicht schwarz, sondern nur in grau angezeigt. Dieses hängt mit der Zuweisung von Berechtigungen zusammen. Ändern kann ein Erfasser nur die Verfahren/Adressen, die im Strukturbaum schwarz dargestellt sind.
-
 
 Toolbar 
 -------
 
-Die Toolbar hat folgenden grundlegenden Aufbau: 
+    .. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
+   :width: 300
 
-.. csv-table::
-    :widths: 150 15 50
 
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_01.png , ... , .. image:: ../img/editor/toolbar/ige-uvp_toolbar_02.png
 
 
 Abb.: Toolbar (Symbolleiste)
