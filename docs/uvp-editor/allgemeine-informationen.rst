@@ -8,7 +8,7 @@ Nach dem Laden des Editors wird zuerst die Übersicht angezeigt. Hier wird darge
 Es gibt zwei Darstellungen: die Verfahren/Adressen, für welche der User selbst verantwortlich ist („Meine Datensätze“), sowie eine Übersicht über alle Verfahren/Adressen des Katalogs („Alle Datensätze“). 
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
-   :width: 600
+   :width: 500
    
 
 
@@ -16,7 +16,7 @@ Aufbau der Benutzeroberfläche
 ------------------------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
-   :width: 600
+   :width: 500
    
 Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
 

@@ -65,9 +65,9 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     :widths: 50 70 500
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau_01.png , blau , Verfahren bzw Adresse ist veröffentlicht
-    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot_01.png , rot , Verfahren bzw Adresse ist in Bearbeitung
-    .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_blau-rot_01.png , blau und rot , Wird ein blaues Icon rot überlagert so gibt es eine veröffentlichte Version des Verfahrens bzw der Adresse und eine bearbeitete Version.
+    .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png , schwarz , Das Vorhaben bzw. die Adresse ist veröffentlicht
+    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse, der Datensatz wurde bearbeitet, aber noch nicht veröffentlicht.
 
 
 
