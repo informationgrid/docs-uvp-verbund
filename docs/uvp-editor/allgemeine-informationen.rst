@@ -42,9 +42,9 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 
 **Hinweis:** *Die orangen und schwarzen Symbole werden im Strukturbaum des UVP-Editors verwendet (Backend). Die schwarzen Symbole erscheinen in der Trefferliste der Portaloberfläche (Frontend).*
 
-**Verfahren**
+**Vorhaben**
 
-.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-verfahren.png
+.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
    :width: 200
 
 
