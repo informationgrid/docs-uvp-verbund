@@ -63,7 +63,7 @@ Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ b
 
 **Adressen**
 
-.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-verfahren.png
+.. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
    :width: 200
 
 
