@@ -35,8 +35,8 @@ Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. d
  
 
 
-Icons im Strukturbaum
----------------------
+Icons in der Datenstruktur
+--------------------------
 
 Im UVP-Editor gibt es verschiedene Verfahrenstypen bzw. Adresstypen. Jeder Typ besitzt ein eigenes Symbol (Icon), welches im Strukturbaum neben dem Verfahrensnamen bzw. dem Adresstitel dargestellt wird. 
 
