@@ -21,11 +21,11 @@ Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    :width: 500
    
-Abb.: UVP-Editor - Übersicht
+Abb.: UVP-Editor - Dashboard - Meine Datensätze
 
 Im Bereich „Alle Datensätze“ gibt es nur die Tabellen, in denen die Verfahren und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die so angezeigten Verfahren bzw. Adressen sind mit Links hinterlegt, so dass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. 
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
+.. image:: ../img/statistik/statistik_dashboard_02.png
    :width: 500
    
 Abb.: UVP-Editor - Dashboard - Alle Datensätze
