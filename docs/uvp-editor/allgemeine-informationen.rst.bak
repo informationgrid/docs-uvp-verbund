@@ -159,7 +159,7 @@ Zwischenspeichern, Speichern & Veröffentlichen
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_speichern.png
+.. image:: ../img-ige-ng/editor/ige-ng_speichern.png
    :width: 300
 
 Abb.: Speichern
@@ -167,7 +167,7 @@ Abb.: Speichern
 
 Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
 
-.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_veroeffentlichen.png
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
    :width: 300
 
 Abb.: Veröffentlichen
