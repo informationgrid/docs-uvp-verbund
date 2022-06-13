@@ -150,7 +150,7 @@ Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt
 .. image:: ../img-ige-ng/editor/ige-ng_feldtyp_auswahl.png
    :width: 500
 
-Abb.: Feldtyp - Auswahlliste
+Abb.: Feldtyp - Auswahl
 
 
 Zwischenspeichern, Speichern & Veröffentlichen
