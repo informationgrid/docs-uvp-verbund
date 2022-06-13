@@ -223,9 +223,9 @@ Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu di
 UVP-Editor schließen
 --------------------
 
-Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
+Soll der UVP-Editor beendet werden, muss auf der Seite (oben rechts) der Punkt für die Profilverwaltung betätigt werden.
 
 .. image:: ../img-ige-ng/editor/ige-ng_abmeldung.png
    :width: 300
 
-Abb.: Menü - Editor schließen
+Abb.: Profilverwaltung - Editor schließen
