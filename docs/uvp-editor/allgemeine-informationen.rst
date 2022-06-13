@@ -115,36 +115,11 @@ Eingabefelder
 
 Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften oder durch ein Sternchen. 
 
-.. csv-table::
-    :widths: 150 300
-
-    .. image:: ../img/editor/icons/uvp_feldueberschrift.png, Überschrift Eingabefeld (fett - Pflichtfeld)
-    .. image:: ../img/editor/icons/uvp_eingabefeld_duenn.png, Überschrift Eingabefeld (optional)
-    .. image:: ../img/editor/icons/uvp_eingabefeld.png, Überschrift Tabellenspalte (mit Sternchen - Pflichtfeld)	
-´
-
-Auf- und Zuklappen der Eingabefelder
-------------------------------------
-
-Die Eingabemaske der Erfassungsmaske ist für eine bessere Übersicht in Abschnitte unterteilt. In der Grundeinstellung des UVP-Editors ist nur das erste Eingabefeld ausgeklappt. Um alle Felder auszuklappen, muss das Symbol rechts in der Toolbar betätigt werden, zum Ausblenden aller Felder das Symbol erneut anklicken.
-
-.. image:: ../img/editor/ige/ige-uvp_kopf_01.png
+.. image:: ../img-ige-ng/editor/ige-ng_felder.png
    :width: 500
 
-Abb.: Symbol zum Auf- und Zuklappen
+Abb.: Eingabefelder mit * sind Pflichtfelder
 
-.. csv-table::
-    :widths: 50 300
-
-    .. image:: ../img/editor/icons/uvp_aufklappen.png, Nur Pflichtfelder aufklappen
-    .. image:: ../img/editor/icons/uvp_zuklappen.png, Alle Abschnitte zuklappen
-
-Desweitern gibt es die Möglichkeit, die Abschnitte einzeln auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Abschnittnamen klicken.
-
-.. image:: ../img/editor/icons/uvp_auf-zuklappen.png
-   :width: 500
-
-Abb.: Abschnitt auf- oder zuklappen
 
 
 Unterschiedliche Feldtypen
@@ -152,13 +127,13 @@ Unterschiedliche Feldtypen
 
 **Textfelder**
 
-Zum Füllen von Textfeldern klicken Sie einfach in das Feld. 
+Zum Füllen von Textfeldern klicken Sie in das Feld. 
 
 Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
 
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
-.. image:: ../img/editor/ige/ige-uvp_feldtyp_textfeld.png
+.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_textfeld.png
    :width: 500
 
 Abb.:  Feldtyp - Textfeld
