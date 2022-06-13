@@ -176,10 +176,10 @@ Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das In
 
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
 
-.. image:: ../img/editor/meldungen/ige-uvp_abschließendes-speichern.png
-   :width: 200
+.. image:: ../img/editor/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
+   :width: 300
 
-Abb.: Hinweis - Alle Pflichtfelder befüllen
+Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion Zwischenspeichern. 
 

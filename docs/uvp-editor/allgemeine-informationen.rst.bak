@@ -158,13 +158,19 @@ Zwischenspeichern, Speichern & Veröffentlichen
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
-.. csv-table::
-    :widths: 50 300
 
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_zwischenspeichern.png, Zwischenspeichern
-    .. image:: ../img/editor/toolbar/ige-uvp_toolbar_abschließendes_speichern_und_veröffentlichen.png, Abschließendes Speichern & Veröffentlichen
+.. image:: ../img/editor/ige-uvp_feldtyp_speichern.png
+   :width: 300
 
-Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind. 
+Abb.: Speichern
+
+
+Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
+
+.. image:: ../img/editor/ige-uvp_feldtyp_veroeffentlichen.png
+   :width: 300
+
+Abb.: Veröffentlichen
 
 Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das Internet freigegeben. 
 
