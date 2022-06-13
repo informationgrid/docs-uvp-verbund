@@ -140,11 +140,13 @@ Abb.:  Feldtyp - Textfeld
 
 
 **Datumsangaben**
+
 Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufgeklappt.
 
 
 
 **Auswahllisten**
+
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
 .. image:: ../img-ige-ng/editor/ige-ng_feldtyp_auswahl.png
