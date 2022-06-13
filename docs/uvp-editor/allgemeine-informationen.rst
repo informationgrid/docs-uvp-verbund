@@ -29,7 +29,7 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 .. image:: ../img-ige-ng/editor/ige-ng_icon_ordner.png
    :width: 50
 
-Abb.: UVP-Editor - Ordnersymbol
+Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
 
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :width: 300
@@ -68,9 +68,9 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     :widths: 50 70 500
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. image:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png , schwarz , Das Vorhaben bzw. die Adresse ist veröffentlicht
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse, der Datensatz wurde bearbeitet, aber noch nicht veröffentlicht.
+    .. image:: ../img-ige-ng/editor/ige-ng_icon-gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../img-ige-ng/editor/ige-ng_icon-veroeffentlicht.png , schwarz , Das Vorhaben bzw. die Adresse ist veröffentlicht
+    .. image:: ../img-ige-ng/editor/ige-ng_icon-in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse, der Datensatz wurde bearbeitet, aber noch nicht veröffentlicht.
 
 
 Menue
