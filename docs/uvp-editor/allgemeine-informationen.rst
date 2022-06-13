@@ -138,33 +138,19 @@ Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke
 
 Abb.:  Feldtyp - Textfeld
 
+
+**Datumsangaben**
+Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufgeklappt.
+
+
+
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../img/editor/ige/ige-uvp_feldtyp_auswahlliste.png
+.. image:: ../img/editor/ige/ige-uvp_feldtyp_auswahl.png
    :width: 500
 
 Abb.: Feldtyp - Auswahlliste
-
-**Tabellen**
-In den Tabellen werden Zeilen durch einen einfachen Mausklick markiert. Sie können mehrere Zeilen markieren, in dem Sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
-
-Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie die markierten Zeilen bearbeiten (z.B. löschen) können. 
-
-Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle. 
-
-.. image:: ../img/editor/ige/ige-uvp_feldtyp_tabelle.png
-   :width: 500
-
-Abb.: Feldtyp - Tabelle
-
-**Dialoge**
-Manche Felder können nur über eigene Dialoge ausgefüllt werden. Die Dialoge sind direkt an den jeweiligen Feldern beschrieben.
-
-.. image:: ../img/editor/ige/ige-uvp_feldtyp_dialog.png
-   :width: 500
-
-Abb.: Feldtyp - Dialoge
 
 
 Zwischenspeichern, Speichern & Veröffentlichen
