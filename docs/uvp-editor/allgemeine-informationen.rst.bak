@@ -160,6 +160,7 @@ Zwischenspeichern, Speichern & Veröffentlichen
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
+Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
 
 .. image:: ../img-ige-ng/editor/ige-ng_speichern.png
    :width: 300
@@ -167,14 +168,13 @@ Im UVP-Editor werden zwei Speicherarten unterschieden:
 Abb.: Speichern
 
 
-Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
+Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das Internet freigegeben.
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
    :width: 300
 
 Abb.: Veröffentlichen
 
-Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das Internet freigegeben. 
 
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
 
@@ -191,17 +191,20 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
-.. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_dialog.png
-   :width: 200
+.. image:: ../img-ng/editor/ige-ng_veroeffentlicheung-planen.png
+   :width: 300
+   
+.. image:: ../img/editor/ige-ng_veroeffentlicheung-planen-kalender.png
+   :width: 300
 
 Abb.: Dialog - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
-.. image:: ../img/editor/verfahren/ige-uvp_zeitgesteuerte-veröffentlichung_kopf.png
+.. image:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
    :width: 500
 
-Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums und Button für das Bearbeiten der Veröffenlichungsdatums
 
 
 Session abgelaufen
