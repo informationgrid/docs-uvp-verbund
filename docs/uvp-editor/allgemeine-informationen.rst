@@ -191,10 +191,10 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlicheung-planen.png
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen.png
    :width: 300
    
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlicheung-planen-kalender.png
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
    :width: 300
 
 Abb.: Dialog - Auswahl für Veröffentlichungsdatum
