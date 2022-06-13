@@ -212,8 +212,8 @@ Session abgelaufen
 
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
-.. image:: ../img/editor/meldungen/ige-uvp_session-abgelaufen.png
-   :width: 200
+.. image:: ../img-ige-ng/editor/ige-ng_session-abgelaufen.png
+   :width: 300
 
 Abb.: Meldung - Session abgelaufen
 
@@ -225,16 +225,7 @@ UVP-Editor schließen
 
 Soll der UVP-Editor beendet werden, muss in der Menüleiste (rechts oben) der Menüpunkt *SCHLIESSEN* betätigt werden.
 
-.. image:: ../img/editor/menü/ige-uvp_abmelden.png
-   :width: 150
+.. image:: ../img-ige-ng/editor/ige-ng_abmeldung.png
+   :width: 300
 
 Abb.: Menü - Editor schließen
- 
-Es erscheint eine Abfrage, ob der UVP-Editor verlassen werden soll. Wird der Button *Verlassen* betätigt, schließt sich der Editor samt der Registerkarte. 
-
-.. image:: ../img/editor/meldungen/ige-uvp_webseite-verlassen.png
-   :width: 200
-
-Abb.: Frage - Webseite verlassen?
- 
-Sie müssen sich noch aus dem UVP-Portal abmelden. Hierfür betätigen Sie in der Seite Anmeldung auf den Link: *Logout*.
