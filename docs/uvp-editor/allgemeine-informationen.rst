@@ -147,7 +147,7 @@ Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufge
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../img-ige-ng/editor/ige-uvp_feldtyp_auswahl.png
+.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_auswahl.png
    :width: 500
 
 Abb.: Feldtyp - Auswahlliste
@@ -159,7 +159,7 @@ Zwischenspeichern, Speichern & Veröffentlichen
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
 
-.. image:: ../img-ige-ng/editor/ige-uvp_feldtyp_speichern.png
+.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_speichern.png
    :width: 300
 
 Abb.: Speichern

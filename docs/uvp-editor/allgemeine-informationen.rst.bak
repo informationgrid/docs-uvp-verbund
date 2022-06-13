@@ -147,7 +147,7 @@ Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufge
 **Auswahllisten**
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../img/editor/ige-uvp_feldtyp_auswahl.png
+.. image:: ../img-ige-ng/editor/ige-uvp_feldtyp_auswahl.png
    :width: 500
 
 Abb.: Feldtyp - Auswahlliste
@@ -159,7 +159,7 @@ Zwischenspeichern, Speichern & Veröffentlichen
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
 
-.. image:: ../img/editor/ige-uvp_feldtyp_speichern.png
+.. image:: ../img-ige-ng/editor/ige-uvp_feldtyp_speichern.png
    :width: 300
 
 Abb.: Speichern
@@ -167,7 +167,7 @@ Abb.: Speichern
 
 Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
 
-.. image:: ../img/editor/ige-uvp_feldtyp_veroeffentlichen.png
+.. image:: ../img-ige-ng/editor/ige-uvp_feldtyp_veroeffentlichen.png
    :width: 300
 
 Abb.: Veröffentlichen
@@ -176,7 +176,7 @@ Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das In
 
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
 
-.. image:: ../img/editor/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
+.. image:: ../img-ige-ng/editor/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
