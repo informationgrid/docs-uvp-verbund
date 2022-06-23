@@ -67,7 +67,7 @@ Abb.: Zeile löschen
 **Datenschutz:**
 *In den Adressen vom Typ "Person" gibt es die Checkbox "Daten nicht anzeigen". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Datensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution angezeigt.*
 
-.. image:: ../img-ige-ng/adressen/ige-ng_daten-uebergeordnete-organisation-verwenden.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
    :width: 500
 
 App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
