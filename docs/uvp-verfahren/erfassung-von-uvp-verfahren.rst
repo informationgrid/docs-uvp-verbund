@@ -7,16 +7,10 @@ Verfahrenstypen
 
 Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_icons-typen-vorhaben.png
 
-.. csv-table::
-   :widths: 50 300
+   :width: 500
 
-   Symbol , Bezeichnung
-   .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png, "Zulassungsverfahren"
-   .. image:: ../img/editor/icons/uvp_40x40_raumordnung-rot.png, "Vorgelagerte Verfahren - Raumordnung"
-   .. image:: ../img/editor/icons/uvp_40x40_linie-rot.png, "Vorgelagerte Verfahren - (Linienbestimmung nach § 16 Bundesfernstraßengesetz, oder Landstraßenrecht und Raumordnungsverfahren nach ROG mit UVP)"
-   .. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-rot.png, "Vorprüfung, negativ"
-   .. image:: ../img/editor/icons/uvp_40x40_ausland-rot.png, "Ausländische Verfahren"
 
 
 Anlegen eines UVP-Verfahrens
@@ -25,7 +19,7 @@ Anlegen eines UVP-Verfahrens
 Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
-.. image:: ../img/verfahren/ige-uvp_ordner-anlegen.png
+.. image:: ../img-ige-ng/verfahren/ige-ng_ordner-erstellen.png
    :width: 200
 
 Abb.: Ordner anlegen
@@ -36,12 +30,12 @@ Abb.: Ordner anlegen
 
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
-.. image:: ../img/verfahren/ige-uvp_menü_verfahren-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben-anlegen.png
    :width: 100
    
 Abb.: UVP-Verfahren anlegen über die Symbolleiste
    
-.. image:: ../img/verfahren/ige-uvp_kontext-menü_verfahren-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_kontext-menü_verfahren-anlegen.png
    :width: 200
 
 Abb.: UVP-Verfahren anlegen über das Kontextmenü (rechte Maustaste)

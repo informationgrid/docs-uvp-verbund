@@ -7,16 +7,10 @@ Verfahrenstypen
 
 Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_icons-typen-vorhaben.png
 
-.. csv-table::
-   :widths: 50 300
+   :width: 500
 
-   Symbol , Bezeichnung
-   .. image:: ../img/editor/icons/uvp_40x40_zulassungsverfahren_rot.png, "Zulassungsverfahren"
-   .. image:: ../img/editor/icons/uvp_40x40_raumordnung-rot.png, "Vorgelagerte Verfahren - Raumordnung"
-   .. image:: ../img/editor/icons/uvp_40x40_linie-rot.png, "Vorgelagerte Verfahren - (Linienbestimmung nach § 16 Bundesfernstraßengesetz, oder Landstraßenrecht und Raumordnungsverfahren nach ROG mit UVP)"
-   .. image:: ../img/editor/icons/uvp_40x40_vorprüfung-negativ-rot.png, "Vorprüfung, negativ"
-   .. image:: ../img/editor/icons/uvp_40x40_ausland-rot.png, "Ausländische Verfahren"
 
 
 Anlegen eines UVP-Verfahrens
@@ -25,7 +19,7 @@ Anlegen eines UVP-Verfahrens
 Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
-.. image:: ../img/verfahren/ige-uvp_ordner-anlegen.png
+.. image:: ../img-ige-ng/verfahren/ige-ng_ordner-erstellen.png
    :width: 200
 
 Abb.: Ordner anlegen
@@ -156,6 +150,8 @@ Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht
 Abb.: Auswahlfeld: UVP-Nummer
  
 Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
+
+Referenz: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Hinweis:** *Die UVP-Nummern dienen der Einordnung des Zulassungsverfahrens in die Kategorien, nach denen auf der Portalseite gesucht werden kann. Außerdem sind sie wichtig zur Erfüllung der Berichtspflicht nach Artikel 12 der UVP-Richtlinie 2011/92/EU, nach der alle sechs Jahre die bis dahin durchgeführten UVP-Verfahren ausgezählt und der EU-Kommission unter Zuordnung zu den Kategorien mitgeteilt werden müssen. Die Angabe einer UVP Nummer ist daher verpflichtend für alle Verfahren.*
 

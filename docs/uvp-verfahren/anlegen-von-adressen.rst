@@ -15,7 +15,7 @@ Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werde
 Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken und warten bis die Initialisierung abgeschlossen ist. Sobald die Eingabefelder im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Für die Strukturierung der Adressdaten kann zwischen folgenden Adresstypen gewählt werden: Institution, Einheit und Person.
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-anlegen.png
-   :width: 200
+   :width: 500
 
 Abb.: Auswahl der Adresstypen
 
