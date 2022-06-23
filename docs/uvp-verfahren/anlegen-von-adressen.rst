@@ -59,7 +59,7 @@ Abb.: Hinweis - alle Pflichtfelder ausfüllen
 Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen und bei Auswahlfeldern einen anderen Listeneintrag auswählen.
 
 
-.. image:: ../img-ige-ng/adressen/ige-ng_zeile-löschen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen-felder-loeschen.png
    :width: 500
 
 Abb.: Zeile löschen
@@ -67,30 +67,30 @@ Abb.: Zeile löschen
 **Datenschutz:**
 *In den Adressen vom Typ "Person" gibt es die Checkbox "Daten nicht anzeigen". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Datensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution angezeigt.*
 
-.. image:: ../img/editor/adressen/ige-uvp_daten-nicht-anzeigen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_daten-uebergeordnete-organisation-verwenden.png
    :width: 500
 
-App.: Checkbox Daten nicht anzeigen
+App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 **Achtung:**
 *Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend und wird empfohlen.* 
 
 Unter der Rubrik „Zugeordnete Verfahren“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Verfahren sichtbar, die mit dem Adressdatensatz verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch bei einem Verfahren diese Adresse als Kontaktadresse (Ansprechpartner) angegeben, so erscheint dieses Verfahren anschließend automatisch in der Liste der zugeordneten Verfahren bei der angegebenen Adresse.
 
-.. image:: ../img/editor/adressen/ige-uvp_zugeordnete-verfahren.png
+.. image:: ../img-ige-ng/adressen/ige-ng_zugeordnete-datensaetze.png
    :width: 500 
 
-Abb.: Zugeordnete Verfahren
+Abb.: Zugeordnete Datensätze
 
 **Hinweis**
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
 
-Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Toolbar-Button *Abschließendes Speichern & Veröffentlichen* für das Internet freigegeben werden. 
+Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Button *Veröffentlichen* für das Internet freigegeben werden. 
 
-.. image:: ../img/editor/adressen/ige-uvp_speichern-und-veröffentlichen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_veroeffentlichen.png
    :width: 500 
 
-Abb.: Abschließendes Speichern & Veröffentlichen
+Abb.: Veröffentlichen
 
 
 
