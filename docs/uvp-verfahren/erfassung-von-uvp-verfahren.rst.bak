@@ -22,18 +22,24 @@ Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für e
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
    :width: 300
 
-Abb.: Ordner anlegen
+Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
 
 
 .. **Hinweis:**
 *Wenn Sie im Strukturbaum (z.B. unter Verfahren) keine Ordner oder Verfahren anlegen können, so fehlen Ihnen dafür die Schreibrechte. Wählen Sie einen entsprechenden Ordner für den Sie Schreibrechte erhalten haben oder wenden Sie sich an Ihren Administrator.*
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
+   :width: 500
+   
+Abb.: fehlende Berechtigungen
+
+
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
-   :width: 300
+   :width: 500
    
-Abb.: UVP-Verfahren anlegen über die Symbolleiste
+Abb.: Vorhaben anlegen
 
 
 Verfahrensschritte
@@ -42,11 +48,6 @@ Verfahrensschritte
 Abschnitt – Allgemein
 ``````````````````````
 
-
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-allgemein.png
-   :width: 500
-
-Abb.: Abschnitt Allgemein
 
 **Titel (Pflichtfeld)**
 
@@ -59,7 +60,7 @@ Abb.: Engabefeld: Titel
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_allgemeine-vorhabenbeschreibung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_eingabefeld_vorhabenbeschreibung.png
    :width: 500
 
 Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
@@ -179,8 +180,6 @@ Abb.: Auswahlbutton: Verfahrensschritte
 Verfahrensschritt - Öffentliche Auslegung
 `````````````````````````````````````````
  
-.. image:: ../img/editor/verfahrensschritte/uvp_leiste-oeffentliche-auslegung.png
-   :width: 500 
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
@@ -307,10 +306,7 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 Verfahrensschritt - Erörterungstermin
 ``````````````````````````````````````
 
-.. image:: ../img/editor/verfahrensschritte/uvp_leiste-eroerterungstermin.png
-   :width: 500 
- 
-*Erörterungstermin (Pflichtfeld)*
+
 
 .. image:: ../img/editor/verfahrensschritte/ige-uvp_zeitraum-eroerterung.png
    :width: 500
