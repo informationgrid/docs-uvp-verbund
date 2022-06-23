@@ -7,7 +7,7 @@ Verfahrenstypen
 
 Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_icons-typen-vorhaben.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_icons-typen-vorhaben.png
 
    :width: 500
 
@@ -19,7 +19,7 @@ Anlegen eines UVP-Verfahrens
 Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_ordner-erstellen.png
    :width: 300
 
 Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
@@ -28,7 +28,7 @@ Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
 .. **Hinweis:**
 *Wenn Sie im Strukturbaum (z.B. unter Verfahren) keine Ordner oder Verfahren anlegen können, so fehlen Ihnen dafür die Schreibrechte. Wählen Sie einen entsprechenden Ordner für den Sie Schreibrechte erhalten haben oder wenden Sie sich an Ihren Administrator.*
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_neuen-datensatz-anlegen.png
    :width: 500
    
 Abb.: fehlende Berechtigungen
@@ -36,7 +36,7 @@ Abb.: fehlende Berechtigungen
 
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_neuen-datensatz-anlegen.png
    :width: 500
    
 Abb.: Vorhaben anlegen
@@ -48,19 +48,18 @@ Verfahrensschritte
 Abschnitt – Allgemein
 ``````````````````````
 
-
 **Titel (Pflichtfeld)**
 
 In dieses Feld geben Sie eine kurze und prägnante Bezeichnung des Verfahrens an.
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_titel.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_titel.png
    :width: 500
 
 Abb.: Engabefeld: Titel
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_eingabefeld_vorhabenbeschreibung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_vorhabenbeschreibung.png
    :width: 500
 
 Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
@@ -74,18 +73,18 @@ Das Feld muss ausgefüllt werden, damit das Zulassungsverfahren abgespeichert we
 **Kontaktdaten der verfahrensführenden Dienststelle / 
 Kontakt deutsche Behörde (Pflichtfeld)**
 
-An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weitergehende Informationen zum aktuellen Verfahren/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend.
+An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weitergehende Informationen zum aktuellen vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend.
  
 Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des Verweises (Ansprechpartner) automatisch mit der Verknüpfung einer Adresse eingetragen. In der rechten Spalte erscheint der Link zur eigentlichen Adresse.
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_kontaktdaten.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_kontaktdaten.png
    :width: 500
 
 Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
-.. image:: ../img/editor/verfahren/ige-uvp_fenster_adresse-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_fenster_adresse-hinzufügen.png
    :width: 500
 
 Abb.: Fenster: Adresse hinzufügen
@@ -101,7 +100,7 @@ Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Kl
 
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
-.. image:: ../img/editor/verfahren/ige-uvp_hierarchiebaum.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_hierarchiebaum.png
    :width: 500
 
 Abb.: Adressen im Hierarchiebaum
@@ -109,7 +108,7 @@ Abb.: Adressen im Hierarchiebaum
 Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
 
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_kontaktdaten.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_kontaktdaten.png
    :width: 500
 
 Abb.: Eingabefeld Kontaktdaten: Kopieren einer Adresse
@@ -122,14 +121,14 @@ Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens 
 
 Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
 
-.. image:: ../img/editor/verfahren/ige-uvp_raumbezug-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug-hinzufügen.png
    :width: 500
 
 Abb.: Raumbezug hinzufügen
 
 **Eingang des Antrags (*neues Feld*)**
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_eingang-des-Antrags.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_eingang-des-Antrags.png
    :width: 200
 
 Abb.: Auswahlfeld: Eingang des Antrags
@@ -138,7 +137,7 @@ Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht
 
 **UVP-Nummer auswählen**
 
-.. image:: ../img/editor/verfahren/ige-uvp_eingabefeld_uvp-nummer.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_uvp-nummer.png
    :width: 500
 
 Abb.: Auswahlfeld: UVP-Nummer
@@ -153,7 +152,7 @@ Referenz: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Vorprüfungen durchgeführt**
 
-.. image:: ../img/editor/verfahren/ige-uvp_checkbox_vorprüfung-durchgeführt.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_checkbox_vorprüfung-durchgeführt.png
    :width: 500
 
 Abb.: Checkbox: Vorprüfung durchgeführt
@@ -165,14 +164,14 @@ Verfahrensschritt hinzufügen
 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
-.. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritt-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_button_verfahrensschritt-hinzufügen.png
    :width: 150
 
 Abb.: Button: Verfahrensschritt hinzufügen
  
 Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
-.. image:: ../img/editor/verfahren/ige-uvp_button_verfahrensschritte.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_button_verfahrensschritte.png
    :width: 400
 
 Abb.: Auswahlbutton: Verfahrensschritte
@@ -183,7 +182,7 @@ Verfahrensschritt - Öffentliche Auslegung
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_feld_zeitraum-der-auslegung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_feld_zeitraum-der-auslegung.png
    :width: 300
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
@@ -197,7 +196,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_verfahrensschritt-oeffentliche-auslegung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_verfahrensschritt-oeffentliche-auslegung.png
    :width: 500 
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
@@ -206,7 +205,7 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation.png
    :width: 500
    
 Abb.: Tabelle Auslegungsinformation
@@ -221,12 +220,12 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken Sie mit der rechten Maustaste auf eine der markierten Zeilen, wählen Sie aus dem Kontextmenü den Punkt „Gültig bis Datum festlegen“. Es öffnet sich der Dialog „Datum wählen“. Wählen Sie aus dem Kalender das entsprechende Datum aus und betätigen Sie „Übernehmen“. In den ausgewählten Zeilen wurde das angegebene Datum eingetragen.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
    :width: 400
 
 Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
    :width: 200
 
 Abb.: Datum wählen
@@ -237,14 +236,14 @@ Abb.: Datum wählen
 Über Drag&Drop kann die Reihenfolge von Zeilen in den Dokumententabellen verändert werden. Die Reihenfolge wirkt sich auch auf die Darstellung im Portal aus.
 
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_sortierfunktion.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_sortierfunktion.png
    :width: 300
    
 Abb.: Sortierfunktion in Tabellen
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_uvp-bericht-antragsunterlagen_02.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_02.png
    :width: 400
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
@@ -259,14 +258,14 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_02.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_02.png
    :width: 300
 
 Abb.: Dialog Dokument Upload
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_zip-entpacken.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zip-entpacken.png
    :width: 400
 
 Abb.: Tabelle UVP Bericht/Antragsunterlagen mit entpackten Dateien
@@ -275,7 +274,7 @@ Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP A
 
 **Berichte und Empfehlungen (optionales Feld)**
  
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_berichte-empfehlungen.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_berichte-empfehlungen.png
    :width: 500
 
 Abb.: Tabelle Berichte und Empfehlungen
@@ -291,7 +290,7 @@ Beispiel: 2016-10-10 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 **Weitere Unterlagen (optionales Feld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_weitere-unterlagen.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_weitere-unterlagen.png
    :width: 500
 
 Abb.: Tabelle Weitere Unterlagen
@@ -308,7 +307,7 @@ Verfahrensschritt - Erörterungstermin
 
 
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_zeitraum-eroerterung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zeitraum-eroerterung.png
    :width: 500
 
 Abb.: Zeitraum der Erörterung
@@ -322,7 +321,7 @@ Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
 **Information zum Erörterungstermin (optionales Feld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_informationen-zum-eroerterungstermin.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_informationen-zum-eroerterungstermin.png
    :width: 500
 
 Abb.: Tabelle Informationen zum Erörterungstermin
@@ -337,12 +336,12 @@ Beispiel: 170815 Bekanntmachung Ferienpark Garlau
 Verfahrensschritt - Entscheidung über die Zulassung
 ````````````````````````````````````````````````````
 
-.. image:: ../img/editor/verfahrensschritte/uvp_leiste-zulassung.png
+.. image:: ../img-ige-ng/verfahrensschritte/uvp_leiste-zulassung.png
    :width: 500 
  
 Datum der Entscheidung (Pflichtfeld)
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_datum-der-entscheidung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_datum-der-entscheidung.png
    :width: 150
 
 Abb.: Feld Datum der Entscheidung
@@ -354,7 +353,7 @@ Beispiel: TT.MM.JJJJ
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation_02.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
@@ -367,7 +366,7 @@ Beispiel: 2017-04-04 Biblis Staatsanzeiger
 
 **Entscheidung (Pflichtfeld)**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_entscheidung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_entscheidung.png
    :width: 500
 
 Abb.: Tabelle Entscheidung
@@ -388,12 +387,12 @@ Dokument-Upload & Verfahrensschritt löschen
 **Dateien hochladen**
 Über den Link *Dokument-Upload* können Dokumente zum beschreibenden Verfahren hochgeladen werden. Die Upload-Funktionalität steht jedoch erst nach dem ersten Speichern zur Verfügung.
  
-.. image:: ../img/editor/menü/ige-uvp_menu-speichern.png
+.. image:: ../img-ige-ng/menü/ige-ng_felder_menu-speichern.png
    :width: 100
 
 Abb.: Symbolleiste - Speichern
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_tabelle_auslegungsinformation_02.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
@@ -402,7 +401,7 @@ Wählen Sie Dokumente durch Betätigen des Dateiauswahl Buttons oder per Drag an
 
 **Link angeben**
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_02.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_02.png
    :width: 300
 
 Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
@@ -415,7 +414,7 @@ Tragen Sie hier einen Link zu einem Dokument ein.
 **Verfahrensschritt löschen**
 Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnitt den Button „Verfahrensschritt löschen“.
 
-.. image:: ../img/editor/verfahrensschritte/ige-uvp_dokument-upload_link.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_link.png
    :width: 300
 
 Abb.: Dialogfenster Dokument-Upload Tab Link zum Dokument

@@ -7,7 +7,7 @@ Verfahrenstypen
 
 Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_icons-typen-vorhaben.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_icons-typen-vorhaben.png
 
    :width: 500
 
@@ -19,7 +19,7 @@ Anlegen eines UVP-Verfahrens
 Soll ein neues UVP-Verfahren angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Verfahren verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Verfahren angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Verfahren zunächst zwischenspeichern und erst einmal die Adresse durch Anlegen einer neuen Adresse erzeugen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
 Die Verfahren werden im Verfahren-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Verfahren können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_ordner-erstellen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
    :width: 300
 
 Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
@@ -28,7 +28,7 @@ Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
 .. **Hinweis:**
 *Wenn Sie im Strukturbaum (z.B. unter Verfahren) keine Ordner oder Verfahren anlegen können, so fehlen Ihnen dafür die Schreibrechte. Wählen Sie einen entsprechenden Ordner für den Sie Schreibrechte erhalten haben oder wenden Sie sich an Ihren Administrator.*
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_neuen-datensatz-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :width: 500
    
 Abb.: fehlende Berechtigungen
@@ -36,7 +36,7 @@ Abb.: fehlende Berechtigungen
 
 Zum Anlegen eines neuen Verfahrens muss zunächst das Verfahren ausgewählt werden, unterhalb dessen das neue Verfahren erstellt werden soll. Dafür das entsprechende Verfahren im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben_neuen-datensatz-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :width: 500
    
 Abb.: Vorhaben anlegen
