@@ -85,12 +85,12 @@ Abb.: Zugeordnete Datensätze
 **Hinweis**
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
 
-Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Toolbar-Button *Abschließendes Speichern & Veröffentlichen* für das Internet freigegeben werden. 
+Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Button *Veröffentlichen* für das Internet freigegeben werden. 
 
-.. image:: ../img/editor/adressen/ige-uvp_speichern-und-veröffentlichen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_veroeffentlichen.png
    :width: 500 
 
-Abb.: Abschließendes Speichern & Veröffentlichen
+Abb.: Veröffentlichen
 
 
 

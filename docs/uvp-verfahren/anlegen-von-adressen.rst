@@ -51,7 +51,7 @@ Abb.: Eingabefeld Adresstitel
 **Hinweis:**
 *Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:*
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_felder-korrekt-ausfuellen.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 200
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
