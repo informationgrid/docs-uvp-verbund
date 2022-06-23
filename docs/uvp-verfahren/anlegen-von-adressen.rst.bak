@@ -77,7 +77,7 @@ App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 Unter der Rubrik „Zugeordnete Verfahren“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Verfahren sichtbar, die mit dem Adressdatensatz verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch bei einem Verfahren diese Adresse als Kontaktadresse (Ansprechpartner) angegeben, so erscheint dieses Verfahren anschließend automatisch in der Liste der zugeordneten Verfahren bei der angegebenen Adresse.
 
-.. image:: ../img-ige-ng/adressen/ige-ng_zugeordnete-datensaetze.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
    :width: 500 
 
 Abb.: Zugeordnete Datensätze
