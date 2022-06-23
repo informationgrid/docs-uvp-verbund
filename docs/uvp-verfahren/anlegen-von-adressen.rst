@@ -20,7 +20,7 @@ Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken 
 Abb.: Auswahl der Adresstypen
 
 
-.. image:: ../img-ige-ng/adressen/ige-ng_adressen-typ-waehlen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_typ-waehlen.png
    :width: 300
    
  
@@ -34,7 +34,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 In der nachfolgenden Abbildung sind die zu überprüfenden, automatisch gefüllten Felder rot umrandet. 
 
 
-.. image:: ../img/adressen/ige-ng_adresse-eingabemaske-komplett.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
    :width: 500
 
 Abb.: Automatisch befüllte Felder
@@ -43,7 +43,7 @@ Die Kopfzeilen der Adressen werden nach dem Abspeichern automatisch befüllt.
 
 Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Adresstyp) aus den Feldern Institution, Einheit oder Name, Vorname. Das Feld *Adresstyp* bekommt seinen Eintrag automatisch nach dem vorher ausgewählten Adresstyp. Das Feld Verantwortlicher wird mit den Angaben der am System angemeldeten Person befüllt. Datum und Adress-ID werden beim Abspeichern automatisch generiert.
 
-.. image:: ../img/adressen/ige-ng_adressen_organisation-anlegen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_organisation-anlegen.png
    :width: 500
 
 Abb.: Eingabefeld Adresstitel
@@ -51,7 +51,7 @@ Abb.: Eingabefeld Adresstitel
 **Hinweis:**
 *Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:*
 
-.. image:: ../img/meldungen/ige-ng_felder-korrekt-ausfuellen.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_felder-korrekt-ausfuellen.png
    :width: 200
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
@@ -59,7 +59,7 @@ Abb.: Hinweis - alle Pflichtfelder ausfüllen
 Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen und bei Auswahlfeldern einen anderen Listeneintrag auswählen.
 
 
-.. image:: ../img/adressen/ige-ng_zeile-löschen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_zeile-löschen.png
    :width: 500
 
 Abb.: Zeile löschen
