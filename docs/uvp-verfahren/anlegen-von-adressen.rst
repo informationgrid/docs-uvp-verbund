@@ -59,7 +59,7 @@ Abb.: Hinweis - alle Pflichtfelder ausfüllen
 Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen und bei Auswahlfeldern einen anderen Listeneintrag auswählen.
 
 
-.. image:: ../img-ige-ng/adressen/ige-ng_adressen-felder-loeschen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
    :width: 500
 
 Abb.: Zeile löschen

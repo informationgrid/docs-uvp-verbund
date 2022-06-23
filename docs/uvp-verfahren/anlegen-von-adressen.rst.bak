@@ -51,7 +51,7 @@ Abb.: Eingabefeld Adresstitel
 **Hinweis:**
 *Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:*
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_felder-korrekt-ausfuellen.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 200
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
@@ -59,7 +59,7 @@ Abb.: Hinweis - alle Pflichtfelder ausfüllen
 Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen und bei Auswahlfeldern einen anderen Listeneintrag auswählen.
 
 
-.. image:: ../img-ige-ng/adressen/ige-ng_adressen-felder-loeschen.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen-eingabefelder-loeschen.png
    :width: 500
 
 Abb.: Zeile löschen
