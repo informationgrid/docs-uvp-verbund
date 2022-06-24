@@ -7,7 +7,7 @@ Verfahrenstypen
 
 Die Verfahren werden in vier Verfahrenstypen untergliedert:
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_icons-typen-vorhaben.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_icons-typen.png
 
    :width: 500
 
@@ -28,7 +28,7 @@ Abb.: Ordner oder Vorhaben über die Symbolleiste anlegen
 .. **Hinweis:**
 *Wenn Sie im Strukturbaum (z.B. unter Verfahren) keine Ordner oder Verfahren anlegen können, so fehlen Ihnen dafür die Schreibrechte. Wählen Sie einen entsprechenden Ordner für den Sie Schreibrechte erhalten haben oder wenden Sie sich an Ihren Administrator.*
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen_berechtigung.png
    :width: 500
    
 Abb.: fehlende Berechtigungen
@@ -59,7 +59,7 @@ Abb.: Engabefeld: Titel
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_vorhabenbeschreibung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_eingabefeld_vorhabenbeschreibung.png
    :width: 500
 
 Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
@@ -77,14 +77,14 @@ An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weit
  
 Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des Verweises (Ansprechpartner) automatisch mit der Verknüpfung einer Adresse eingetragen. In der rechten Spalte erscheint der Link zur eigentlichen Adresse.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_kontaktdaten.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_kontaktdaten.png
    :width: 500
 
 Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
 
 Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_fenster_adresse-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_adresse-hinzufuegen.png
    :width: 500
 
 Abb.: Fenster: Adresse hinzufügen
@@ -121,14 +121,14 @@ Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens 
 
 Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
    :width: 500
 
 Abb.: Raumbezug hinzufügen
 
 **Eingang des Antrags (*neues Feld*)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_eingang-des-Antrags.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingang-des-antrags.png
    :width: 200
 
 Abb.: Auswahlfeld: Eingang des Antrags
@@ -137,10 +137,13 @@ Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht
 
 **UVP-Nummer auswählen**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_uvp-nummer.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern.png
    :width: 500
 
 Abb.: Auswahlfeld: UVP-Nummer
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern_auswahl.png
+   :width: 500
  
 Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
 
@@ -152,7 +155,7 @@ Referenz: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Vorprüfungen durchgeführt**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_checkbox_vorprüfung-durchgeführt.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorpruefung-durchgefuehrt.png
    :width: 500
 
 Abb.: Checkbox: Vorprüfung durchgeführt
@@ -164,14 +167,14 @@ Verfahrensschritt hinzufügen
 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_button_verfahrensschritt-hinzufügen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen.png
    :width: 150
 
 Abb.: Button: Verfahrensschritt hinzufügen
  
 Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_button_verfahrensschritte.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen_auswahl.png
    :width: 400
 
 Abb.: Auswahlbutton: Verfahrensschritte
@@ -182,7 +185,7 @@ Verfahrensschritt - Öffentliche Auslegung
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_feld_zeitraum-der-auslegung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zeitraum-der-auslegung.png
    :width: 300
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
@@ -205,7 +208,7 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_auslegungsinformation.png
    :width: 500
    
 Abb.: Tabelle Auslegungsinformation
