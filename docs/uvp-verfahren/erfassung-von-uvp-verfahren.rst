@@ -185,7 +185,7 @@ Verfahrensschritt - Öffentliche Auslegung
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zeitraum-der-auslegung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-der-auslegung.png
    :width: 500
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
@@ -199,7 +199,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_mit-beginn-des-auslegungszeitraumes-veroeffentlichen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_mit-beginn-des-auslegungszeitraumes-veroeffentlichen.png
    :width: 500 
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
@@ -208,7 +208,7 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_auslegungsinformation.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_auslegungsinformation.png
    :width: 500
    
 Abb.: Tabelle Auslegungsinformation
@@ -223,12 +223,12 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken Sie mit der rechten Maustaste auf eine der markierten Zeilen, wählen Sie aus dem Kontextmenü den Punkt „Gültig bis Datum festlegen“. Es öffnet sich der Dialog „Datum wählen“. Wählen Sie aus dem Kalender das entsprechende Datum aus und betätigen Sie „Übernehmen“. In den ausgewählten Zeilen wurde das angegebene Datum eingetragen.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
    :width: 400
 
 Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
    :width: 200
 
 Abb.: Datum wählen
@@ -239,14 +239,14 @@ Abb.: Datum wählen
 Über Drag&Drop kann die Reihenfolge von Zeilen in den Dokumententabellen verändert werden. Die Reihenfolge wirkt sich auch auf die Darstellung im Portal aus.
 
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_sortierfunktion.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_sortierfunktion.png
    :width: 300
    
 Abb.: Sortierfunktion in Tabellen
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_02.png
    :width: 400
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
@@ -261,14 +261,14 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
    :width: 300
 
 Abb.: Dialog Dokument Upload
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zip-entpacken.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zip-entpacken.png
    :width: 400
 
 Abb.: Tabelle UVP Bericht/Antragsunterlagen mit entpackten Dateien
@@ -277,7 +277,7 @@ Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP A
 
 **Berichte und Empfehlungen (optionales Feld)**
  
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_berichte-empfehlungen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_berichte-empfehlungen.png
    :width: 500
 
 Abb.: Tabelle Berichte und Empfehlungen
@@ -293,7 +293,7 @@ Beispiel: 2016-10-10 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 **Weitere Unterlagen (optionales Feld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_weitere-unterlagen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_weitere-unterlagen.png
    :width: 500
 
 Abb.: Tabelle Weitere Unterlagen
@@ -310,7 +310,7 @@ Verfahrensschritt - Erörterungstermin
 
 
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zeitraum-eroerterung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-eroerterung.png
    :width: 500
 
 Abb.: Zeitraum der Erörterung
@@ -324,7 +324,7 @@ Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
 **Information zum Erörterungstermin (optionales Feld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_informationen-zum-eroerterungstermin.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_informationen-zum-eroerterungstermin.png
    :width: 500
 
 Abb.: Tabelle Informationen zum Erörterungstermin
@@ -339,12 +339,12 @@ Beispiel: 170815 Bekanntmachung Ferienpark Garlau
 Verfahrensschritt - Entscheidung über die Zulassung
 ````````````````````````````````````````````````````
 
-.. image:: ../img-ige-ng/verfahrensschritte/uvp_leiste-zulassung.png
+.. image:: ../img-ige-ng/vorhaben/uvp_leiste-zulassung.png
    :width: 500 
  
 Datum der Entscheidung (Pflichtfeld)
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_datum-der-entscheidung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_datum-der-entscheidung.png
    :width: 150
 
 Abb.: Feld Datum der Entscheidung
@@ -356,7 +356,7 @@ Beispiel: TT.MM.JJJJ
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
@@ -369,7 +369,7 @@ Beispiel: 2017-04-04 Biblis Staatsanzeiger
 
 **Entscheidung (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_entscheidung.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_entscheidung.png
    :width: 500
 
 Abb.: Tabelle Entscheidung
@@ -395,7 +395,7 @@ Dokument-Upload & Verfahrensschritt löschen
 
 Abb.: Symbolleiste - Speichern
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_tabelle_auslegungsinformation_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_auslegungsinformation_02.png
    :width: 500
 
 Abb.: Tabelle Auslegungsinformationen
@@ -404,7 +404,7 @@ Wählen Sie Dokumente durch Betätigen des Dateiauswahl Buttons oder per Drag an
 
 **Link angeben**
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
    :width: 300
 
 Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
@@ -417,7 +417,7 @@ Tragen Sie hier einen Link zu einem Dokument ein.
 **Verfahrensschritt löschen**
 Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnitt den Button „Verfahrensschritt löschen“.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_dokument-upload_link.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_link.png
    :width: 300
 
 Abb.: Dialogfenster Dokument-Upload Tab Link zum Dokument
