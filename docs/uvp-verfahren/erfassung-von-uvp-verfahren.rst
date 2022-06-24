@@ -200,7 +200,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_mit-beginn-des-auslegungszeitraumes-veroeffentlichen.png
-   :width: 500 
+   :width: 600 
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
  
