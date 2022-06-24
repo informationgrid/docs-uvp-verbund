@@ -82,23 +82,23 @@ Der Bereich der Adressen ist eine Tabelle. In der linken Spalte wird die Art des
 
 Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
 
-Über „Adresse hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Hierfür einfach auf den Link "Adresse hinzufügen" klicken. Es öffnet sich daraufhin folgendes Fenster.
+Über „Hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Wird der Button "Hinzufügen" betätigt, öffnet sich folgendes Fenster.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_adresse-hinzufuegen.png
    :width: 500
 
-Abb.: Fenster: Adresse hinzufügen
+Abb.: Fenster  "Adresse hinzufügen"
 
-Die Adresse kann entweder über eine *Direkte Suche* oder den *Hierarchiebaum* ausgewählt werden. 
+Die Adresse kann entweder über eine *Direkte Suche* oder der *Adressenstruktur* ausgewählt werden. 
 
 **Direkte Suche**
 
 In der *Direkten Suche* können Sie entweder nach der Einheit bzw. Institution, dem Nachnamen, Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung). 
 Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Klicken auf einen dieser Einträge wird dieser markiert und durch ein anschließendes Klicken auf „Übernehmen“ zu den Adresskontakten des Verfahrens übernommen.
 
-**Hierarchiebaum**
+**Adressenstruktur**
 
-Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *Übernehmen* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
+In der Adressenstruktur können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *ÜBERNEHMEN* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_hierarchiebaum.png
    :width: 500
@@ -168,16 +168,16 @@ Verfahrensschritt hinzufügen
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen.png
-   :width: 150
+   :width: 400
 
-Abb.: Button: Verfahrensschritt hinzufügen
+Abb.: Verfahrensschritte Hinzufügen
  
 Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen_auswahl.png
    :width: 400
 
-Abb.: Auswahlbutton: Verfahrensschritte
+Abb.: Auswahlmenü der Verfahrensschritte
 
 Verfahrensschritt - Öffentliche Auslegung
 `````````````````````````````````````````
@@ -186,7 +186,7 @@ Verfahrensschritt - Öffentliche Auslegung
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_zeitraum-der-auslegung.png
-   :width: 300
+   :width: 500
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
@@ -199,7 +199,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
-.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_verfahrensschritt-oeffentliche-auslegung.png
+.. image:: ../img-ige-ng/verfahrensschritte/ige-ng_felder_mit-beginn-des-auslegungszeitraumes-veroeffentlichen.png
    :width: 500 
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
