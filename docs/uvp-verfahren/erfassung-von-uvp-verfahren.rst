@@ -242,7 +242,6 @@ Abb.: Sortierfunktion (sechs Punkte)
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_pflichtfelder.png
-   :width: 400
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
  
