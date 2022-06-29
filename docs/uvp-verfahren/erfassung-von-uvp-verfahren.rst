@@ -287,10 +287,10 @@ Beispiel: 2016-10-10 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 **Weitere Unterlagen (optionales Feld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_weitere-unterlagen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_weitere-unterlagen.png
    :width: 500
 
-Abb.: Tabelle Weitere Unterlagen
+Abb.: Auflistung weiterer Unterlagen
  
 Ggf. weitere Unterlagen - auch nach Ende der Auslegung - hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
@@ -301,8 +301,6 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 
 Verfahrensschritt - Erörterungstermin
 ``````````````````````````````````````
-
-
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-eroerterung.png
    :width: 500
