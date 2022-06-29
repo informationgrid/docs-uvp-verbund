@@ -238,9 +238,10 @@ Abb.: Menü Bearbeiten / Aktion
 
 Abb.: Sortierfunktion (sechs Punkte)
 
+
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_02.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_pflichtfelder.png
    :width: 400
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
@@ -255,17 +256,17 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
-   :width: 300
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
+   :width: 500
 
-Abb.: Dialog Dokument Upload
+Abb.: Dialog Datei (en) hochladen mit Schalter für das Entpacken von ZIP-Dateien
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zip-entpacken.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_liste.png
    :width: 400
 
-Abb.: Tabelle UVP Bericht/Antragsunterlagen mit entpackten Dateien
+Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
 Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP Archives bleibt erhalten.
 

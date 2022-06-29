@@ -257,14 +257,14 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
-   :width: 500
+   :width: 400
 
 Abb.: Dialog Datei (en) hochladen mit Schalter für das Entpacken von ZIP-Dateien
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_liste.png
-   :width: 400
+
 
 Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
@@ -272,12 +272,11 @@ Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP A
 
 **Berichte und Empfehlungen (optionales Feld)**
  
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_berichte-empfehlungen.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_berichte.png
 
-Abb.: Tabelle Berichte und Empfehlungen
+Abb.: Auflistung der Berichte und Empfehlungen
 
-Ggf. Berichte und Empfehlungen hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
+Berichte und Empfehlungen hochladen oder verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
 Wenn zum Zeitpunkt des Beginns des Beteiligungsverfahrens entscheidungserhebliche Berichte und Empfehlungen betreffend das Vorhaben bei der zuständigen Behörde vorgelegen haben, sind diese nach § 19 Abs. 2 Nr. 2 UVPG zur Einsicht für die Öffentlichkeit auszulegen und daher auch in das UVP-Portal einzustellen. Hierbei kann es sich um bereits vorab eingegangene Stellungnahmen der zu beteiligenden Behörden, aber auch von der zuständigen Behörde eingeholte besondere Gutachten zu dem beabsichtigten Vorhaben handeln (so Wagner in: Hoppe/Beckmann, UVPG-Kommentar, § 9 Rdnr. 32). Da solche Unterlagen nicht unbedingt vorliegen, handelt es sich um kein Pflichtfeld.
 In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll.
