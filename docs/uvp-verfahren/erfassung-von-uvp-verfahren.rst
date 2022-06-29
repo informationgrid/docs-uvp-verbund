@@ -103,7 +103,7 @@ In der Adressenstruktur können Sie in der üblichen Weise navigieren. Ein einfa
 
 Abb.: Adresse übernehmen
 
-Über das Menü (drei Punkte) kann die Adresse bearbeitet werden.
+Über das Menü (drei Punkte) kann die Adresse bearbeitet werden oder es kann direkt zu dieser Adresse gesprungen werden.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_auswahlmenue.png
    :width: 400
@@ -119,14 +119,13 @@ Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens 
 Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
-   :width: 500
 
 Abb.: Raumbezug hinzufügen
 
 **Eingang des Antrags (*neues Feld*)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingang-des-antrags.png
-   :width: 200
+
 
 Abb.: Auswahlfeld: Eingang des Antrags
  
@@ -135,16 +134,16 @@ Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht
 **UVP-Nummer auswählen**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern.png
-   :width: 500
+
 
 Abb.: Auswahlfeld: UVP-Nummer
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern_auswahl.png
-   :width: 500
+ 
  
 Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
 
-Referenz: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
+Verweis auf UVPG: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Hinweis:** *Die UVP-Nummern dienen der Einordnung des Zulassungsverfahrens in die Kategorien, nach denen auf der Portalseite gesucht werden kann. Außerdem sind sie wichtig zur Erfüllung der Berichtspflicht nach Artikel 12 der UVP-Richtlinie 2011/92/EU, nach der alle sechs Jahre die bis dahin durchgeführten UVP-Verfahren ausgezählt und der EU-Kommission unter Zuordnung zu den Kategorien mitgeteilt werden müssen. Die Angabe einer UVP Nummer ist daher verpflichtend für alle Verfahren.*
 
@@ -153,7 +152,7 @@ Referenz: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 **Vorprüfungen durchgeführt**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorpruefung-durchgefuehrt.png
-   :width: 500
+   :width: 400
 
 Abb.: Checkbox: Vorprüfung durchgeführt
  
@@ -183,7 +182,7 @@ Verfahrensschritt - Öffentliche Auslegung
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-der-auslegung.png
-   :width: 500
+
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
