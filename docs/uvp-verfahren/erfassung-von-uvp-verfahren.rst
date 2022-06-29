@@ -143,7 +143,7 @@ Abb.: Auswahlfeld: UVP-Nummer
  
 Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
 
-Verweis auf UVPG: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
+Verweis auf UVPG-Anlage 1: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Hinweis:** *Die UVP-Nummern dienen der Einordnung des Zulassungsverfahrens in die Kategorien, nach denen auf der Portalseite gesucht werden kann. Außerdem sind sie wichtig zur Erfüllung der Berichtspflicht nach Artikel 12 der UVP-Richtlinie 2011/92/EU, nach der alle sechs Jahre die bis dahin durchgeführten UVP-Verfahren ausgezählt und der EU-Kommission unter Zuordnung zu den Kategorien mitgeteilt werden müssen. Die Angabe einer UVP Nummer ist daher verpflichtend für alle Verfahren.*
 
@@ -205,9 +205,8 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
 **Auslegungsinformationen (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_auslegungsinformation.png
-   :width: 500
    
-Abb.: Tabelle Auslegungsinformation
+Abb.: Auflistung Auslegungsinformationen
 
 Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
@@ -217,12 +216,12 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_aktion.png
-   :width: 400
+   :width: 300
 
 Abb.: Aktion - Gültig bis - Datum eintragen
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
-   :width: 200
+   :width: 400
 
 Abb.: Datum wählen
 
@@ -230,12 +229,12 @@ Abb.: Datum wählen
 **Funktion "BEARBEITEN"**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_bearbeiten.png
-   :width: 500
+
+Abb.: Menü Bearbeiten / Aktion
    
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_sortierfunktion.png
-   :width: 300
+   :width: 400
 
-   
 Abb.: Sortierfunktion in Tabellen
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
