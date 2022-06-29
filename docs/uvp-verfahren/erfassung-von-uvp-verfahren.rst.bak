@@ -216,12 +216,13 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_aktion.png
-   :width: 300
+   :width: 200
 
 Abb.: Aktion - Gültig bis - Datum eintragen
 
+
 .. image:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
-   :width: 400
+   :width: 500
 
 Abb.: Datum wählen
 
@@ -231,11 +232,11 @@ Abb.: Datum wählen
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_bearbeiten.png
 
 Abb.: Menü Bearbeiten / Aktion
-   
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_sortierfunktion.png
-   :width: 400
 
-Abb.: Sortierfunktion in Tabellen
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_dokument-upload_bearbeiten-funktionen.png
+
+Abb.: Sortierfunktion (sechs Punkte)
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
 
