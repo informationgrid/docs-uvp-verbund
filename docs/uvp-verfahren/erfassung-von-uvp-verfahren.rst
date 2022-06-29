@@ -283,7 +283,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
-Beispiel: 2016-10-10 Zustandsanalyse FFH-Gebiet Oberes Hochtal
+Beispiel: 2022-06-29 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 **Weitere Unterlagen (optionales Feld)**
 
