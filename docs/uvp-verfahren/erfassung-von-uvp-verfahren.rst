@@ -219,16 +219,13 @@ In der Spalte „Gültig bis“ kann eingegeben werden, bis zu welchem Tag (dies
 
 Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
-**Das “gültig-bis” Datum in mehreren Zeilen einer Tabelle in einem Schritt setzen**
 
-Markieren Sie die Zeilen, welche ein Gültigkeitsdatum bekommen sollen. Klicken Sie mit der rechten Maustaste auf eine der markierten Zeilen, wählen Sie aus dem Kontextmenü den Punkt „Gültig bis Datum festlegen“. Es öffnet sich der Dialog „Datum wählen“. Wählen Sie aus dem Kalender das entsprechende Datum aus und betätigen Sie „Übernehmen“. In den ausgewählten Zeilen wurde das angegebene Datum eingetragen.
-
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-setzen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_aktion.png
    :width: 400
 
-Abb.: Tabelle UVP-Bericht/Antragsunterlagen - Datum setzten
+Abb.: Aktion - Gültig bis - Datum eintragen
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_uvp-bericht-antragsunterlagen_datum-waehlen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
    :width: 200
 
 Abb.: Datum wählen

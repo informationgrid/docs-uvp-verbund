@@ -189,22 +189,26 @@ Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die F
 Zeitgesteuerte Veröffentlichung von Datensätzen
 -----------------------------------------------
 
-Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung ein Dialog geöffnet, in dem ein zukünftiges Veröffentlichungsdatum ausgewählt werden kann.
+Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen.png
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :width: 300
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
    :width: 300
 
-Abb.: Dialog - Auswahl für Veröffentlichungsdatum
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
 .. image:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
    :width: 500
 
-Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums und Button für das Bearbeiten der Veröffenlichungsdatums
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+
+Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
 Session abgelaufen
@@ -212,7 +216,7 @@ Session abgelaufen
 
 Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
-.. image:: ../img-ige-ng/editor/ige-ng_session-abgelaufen.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
    :width: 300
 
 Abb.: Meldung - Session abgelaufen
@@ -228,4 +232,4 @@ Soll der UVP-Editor beendet werden, muss auf der Seite (oben rechts) der Punkt f
 .. image:: ../img-ige-ng/editor/ige-ng_abmeldung.png
    :width: 300
 
-Abb.: Profilverwaltung - Editor schließen
+Abb.: Profilverwaltung mit Button "ABMELDEN"
