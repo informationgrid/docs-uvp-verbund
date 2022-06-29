@@ -222,7 +222,7 @@ Abb.: Aktion - Gültig bis - Datum eintragen
 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
-   :width: 500
+   :width: 400
 
 Abb.: Datum wählen
 
