@@ -89,18 +89,17 @@ Abb.: Feld Adresse: Angabe einer Organisation
 In der *Suche* können Sie entweder nach der Organisation, dem Nachnamen oder Vornamen oder einer Kombination aus den Feldern suchen.
 Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" zu den Adresskontakten des Vorhabens übernommen.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_uebernehmen.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_suche.png
+   :width: 400
 
-Abb.: Adressen im Hierarchiebaum
-
+Abb.: Suche in den Adressen
 
 **Adressenstruktur**
 
 In der Adressenstruktur können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *ÜBERNEHMEN* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_hierarchiebaum.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_uebernehmen.png
+   :width: 400
 
 Abb.: Adresse übernehmen
 

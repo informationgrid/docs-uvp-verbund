@@ -84,10 +84,16 @@ Abb.: Feld Adresse: Angabe einer Person
 Abb.: Feld Adresse: Angabe einer Organisation
 
 
-**Direkte Suche**
+**Adressen suchen**
 
-In der *Direkten Suche* können Sie entweder nach der Einheit bzw. Institution, dem Nachnamen, Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung). 
-Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Klicken auf einen dieser Einträge wird dieser markiert und durch ein anschließendes Klicken auf „Übernehmen“ zu den Adresskontakten des Verfahrens übernommen.
+In der *Suche* können Sie entweder nach der Organisation, dem Nachnamen oder Vornamen oder einer Kombination aus den Feldern suchen.
+Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" zu den Adresskontakten des Vorhabens übernommen.
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_uebernehmen.png
+   :width: 500
+
+Abb.: Adressen im Hierarchiebaum
+
 
 **Adressenstruktur**
 
@@ -96,15 +102,14 @@ In der Adressenstruktur können Sie in der üblichen Weise navigieren. Ein einfa
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_hierarchiebaum.png
    :width: 500
 
-Abb.: Adressen im Hierarchiebaum
+Abb.: Adresse übernehmen
 
-Im Feld *Kontaktdaten der verfahrensführenden Dienststelle* kann eine Adresszeile per Copy & Paste kopiert und in einer neuen Zeile eingefügt werden. Hierfür gibt es im Kontextmenu der rechten Maustaste für diese Tabelle die Befehle *Adresse kopieren* und *Adresse einfügen*. 
+Über das Menü (drei Punkte) kann die Adresse bearbeitet werden.
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_auswahlmenue.png
+   :width: 400
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingabefeld_kontaktdaten.png
-   :width: 500
-
-Abb.: Eingabefeld Kontaktdaten: Kopieren einer Adresse
+Abb.: Auswahlmenü (drei Punkte)
 
 Die Adresszeilen sind zwischen verschiedenen Verfahren und (Adress-) Elementen kopierbar. Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option *Adresse kopieren* gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse eingetragen. 
 
