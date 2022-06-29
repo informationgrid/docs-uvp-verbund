@@ -231,6 +231,5 @@ Soll der UVP-Editor beendet werden, muss auf der Seite (oben rechts) der Punkt f
 
 .. image:: ../img-ige-ng/editor/ige-ng_abmeldung.png
    :width: 300
-   :border: 1
 
 Abb.: Profilverwaltung mit Button "ABMELDEN"
