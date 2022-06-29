@@ -205,9 +205,8 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
 **Auslegungsinformationen (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_auslegungsinformation.png
-   :width: 500
    
-Abb.: Tabelle Auslegungsinformation
+Abb.: Auflistung Auslegungsinformationen
 
 Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
@@ -217,12 +216,12 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_aktion.png
-   :width: 400
+   :width: 300
 
 Abb.: Aktion - Gültig bis - Datum eintragen
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
-   :width: 200
+   :width: 400
 
 Abb.: Datum wählen
 
@@ -230,12 +229,12 @@ Abb.: Datum wählen
 **Funktion "BEARBEITEN"**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_bearbeiten.png
-   :width: 500
+
+Abb.: Menü Bearbeiten / Aktion
    
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_sortierfunktion.png
-   :width: 300
+   :width: 400
 
-   
 Abb.: Sortierfunktion in Tabellen
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
