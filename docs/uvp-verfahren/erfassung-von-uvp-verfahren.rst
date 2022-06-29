@@ -254,7 +254,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 **Hochladen und automatisches Entpacken von ZIP Archiven**
 
-Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Punkt „Archive entpacken“ vor der Auswahl der hochzuladenden Dateien angeklickt werden.
+Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Schalter „ZIP-Archive nach dem Übernehmen entpacken“ angeklickt nach rechts geschoben werden.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
    :width: 400
@@ -264,7 +264,6 @@ Abb.: Dialog Datei (en) hochladen mit Schalter für das Entpacken von ZIP-Dateie
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_liste.png
-
 
 Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
@@ -288,7 +287,6 @@ Beispiel: 2022-06-29 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 **Weitere Unterlagen (optionales Feld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_weitere-unterlagen.png
-   :width: 500
 
 Abb.: Auflistung weiterer Unterlagen
  
