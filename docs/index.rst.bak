@@ -13,12 +13,12 @@ Version der Bedienungsanleitung
  - Status: in Bearbeitung
  
 
-.. image:: img/uebersicht/screenshot 2022-05-31 at 16-07-17 ige-ng_uebersicht.png
+.. image:: img/uebersicht/ige-ng_uebersicht_01.png
    :width: 500
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
- - Block 1 Beschreibt den Aufbau des UVP-Editors und wie man sich im UVP-Portal registriert und anmeldet. 
+ - Block 1 Beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
  - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
  - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
  - Block 4 Beantwortung von häufig gestellten Fragen.
