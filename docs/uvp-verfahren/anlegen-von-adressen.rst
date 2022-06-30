@@ -4,7 +4,6 @@ Adressen erfassen
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches *Freie Adressen* anzulegen. 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen-struktur.png
-   :width: 500
 
 Abb.: Anlegen einer Adressstruktur
 
@@ -15,14 +14,15 @@ Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werde
 Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken und warten bis die Initialisierung abgeschlossen ist. Sobald die Eingabefelder im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Für die Strukturierung der Adressdaten kann zwischen folgenden Adresstypen gewählt werden: Institution, Einheit und Person.
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-anlegen.png
-   :width: 500
+   :width: 400
 
 Abb.: Auswahl der Adresstypen
 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_typ-waehlen.png
-   :width: 300
-   
+   :width: 200
+
+Abb.: Adresstypen
  
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 
@@ -35,7 +35,6 @@ In der nachfolgenden Abbildung sind die zu überprüfenden, automatisch gefüllt
 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
-   :width: 500
 
 Abb.: Automatisch befüllte Felder
 
@@ -44,7 +43,7 @@ Die Kopfzeilen der Adressen werden nach dem Abspeichern automatisch befüllt.
 Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Adresstyp) aus den Feldern Institution, Einheit oder Name, Vorname. Das Feld *Adresstyp* bekommt seinen Eintrag automatisch nach dem vorher ausgewählten Adresstyp. Das Feld Verantwortlicher wird mit den Angaben der am System angemeldeten Person befüllt. Datum und Adress-ID werden beim Abspeichern automatisch generiert.
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_organisation-anlegen.png
-   :width: 500
+   :width: 400
 
 Abb.: Eingabefeld Adresstitel
 
@@ -60,7 +59,6 @@ Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprech
 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
-   :width: 500
 
 Abb.: Zeile löschen
 
@@ -68,7 +66,7 @@ Abb.: Zeile löschen
 *In den Adressen vom Typ "Person" gibt es die Checkbox "Daten nicht anzeigen". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Datensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution angezeigt.*
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
-   :width: 500
+   :width: 400
 
 App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
@@ -88,7 +86,7 @@ Abb.: Zugeordnete Datensätze
 Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Button *Veröffentlichen* für das Internet freigegeben werden. 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_veroeffentlichen.png
-   :width: 500 
+   :width: 300 
 
 Abb.: Veröffentlichen
 
