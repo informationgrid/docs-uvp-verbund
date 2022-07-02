@@ -401,8 +401,8 @@ Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Date
 Statt Dokumente in den UVP-Editor zu laden, besteht die Möglichkeit eine Verlinkung auf eine externe Internetseite, auf der die Dokumente bereitgestellt werden, anzulegen.
 Durch die Betätigung der Buttons "LINK ANGEBEN", öffnet sich ein Fenster mit dieser Bezeichnung. Hier kann ein beschreibender Titel eingetragen werden und es muss die URL zu der entsprechnden Downloas-Seite angegeben werden. Durch das Betätigen des Buttons "ÜBERNEHMEN", wird die Verlinkung in das angelegte Verfahren übernommen.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
-   :width: 300
+.. image:: ../img-ige-ng/vorhaben/ige-ng_verlinkung_link-angeben.png
+   :width: 400
 
 Abb.: Dialogfenster Link angeben
 
@@ -410,8 +410,8 @@ Abb.: Dialogfenster Link angeben
 In der Zeile des Eintrages erscheinen rchts drei Punkte, werden diese betätigt, erscheinen die Optionen "Bearbeiten" und "Löschen". Wird hier bearbeiten gewählt, öffent sich das Fenster "Eintrag bearbeiten". Darin kann der Titel und die Verlinkung bearbeitet werden und es kann ein Gültigkeitsdatum für die Verlinkung gewählt werden.
 
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
-   :width: 300
+.. image:: ../img-ige-ng/vorhaben/ige-ng_verlinkung_eintrag-bearbeiten.png
+   :width: 400
 
 Abb.: Dialogfenster Eintrag bearbeiten
 
