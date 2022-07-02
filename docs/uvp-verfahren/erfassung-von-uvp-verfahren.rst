@@ -163,7 +163,7 @@ Verfahrensschritt hinzufügen
 
 Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen.png
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eroerterungstermin.png
    :width: 400
 
 Abb.: Verfahrensschritte Hinzufügen
@@ -299,8 +299,7 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 Verfahrensschritt - Erörterungstermin
 ``````````````````````````````````````
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-eroerterung.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eroerterungstermin.png
 
 Abb.: Zeitraum der Erörterung
 
@@ -313,48 +312,42 @@ Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
 **Information zum Erörterungstermin (optionales Feld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_informationen-zum-eroerterungstermin.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_informationen-zum-eroerterungstermin.png
 
-Abb.: Tabelle Informationen zum Erörterungstermin
+Abb.: Auflistung Informationen zum Erörterungstermin
  
 Informationen zum Erörterungstermin hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt – Pflichtfeld.
 
 In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
-Beispiel: 170815 Bekanntmachung Ferienpark Garlau
+Beispiel: 170815_Bekanntmachung_EÖT_WKA-Erxleben
 
 
 Verfahrensschritt - Entscheidung über die Zulassung
 ````````````````````````````````````````````````````
-
-.. image:: ../img-ige-ng/vorhaben/uvp_leiste-zulassung.png
-   :width: 500 
  
 Datum der Entscheidung (Pflichtfeld)
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_datum-der-entscheidung.png
-   :width: 150
 
 Abb.: Feld Datum der Entscheidung
  
 Eintragung des Datums der Entscheidung.
 
-Beispiel: TT.MM.JJJJ
+Beispiel: 25.05.2021
 
 
 **Auslegungsinformationen (Pflichtfeld)**
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_auslegungsinformation_02.png
-   :width: 500
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_auslegungsinformation.png
 
-Abb.: Tabelle Auslegungsinformationen
+Abb.: Auflistungen Auslegungsinformationen
  
 Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
 In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
-Beispiel: 2017-04-04 Biblis Staatsanzeiger
+Beispiel: 2021-05-25_Bekanntmachung_Entscheidung
 
 **Entscheidung (Pflichtfeld)**
 
@@ -368,7 +361,7 @@ Entscheidung über die Zulassung, ggf. mit Anlagen hochladen/verlinken. Die Name
 
 In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
-Beispiel: 17.03.30 Genehmigung Biblis
+Beispiel: 2021-05-25_Bekanntmachung-Entscheidung_WKA-Erxleben
 
 
 Dokument-Upload & Verfahrensschritt löschen
@@ -377,19 +370,31 @@ Dokument-Upload & Verfahrensschritt löschen
 **Dokument Upload**
 
 **Dateien hochladen**
-Über den Link *Dokument-Upload* können Dokumente zum beschreibenden Verfahren hochgeladen werden. Die Upload-Funktionalität steht jedoch erst nach dem ersten Speichern zur Verfügung.
+Über den Link *Dokument-Upload* können Dokumente zum beschreibenden Verfahren hochgeladen werden.
  
-.. image:: ../img-ige-ng/menü/ige-ng_felder_menu-speichern.png
-   :width: 100
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_auslegungsinformation.png
 
-Abb.: Symbolleiste - Speichern
+Abb.: Auflistung Auslegungsinformationen
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_tabelle_auslegungsinformation_02.png
-   :width: 500
-
-Abb.: Tabelle Auslegungsinformationen
+Durch das Betätigen des Buttons "DATEIEN HOCHLADEN", öffnet sich das Fenster mit der Bezeichnung "Datei(en) hochladen".
  
-Wählen Sie Dokumente durch Betätigen des Dateiauswahl Buttons oder per Drag and Drop auf die weiße Fläche aus. Der Upload beginnt automatisch. Durch Betätigung des Buttons Übernehmen übertragen Sie anschließend die hochgeladenen Dokumente in die Tabelle.
+Darin den Button "DATEI AUSWÄHLEN ..." betätigen. Es werden die Dateien des eigene PC angezeigt. Hier die entsprechenden Dateien markieren und unten rechts den Button "Öffnen" betätigen. Die Dateien werden in das System geladen und im Fenster "Datei(en) hochladen" angezeigt. Wenn das Hochladen ohne Fehler funktioniert hat, bekommen die Dateibezeichnungen im Fenster einen grünen Haken. Durch Betätigung des Buttons "ÜBERNEHMEN" übertragen Sie anschließend die hochgeladenen Dokumente in die Liste.
+
+Neben den Hochladen von einzelnen Dokumenten, besteht auch die Möglichkeit alle Dokumente als Zip-Datei in den Editor zu laden. Dazu muss vor dem Hochladen im Fenster "Datei(en) hochladen" der Schalter "ZIP-Archive nach dem Übernehmen entpacken" angeklickt werden, so dass er sich nach rechts bewegt und grün erscheint. Jetzt können die ZIP-Archive in den Editor geladen werden. Sie entpacken sich selbständig.
+
+Wurden die Datein schon einmal hochgeladen, zeigt der Editior verschiedene Optionen an, wie weiter verfahren werden kann.
+
+.. image:: ../img-ige-ng/meldungen/ige-ng_datei-vorhanden_optionen.png
+   :width: 400
+
+Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN, EXISTIERENDE VERWENDEN
+
+
+.. image:: ../img-ige-ng/meldungen/ige-ng_konflikt_optionen.png
+   :width: 400
+
+Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Datei auf, was möchten Sie tun? Optionen: ÜBERSCHREIBEN, UMBENENNEN
+
 
 **Link angeben**
 
