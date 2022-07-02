@@ -122,10 +122,47 @@ Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach 
 
 Abb.: Raumbezug hinzufügen
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
+
+Abb.: Raumbezug nach Orten suchen
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_freier-raumbezug.png
+
+Abb.: Boundingbox über freien Raumbezug
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_bearbeiten.png
+
+Abb.: Raumbezug bearbeiten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Eingang des Antrags (*neues Feld*)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingang-des-antrags.png
-
 
 Abb.: Auswahlfeld: Eingang des Antrags
  

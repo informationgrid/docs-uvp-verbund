@@ -415,12 +415,6 @@ In der Zeile des Eintrages erscheinen rchts drei Punkte, werden diese betätigt,
 
 Abb.: Dialogfenster Eintrag bearbeiten
 
-Beispiel: 
-Titel:  Landkreis ... , UVP Unterlagen WKA Ortsangabe
-Link (URL)*: https://landkreis.de/umweltamt/uib/uvp/wka-erxleben
-Gültig bis: 25.06.2021
-
-
 **Hinweis:**
 *Grundsätzlich ist das Hochladen eines Dokumentes gegenüber der Verlinkung zu Seiten der jeweiligen Dienststellen vorzuziehen, da die Verlinkung fehleranfällig ist. Jede Änderung des Pfades führt zur Nichterreichbarkeit des Dokuments. In diesem Fall ist das entsprechende Dokument nicht im UVP-Portal veröffentlicht. Es ist davon auszugehen, dass dies von den Gerichten als zumindest relativer Verfahrensfehler gewertet werden wird. Außerdem erhöht sich der Pflegeaufwand des UVP-Portals, wenn wegen fehlerhafter Links die Kontakt-Adresse (technische oder juristische Ansprechperson) angesprochen wird.*
 
