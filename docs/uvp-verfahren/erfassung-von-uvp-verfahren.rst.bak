@@ -126,6 +126,10 @@ Abb.: Raumbezug hinzufügen
 
 Abb.: Raumbezug nach Orten suchen
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_viewer.png
+
+Abb.: Symbole im Kartenviewer
+
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_freier-raumbezug.png
 
 Abb.: Freier Raumbezug und BoundingBox
