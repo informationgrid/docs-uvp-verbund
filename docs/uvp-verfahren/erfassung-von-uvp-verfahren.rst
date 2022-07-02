@@ -116,11 +116,13 @@ Die Adresszeilen sind zwischen verschiedenen Verfahren und (Adress-) Elementen k
 
 Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
 
-Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
+Um den Raumbezug hinzuzufügen, in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
 
 Abb.: Raumbezug hinzufügen
+
+Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
 
