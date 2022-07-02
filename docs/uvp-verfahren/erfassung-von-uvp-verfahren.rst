@@ -131,6 +131,8 @@ Abb.: Raumbezug nach Orten suchen
 
 Abb.: Symbole im Kartenviewer
 
+Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten): 1. Plus - in die Karte Zoomen, 2. Minus - heraus zoomen, 3. Rechteck zeichnen - eine BaundingBox aufziehen - Dazu in die Karte klicken und BondingBox über ein Gebiet spannen, 4. Layer editiern - BoundinBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 5. Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 6. Layer löschen - Symbol anklicken und anschließend das Rechteck
+
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_freier-raumbezug.png
 
 Abb.: Freier Raumbezug und BoundingBox

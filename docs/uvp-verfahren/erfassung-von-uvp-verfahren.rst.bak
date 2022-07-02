@@ -127,6 +127,7 @@ Abb.: Raumbezug hinzufügen
 Abb.: Raumbezug nach Orten suchen
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_viewer.png
+   :width: 300
 
 Abb.: Symbole im Kartenviewer
 
