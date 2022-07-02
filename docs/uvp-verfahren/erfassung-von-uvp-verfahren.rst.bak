@@ -384,29 +384,46 @@ Neben den Hochladen von einzelnen Dokumenten, besteht auch die Möglichkeit alle
 
 Wurden die Datein schon einmal hochgeladen, zeigt der Editior verschiedene Optionen an, wie weiter verfahren werden kann.
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_felder_dokument-upload_02.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_datei-vorhanden_optionen.png
    :width: 400
 
-Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
+Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN, EXISTIERENDE VERWENDEN
 
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_felder_dokument-upload_02.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_konflikt_optionen.png
    :width: 400
 
-Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
+Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Datei auf, was möchten Sie tun? Optionen: ÜBERSCHREIBEN, UMBENENNEN
 
 
 **Link angeben**
 
+Statt Dokumente in den UVP-Editor zu laden, besteht die Möglichkeit eine Verlinkung auf eine externe Internetseite, auf der die Dokumente bereitgestellt werden, anzulegen.
+Durch die Betätigung der Buttons "LINK ANGEBEN", öffnet sich ein Fenster mit dieser Bezeichnung. Hier kann ein beschreibender Titel eingetragen werden und es muss die URL zu der entsprechnden Downloas-Seite angegeben werden. Durch das Betätigen des Buttons "ÜBERNEHMEN", wird die Verlinkung in das angelegte Verfahren übernommen.
+
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
    :width: 300
 
-Abb.: Dialogfenster Dokument-Upload Tab Dokument hochladen
+Abb.: Dialogfenster Link angeben
 
-Tragen Sie hier einen Link zu einem Dokument ein.
+
+In der Zeile des Eintrages erscheinen rchts drei Punkte, werden diese betätigt, erscheinen die Optionen "Bearbeiten" und "Löschen". Wird hier bearbeiten gewählt, öffent sich das Fenster "Eintrag bearbeiten". Darin kann der Titel und die Verlinkung bearbeitet werden und es kann ein Gültigkeitsdatum für die Verlinkung gewählt werden.
+
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_02.png
+   :width: 300
+
+Abb.: Dialogfenster Eintrag bearbeiten
+
+Beispiel: 
+Titel:  Landkreis ... , UVP Unterlagen WKA Ortsangabe
+Link (URL)*: https://landkreis.de/umweltamt/uib/uvp/wka-erxleben
+Gültig bis: 25.06.2021
+
+
 
 **Hinweis:**
-*Grundsätzlich ist das Hochladen eines Dokumentes gegenüber der Verlinkung zu Seiten der jeweiligen Dienststellen vorzuziehen, da die Verlinkung fehleranfällig ist. Jede Änderung des Pfades führt zur Nichterreichbarkeit des Dokuments. In diesem Fall ist das entsprechende Dokument nicht im UVP-Portal veröffentlicht. Es ist davon auszugehen, dass dies von den Gerichten als zumindest relativer Verfahrensfehler gewertet werden wird. Außerdem erhöht sich der Pflegeaufwand des UVP-Portals, wenn wegen fehlerhafter Links die Kontakt-Adresse (technische oder juristische Ansprechperson) angesprochen wird.*
+**Grundsätzlich ist das Hochladen eines Dokumentes gegenüber der Verlinkung zu Seiten der jeweiligen Dienststellen vorzuziehen, da die Verlinkung fehleranfällig ist. Jede Änderung des Pfades führt zur Nichterreichbarkeit des Dokuments. In diesem Fall ist das entsprechende Dokument nicht im UVP-Portal veröffentlicht. Es ist davon auszugehen, dass dies von den Gerichten als zumindest relativer Verfahrensfehler gewertet werden wird. Außerdem erhöht sich der Pflegeaufwand des UVP-Portals, wenn wegen fehlerhafter Links die Kontakt-Adresse (technische oder juristische Ansprechperson) angesprochen wird.**
 
 **Verfahrensschritt löschen**
 Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnitt den Button „Verfahrensschritt löschen“.
