@@ -122,7 +122,7 @@ Um den Raumbezug hinzuzufügen, in der Karte auf das blaue Kreuz klicken. Es öf
 
 Abb.: Raumbezug hinzufügen
 
-Für die Eingabe eines geografischen Bereichs, geben Sie in das Feld Suche nach einer Adresse/Raumbezug einen Ort ein. Sie haben die Möglichkeit aus dem Feld rechts, neben der Karte eine Auswahl zutreffen.  Ziehen Sie den entsprechenden Kartenausschnitt in das Rechteck. Verschieben Sie die Eckpunkte, bis der angegebene Raum im Rechteck liegt. Betätigen Sie abschließend unter der Karte den Button „Übernehme Ausschnitt“.
+Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" einen Ortsnamen oder einen Naturraum ein. Während der Eingabe werden Vorschläge angezeigt. Durch die Auswahl eines vorgeschlagenen Ortes, wird in der Karte eine BoundingBox für den gewählten Ort oder das Gebiet erzeugt.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
 
