@@ -421,16 +421,14 @@ Link (URL)*: https://landkreis.de/umweltamt/uib/uvp/wka-erxleben
 Gültig bis: 25.06.2021
 
 
-
 **Hinweis:**
 **Grundsätzlich ist das Hochladen eines Dokumentes gegenüber der Verlinkung zu Seiten der jeweiligen Dienststellen vorzuziehen, da die Verlinkung fehleranfällig ist. Jede Änderung des Pfades führt zur Nichterreichbarkeit des Dokuments. In diesem Fall ist das entsprechende Dokument nicht im UVP-Portal veröffentlicht. Es ist davon auszugehen, dass dies von den Gerichten als zumindest relativer Verfahrensfehler gewertet werden wird. Außerdem erhöht sich der Pflegeaufwand des UVP-Portals, wenn wegen fehlerhafter Links die Kontakt-Adresse (technische oder juristische Ansprechperson) angesprochen wird.**
 
 **Verfahrensschritt löschen**
-Möchten Sie einen Verfahrensschritt löschen, so wählen Sie unter dem Abschnitt den Button „Verfahrensschritt löschen“.
+Soll ein Verfahrenschritt gelöscht werdenn, so müssen die drei Punkte auf der rechts, neben der Überschrift des Verfahrensschrittes betätigt werden, dann öffnet sich die Option Löschen. 
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_dokument-upload_link.png
-   :width: 300
+.. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-loeschen.png
 
-Abb.: Dialogfenster Dokument-Upload Tab Link zum Dokument
+Abb.: Option Verfahrensschritt löschen
 
 
