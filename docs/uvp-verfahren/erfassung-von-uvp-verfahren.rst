@@ -128,7 +128,7 @@ Abb.: Raumbezug nach Orten suchen
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_freier-raumbezug.png
 
-Abb.: Boundingbox über freien Raumbezug
+Abb.: Freier Raumbezug - BoundingBox
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_bearbeiten.png
 
