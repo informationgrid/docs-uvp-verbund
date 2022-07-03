@@ -9,7 +9,7 @@ UVP Editor (IGE-NG)
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3927
- - letzte Änderung: 02.07.2022
+ - letzte Änderung: 03.07.2022
  - Status: in Bearbeitung
  
 
@@ -39,7 +39,6 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    uvp-verfahren/anlegen-von-adressen.rst
    uvp-verfahren/erfassung-von-uvp-verfahren.rst
    uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
-   uvp-verfahren/bestehende-adressen-oder-verfahren-bearbeiten.rst
    uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
 
 .. toctree::
