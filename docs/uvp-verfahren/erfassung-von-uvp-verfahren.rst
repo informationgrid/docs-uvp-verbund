@@ -460,7 +460,11 @@ Durch die Betätigung der Buttons "LINK ANGEBEN", öffnet sich ein Fenster mit d
 Abb.: Dialogfenster Link angeben
 
 
-In der Zeile des Eintrages erscheinen rchts drei Punkte, werden diese betätigt, erscheinen die Optionen "Bearbeiten" und "Löschen". Wird hier bearbeiten gewählt, öffent sich das Fenster "Eintrag bearbeiten". Darin kann der Titel und die Verlinkung bearbeitet werden und es kann ein Gültigkeitsdatum für die Verlinkung gewählt werden.
+In der Zeile des Eintrages erscheinen rechts drei Punkte, werden diese betätigt, erscheinen die Optionen "Bearbeiten" und "Löschen". Wird hier bearbeiten gewählt, öffent sich das Fenster "Eintrag bearbeiten". Darin kann der Titel und die Verlinkung bearbeitet werden und es kann ein Gültigkeitsdatum für die Verlinkung gewählt werden.
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_link-bearbeiten.png
+
+Abb.: Verlinkung bearbeiten
 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_verlinkung_eintrag-bearbeiten.png
