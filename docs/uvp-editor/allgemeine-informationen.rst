@@ -64,11 +64,11 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 .. csv-table::
-    :widths: 50 70 500
+    :widths: 50 300
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../img-ige-ng/editor/ige-ng_icon-gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. image:: ../img-ige-ng/editor/ige-ng_icon-veroeffentlicht.png , schwarz , Das Vorhaben bzw. die Adresse ist veröffentlicht
+    .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../img-ige-ng/editor/ige-ng_icon-veroeffentlicht.png , schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
     .. image:: ../img-ige-ng/editor/ige-ng_icon-in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse, der Datensatz wurde bearbeitet, aber noch nicht veröffentlicht.
 
 
