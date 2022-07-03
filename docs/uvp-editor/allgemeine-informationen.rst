@@ -62,11 +62,10 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 
 
 
-Bearbeitungsstatus
------------------
+Icons - Bearbeitungsstatus
+--------------------------
 
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
-
 
 .. csv-table::
     :widths: 50 150 300
