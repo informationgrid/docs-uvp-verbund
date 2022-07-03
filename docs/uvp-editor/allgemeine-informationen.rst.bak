@@ -121,7 +121,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     Symbol , Bezeichnung
     .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
     .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
-    .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren/Verschieben
+    .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png, Springe zum letzten Dokument
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
