@@ -31,7 +31,7 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
 
 .. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
-   :width: 300
+   :width: 400
    
 Abb.: UVP-Editor - Aufbau der Ordnerstruktur
 
@@ -47,13 +47,13 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 **Vorhaben**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
-   :width: 300
+   :width: 400
 
 
 **Adressen**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
-   :width: 300
+   :width: 400
 
 
 
