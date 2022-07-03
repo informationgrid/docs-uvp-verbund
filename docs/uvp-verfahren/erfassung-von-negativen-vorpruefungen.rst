@@ -6,7 +6,11 @@ In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten
 **Achtung!** *Diese Entscheidung sollte in jedem Bundesland vorab getroffen werden, weil das Erfassungsformular sich je nach Einstellung anpasst.*
 
 .. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung.png
-   :width: 500
+
+Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“ 
+
+
+.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung-formular.png
 
 Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“ 
  
