@@ -20,7 +20,9 @@ Aufbau der Benutzeroberfläche
 Abb.: UVP-Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
-Links - Navigation, Mitte - Ordnerstruktur, Rechts - Datenerfassung
+- Links - Navigation
+- Mitte - Ordnerstruktur
+- Rechts - Datenerfassung
 
 
 Strukturierung der Daten
