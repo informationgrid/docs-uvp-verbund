@@ -17,7 +17,9 @@ Aufbau der Benutzeroberfläche
 
 .. image:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    
-Abb.: UVP-Editor - Aufbau der Benutzeroberfläche
+Abb.: UVP-Editor - Benutzeroberfläche
+
+Aufbau der Benutzeroberfläche: Links - Navigation, Mitte - Ordnerstruktur, Rechts - Datenerfassung
 
 
 Strukturierung der Daten
