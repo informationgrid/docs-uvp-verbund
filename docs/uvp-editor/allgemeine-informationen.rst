@@ -242,7 +242,7 @@ Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seiten über
 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
-   :width: 200
+   :width: 300
 
 Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
 
@@ -257,6 +257,8 @@ Abb.: Dokumente - Bearbeiten - Dokumente auswählen
    :width: 400
 
 Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
+
+Es besteht die Möglichkeit über das Untermenü von "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
 
 
 Session abgelaufen
