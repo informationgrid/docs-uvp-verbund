@@ -69,7 +69,7 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 .. csv-table::
-    :widths: 50 70 300
+    :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
@@ -83,7 +83,7 @@ Menü
 .. image:: ../img-ige-ng/editor/ige-ng_menue.png
    :width: 300
    
-Abb.: Menü
+Abb.: Menü Symbole mit Beschriftung
 
 .. image:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
    :width: 150
@@ -93,7 +93,7 @@ Abb.: Menü verkleinern
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
    :height: 300
    
-Abb.: Menü verkleinernert
+Abb.: Menü (verkleinernert) Symbole
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
    :width: 50
