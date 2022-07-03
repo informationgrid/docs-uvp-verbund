@@ -64,7 +64,7 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
 
 
 .. csv-table::
-    :widths: 50 300
+    :widths: 50 70 300
 
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
@@ -86,7 +86,7 @@ Abb.: Menü
 Abb.: Menü verkleinern
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
-   :hight: 300
+   :hight: 30 0
    
 Abb.: Menü verkleinernert
 
@@ -116,7 +116,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
     .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
-	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png, Springe zum letzten Dokument
+	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
 
 
