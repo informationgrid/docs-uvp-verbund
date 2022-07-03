@@ -88,7 +88,7 @@ Abb.: Menü
 Abb.: Menü verkleinern
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
-   :hight: 300
+   :height: 300
    
 Abb.: Menü verkleinernert
 
