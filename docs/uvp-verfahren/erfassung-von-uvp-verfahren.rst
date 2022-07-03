@@ -151,31 +151,6 @@ Abb.: Freier Raumbezug und BoundingBox
 Abb.: Raumbezug bearbeiten
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Eingang des Antrags (*neues Feld*)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eingang-des-antrags.png
@@ -230,12 +205,15 @@ Abb.: Auswahlmenü der Verfahrensschritte
 
 Verfahrensschritt - Öffentliche Auslegung
 `````````````````````````````````````````
- 
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_oeffentliche-auslegung.png
+
+Abb.: Felder in Abschnitt Öffentliche Auslegung
+
  
 **Zeitraum der Auslegung von/bis (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_zeitraum-der-auslegung.png
-
 
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
@@ -352,6 +330,12 @@ In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu 
 Verfahrensschritt - Erörterungstermin
 ``````````````````````````````````````
 
+.. image:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_eroerterungstermin.png
+
+Abb.: Felder im Abschnitt Erörterungstermin
+
+
+
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eroerterungstermin.png
 
 Abb.: Zeitraum der Erörterung
@@ -378,14 +362,19 @@ Beispiel: 170815_Bekanntmachung_EÖT_WKA-Erxleben
 
 Verfahrensschritt - Entscheidung über die Zulassung
 ````````````````````````````````````````````````````
- 
+
+.. image:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_entscheidung-ueber-zulassung.png
+
+Abb.: Felder im Abschnitt Entscheidung über die Zulassung
+
+
 Datum der Entscheidung (Pflichtfeld)
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_datum-der-entscheidung.png
 
 Abb.: Feld Datum der Entscheidung
  
-Eintragung des Datums der Entscheidung.
+Hier wird das Datum der Entscheidung eingetragen.
 
 Beispiel: 25.05.2021
 
