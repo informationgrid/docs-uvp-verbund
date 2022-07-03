@@ -231,6 +231,32 @@ Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
+Dokumente bearbeiten
+--------------------
+
+.. image:: ../img-ige-ng/editor/ige-ng_dokumente_bearbeiten.png
+
+Abb.: Dokumente - Bearbeiten
+
+
+.. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
+   :width: 200
+
+Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
+
+
+.. image:: ../img-ige-ng/editor/ige-ng_editor_ausgewaehlte-kopieren.png
+   :width: 400
+
+Abb.: Dokumente - Bearbeiten - Dokumente auswählen
+
+
+.. image:: ../img-ige-ng/editor/ige-ng_editor_alle-auswaehlen.png
+   :width: 400
+
+Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
+
+
 Session abgelaufen
 ------------------
 

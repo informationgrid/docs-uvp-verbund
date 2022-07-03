@@ -238,6 +238,8 @@ Dokumente bearbeiten
 
 Abb.: Dokumente - Bearbeiten
 
+Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seiten über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
+
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
    :width: 200
