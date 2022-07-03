@@ -77,6 +77,25 @@ Menü
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue.png
    :width: 300
+   
+Abb.: Menü
+
+.. image:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
+   :width: 200
+   
+Abb.: Menü verkleinern
+
+.. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
+   :width: 200
+   
+Abb.: Menü verkleinernert
+
+.. image:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
+   :width: 200
+   
+Abb.: Menü vergrößern
+
+
 
 
 Symbolleiste
@@ -91,7 +110,7 @@ Abb.: Symbolleiste
 .. image:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
    :width: 300
 
-Abb.: Symbolleiste Untermenü
+Abb.: Symbolleiste Untermenü für Kopieren / Verschieben
 
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
