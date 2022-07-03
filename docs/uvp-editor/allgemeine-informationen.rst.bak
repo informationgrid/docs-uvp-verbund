@@ -19,7 +19,8 @@ Aufbau der Benutzeroberfläche
    
 Abb.: UVP-Editor - Benutzeroberfläche
 
-Aufbau der Benutzeroberfläche: Links - Navigation, Mitte - Ordnerstruktur, Rechts - Datenerfassung
+Aufbau der Benutzeroberfläche:
+Links - Navigation, Mitte - Ordnerstruktur, Rechts - Datenerfassung
 
 
 Strukturierung der Daten
@@ -37,7 +38,7 @@ Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
    
 Abb.: UVP-Editor - Aufbau der Ordnerstruktur
 
-Durch Klicken auf den Pfeil nach rechts wird der Strukturbaum ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird der Strukturbaum geschlossen.
+Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird die Struktur geschlossen.
  
 
 
@@ -88,7 +89,7 @@ Abb.: Menü
 Abb.: Menü verkleinern
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
-   :hight: 300
+   :height: 300
    
 Abb.: Menü verkleinernert
 
