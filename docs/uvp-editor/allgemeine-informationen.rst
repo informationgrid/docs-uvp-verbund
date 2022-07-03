@@ -81,17 +81,17 @@ Menü
 Abb.: Menü
 
 .. image:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
-   :width: 200
+   :width: 150
    
 Abb.: Menü verkleinern
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
-   :width: 200
+   :width: 150
    
 Abb.: Menü verkleinernert
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
-   :width: 200
+   :width: 150
    
 Abb.: Menü vergrößern
 

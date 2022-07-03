@@ -102,7 +102,7 @@ Symbolleiste
 ------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
-   :width: 300
+   :width: 400
    
 Abb.: Symbolleiste
 
