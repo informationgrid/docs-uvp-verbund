@@ -68,7 +68,7 @@ Icons - Bearbeitungsstatus
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
 
 .. csv-table::
-    :widths: 50 150 400
+    :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
@@ -137,7 +137,6 @@ Eingabefelder
 Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften oder durch ein Sternchen. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_felder.png
-   :width: 500
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
 
