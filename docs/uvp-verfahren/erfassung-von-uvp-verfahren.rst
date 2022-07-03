@@ -440,13 +440,13 @@ Wurden die Datein schon einmal hochgeladen, zeigt der Editior verschiedene Optio
 .. image:: ../img-ige-ng/meldungen/ige-ng_datei-vorhanden_optionen.png
    :width: 400
 
-Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN, EXISTIERENDE VERWENDEN
+Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN oder EXISTIERENDE VERWENDEN
 
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_konflikt_optionen.png
    :width: 400
 
-Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Datei auf, was möchten Sie tun? Optionen: ÜBERSCHREIBEN, UMBENENNEN
+Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Datei auf, was möchten Sie tun? Optionen: ÜBERSCHREIBEN oder UMBENENNEN
 
 
 **Link angeben**
