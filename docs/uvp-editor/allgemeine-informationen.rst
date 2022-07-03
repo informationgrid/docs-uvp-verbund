@@ -106,13 +106,6 @@ Symbolleiste
    
 Abb.: Symbolleiste
 
-
-.. image:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
-   :width: 300
-
-Abb.: Symbolleiste Untermenü für Kopieren / Verschieben
-
-
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
 .. csv-table::
@@ -125,6 +118,12 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png, Springe zum letzten Dokument
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
+
+
+.. image:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
+   :width: 300
+
+Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 
 
 
