@@ -68,7 +68,7 @@ Icons - Bearbeitungsstatus
 Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
 
 .. csv-table::
-    :widths: 50 150 400
+    :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
