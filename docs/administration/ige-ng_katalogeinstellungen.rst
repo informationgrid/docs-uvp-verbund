@@ -3,7 +3,6 @@ Katalogeinstellungen
 
 **"Negative Vorprüfungen" veröffentlichen**
 
-.. image:: ../img/administration/ige-uvp_katalogeinstellungen.png
-   :width: 700
+.. image:: ../img-ige-ng/administration/ige-ng_katalogeinstellungen_codelisten.png
 
-Abb.: Katalogeinstellungen UVP
+Abb.: Katalogeinstellungen Profil-UVP
