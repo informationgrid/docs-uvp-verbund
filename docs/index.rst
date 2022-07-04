@@ -20,7 +20,7 @@ Version der Bedienungsanleitung
 Die Dokumentation ist in sechs Blöcke untergliedert:
  - Block 1 Beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
  - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
- - Block 3 beschreibt wo Nutzer die Hilfe finden, Bebauungspläne im Kartenclient und die Zählung für die EU-Statistik.
+ - Block 3 beschreibt die Reports, die Hilfe und die Bebauungspläne im Kartenclient
  - Block 4 Beantwortung von häufig gestellten Fragen.
  - Block 5 (für Administratoren) beschreibt  die Nutzerverwaltung.
  - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
@@ -39,15 +39,16 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    uvp-verfahren/anlegen-von-adressen.rst
    uvp-verfahren/erfassung-von-uvp-verfahren.rst
    uvp-verfahren/erfassung-von-negativen-vorpruefungen.rst
-   uvp-verfahren/adressen-oder-verfahren-im-strukturbaum-bearbeiten.rst
+   uvp-verfahren/adressen-oder-verfahren-bearbeiten.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hilfe, B-Pläne, EU-Statistik  
+   :caption: Reports, Hilfe, B-Pläne
    
+   reports/reports.rst
    hilfe/hilfe-erfassung.rst
    bauleitplanung/bauleitplanung_erfassung.rst
-   statistik/eu-statistik.rst
+   
    
 .. toctree::
    :maxdepth: 1
