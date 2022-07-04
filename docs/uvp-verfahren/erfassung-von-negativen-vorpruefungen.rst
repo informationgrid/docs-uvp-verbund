@@ -1,5 +1,5 @@
-Erfassung von Vorprüfungen mit negativem Bescheid
-=================================================
+Erfassung von negativen Vorprüfungen
+====================================
 
 In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht.
 
