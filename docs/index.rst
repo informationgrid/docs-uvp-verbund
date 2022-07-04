@@ -1,5 +1,5 @@
 
-.. image:: img/portal/logo-mit-tag.svg
+.. image:: img-ige-ng/portal/logo-mit-tag.svg
    :width: 300
 
 Bedienungsanleitung UVP-Portal
@@ -13,8 +13,7 @@ Version der Bedienungsanleitung
  - Status: in Bearbeitung
  
 
-.. image:: img/uebersicht/ige-ng_uebersicht_01.png
-   :width: 500
+.. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
