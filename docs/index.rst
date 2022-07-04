@@ -60,10 +60,10 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Nutzerverwaltung im UVP-Editor
 
    uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
+   uvp-nutzerverwaltung/gruppen-und-rechte.rst
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
    uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
-   uvp-nutzerverwaltung/gruppenadministration.rst
-   uvp-nutzerverwaltung/nutzer-suchen.rst
+   uvp-nutzerverwaltung/suche.rst
    
 .. toctree::
    :maxdepth: 2
