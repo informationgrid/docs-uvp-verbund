@@ -8,7 +8,7 @@ UVP Editor (IGE-NG)
 ===================
    
 Version der Bedienungsanleitung
- - IGE-NG-Version: 0.0.0-3927
+ - IGE-NG-Version: 0.0.0-3928
  - letzte Änderung: 04.07.2022
  - Status: in Bearbeitung
  
@@ -33,7 +33,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 3
-   :caption: Erfassung von UVP-Verfahren
+   :caption: Erfassung von UVP-Vorhaben
 
    uvp-verfahren/ige-ng_anlegen-von-adressen.rst
    uvp-verfahren/ige-ng_erfassung-von-uvp-verfahren.rst
@@ -57,7 +57,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
       
 .. toctree::
    :maxdepth: 2
-   :caption: Nutzerverwaltung im UVP-Editor
+   :caption: Nutzerverwaltung
 
    uvp-nutzerverwaltung/ige-ng_nutzerverwaltung.rst
    uvp-nutzerverwaltung/ige-ng_gruppen-und-rechte.rst
@@ -67,7 +67,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: Administration im UVP-Editor
+   :caption: Administration
    
    administration/ige-ng_katalogeinstellungen.rst
    administration/ige-ng_im-export.rst
