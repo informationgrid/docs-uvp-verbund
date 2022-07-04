@@ -242,7 +242,7 @@ Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seiten über
 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
-   :width: 300
+   :width: 400
 
 Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
 

@@ -175,12 +175,12 @@ Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt
 Abb.: Feldtyp - Auswahl
 
 
-Zwischenspeichern, Speichern & Veröffentlichen
+SPEICHERN & VERÖFFENTLICHEN
 ----------------------------------------------
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
-Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt worden sind.
+Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
 .. image:: ../img-ige-ng/editor/ige-ng_speichern.png
    :width: 300
@@ -188,7 +188,7 @@ Das *Zwischenspeichern* speichert den geänderten bzw. neu erfassten Datensatz, 
 Abb.: Speichern
 
 
-Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das Internet freigegeben.
+Beim abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
    :width: 300
@@ -196,14 +196,14 @@ Beim *abschließenden Speichern & Veröffentlichen* werden die Daten für das In
 Abb.: Veröffentlichen
 
 
-Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern & Veröffentlichen“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt. 
+Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons "VERÖFFENTLICHEN" eine Fehlermeldung und die Überschriften der entsprechenden Felder werden in rot angezeigt. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
-Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion Zwischenspeichern. 
+Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN". 
 
 
 Zeitgesteuerte Veröffentlichung von Datensätzen
