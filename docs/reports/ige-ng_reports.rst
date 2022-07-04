@@ -34,7 +34,3 @@ Abb.: UVP-Bericht als CSV-Datei herunterladen
    :width: 200
    
 Abb.: UVP-Bericht csv-Download
-
-
-
-
