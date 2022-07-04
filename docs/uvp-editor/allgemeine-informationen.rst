@@ -262,6 +262,19 @@ Abb.: Dokumente - Bearbeiten - Dokumente auswählen
 Es besteht die Möglichkeit über das Untermenü von "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
 
 
+Metadaten anzeigen
+------------------
+
+.. image:: ../img-ige-ng/meldungen/ige-ng_vorhaben_metadaten-anzeigen.png
+
+Abb.: Vorhaben - Metadaten anzeigen
+
+
+.. image:: ../img-ige-ng/meldungen/ige-ng_vorhaben_metadaten-ansicht.png
+
+Abb.: Vorhaben - Metadaten
+
+
 Session abgelaufen
 ------------------
 
