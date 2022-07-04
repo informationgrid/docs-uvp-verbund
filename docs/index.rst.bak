@@ -9,7 +9,7 @@ UVP Editor (IGE-NG)
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3927
- - letzte Änderung: 03.07.2022
+ - letzte Änderung: 04.07.2022
  - Status: in Bearbeitung
  
 
@@ -62,7 +62,6 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    uvp-nutzerverwaltung/konzept-der-nutzerverwaltung.rst
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
    uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
-   uvp-nutzerverwaltung/anzeige-der-verantwortlichkeiten.rst
    uvp-nutzerverwaltung/gruppenadministration.rst
    uvp-nutzerverwaltung/berechtigungsuebersicht.rst
    
