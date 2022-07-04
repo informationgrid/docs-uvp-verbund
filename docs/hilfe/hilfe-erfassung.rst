@@ -1,5 +1,5 @@
 Hilfe für die Erfassung
-===========================
+=======================
 
 Eine allgemeine Hilfe zum InGrid-Editor kann durch öffnen des Menüs rechts oben (drei Punkte) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
 
