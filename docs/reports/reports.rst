@@ -4,9 +4,13 @@ Reports
 Statistik
 ---------
 
-.. image:: ../img-ige-ng/reports/ige-ng_reports_statistik.png
+.. image:: ../img-ige-ng/reports/ige-ng_reports_statistik_vorhaben.png
    
-Abb.: UVP Statistik
+Abb.: UVP Statistik - Vorhaben
+
+.. image:: ../img-ige-ng/reports/ige-ng_reports_statistik_adressen.png
+   
+Abb.: UVP Statistik - Adressen
 
 
 UVP-Bericht
@@ -20,16 +24,17 @@ Für die Berichtspflicht an die EU, müssen abgeschlossene Verfahren und negativ
 Soll ein Verfahren gelöscht werden, erscheint ein Löschhinweis. Es wird darauf verwiesen, dass gelöschte Verfahren in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt werden.
 
 
-
-
-
-
-.. image:: ../img-ige-ng/editor/meldungen/ige-uvp_warnung-datensätze-werden-gelöscht.png
+.. image:: ../img-ige-ng/reports/ige-ng_reports_uvp-bericht-herunterladen.png
    :width: 200
    
-Abb.: Löschen von Verfahren - Fenster mit Warnung
+Abb.: UVP-Bericht als CSV-Datei herunterladen
 
-Über das Menü im UVP Editor kann der Katalogadministrator die Seite UVP-Statistik aufrufen. Der Katalogadmin kann auf dieser Seite eine Statistik über verschiedene Aspekte der erfassten Verfahren generieren. Diese Auswertung bildet die Basis für die EU-Berichtpflicht.
+
+.. image:: ../img-ige-ng/reports/ige-ng_reports_uvp-bericht-download.png
+   :width: 200
+   
+Abb.: UVP-Bericht csv-Download
+
 
 
 
