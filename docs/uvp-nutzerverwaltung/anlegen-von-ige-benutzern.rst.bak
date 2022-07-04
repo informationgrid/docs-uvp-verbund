@@ -31,7 +31,7 @@ Durch Betätigen des Buttons "HINZUFÜGEN", wird ein Dialogfenster geöffnet.
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
    :width: 300
 
-Abb.: Button - Benutzer hinzufügen
+Abb.: Button "HINZUFÜGEN"
 
 
 Folgende Felder müssen ausgefüllt werden:
@@ -64,14 +64,14 @@ Jede Email-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion 
 
 Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "Anlegen" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-zuweisen.png
 
 Abb.: Gruppe zuweisen
+
  
 Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
-
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_speichern.png
    :width: 300
 
-Abb.: Rolle zuweisen
+Abb.: Button "SPEICHERN"
