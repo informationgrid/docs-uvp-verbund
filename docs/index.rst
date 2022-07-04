@@ -60,7 +60,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :maxdepth: 2
    :caption: Nutzerverwaltung im UVP-Editor
 
-   uvp-nutzerverwaltung/ige-ng_konzept-der-nutzerverwaltung.rst
+   uvp-nutzerverwaltung/ige-ng_nutzerverwaltung.rst
    uvp-nutzerverwaltung/ige-ng_gruppen-und-rechte.rst
    uvp-nutzerverwaltung/ige-ng_anlegen-von-ige-benutzern.rst
    uvp-nutzerverwaltung/ige-ng_bearbeiten-und-loeschen-eines-nutzers.rst
