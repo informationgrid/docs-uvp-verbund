@@ -7,11 +7,11 @@ Suche
 Über die Suche in der Nutzer und Gruppenverwaltung, lassen sich einfach die Nutzer oder angelegten Gruppen finden.
 Während der Eigabe des Nutzers oder der Gruppe werden schon die Einträge selektiert.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_suche_nutzer.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_suche-nutzer.png
 
 Abb.: Suche eines Nutzers
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_suche_gruppe.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_suche-gruppe.png
 
 Abb.: Suche einer Gruppe
 

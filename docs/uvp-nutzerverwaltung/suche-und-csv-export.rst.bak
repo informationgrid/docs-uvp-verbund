@@ -25,3 +25,8 @@ CSV-Export
    :width: 50
 
 Abb.: CSV-Export
+
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_csv.png
+
+Abb.: CSV-Export
