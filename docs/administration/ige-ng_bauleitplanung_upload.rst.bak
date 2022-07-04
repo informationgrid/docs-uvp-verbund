@@ -1,5 +1,5 @@
-Upload von BLP-Daten
-=====================
+Upload von BLP-Verweisen in die Karte
+=================================
 
 UVP-Testsystem: https://test.uvp-verbund.de/iplug-admin-blp-xx
 (xx- durch das Kürzel des Bundeslandes ersetzten)
@@ -16,8 +16,7 @@ UVP-Testsystem: https://test.uvp-verbund.de/iplug-admin-blp-xx
 *Die BLP Einträge im Excelfile werden im Nachgang analysiert. Bitte warten bis die Analyse fertig ist!
 Es wird ein Protokoll ausgegeben in dem evtl. auftretende Probleme angezeigt werden (z.B. nicht erreichbare URLs, fehlende Daten oder ähnliches). Bitte auch die kleine Hilfe unter dem Link "Hinweise" beachten.*
 
-.. image:: ../img/administration/konfiguration-blp_upload_01.png
-   :width: 500
+.. image:: ../img-ige-ng/administration/konfiguration-blp_upload_01.png
 
 Abb.: Upload BLP-Daten
 
@@ -25,7 +24,6 @@ Abb.: Upload BLP-Daten
 4. Menüpunkt "Indexieren" auswählen
 5. Schaltfläche "Jetzt Indexieren" aktivieren
 
-.. image:: ../img/administration/konfiguration-blp_upload_02.png
-   :width: 500
+.. image:: ../img-ige-ng/administration/konfiguration-blp_upload_02.png
 
 Abb.: Upload BLP-Daten

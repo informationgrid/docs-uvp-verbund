@@ -1,5 +1,5 @@
-Upload von BLP-Daten
-=====================
+Upload von BLP-Verweisen in die Karte
+=====================================
 
 UVP-Testsystem: https://test.uvp-verbund.de/iplug-admin-blp-xx
 (xx- durch das Kürzel des Bundeslandes ersetzten)
