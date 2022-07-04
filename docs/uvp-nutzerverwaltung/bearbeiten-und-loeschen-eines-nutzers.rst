@@ -1,5 +1,5 @@
-Bearbeiten und Löschen eines bereits existierenden IGE-Nutzers
-==============================================================
+Bearbeiten und Löschen eines IGE-Nutzers
+========================================
 
 Soll ein Nutzer gelöscht werden, muss der Nutzer in der Nutzerverwaltung ausgewählt werden.
 

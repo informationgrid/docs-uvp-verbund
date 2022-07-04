@@ -5,6 +5,6 @@ Soll ein Nutzer gelöscht werden, muss der Nutzer in der Nutzerverwaltung ausgew
 
 Die Nutzerdaten werden in die Felder auf der rechten Seite des Fensters geladen. Jetzt kann über das Menü (drei Punkte) die Funktion "Löschen" ausgeführt wertden.
 
-.. image:: ../img/nutzerverwaltung/ige-ng_nutzerverwaltung_nutzer-loeschen.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_nutzer-loeschen.png
 
 Abb.: Nutzer löschen
