@@ -12,7 +12,7 @@ Eine Hilfe zu einem Eingabefeld kann aufgerufen werden, indem mit dem Mauszeiger
 .. image:: ../img-ige-ng/hilfe/ige-ng_hilfe_feldbezeichnung.png
    :width: 300
 
-Abb.: Fedüberschriften mit hinterlegter Eingabebeschreibung
+Abb.: Fedüberschriften mit hinterlegter Beschreibung
 
 .. image:: ../img-ige-ng/hilfe/ige-ng_hilfe_fenster.png
    :width: 500

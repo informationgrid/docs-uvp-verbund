@@ -3,18 +3,18 @@ Hilfe für die Erfassung
 
 Eine allgemeine Hilfe zum InGrid-Editor kann durch öffnen des Menüs rechts oben (drei Punkte) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
 
-.. image:: ../img/hilfe/ige-ng_hilfe.png
+.. image:: ../img-ige-ng/hilfe/ige-ng_hilfe.png
 
 Abb.: Menü - Hilfe
 
 Eine Hilfe zu einem Eingabefeld kann aufgerufen werden, indem mit dem Mauszeiger über die Feldbezeichnung gefahren wird. Es erscheint links neben der Feldbezeichnung ein i. Wird die Bezeichnung mit der Maus angeklickt, öffnet sich für das jeweilige Eingabefeld ein Fenster mit der Beschreibung.
 
-.. image:: ../img/hilfe/ige-ng_hilfe_feldbezeichnung.png
+.. image:: ../img-ige-ng/hilfe/ige-ng_hilfe_feldbezeichnung.png
    :width: 300
 
-Abb.: Fedüberschriften mit hinterlegter Eingabebeschreibung
+Abb.: Fedüberschriften mit hinterlegter Eingabefeldbeschreibung
 
-.. image:: ../img/hilfe/ige-ng_hilfe_fenster.png
+.. image:: ../img-ige-ng/hilfe/ige-ng_hilfe_fenster.png
    :width: 500
 
 Abb.: Hilfe-Dialog zu den Eingabefeldern
