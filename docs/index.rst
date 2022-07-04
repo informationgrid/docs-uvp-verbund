@@ -63,7 +63,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    uvp-nutzerverwaltung/gruppen-und-rechte.rst
    uvp-nutzerverwaltung/anlegen-von-ige-benutzern.rst
    uvp-nutzerverwaltung/bearbeiten-und-loeschen-eines-nutzers.rst
-   uvp-nutzerverwaltung/suche.rst
+   uvp-nutzerverwaltung/suche-und-csv-export.rst
    
 .. toctree::
    :maxdepth: 2
