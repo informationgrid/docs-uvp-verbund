@@ -47,8 +47,14 @@ Abb.: Portalbenutzer importieren
 
 2. Weisen Sie dem neuen UVP-Editor-Nutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-uvp_gruppen-zuweisen.png
+   :width: 200
 
 Abb.: Nutzergruppen zuweisen
  
 3.	Mit *Speichern* (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
+
+
+
+**Hinweis:**
+*Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
