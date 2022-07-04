@@ -14,6 +14,7 @@ Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
 **3. Metadaten-Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
+   :width: 400
 
 Abb.: Nutzerverwaltung - Rollen
 
