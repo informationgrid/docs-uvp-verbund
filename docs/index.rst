@@ -77,7 +77,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :maxdepth: 2
    :caption: History der Software-Versionen
    
-   administration/ige-ng_Versionen.rst
+   administration/ige-ng_versionen.rst
 
 
 
