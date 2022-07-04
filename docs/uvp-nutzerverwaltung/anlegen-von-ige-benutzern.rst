@@ -41,6 +41,12 @@ Folgende Felder müssen ausgefüllt werden:
 
 Abb.: Dialogfenster - Benutzer hinzufügen
 
+Feld Login*
+-----------
+
+################
+
+
 
 Feld Rolle*
 -----------
