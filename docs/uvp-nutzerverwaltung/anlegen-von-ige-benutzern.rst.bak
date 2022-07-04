@@ -26,35 +26,52 @@ Abb.: Nutzer Gruppenberechtigung zuordnen
  
 Nachdem gehen Sie bitte wie folgt vor:
 
-Klicken Sie in der Nutzeradministration (UVP-Editor-Nutzerverwaltung) auf den Administrator, der für den neuen Nutzer zuständig sein soll (Hierarchiebaum auf der linken Seite).
+Durch Betätigen des Buttons "HINZUFÜGEN", wird ein Dialogfenster geöffnet.
 
-Als Katalog-Administrator können Sie Metadaten-Administratoren und Metadaten-Autoren im gesamten Katalog anlegen. Als Metadaten-Administrator können Sie nur Metadaten-Autoren unterhalb ihres eigenen Eintrags anlegen. Unterhalb von Metadaten-Autoren können keine weiteren Nutzer angelegt werden.
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+   :width: 300
 
-Klicken Sie auf die Schalfläche Nutzer anlegen (unterhalb des Hierarchiebaums). Geben Sie nun in das Dialogfeld die Anfangsbuchstaben des neuen Portal-Nutzers ein und wählen Sie dann aus der Auswahlliste den entsprechenden Nutzer aus. Klicken Sie anschließend auf die Schalfläche Übernehmen, um dem neuen Nutzer den ausgewählten UVP-Editor-Administrator zuzuordnen.
+Abb.: Button - Benutzer hinzufügen
+
+
+Folgende Felder müssen ausgefüllt werden:
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
+   :width: 400
+
+Abb.: Dialogfenster - Benutzer hinzufügen
+
+
+Feld Rolle*
+-----------
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
+   :width: 400
+
+Abb.: Rolle zuweisen
+
+Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Metadaten-Autoren anlegen. Metadaten-Administratoren können nur Metadaten-Autoren anlegen. Metadaten-Autoren können keine Nutzer anlegen.
+
+Weisen Sie dem neuen UVP-Editor-Nutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
+
+
+Feld E-Mail*
+------------
+
+An die angegebene Email-Adresse wird bei Klick auf "Anlegen" eine automatische E-Mail mit dem Passwort versendet.
+
+Jede Email-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine Email aus dem System bekommt.
+
+Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "Anlegen" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
+
+Abb.: Gruppe zuweisen
  
-**Hinweis:**
-*Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.*
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-uvp_nutzer-importieren.png
-   :width: 200
-
-Abb.: Portalbenutzer importieren
- 
-**Hinweis**
-*Ein Portal-Nutzer, der bereits einem UVP-Editor-Katalog zugeordnet ist, kann keinen zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit UVP-Editor-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.*
-
-1. Für den neuen UVP-Editor-Nutzer müssen nun einige Nutzerdaten (Name, E-Mail, Institution) erfasst werden.
-
-2. Weisen Sie dem neuen UVP-Editor-Nutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-uvp_gruppen-zuweisen.png
-   :width: 200
-
-Abb.: Nutzergruppen zuweisen
- 
-3.	Mit *Speichern* (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
+Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
 
 
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_speichern.png
+   :width: 300
 
-**Hinweis:**
-*Eine Anleitung für die Erfassung von Verfahren, finden Sie im Teil 2 der Erfassungsanleitung.*
+Abb.: Rolle zuweisen
