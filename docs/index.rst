@@ -68,9 +68,10 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: Administration im UVP-Portal
+   :caption: Administration im UVP-Editor
    
-   administration/ige-uvp_katalogeinstellungen.rst
+   administration/katalogeinstellungen.rst
+   administration/im-export.rst
    administration/bauleitplanung_upload.rst
    
 .. toctree::
