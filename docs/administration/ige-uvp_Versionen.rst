@@ -2,8 +2,8 @@ InGrid (IGE-NG) - Versionen
 ===========================
 
 Version der Bedienungsanleitung
- - InGrid-Version: 0.0.0-3787
- - letzte Änderung: 31.05.2022
+ - InGrid-Version: 0.0.0-3927
+ - letzte Änderung: 04.07.2022
  - Status: in Bearbeitung
 
 
