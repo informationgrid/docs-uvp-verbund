@@ -1,5 +1,5 @@
-Konzept der Nutzerverwaltung des InGrid-Editors
-===============================================
+Konzept der Nutzerverwaltung
+============================
 
 Der UVP-Editor ist eine Komponente der Portal-Software InGrid. Durch die Verknüpfung der Nutzverwaltungen des UVP-Portals und des UVP-Editors ergibt sich der Vorteil, dass sich ein Nutzer nur einmal zentral im Portal anmelden muss.
 
