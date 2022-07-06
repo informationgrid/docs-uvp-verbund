@@ -21,15 +21,7 @@ Abb.: Symbolleiste - Verfahren/Adressen Löschen
 
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
-
-.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_datensatz-loeschen.png
-   :width: 400
-
-Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
-
-
 Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise sind die Operationen "verschieben", "löschen" und "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
-
 
 **Hinweis:** 
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind. Ist die Adresse noch mit Verfahren verknüpft, müssen diese Verfahren unter „Kontaktdaten der verfahrensführenden Behörde“ einer anderen Adresse zugeordnet werden. Die bisherige Adresse muss dann aus der Tabelle gelöscht werden.*
@@ -47,19 +39,13 @@ Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / d
 
 Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-Alternativ können Sie nach dem Markieren des Verfahrens / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
+Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Datensatz eingefügt werden soll, dann den Vorgang mit "EINFÜGEN" abschließen.
 
-.. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_kopieren.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_einfuegen.png
    :width: 300
 
-Abb.: Kontextmenü - Verfahren/Adressen kopieren
+Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-Zum Einfügen markieren Sie bitte das Verfahren bzw. die Adresse, die hierarchisch über dem einzufügenden Verfahren bzw. der einzufügenden Adresse steht. Ist die entsprechende Adresse bzw. das entsprechende Verfahren markiert, so kann mit dem Icon „Einfügen“ der Toolbar die Kopie eingefügt werden. 
-
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 300
-
-Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
 
 Alternativ ist der Befehl *Einfügen* auch über das Kontextmenü (rechte Maustaste) aufzurufen. 
 

@@ -14,7 +14,7 @@ Abb.: Markiertes Vorhaben in der Ordnerstruktur
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :width: 300
 
-Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
+Abb.: Symbolleiste - Verfahren/Adressen Löschen
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_datensatz-loeschen.png
    :width: 400
@@ -42,24 +42,18 @@ Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Ko
 
 Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / die Adresse und wählen anschließend das Symbol „Kopieren“ aus der Symbolleiste aus. 
 
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_kopieren.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :width: 300
 
-Abb.: Symbolleiste - (Verfahren/Adressen) kopieren
+Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-Alternativ können Sie nach dem Markieren des Verfahrens / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
+Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Datensatz eingefügt werden soll, dann den Vorgang mit "EINFÜGEN" abschließen.
 
-.. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_kopieren.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_einfuegen.png
    :width: 300
 
-Abb.: Kontextmenü - Verfahren/Adressen kopieren
+Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-Zum Einfügen markieren Sie bitte das Verfahren bzw. die Adresse, die hierarchisch über dem einzufügenden Verfahren bzw. der einzufügenden Adresse steht. Ist die entsprechende Adresse bzw. das entsprechende Verfahren markiert, so kann mit dem Icon „Einfügen“ der Toolbar die Kopie eingefügt werden. 
-
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 300
-
-Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
 
 Alternativ ist der Befehl *Einfügen* auch über das Kontextmenü (rechte Maustaste) aufzurufen. 
 
