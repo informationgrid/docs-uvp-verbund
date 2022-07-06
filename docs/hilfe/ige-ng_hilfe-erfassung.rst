@@ -1,7 +1,7 @@
 Hilfen für die Erfassung
 ========================
 
-Die Bedienungsanleitung kann über die Hilfe im UVP-Editor geöffnet werden.
+Die Bedienungsanleitung kann über die Hilfe im UVP-Editor geöffnet werden. Klicken Sie dazu im UVP-Editor oben rechts auf die drei Punkte.
 
 .. image:: ../img-ige-ng/hilfe/ige-ng_hilfe.png
    :width: 400
