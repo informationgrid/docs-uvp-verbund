@@ -49,15 +49,18 @@ Abb.: Symbolleiste - Verfahren/Adressen kopieren
 Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise ist die Operation "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
  
 
-.. image:: ../img/editor/verfahren/ige-uvp_strukturbaum_kopieren-einfügen.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
    :width: 400
 
-Abb.: Strukturbaum - Einfügen - Symbol rot
+Abb.: Checkbox - Verfahren/Adressen kopieren
 
-Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Verfahren / der kopierten Adresse vornehmen. 
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_alle-auswaehlen.png
+
+Abb.: Checkbox - "Alle" markieren
+
 
 **Hinweis:**
-*Wichtig ist zudem, dass der Verfahrensname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
+*Wurde eine Kopie angelegt, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
 
 
 Adressangaben in nachgeordnete Adressen übernehmen

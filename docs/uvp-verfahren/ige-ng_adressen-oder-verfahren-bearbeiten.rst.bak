@@ -60,45 +60,6 @@ Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenübe
 *Wichtig ist zudem, dass der Verfahrensname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
 
 
-Verfahren/Adresse/Teilbaum ausschneiden und wieder einfügen
------------------------------------------------------------
-
-Es ist im InGrid-Editor möglich, ein Verfahren, eine Adresse oder einen Teilbaum (d.h. ein Verfahren mit allen hierarchisch darunterliegenden Verfahren bzw. Adressen) zu verschieben. Hierfür wird das entsprechende Verfahren ausgeschnitten und einem anderen Platz in der Hierarchie des aktuellen Kataloges wieder zugewiesen. Sinnvoll ist das Verschieben, wenn beispielsweise Personen innerhalb einer Behörde das Amt bzw. die Abteilung wechseln. 
-
-
-Um ein Verfahren, eine Adresse oder einen Teilbaum zu verschieben, markieren Sie dieses. Um einen Teilbaum (d.h. ein Verfahren mit allen hierarchisch darunterliegenden Verfahren bzw. Adressen) auszuschneiden, muss das hierarchisch oberste Verfahren markiert sein. Es ist jedoch auch möglich, im Strukturbaum mehrere Verfahren bzw. Adressen gleichzeitig zu selektieren. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. 
-
-
-Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Verfahren/Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Toolbar aufgerufen werden. 
-
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_ausschneiden.png
-   :width: 300
-
-Abb.: Symbolleiste - .. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 400
-
-Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
- 
-Das Verfahren, die Adresse oder der Teilbaum befinden sich nun im Zwischenspeicher. Zu erkennen ist dieses im Strukturbaum. Das ausgeschnittene Verfahren wird dort nur noch grau dargestellt. 
-
-.. image:: ../img/editor/verfahren/ige-uvp_strukturbaum_ausschneiden.png
-   :width: 300
-
-Abb.: Strukturbaum - Einfügen - Symbol rot
-
-Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Verfahren bzw. die Adresse, die hierarchisch über dem einzufügenden Verfahren oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Toolbar auszuwählen. 
-
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_einfügen.png
-   :width: 300
-
-Abb.: Symbolleiste - (Verfahren/Adressen) einfügen
-
-Damit wird das ausgeschnittene Verfahren, die ausgeschnittene Adresse bzw. der Teilbaum wieder im Strukturbaum eingefügt. Im Gegensatz zum Kopieren ist das eingefügte Verfahren bzw. die eingefügte Adresse nicht automatisch im Bearbeitungszustand. Beim Verschieben bleibt die Veröffentlichungsstufe bestehen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch und kann durch Verschieben oder Einfügen nicht geändert werden. 
-
-**Hinweis:**
-*Verfahren müssen im gleichen Verfahrensbereich (gleicher Verfahrenstyp) bleiben. Es ist beispielsweise nicht möglich, ein Verfahren aus dem Bereich „Zulassungsverfahren“ in den Bereich „Ausländische Vorhaben“ zu verschieben.*
-
-
 Adressangaben in nachgeordnete Adressen übernehmen
 --------------------------------------------------
 
