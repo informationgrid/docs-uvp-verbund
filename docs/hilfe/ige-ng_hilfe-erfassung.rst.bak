@@ -1,11 +1,19 @@
 Hilfen für die Erfassung
-=======================
+========================
 
-Eine allgemeine Hilfe zum InGrid-Editor kann durch öffnen des Menüs rechts oben (drei Punkte) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des Editors.
+Die Bedienungsanleitung kann über die Hilfe im UVP-Editor geöffnet werden.
 
 .. image:: ../img-ige-ng/hilfe/ige-ng_hilfe.png
 
 Abb.: Menü - Hilfe
+
+
+Weiterhin ist im Editor diese Bedienungsanleitung verlinkt. Nutzen sie für Ihre Recherchen in den Bedienungsanleitung auch die vorhandene Suche!
+
+.. image:: ../img-ige-ng/suche/ige-ng_bedienungsanleitung_suche.png
+   :width: 400
+
+Abb.: Bedienungsanleitung - Suche
 
 
 Eine Hilfe zu einem Eingabefeld kann aufgerufen werden, indem mit dem Mauszeiger über die Feldbezeichnung gefahren wird. Es erscheint links neben der Feldbezeichnung ein i. Wird die Bezeichnung mit der Maus angeklickt, öffnet sich für das jeweilige Eingabefeld ein Fenster mit der Beschreibung.

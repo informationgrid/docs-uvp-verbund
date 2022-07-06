@@ -104,12 +104,7 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
 
 Kontakt
 -------
-	 
-   `Kontakt`_
-   
-.. _Kontakt: https://www.uvp-verbund.de/kontakt
 
-
-   `Kontakt <https://www.uvp-verbund.de/kontakt>`_ 
+   `Support <https://www.uvp-verbund.de/kontakt>`_ 
 
    
