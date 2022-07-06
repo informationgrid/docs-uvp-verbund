@@ -46,15 +46,8 @@ Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Da
 
 Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-
-Alternativ ist der Befehl *Einfügen* auch über das Kontextmenü (rechte Maustaste) aufzurufen. 
-
 Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise ist die Operation "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
-
-**Hinweis:**
-*Kopierte Verfahren müssen im gleichen Verfahrensbereich (gleicher Verfahrenstyp) bleiben. Es ist beispielsweise nicht möglich, ein Verfahren aus dem Bereich „Zulassungsverfahren“ zu kopieren und anschließend in den Bereich "Vorgelagerte Verfahren" einzufügen.*
-
-Nach dem Einfügen wird das Symbol der kopierten Adresse bzw. des kopierten Verfahrens im Strukturbaum rot dargestellt. Es befindet sich somit im Bearbeitungszustand. 
+ 
 
 .. image:: ../img/editor/verfahren/ige-uvp_strukturbaum_kopieren-einfügen.png
    :width: 400
