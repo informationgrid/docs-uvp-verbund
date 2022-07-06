@@ -6,23 +6,23 @@ Verfahren / Adressen löschen
  
 Soll ein Verfahren oder eine Adresse komplett gelöscht werden, muss das Verfahren in der Ordnerstruktur angeklickt werden, so dass es blau hinderlegt ist. Anschließend ist das Papierkorbsymbol (Löschen) in der Symbolleiste zu wählen. Es öffnet sich das Fenster "Löschen", darin muss das Löschen bestätigt werden.
 
-.. image:: ../imgige-ng/bearbeiten/ige-ng_bearbeiten_ordnerstruktur.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ordnerstruktur.png
    :width: 400
 
 Abb.: Markiertes Vorhaben in der Ordnerstruktur
 
-.. image:: ../imgige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :width: 400
 
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
 
-.. image:: ../imgige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
    :width: 400
 
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
 
-.. image:: ../imgige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
    :width: 400
 
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen

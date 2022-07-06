@@ -28,22 +28,11 @@ Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
 
 
-
-Wichtig ist, dass zuvor das Verfahren bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Verfahren rechts im Inhaltsfenster des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
-Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Verfahren bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf "Ok" werden die Daten endgültig gelöscht.
-
-.. image:: ../img/editor/meldungen/ige-uvp_neuen-md-s-verwerfen.png
-   :width: 200
-
-Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
-
 Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise sind die Operationen "verschieben", "löschen" und "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
 
-**Achtung!**
-*Möchte man ein Verfahren oder eine Adresse löschen, welche(s) untergeordnete Verfahren bzw. Adressen besitzt, so werden diese automatisch mit gelöscht!* 
 
 **Hinweis:** 
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren zugeordnet sind. Ist die Adresse noch mit Verfahren verknüpft, müssen diese Verfahren unter „Kontaktdaten der verfahrensführenden Dienststelle“ einer anderen Adresse zugeordnet werden. Die bisherige Adresse muss dann aus der Tabelle gelöscht werden.*
+*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind. Ist die Adresse noch mit Verfahren verknüpft, müssen diese Verfahren unter „Kontaktdaten der verfahrensführenden Behörde“ einer anderen Adresse zugeordnet werden. Die bisherige Adresse muss dann aus der Tabelle gelöscht werden.*
 
 
 Verfahren / Adressen kopieren und einfügen
