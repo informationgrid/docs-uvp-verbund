@@ -25,7 +25,7 @@ Recherche
 Erweiterte Suche
 ----------------
 
-.. image:: ../img-ige-ng/suche/ige-ng_recherche.png
+.. image:: ../img-ige-ng/recherche/ige-ng_recherche.png
    
 Abb.: Erweiterte Suche
 
@@ -34,6 +34,9 @@ Abb.: Erweiterte Suche
 SQL Suche
 ---------
 
+.. image:: ../img-ige-ng/suche/ige-ng_recherche_sql-suche.png
+   
+Abb.: SQL Suche
 
 
 
