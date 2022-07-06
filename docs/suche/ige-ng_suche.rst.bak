@@ -44,4 +44,4 @@ Gespeicherte Suchen
 
 .. image:: ../img-ige-ng/recherche/ige-ng_suche_gespeicherte-suche.png
    
-Abb.: gspeicherte Suchanfragen
+Abb.: gsepeicherte Suchanfragen

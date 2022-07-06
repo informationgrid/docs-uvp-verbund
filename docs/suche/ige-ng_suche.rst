@@ -24,7 +24,7 @@ Recherche
 Erweiterte Suche
 ----------------
 
-.. image:: ../img-ige-ng/recherche/ige-ng_suche_erweiterte-suche.png
+.. image:: ../img-ige-ng/recherche/ige-ng_recherche_erweiterte-suche.png
    
 Abb.: Erweiterte Suche
 
@@ -33,7 +33,7 @@ Abb.: Erweiterte Suche
 SQL Suche
 ---------
 
-.. image:: ../img-ige-ng/recherche/ige-ng_suche_sql-suche.png
+.. image:: ../img-ige-ng/recherche/ige-ng_recherche_sql-suche.png
    
 Abb.: SQL Suche
 
@@ -42,6 +42,6 @@ Abb.: SQL Suche
 Gespeicherte Suchen
 -------------------
 
-.. image:: ../img-ige-ng/recherche/ige-ng_suche_gespeicherte-suche.png
+.. image:: ../img-ige-ng/recherche/ige-ng_recherche_gespeicherte-suche.png
    
 Abb.: gsepeicherte Suchanfragen
