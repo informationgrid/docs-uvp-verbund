@@ -55,7 +55,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Fragen & Antworten 
    
    faq/faq.rst
-   hilfe/uvp-verbund_portal_kontakt.png
+   hilfe/ige-ng_kontakt.rst
       
 .. toctree::
    :maxdepth: 2
