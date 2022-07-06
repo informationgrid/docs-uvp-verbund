@@ -27,10 +27,7 @@ Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
 
-.. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_löschen.png
-   :width: 150
 
-Abb.: Kontextmenü - (Verfahren/Adressen) Löschen
 
 Wichtig ist, dass zuvor das Verfahren bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Verfahren rechts im Inhaltsfenster des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Verfahren bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf "Ok" werden die Daten endgültig gelöscht.
