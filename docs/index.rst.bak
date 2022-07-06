@@ -55,7 +55,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Fragen & Antworten 
    
    faq/faq.rst
-   portal/kontakt/uvp-verbund_portal_kontakt.png
+   kontakt/uvp-verbund_portal_kontakt.png
       
 .. toctree::
    :maxdepth: 2
