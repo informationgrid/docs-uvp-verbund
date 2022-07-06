@@ -1,4 +1,4 @@
-InGrid (IGE-NG) - Versionen
+InGridEditor-NG - Versionen
 ===========================
 
 Version der Bedienungsanleitung
