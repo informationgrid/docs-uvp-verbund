@@ -12,17 +12,17 @@ Soll ein Verfahren oder eine Adresse komplett gelöscht werden, muss das Verfahr
 Abb.: Markiertes Vorhaben in der Ordnerstruktur
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
-   :width: 400
+   :width: 300
 
-Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
+Abb.: Symbolleiste - Verfahren/Adressen Löschen
 
-.. image:: ../img-ige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_datensatz-loeschen.png
    :width: 400
 
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
 
-.. image:: ../img-ige-ng/bearbeiten/ige-ng_datensatz-loeschen.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_datensatz-loeschen.png
    :width: 400
 
 Abb.: Symbolleiste - (Verfahren/Adressen) Löschen
@@ -38,14 +38,14 @@ Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selekt
 Verfahren / Adressen kopieren und einfügen
 ------------------------------------------
 
-Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher kopiert werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle im Hierarchiebaum wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Verfahren oder Adressen anlegen wollen. Sie brauchen dann nur ein Verfahren bzw. eine Adresse anzulegen. Bei dem zweiten Datensatz müssen nur noch die Änderungen eingearbeitet werden. 
+Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher übernommen werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle in der Ordnerhierachie wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Verfahren oder Adressen anlegen wollen. Sie brauchen dann nur ein Verfahren bzw. eine Adresse anzulegen. In der Kopie müssen nur noch die Änderungen eingearbeitet werden. 
 
-Zum Kopieren eines Verfahrens / einer Adresse markieren Sie bitte das Verfahren / die Adresse und wählen anschließend das Icon „Verfahren/Adresse kopieren“ aus der Toolbar aus. 
+Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / die Adresse und wählen anschließend das Symbol „Kopieren“ aus der Symbolleiste aus. 
 
-.. image:: ../img/editor/menü/ige-uvp_ige-menu_kopieren.png
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :width: 300
 
-Abb.: Symbolleiste - (Verfahren/Adressen) kopieren
+Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
 Alternativ können Sie nach dem Markieren des Verfahrens / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
