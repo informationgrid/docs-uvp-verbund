@@ -9,7 +9,7 @@ UVP Editor (IGE-NG)
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3928
- - letzte Änderung: 04.07.2022
+ - letzte Änderung: 06.07.2022
  - Status: in Bearbeitung
  
 
@@ -55,7 +55,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Fragen & Antworten 
    
    faq/faq.rst
-   hilfe/uvp-verbund_portal_kontakt.png
+   hilfe/ige-ng_kontakt.rst
       
 .. toctree::
    :maxdepth: 2
