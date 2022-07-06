@@ -60,20 +60,4 @@ Abb.: Checkbox - "Alle" markieren
 
 
 **Hinweis:**
-*Wurde eine Kopie angelegt, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
-
-
-Adressangaben in nachgeordnete Adressen übernehmen
---------------------------------------------------
-
-Auf zwei Wegen können Adressangaben einer übergeordneten Adresse in eine nachgeordnete (=untergeordnete) Adresse übertragen werden: 
-
-  a) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen übernommen werden sollen. Über das Kontextmenu (rechter Mausklick) die Option "Neu anlegen" auswählen. Die Adressangabe der gewählten Adresse wird in der neuen nachgeordneten Adresse übernommen.
-
-  b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen übernommen werden sollen. Über das Kontextmenu (rechter Mausklick) die Option *Adressangaben in nachgeordnete Adressen übernehmen* auswählen. Die Adressangaben der gewählten Adresse werden in alle nachgeordneten Adressen übernommen. 
-  
-  .. image:: ../img/editor/menü/ige-uvp_ige-kontext-menu_adressen-übernehmen.png
-   :width: 150
-
-Abb.: Kontextmenü - Adressangaben in nachgeordnete Adressen übernehmen
-  
+*Wurde eine Kopie angelegt, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!*
