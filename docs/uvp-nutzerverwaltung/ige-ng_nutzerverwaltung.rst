@@ -7,11 +7,13 @@ Die UVP-Editor-Nutzerrechte, werden in der Gruppenadministration der UVP-Editor-
 
 Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
 
-**1. Katalog-Administrator:** Es gibt nur einen Nutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Nutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
+**1. Metadaten-Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
 
 **2. Metadaten-Administrator:** Er darf von den Verwaltungsfunktionen nur die Nutzerverwaltung bedienen. Er darf Nutzer mit der Rolle Metadaten-Autor erstellen. Die Rechte dieser Nutzer dürfen aber maximal den Rechten des jeweiligen Metadaten-Administrators entsprechen (z.B. Schreibrechte nur auf einen Teilbaum des Katalogs).
 
-**3. Metadaten-Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
+**3. Katalog-Administrator:** Es gibt nur einen Nutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Nutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
+
+Eine Ebene über den Katalogadmnistrator befindet sich der Systemadministrator, dieser wird duch den Katalogadministrator bei technischen Problemen kontaktiert ober bei Anfragen über das Kontaktformular, wenn kein Bundesland ausgewählt wurde.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
 

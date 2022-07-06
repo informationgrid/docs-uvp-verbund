@@ -42,7 +42,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Funktionen im Editor
+   :caption: Funktionen im UVP-Editor
    
    suche/ige-ng_suche.rst
    reports/ige-ng_reports.rst
