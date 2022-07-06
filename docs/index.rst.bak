@@ -42,7 +42,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Reports, Hilfe, B-Pläne
+   :caption: Suche, Recherche, Reports, Hilfe, B-Pläne
    
    suche/ige-ng_suche.rst
    reports/ige-ng_reports.rst
