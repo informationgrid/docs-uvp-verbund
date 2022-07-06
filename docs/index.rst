@@ -44,6 +44,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :maxdepth: 2
    :caption: Reports, Hilfe, B-Pläne
    
+   suche/ige-ng_suche.rst
    reports/ige-ng_reports.rst
    hilfe/ige-ng_hilfe-erfassung.rst
    bauleitplanung/bauleitplanung_erfassung.rst

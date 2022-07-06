@@ -75,7 +75,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
 .. toctree::
    :maxdepth: 2
-   :caption: History der Software-Versionen
+   :caption: Software-Versionen - History
    
    administration/ige-ng_versionen.rst
 

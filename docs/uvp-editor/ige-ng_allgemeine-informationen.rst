@@ -203,7 +203,15 @@ Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflicht
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
-Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN". 
+Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
+
+
+.. image:: ../img-ige-ng/editor/ige-ng_meldungen_ein-eintrag-erwartet.png
+   :width: 400
+
+Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
+
+Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
 Zeitgesteuerte Veröffentlichung von Datensätzen
@@ -263,11 +271,7 @@ Es besteht die Möglichkeit über das Untermenü von "Kopieren / Verschieben" ei
 
 
 Adressen und Verfahren suchen
------------------------------
-
-
-
-
+------------------
 
 
 Metadaten anzeigen
