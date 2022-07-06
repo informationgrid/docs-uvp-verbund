@@ -13,7 +13,7 @@ Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
 
 **3. Katalog-Administrator:** Es gibt nur einen Nutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Nutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
 
-Eine Ebene über den Katalogadmnistrator ist der Systemadministrator, dieser wird duch den Katalogadministrator bei technischen Problemen kontaktiert ober bei Anfragen über das Kontaktformular, wenn kein Bundesland ausgewählt wurde.
+Eine Ebene über den Katalogadmnistrator befindet sich der Systemadministrator, dieser wird duch den Katalogadministrator bei technischen Problemen kontaktiert ober bei Anfragen über das Kontaktformular, wenn kein Bundesland ausgewählt wurde.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
 
