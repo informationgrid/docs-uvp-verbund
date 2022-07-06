@@ -50,7 +50,6 @@ In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig 
  
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
-   :width: 400
 
 Abb.: Checkbox - Verfahren/Adressen kopieren
 
