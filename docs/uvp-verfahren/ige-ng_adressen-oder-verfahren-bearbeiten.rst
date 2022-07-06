@@ -46,7 +46,7 @@ Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Da
 
 Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
-Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise ist die Operation "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
+In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig markiert werden.
  
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
