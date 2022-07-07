@@ -289,10 +289,10 @@ Abb.: Vorhaben - Metadaten
 Session abgelaufen
 ------------------
 
-Wenn eine längere Zeit (120min) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
+Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
-   :width: 300
+   :width: 400
 
 Abb.: Meldung - Session abgelaufen
 
