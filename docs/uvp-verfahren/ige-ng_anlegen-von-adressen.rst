@@ -47,7 +47,7 @@ Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Ad
 
 Abb.: Eingabefeld Adresstitel
 
-.. hint::
+.. topic::Hinweis
 
 Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:
 
