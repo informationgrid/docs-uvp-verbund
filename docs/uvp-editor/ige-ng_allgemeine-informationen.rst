@@ -289,14 +289,19 @@ Abb.: Vorhaben - Metadaten
 Session abgelaufen
 ------------------
 
-Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab, man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Coutdown. Man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
+
+.. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
+   :width: 300
+
+Abb.: Coutdown für den Logout
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
    :width: 400
 
 Abb.: Meldung - Session abgelaufen
 
-Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern.
+Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern. (Ein automatisches Zwischenspeichern ist zukünftig vorgesehen.)
 
 
 UVP-Editor schließen
