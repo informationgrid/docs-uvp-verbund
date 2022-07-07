@@ -19,9 +19,9 @@ Aufbau der Benutzeroberfläche
 Abb.: UVP-Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
-- Links - Navigation
-- Mitte - Ordnerstruktur
-- Rechts - Datenerfassung
+* Links - Navigation
+* Mitte - Ordnerstruktur
+* Rechts - Datenerfassung
 
 
 Strukturierung der Daten
@@ -72,7 +72,12 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
 	.. image:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz ,  Es handelt sich um eine veröffentlichte Version des Vorhabens bzw der Adresse - der Datensatz wurde bearbeitet - aber noch nicht veröffentlicht.
+    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz , 
+	
+	.. line-block:: 
+	Es handelt sich um eine veröffentlichte Version des Vorhabens bzw.
+	der Adresse - der Datensatz wurde bearbeitet - 
+	aber noch nicht veröffentlicht.
 
 
 Menü
