@@ -4,8 +4,7 @@ Allgemeines zum UVP-Editor
 UVP-Editor im Ausgangszustand
 ----------------------------
  
-Nach dem Laden des Editors wird zuerst die Übersicht angezeigt. Hier wird dargestellt, welche Verfahren bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
-Es gibt zwei Darstellungen: die Verfahren/Adressen, für welche der User selbst verantwortlich ist („Meine Datensätze“), sowie eine Übersicht über alle Verfahren/Adressen des Katalogs („Alle Datensätze“). 
+Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden Verfahren bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wievile Daten sich in Bearbeitung befinden und wieviele veröffentlicht sind.
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    
