@@ -11,7 +11,7 @@ Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werde
 
 **Anlegen eines Ordners oder einer Adresse**
 
-Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken und warten bis die Initialisierung abgeschlossen ist. Sobald die Eingabefelder im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Für die Strukturierung der Adressdaten kann zwischen folgenden Adresstypen gewählt werden: Institution, Einheit und Person.
+Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-anlegen.png
    :width: 400
@@ -48,7 +48,8 @@ Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Ad
 Abb.: Eingabefeld Adresstitel
 
 .. Hinweis::
-*Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:*
+
+Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300

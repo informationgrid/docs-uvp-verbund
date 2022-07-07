@@ -11,7 +11,7 @@ Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werde
 
 **Anlegen eines Ordners oder einer Adresse**
 
-Im Strukturbaum den entsprechenden Odner oder eine vorhandene Adresse anklicken und warten bis die Initialisierung abgeschlossen ist. Sobald die Eingabefelder im rechten Fenster (Inhaltsfenster) angezeigt werden, kann die neue Adresse mit Hilfe des Toolbar-Symbols „Neu anlegen“ oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) erzeugt werden. Für die Strukturierung der Adressdaten kann zwischen folgenden Adresstypen gewählt werden: Institution, Einheit und Person.
+Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-anlegen.png
    :width: 400
@@ -24,9 +24,9 @@ Abb.: Auswahl der Adresstypen
 
 Abb.: Adresstypen
  
-Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
+Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zu der ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 
-Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben können weitere Adressangaben (Anschrift, usw.) zur Kontaktstelle gespeichert werden. Sie öffnen diese optionalen Felder durch einen Klick auf das Symbol *Alle Felder aufklappen* in der Toolbar. 
+Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
 **Achtung!**
 *Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits gefüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder auf, um die automatisch eingefügten Daten kontrollieren zu können.*
