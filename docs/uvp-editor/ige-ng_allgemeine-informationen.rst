@@ -1,8 +1,12 @@
 Allgemeines zum UVP-Editor
 ==========================
 
+Der neue InGrid / UVP-Editor ist fertig programmiert und kann für die Erfassungvon UVP Vorhaben eingesetzt werden.
+Es sind viele Neuerungen eingeflossen. Es wurden Erfahrungen aus den letzten Jahren, eine benutzerfreundliche Bedienung, die Barrierefreiheit, ein responsives Layout (Darstellung auf unterschiedlichen Bildschirmen), eine Touch Bedienung für Tablets und Touch-Monitoren berücksichtigt.
+Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsanleitung wird fortlaufend an den Neuerungen des Editors angepasst. Sie können uns gerne zum neuen UVP-Editor und zur Bedienungsanleitung ein Feedback über das `"UVP-Portal Kontaktformular" <../suche/https://www.uvp-verbund.de/kontakt>`_ senden, wir sind an Ihrer Meinung interessiert.
+
 UVP-Editor im Ausgangszustand
-----------------------------
+-----------------------------
  
 Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden Verfahren bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wievile Daten sich in Bearbeitung befinden und wieviele veröffentlicht sind.
 
@@ -148,7 +152,6 @@ Unterschiedliche Feldtypen
 
 Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
 
-**Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
 .. image:: ../img-ige-ng/editor/ige-ng_feldtyp_textfeld.png
    :width: 500
