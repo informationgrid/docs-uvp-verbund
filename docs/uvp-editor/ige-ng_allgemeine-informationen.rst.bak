@@ -3,7 +3,7 @@ Allgemeines zum UVP-Editor
 
 Der neue InGrid- / UVP-Editor ist fertig programmiert und kann für die Erfassungvon UVP Vorhaben eingesetzt werden.
 Es sind viele Neuerungen eingeflossen. Es wurden Erfahrungen aus den letzten Jahren, eine benutzerfreundliche Bedienung, die Barrierefreiheit, ein responsives Layout (Darstellung auf unterschiedlichen Bildschirmen), eine Touch Bedienung für Tablets und Touch-Monitoren berücksichtigt.
-Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsanleitung wird fortlaufend an den Neuerungen des Editors angepasst und befindet sich noch in der Bearbeitung. Sie können uns gerne zum neuen UVP-Editor und zur Bedienungsanleitung ein Feedback über das `"UVP-Portal Kontaktformular" <https://www.uvp-verbund.de/kontakt>`_ senden, wir sind an Ihrer Meinung interessiert.
+Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsanleitung wird fortlaufend an den Neuerungen des Editors angepasst und befindet sich noch in der Bearbeitung. Sie können uns gerne zum neuen UVP-Editor und zur Bedienungsanleitung ein Feedback über das `UVP-Portal Kontaktformular <https://www.uvp-verbund.de/kontakt>`_ senden, wir sind an Ihrer Meinung interessiert.
 
 UVP-Editor im Ausgangszustand
 -----------------------------
