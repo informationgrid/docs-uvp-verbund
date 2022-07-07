@@ -43,7 +43,6 @@ Abb.: UVP-Editor - Aufbau der Ordnerstruktur
 Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird die Struktur geschlossen.
  
 
-
 Icons in der Datenstruktur
 --------------------------
 
@@ -73,12 +72,7 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     Symbol , Farbe , Beschreibung
     .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
 	.. image:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz , 
-	
-	.. line-block:: 
-	Es handelt sich um eine veröffentlichte Version des Vorhabens bzw.
-	der Adresse - der Datensatz wurde bearbeitet - 
-	aber noch nicht veröffentlicht.
+    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Vorhabens bzw. der Adresse - der Datensatz wurde bearbeitet - aber noch nicht veröffentlicht.
 
 
 Menü
@@ -97,7 +91,7 @@ Abb.: Menü verkleinern
 .. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
    :height: 300
    
-Abb.: Menü (verkleinernert) Symbole
+Abb.: Menü (verkleinernert) - Symbole
 
 .. image:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
    :width: 50
@@ -139,7 +133,7 @@ Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 Eingabefelder
 -------------
 
-Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften oder durch ein Sternchen. 
+Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder, lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_felder.png
 
@@ -152,9 +146,7 @@ Unterschiedliche Feldtypen
 
 **Textfelder**
 
-Zum Füllen von Textfeldern klicken Sie in das Feld. 
-
-Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
+Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
 
 **Hinweis:** *Das Vergrößern des Feldes funktioniert nicht in allen Browsern. Beim Internet Explorer (IE 11) ist es nicht möglich.*
 
@@ -185,7 +177,7 @@ SPEICHERN & VERÖFFENTLICHEN
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
-Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des UVP-Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
+Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur in der Ordnerstruktur des UVP-Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
 .. image:: ../img-ige-ng/editor/ige-ng_speichern.png
    :width: 300
@@ -193,7 +185,7 @@ Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Date
 Abb.: Speichern
 
 
-Beim abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
+Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
    :width: 300
@@ -251,7 +243,7 @@ Dokumente bearbeiten
 
 Abb.: Dokumente - Bearbeiten
 
-Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seiten über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
+Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
@@ -272,11 +264,13 @@ Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
 Abb.: Dokumente - Bearbeiten - Dokumente auswählen
 
 
-Es besteht die Möglichkeit über das Untermenü von "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
+Es besteht die Möglichkeit über das Untermenü des Symbols "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
 
 
-Adressen und Verfahren suchen
-------------------
+Adressen und Vorhaben suchen
+-----------------------------
+
+Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im UVP-Editor", Abschnitt `"Suche" <ige-ng_suche.html>`_.
 
 
 Metadaten anzeigen
