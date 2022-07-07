@@ -267,8 +267,10 @@ Abb.: Dokumente - Bearbeiten - Dokumente auswählen
 Es besteht die Möglichkeit über das Untermenü des Symbols "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
 
 
-Adressen und Verfahren suchen
-------------------
+Adressen und Vorhaben suchen
+-----------------------------
+
+Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im UVP-Editor", Abschnitt `"Suche" <ige-ng_suche.html>`_.
 
 
 Metadaten anzeigen

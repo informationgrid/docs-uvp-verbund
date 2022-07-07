@@ -270,7 +270,7 @@ Es besteht die Möglichkeit über das Untermenü des Symbols "Kopieren / Verschi
 Adressen und Vorhaben suchen
 -----------------------------
 
-Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im UVP-Editor", Abschnitt `"Suche" <ige-ng_suche.html>`_.
+Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im UVP-Editor", Abschnitt `"Suche" <../suche/ige-ng_suche.html>`_.
 
 
 Metadaten anzeigen
