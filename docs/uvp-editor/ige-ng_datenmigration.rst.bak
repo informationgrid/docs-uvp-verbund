@@ -4,8 +4,8 @@ Datenmigration in den IGE-NG
 Datenmigration der einzelnen Länderkataloge in den UVP-Editor (InGridEditor) - Neue Generation.
 
 
-Zeitplan Datenmigration im UVP-Verbund Portal (Live-System)
------------------------------------------------------------
+Zeitplan Datenmigration im UVP Live-System
+------------------------------------------
 
 - Baden-Württemberg
 - Bayern
