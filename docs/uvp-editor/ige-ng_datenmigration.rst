@@ -12,22 +12,22 @@ Wenn die erste Migration reibungslos funktioniert hat, werden die weiteren Katal
 Zeitplan Datenmigration im UVP Live-System
 ------------------------------------------
 
-* Baden-Württemberg
-* Bayern
-* Berlin
-* Brandenburg
-* Bremen
-* Hamburg
-* Hessen
-* Mecklenburg-Vorpommern
-* Niedersachsen
-* Nordrhein-Westfalen
-* Rheinland-Pfalz
-* Saarland
-* Sachsen
-* Sachsen-Anhalt
-* Schleswig-Holstein
-* Thüringen
+* 36. KW - Baden-Württemberg
+* ...... - Bayern
+* 32. KW - Berlin
+* ...... - Brandenburg
+* ...... - Bremen
+* 34. KW - Hamburg
+* ...... - Hessen
+* ...... - Mecklenburg-Vorpommern
+* ...... - Niedersachsen
+* ...... - Nordrhein-Westfalen
+* 35. KW - Rheinland-Pfalz
+* ...... - Saarland
+* 31. KW - Sachsen
+*   Juli - Sachsen-Anhalt
+* 33. KW - Schleswig-Holstein
+* ...... - Thüringen
 
 
 
