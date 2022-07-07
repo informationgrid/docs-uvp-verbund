@@ -26,7 +26,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Allgemeines zum UVP-Editor
+   :caption: Allgemeines zum neuen UVP-Editor
    
    uvp-editor/ige-ng_datenmigration.rst
    uvp-editor/ige-ng_registrierung-anmeldung.rst
