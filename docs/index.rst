@@ -9,7 +9,7 @@ UVP Editor (IGE-NG)
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3938
- - letzte Änderung: 06.07.2022
+ - letzte Änderung: 07.07.2022
  - Status: in Bearbeitung
  
 
@@ -17,19 +17,20 @@ Version der Bedienungsanleitung
 
 
 Die Dokumentation ist in sechs Blöcke untergliedert:
- - Block 1 Beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
+ - Block 1 beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
  - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
- - Block 3 beschreibt die Reports, die Hilfe und die Bebauungspläne im Kartenclient
- - Block 4 Beantwortung von häufig gestellten Fragen.
- - Block 5 (für Administratoren) beschreibt  die Nutzerverwaltung.
- - Block 6 (für Katalog-Administratoren) beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool.
+ - Block 3 beschreibt die Suche, Recherche, Reports, Hilfe und die Bebauungspläne im Kartenclient
+ - Block 4 beantwortung von häufig gestellten Fragen und Eläuterung zum Kontaktformular im UVP-Portal.
+ - Block 5 beschreibt  die Nutzerverwaltung (für Administratoren).
+ - Block 6 beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool (für Katalog-Administratoren).
 
 .. toctree::
    :maxdepth: 2
    :caption: Allgemeines zum UVP-Editor
    
-   uvp-editor/ige-ng_registrierung-anmeldung
-   uvp-editor/ige-ng_allgemeine-informationen
+   uvp-editor/ige-ng_datenmigration.rst
+   uvp-editor/ige-ng_registrierung-anmeldung.rst
+   uvp-editor/ige-ng_allgemeine-informationen.rst
 
 .. toctree::
    :maxdepth: 3
