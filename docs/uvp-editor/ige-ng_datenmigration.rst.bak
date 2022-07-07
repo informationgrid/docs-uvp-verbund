@@ -7,25 +7,22 @@ Datenmigration der einzelnen Länderkataloge in den UVP-Editor (InGridEditor) - 
 Zeitplan Datenmigration im UVP-Verbund Portal (Live-System)
 -----------------------------------------------------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_icon_ordner.png
-   :width: 50
-
-Baden-Württemberg
-Bayern
-Berlin
-Brandenburg
-Bremen
-Hamburg
-Hessen
-Mecklenburg-Vorpommern
-Niedersachsen
-Nordrhein-Westfalen
-Rheinland-Pfalz
-Saarland
-Sachsen
-Sachsen-Anhalt
-Schleswig-Holstein
-Thüringen
+- Baden-Württemberg
+- Bayern
+- Berlin
+- Brandenburg
+- Bremen
+- Hamburg
+- Hessen
+- Mecklenburg-Vorpommern
+- Niedersachsen
+- Nordrhein-Westfalen
+- Rheinland-Pfalz
+- Saarland
+- Sachsen
+- Sachsen-Anhalt
+- Schleswig-Holstein
+- Thüringen
 
 
 
