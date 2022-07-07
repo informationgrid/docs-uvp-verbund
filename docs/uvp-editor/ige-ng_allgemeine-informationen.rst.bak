@@ -294,7 +294,7 @@ Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfinde
 .. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
    :width: 300
 
-Abb.: Coutdown für den Logout
+Abb.: Countdown für den Logout
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
    :width: 400
