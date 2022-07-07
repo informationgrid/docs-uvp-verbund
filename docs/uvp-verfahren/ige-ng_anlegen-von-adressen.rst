@@ -87,12 +87,12 @@ Abb.: Zugeordnete Datensätze
 **Hinweis**
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
 
-.. image:: ../img-ige-ng/adressen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
    :width: 400
 
 Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
 
-.. image:: ../img-ige-ng/adressen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
+.. image:: ../img-ige-ng/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
    :width: 400 
 
 Abb.: Vorhaben mit dem der Datensatz verknüpft ist.
@@ -105,7 +105,8 @@ Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mi
 
 Abb.: Veröffentlichen
 
-Hinweis: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
+**Hinweis:**
+*Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.*
 
 
 
