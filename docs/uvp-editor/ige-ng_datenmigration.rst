@@ -13,21 +13,21 @@ Zeitplan Datenmigration im UVP Live-System
 ------------------------------------------
 
 * 36. KW - Baden-Württemberg
-* .... KW  - Bayern
+* ...... KW  - Bayern
 * 32. KW - Berlin
-* .... KW - Brandenburg
-* .... KW - Bremen
+* ...... KW - Brandenburg
+* ...... KW - Bremen
 * 34. KW - Hamburg
-* .... KW - Hessen
-* .... KW - Mecklenburg-Vorpommern
-* .... KW - Niedersachsen
-* .... KW - Nordrhein-Westfalen
+* ...... KW - Hessen
+* ...... KW - Mecklenburg-Vorpommern
+* ...... KW - Niedersachsen
+* ...... KW - Nordrhein-Westfalen
 * 35. KW - Rheinland-Pfalz
-* .... KW - Saarland
+* ...... KW - Saarland
 * 31. KW - Sachsen
 * 29. KW - Sachsen-Anhalt
 * 33. KW - Schleswig-Holstein
-* .... KW - Thüringen
+* ...... KW - Thüringen
 
 
 
