@@ -289,7 +289,7 @@ Abb.: Vorhaben - Metadaten
 Session abgelaufen
 ------------------
 
-Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Coutdown. Man wird aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Coutdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
    :width: 300
