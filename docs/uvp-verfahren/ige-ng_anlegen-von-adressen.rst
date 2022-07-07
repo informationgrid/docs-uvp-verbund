@@ -54,15 +54,17 @@ Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt w
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
 
-Soll ein bestehender Eintrag einer Adresse gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen und bei Auswahlfeldern einen anderen Listeneintrag auswählen.
+Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Zeile rechts auf das Kreuz geklickt werden.
 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
 
 Abb.: Zeile löschen
 
+Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, sind auf der linken Seite sechs Punkte, diese (mit der Maus) festhalten und die ganze Zeile nach oben oder unten verschieben.
+
 **Datenschutz:**
-*In den Adressen vom Typ "Person" gibt es die Checkbox "Daten nicht anzeigen". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Datensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution angezeigt.*
+*In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.*
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
    :width: 400
@@ -70,9 +72,12 @@ Abb.: Zeile löschen
 App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 **Achtung:**
-*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend und wird empfohlen.* 
+*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist vollkommend ausreichend und wird empfohlen.* 
 
-Unter der Rubrik „Zugeordnete Verfahren“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Verfahren sichtbar, die mit dem Adressdatensatz verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch bei einem Verfahren diese Adresse als Kontaktadresse (Ansprechpartner) angegeben, so erscheint dieses Verfahren anschließend automatisch in der Liste der zugeordneten Verfahren bei der angegebenen Adresse.
+Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
+
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_zugeordnete-datensaetze_anzeigen.png
+   :width: 400 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
    :width: 500 
@@ -80,14 +85,27 @@ Unter der Rubrik „Zugeordnete Verfahren“ können keine Einträge per Hand vo
 Abb.: Zugeordnete Datensätze
 
 **Hinweis**
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
+*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
 
-Sind alle erforderlichen und zusätzlich gewünschten Felder gefüllt, kann die Adresse mit dem Button *Veröffentlichen* für das Internet freigegeben werden. 
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
+   :width: 400
+
+Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
+
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
+   :width: 400 
+
+Abb.: Vorhaben mit dem der Datensatz verknüpft ist.
+
+
+Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_veroeffentlichen.png
    :width: 300 
 
 Abb.: Veröffentlichen
+
+Hinweis: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
 
 
 
