@@ -48,7 +48,8 @@ Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Ad
 Abb.: Eingabefeld Adresstitel
 
 .. Hinweis::
-*Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:*
+
+Das Feld „Kommunikation“ ist ein Pflichtfeld und muss gefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:
 
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
