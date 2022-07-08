@@ -37,7 +37,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Erfassung von UVP-Vorhaben
 
    uvp-verfahren/ige-ng_anlegen-von-adressen.rst
-   uvp-verfahren/ige-ng_erfassung-von-uvp-verfahren.rst
+   uvp-verfahren/ige-ng_erfassung-von-uvp-vorhaben.rst
    uvp-verfahren/ige-ng_erfassung-von-negativen-vorpruefungen.rst
    uvp-verfahren/ige-ng_adressen-oder-verfahren-bearbeiten.rst
 

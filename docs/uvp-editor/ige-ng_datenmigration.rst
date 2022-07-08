@@ -12,22 +12,22 @@ Während der eigentlichen Migration ist der Zugang zum Editor für den festgeleg
 Zeitplan Datenmigration im UVP Live-System
 ------------------------------------------
 
-* 36. KW - Baden-Württemberg
-* ...... KW  - Bayern
-* 32. KW - Berlin
-* ...... KW - Brandenburg
-* ...... KW - Bremen
-* 34. KW - Hamburg
+* 05.09.22 - Baden-Württemberg
+* 05.09.22 - Bayern
+* 08.08.22 - Berlin
+* 29.08.22 - Brandenburg
+* 01.08.22 - Bremen
+* 22.08.22 - Hamburg
 * ...... KW - Hessen
-* ...... KW - Mecklenburg-Vorpommern
+* 01.08.22 - Mecklenburg-Vorpommern
 * ...... KW - Niedersachsen
 * ...... KW - Nordrhein-Westfalen
-* 35. KW - Rheinland-Pfalz
-* ...... KW - Saarland
-* 31. KW - Sachsen
+* 29.08.22 - Rheinland-Pfalz
+* 22.08.22 - Saarland
+* 01.08.22 - Sachsen
 * 29. KW - Sachsen-Anhalt
-* 33. KW - Schleswig-Holstein
-* ...... KW - Thüringen
+* 05.09.22 - Schleswig-Holstein
+* 08.08.22 - Thüringen
 
 
 
