@@ -39,12 +39,12 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 
 Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_adressen_anrede.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_anrede.png
    :width: 300
 
 Abb.: Auswahlfeld Anrede
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_adressen_titel.png
+.. image:: ../img-ige-ng/adressen/ige-ng_adressen_titel.png
    :width: 300
 
 Abb.: Auswahlfeld Titel
@@ -72,7 +72,7 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 
 App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
-**Achtung:**
+**Hinweis:**
 *Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist vollkommend ausreichend und wird empfohlen.* 
 
 Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
