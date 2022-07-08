@@ -7,7 +7,7 @@ Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukture
 
 Abb.: Anlegen einer Adressstruktur
 
-Zum Anlegen einer neuen Adresse muss zunächst eine Odnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
+Zum Anlegen einer neuen Adresse muss zunächst eine Ordnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
 
 **Anlegen eines Ordners oder einer Adresse**
 
@@ -72,7 +72,7 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 **Hinweis:**
-*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist vollkommend ausreichend und wird empfohlen.* 
+*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.* 
 
 Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
 
