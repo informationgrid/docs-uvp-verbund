@@ -28,24 +28,14 @@ Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts 
 
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
-**Achtung!**
-*Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits gefüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder auf, um die automatisch eingefügten Daten kontrollieren zu können.*
-
-In der nachfolgenden Abbildung sind die zu überprüfenden, automatisch gefüllten Felder rot umrandet. 
-
-
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
 
-Abb.: Automatisch befüllte Felder
-
-Die Kopfzeilen der Adressen werden nach dem Abspeichern automatisch befüllt.
-
-Das Feld Adresstitel erhält seinen Eintrag (das richtet sich nach gewählten Adresstyp) aus den Feldern Institution, Einheit oder Name, Vorname. Das Feld *Adresstyp* bekommt seinen Eintrag automatisch nach dem vorher ausgewählten Adresstyp. Das Feld Verantwortlicher wird mit den Angaben der am System angemeldeten Person befüllt. Datum und Adress-ID werden beim Abspeichern automatisch generiert.
+Abb.: Eingabemaske für Adressen
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_organisation-anlegen.png
    :width: 400
 
-Abb.: Eingabefeld Adresstitel
+Abb.: Eingabefenster für die Wahl des Adresstyps
 
 Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse nicht abschließend gespeichert werden und es kommt zu folgender Fehlermeldung:
 
@@ -54,7 +44,7 @@ Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt w
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
 
-Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Zeile rechts auf das Kreuz geklickt werden.
+Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Zeile auf das Kreuz (rechts) geklickt werden.
 
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
