@@ -189,14 +189,7 @@ Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig 
 Verfahrensschritt hinzufügen
 ````````````````````````````
 
-Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
-
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_eroerterungstermin.png
-   :width: 400
-
-Abb.: Verfahrensschritte Hinzufügen
- 
-Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
+Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“. Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen_auswahl.png
    :width: 400
