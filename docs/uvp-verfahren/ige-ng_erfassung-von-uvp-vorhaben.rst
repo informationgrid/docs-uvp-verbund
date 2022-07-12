@@ -40,22 +40,22 @@ Eingabe einer kurzen und prägnanten Bezeichnung des Verfahrens.
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :width: 400
 
-Abb.: Engabefeld: Titel
+Abb.: Eingabefeld: Titel
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_eingabefeld_vorhabenbeschreibung.png
 
-Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
+Abb.: Eingabefeld: Allgemeine Vorhabenbeschreibung
  
-Hier soll das Vorhaben kurz beschrieben werden, damit die Öffentlichkeit erfährt, um was es in dem angelegten Vorhaben geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
+Hier soll das Vorhaben beschrieben werden, damit die Öffentlichkeit erfährt, um was es in dem Vorhaben geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
 
 Die allgemeine Vorhabenbeschreibung muss ausgefüllt werden, damit sich das Vorhaben abspeichern lässt. Es handelt sich um ein Pflichtfeld.
 
 **Kontaktdaten der verfahrensführenden Dienststelle / 
 Kontakt deutsche Behörde (Pflichtfeld)**
 
-An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende Informationen zum aktuellen vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend.
+An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende Informationen zum aktuellen Vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_kontaktdaten.png
    :width: 400
