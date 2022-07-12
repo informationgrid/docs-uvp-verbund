@@ -189,9 +189,7 @@ Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig 
 Verfahrensschritt hinzufügen
 ````````````````````````````
 
-Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“.
-
-Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
+Möchten Sie einen weiteren Verfahrensschritt hinzufügen, dann wählen Sie unter den Abschnitten den Button „Verfahrensschritt hinzufügen“. Es öffnet sich ein Auswahlfenster. Wählen Sie eine der drei Möglichkeiten.
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen_auswahl.png
    :width: 400
@@ -217,7 +215,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 *Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
 
-**Erst mit Beginn des Auslegungszeitraus veröffentlichen**
+**Erst mit Beginn des Auslegungszeitraums veröffentlichen**
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 

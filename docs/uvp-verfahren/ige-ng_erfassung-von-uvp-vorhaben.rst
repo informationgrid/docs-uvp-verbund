@@ -215,7 +215,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 *Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
 
-**Erst mit Beginn des Auslegungszeitraus veröffentlichen**
+**Erst mit Beginn des Auslegungszeitraums veröffentlichen**
 
 Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle erst bei Erreichen des Beginns des Auslegungszeitraums veröffentlicht.
 
@@ -290,7 +290,7 @@ Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten un
 
 Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
-Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP Archives bleibt erhalten.
+Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP-Archives bleibt erhalten.
 
 **Berichte und Empfehlungen (optionales Feld)**
  
