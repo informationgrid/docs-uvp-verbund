@@ -46,7 +46,9 @@ Abb.: Eingabefeld: Titel - Eingabe einer kurzen und prägnanten Bezeichnung des 
 
 Abb.: Eingabefeld: Allgemeine Vorhabenbeschreibung
  
-Hier soll das Vorhaben beschrieben werden, damit die Öffentlichkeit erfährt, um was es in dem Vorhaben geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
+Im Textfeld Allgemeine Vorhabenbeschreibung soll das Vorhaben beschrieben werden (auf Verständlichkeit für fachfremde Dritte ist zu achten). Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. 
+
+Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
 
 **Kontaktdaten der verfahrensführenden Dienststelle / 
 Kontakt deutsche Behörde (Pflichtfeld)**

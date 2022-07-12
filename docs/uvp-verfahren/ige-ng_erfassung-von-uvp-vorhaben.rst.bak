@@ -22,7 +22,7 @@ Die Vorhaben werden in der Ordnerstruktur des UVP-Editors verwaltet. Für eine e
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
    :width: 300
 
-Abb.: Symbolleiste: Ordner oder Vorhaben anlegen
+Abb.: Symbolleiste: neues Vorhaben oder neuen Ordner anlegen (+)
 
 Zum Anlegen eines neuen Vorhabens muss zunächst der Ordner ausgewählt werden, unter dem das neue Vorhaben angelegt werden soll. Über die Symbolleiste kann jetzt das Symbol "Neues Vorhaben anlegen" gewählt werden. Es öffnet sich das Fenster "Neues Vorhaben anlegen". Hier den entsprechenden Datensatztyp wählen und einen Titel eingeben. Anschließend den Button "ANLEGEN" betätigen.
 
