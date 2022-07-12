@@ -57,11 +57,14 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 .. image:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
    :width: 400
 
+Abb.: Vorhabentypen in der Ordnerstruktur
 
 **Adressen**
 
 .. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
    :width: 400
+
+Abb.: Adresstypen in der Ordnerstruktur
 
 
 
