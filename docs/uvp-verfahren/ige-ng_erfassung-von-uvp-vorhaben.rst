@@ -256,10 +256,14 @@ Abb.: Datum wählen
 
 Abb.: Menü Bearbeiten / Aktion
 
+Für das Bearbeiten eines hochgeladenen Dokumentes, auf der rechten Seite auf die drei Punkte klicken, es öffnet sich das Menü, darin Bearbeiten auswählen.
+
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokument-upload_bearbeiten-funktionen.png
 
 Abb.: Sortierfunktion (sechs Punkte)
+
+Soll die Reihenfolge der hochgeladenen Dokument geändert werden, dann müssen mit der Maus auf der linken Seite die sechs Punkte festgehalten werden. Jetzt kann das Dokument nach oben oder nach unten verschoben werden.
 
 
 **UVP Bericht / Antragsunterlagen (Pflichtfeld)**
