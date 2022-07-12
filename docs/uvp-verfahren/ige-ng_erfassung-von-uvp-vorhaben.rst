@@ -272,11 +272,11 @@ Soll die Reihenfolge der hochgeladenen Dokument geändert werden, dann müssen m
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
  
-UVP-Bericht/Antragsunterlagen hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
+UVP-Bericht/Antragsunterlagen hochladen oder verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
-Hier ist der UVP-Bericht nach § 16 UVPG einzustellen. Der Vorhabenträger hat den UVP-Bericht auch elektronisch vorzulegen, § 16 Abs. 9 UVPG. Sollen auf freiwilliger Basis zusätzlich auch die anderen Antragsunterlagen in das UVP-Portal gestellt werden, kann dies an dieser Stelle geschehen.
+Hier ist der UVP-Bericht nach § 16 UVPG einzustellen. Der Vorhabenträger hat den UVP-Bericht auch elektronisch vorzulegen, § 16 Abs. 9 UVPG. Sollen auf freiwilliger Basis zusätzlich auch die anderen Antragsunterlagen in das UVP-Portal gestellt werden, dann kann das an dieser Stelle erfolgen.
 
-In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag das hochgeladene oder verlinkte Dokument im UVP-Portal lesbar sein soll. Ein in den UVP-Editor geladenes Dokument bleibt auch nach Ablauf der Frist lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 **Hochladen und automatisches Entpacken von ZIP Archiven**
 
@@ -285,7 +285,7 @@ Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu mus
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
    :width: 400
 
-Abb.: Dialog Datei (en) hochladen mit Schalter für das Entpacken von ZIP-Dateien
+Abb.: Dialog Datei(en) hochladen mit Schalter für das Entpacken von ZIP-Dateien
  
 Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten und werden nach Ordnern und Dateien alphabetisch sortiert übernommen.
 
@@ -294,6 +294,7 @@ Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten un
 Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
  
 Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP-Archives bleibt erhalten.
+
 
 **Berichte und Empfehlungen (optionales Feld)**
  
@@ -304,11 +305,12 @@ Abb.: Auflistung der Berichte und Empfehlungen
 Berichte und Empfehlungen hochladen oder verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
 Wenn zum Zeitpunkt des Beginns des Beteiligungsverfahrens entscheidungserhebliche Berichte und Empfehlungen betreffend das Vorhaben bei der zuständigen Behörde vorgelegen haben, sind diese nach § 19 Abs. 2 Nr. 2 UVPG zur Einsicht für die Öffentlichkeit auszulegen und daher auch in das UVP-Portal einzustellen. Hierbei kann es sich um bereits vorab eingegangene Stellungnahmen der zu beteiligenden Behörden, aber auch von der zuständigen Behörde eingeholte besondere Gutachten zu dem beabsichtigten Vorhaben handeln (so Wagner in: Hoppe/Beckmann, UVPG-Kommentar, § 9 Rdnr. 32). Da solche Unterlagen nicht unbedingt vorliegen, handelt es sich um kein Pflichtfeld.
-In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll.
+In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag das hochgeladene oder verlinkte Dokument im UVP-Portal lesbar sein soll.
 
-Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+Ein in den UVP-Editor geladenes Dokument bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird das Ausfüllen dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 Beispiel: 2022-06-29 Zustandsanalyse FFH-Gebiet Oberes Hochtal
+
 
 **Weitere Unterlagen (optionales Feld)**
 
@@ -316,11 +318,11 @@ Beispiel: 2022-06-29 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 
 Abb.: Auflistung weiterer Unterlagen
  
-Ggf. weitere Unterlagen - auch nach Ende der Auslegung - hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
+Ggf. weitere Unterlagen, auch nach Ende der Auslegung, hochladen oder verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
-Abgesehen von den nach § 19 Abs. 2 UVPG auszulegenden Unterlagen kann es weitere Unterlagen geben, deren Veröffentlichung im UVP-Portal sich anbietet, ohne dass hierzu eine Pflicht bestünde. Dies kann z.B. für weitere Informationen im Sinne des § 19 Abs. 3 UVPG, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können, die der zuständigen Behörde aber erst nach Beginn des Beteiligungsverfahrens vorliegen, gelten. Solche Informationen sind nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen, also nach Antrag auf Zugang zu den Umweltinformationen bei der zuständigen Behörde.
+Abgesehen von den nach § 19 Abs. 2 UVPG auszulegenden Unterlagen kann es weitere Unterlagen geben, deren Veröffentlichung im UVP-Portal sich anbietet, ohne dass hierzu eine Pflicht besteht. Dies kann z.B. für weitere Informationen im Sinne des § 19 Abs. 3 UVPG, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können, die der zuständigen Behörde aber erst nach Beginn des Beteiligungsverfahrens vorliegen, gelten. Solche Informationen sind nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen, also nach Antrag auf Zugang zu den Umweltinformationen bei der zuständigen Behörde.
 
-In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+In der Spalte *Gültig bis* kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag das hochgeladene oder verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im UVP-Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 
 Verfahrensschritt - Erörterungstermin
@@ -339,19 +341,20 @@ Abb.: Zeitraum der Erörterung
 
 Eintragung des Zeitraums der Erörterung.
 
-Wenn der Erörterungstermin an einem Tag stattfinden wird, reicht es aus, das Feld „Am/vom“ auszufüllen. Wird der Erörterungstermin in mehrere Termine aufgeteilt, ist der Zeitraum vom ersten bis zum letzten Termin einzugeben. Eine Listung einzelner Termine ist nicht möglich. Diese Information wird sich aber aus dem Bekanntmachungstext bzw. den Informationen zum Erörterungstermin ergeben, auf die der Nutzer bzw. die Nutzerin des UVP-Portals durch einen Hinweis verwiesen wird.
+Wenn der Erörterungstermin an einem Tag stattfinden wird reicht es aus, das genaue Datum anzugeben. Wird der Erörterungstermin in mehrere Termine aufgeteilt, ist der Zeitraum vom ersten bis zum letzten Termin einzugeben. Eine Listung einzelner Termine ist nicht möglich. Diese Information wird sich aber aus dem Bekanntmachungstext bzw. den Informationen zum Erörterungstermin ergeben, auf die der Nutzer bzw. die Nutzerin des UVP-Portals durch einen Hinweis verwiesen wird.
 
 Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
-**Information zum Erörterungstermin (optionales Feld)**
+
+**Information zum Erörterungstermin (Pflichtfeld)**
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_informationen-zum-eroerterungstermin.png
 
 Abb.: Auflistung Informationen zum Erörterungstermin
  
-Informationen zum Erörterungstermin hochladen/verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt – Pflichtfeld.
+Informationen zum Erörterungstermin hochladen oder verlinken. Die Namen der Dokumente sollten erkennen lassen, um was es sich handelt.
 
-In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag das hochgeladene oder verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im UVP-Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird das Ausfüllen dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 Beispiel: 170815_Bekanntmachung_EÖT_WKA-Erxleben
 
@@ -370,7 +373,7 @@ Datum der Entscheidung (Pflichtfeld)
 
 Abb.: Feld Datum der Entscheidung
  
-Hier wird das Datum der Entscheidung eingetragen.
+In dieses Feld wird das Datum der Entscheidung eingetragen.
 
 Beispiel: 25.05.2021
 
@@ -381,9 +384,9 @@ Beispiel: 25.05.2021
 
 Abb.: Auflistungen Auslegungsinformationen
  
-Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
+Auslegungsinformationen (= Bekanntmachungstext) hochladen oder verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
-In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis zu welchem Tag das hochgeladene oder verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im UVP-Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 Beispiel: 2021-05-25_Bekanntmachung_Entscheidung
 
