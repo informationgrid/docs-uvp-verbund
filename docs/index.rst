@@ -73,6 +73,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Administration
    
    administration/ige-ng_katalogeinstellungen.rst
+   administration/ige-ng_benachrichtigungen.rst
    administration/ige-ng_im-export.rst
    administration/ige-ng_bauleitplanung_upload.rst
    
