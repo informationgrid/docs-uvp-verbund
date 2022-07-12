@@ -50,8 +50,7 @@ Im Textfeld Allgemeine Vorhabenbeschreibung soll das Vorhaben beschrieben werden
 
 Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
 
-**Kontaktdaten der verfahrensführenden Dienststelle / 
-Kontakt deutsche Behörde (Pflichtfeld)**
+**Kontaktdaten der verfahrensführenden Dienststelle / Kontakt deutsche Behörde (Pflichtfeld)**
 
 An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende Informationen zum aktuellen Vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend.
 
@@ -60,14 +59,14 @@ An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende 
 
 Abb.: Verknüpfung mit den Kontaktdaten der verfahrensführenden Dienststelle
 
-Über „HINZUFÜGEN“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Wird der Button "Hinzufügen" betätigt, öffnet sich folgendes Fenster.
+Über „HINZUFÜGEN“ wird eine Referenz auf eine bereits in der Ordnerstruktur der Adressen erstellten Datensatz hergestellt. Wird der Button "HINZUFÜGEN" betätigt, öffnet sich folgendes Fenster.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_adresse-hinzufuegen.png
    :width: 500
 
 Abb.: Fenster  "Adresse hinzufügen"
 
-Die Adresse kann entweder über eine *Direkte Suche* oder der *Adressenstruktur* ausgewählt werden. 
+Die Adresse kann entweder über eine *Direkte Suche* oder der *Adressstruktur* ausgewählt werden. 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_person.png
    :width: 500
@@ -82,8 +81,8 @@ Abb.: Feld Adresse: Angabe einer Organisation
 
 **Adressen suchen**
 
-In der *Suche* können Sie entweder nach der Organisation, dem Nachnamen oder Vornamen oder einer Kombination aus den Feldern suchen.
-Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" zu den Adresskontakten des Vorhabens übernommen.
+In der Suche können Sie entweder nach der Organisation, den Nachnamen oder den Vornamen oder einer Kombination aus den Feldern suchen.
+Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" in die Kontaktdaten des Vorhabens übernommen.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_suche.png
    :width: 400
@@ -92,7 +91,7 @@ Abb.: Suche in den Adressen
 
 **Adressenstruktur**
 
-In der Adressenstruktur können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf *ÜBERNEHMEN* wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
+In der Adressstruktur können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf "ÜBERNEHMEN" wird die markierte Referenz auf die Adresse in das Verfahren übernommen. 
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_uebernehmen.png
    :width: 400
@@ -105,8 +104,6 @@ Abb.: Adresse übernehmen
    :width: 400
 
 Abb.: Auswahlmenü (drei Punkte)
-
-Die Adresszeilen sind zwischen verschiedenen Verfahren und (Adress-) Elementen kopierbar. Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option *Adresse kopieren* gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse eingetragen. 
 
 **Raumbezug hinzufügen**
 
