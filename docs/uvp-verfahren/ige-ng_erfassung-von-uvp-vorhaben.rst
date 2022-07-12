@@ -105,11 +105,12 @@ Abb.: Adresse übernehmen
 
 Abb.: Auswahlmenü (drei Punkte)
 
+
 **Raumbezug hinzufügen**
 
-Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
+Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (BoundingBox) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
 
-Um den Raumbezug hinzuzufügen, in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
+Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
 
@@ -131,7 +132,7 @@ Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten):
 1. Plus - in die Karte Zoomen, 
 2. Minus - heraus zoomen, 
 3. Rechteck zeichnen - eine BaundingBox aufziehen - Dazu in die Karte klicken und BondingBox über ein Gebiet spannen, 
-4. Layer editiern - BoundinBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 
+4. Layer editieren - BoundinBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 
 5. Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 
 6. Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
 
@@ -143,6 +144,7 @@ Abb.: Freier Raumbezug und BoundingBox
 
 Abb.: Raumbezug bearbeiten
 
+Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
 
 **Eingang des Antrags (*neues Feld*)**
 
@@ -150,7 +152,10 @@ Abb.: Raumbezug bearbeiten
 
 Abb.: Auswahlfeld: Eingang des Antrags
  
-Geben Sie das Datum des Einganges des Antrags an. Das Datum wird im Portal nicht veröffentlicht, es dient nur statistischen Zwecken.
+Angabe des Datums des Antragseingangs. 
+
+**Hinweis:**
+*Das Datum wird im Portal nicht veröffentlicht, es dient nur statistischen Zwecken.*
 
 **UVP-Nummer auswählen**
 
@@ -162,13 +167,14 @@ Abb.: Auswahlfeld: UVP-Nummer
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern_auswahl.png
  
  
-Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft (Mehrfach-Nennungen möglich). Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
+Hier ist die UVP-Nummer auszuwählen, die für das Zulassungsverfahren zutrifft. Beim Klicken in die Zeile erscheint am Ende der Zeile ein Pfeil mit dem die Auswahlliste geöffnet wird. In der Auswahlliste werden die bundesrechtlichen und die für Ihr Land maßgeblichen UVP-Nummern (z.B. Nummer des Vorhabens gemäß § 1 Abs. 1 Nr. 1 UVPG in Verbindung mit Anlage 1) angeboten.
 
 Verweis auf UVPG-Anlage 1: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 **Hinweis:** *Die UVP-Nummern dienen der Einordnung des Zulassungsverfahrens in die Kategorien, nach denen auf der Portalseite gesucht werden kann. Außerdem sind sie wichtig zur Erfüllung der Berichtspflicht nach Artikel 12 der UVP-Richtlinie 2011/92/EU, nach der alle sechs Jahre die bis dahin durchgeführten UVP-Verfahren ausgezählt und der EU-Kommission unter Zuordnung zu den Kategorien mitgeteilt werden müssen. Die Angabe einer UVP Nummer ist daher verpflichtend für alle Verfahren.*
 
 *Es kann lediglich eine UVP-Nummer ausgewählt werden, die in den Listen der UVP-pflichtigen Vorhaben zum UVPG und den jeweiligen Landes-UVP-Gesetzen (in der Regel Anlage 1 zum jeweiligen Gesetz) oder in der UVP-Verordnung Bergbau enthalten und entsprechend auf der Portalseite hinterlegt sind. Sofern für das Vorhaben im Einzelfall keine der zur Verfügung stehenden UVP-Nummern passt, sollte eine UVP-Nummer gewählt werden, der sich das Vorhaben thematisch am ehesten zuordnen lässt.*
+
 
 **Vorprüfungen durchgeführt**
 
@@ -177,7 +183,7 @@ Verweis auf UVPG-Anlage 1: https://www.gesetze-im-internet.de/uvpg/anlage_1.html
 
 Abb.: Checkbox: Vorprüfung durchgeführt
  
-Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig eine Vorprüfung zur Feststellung der UVP-Pflicht durchgeführt. Hierfür gibt es nicht immer eine genau passende UVP-Nummer (z.B. wenn es nur eine UVP-Nummer für UVP-pflichtige Zulassungsverfahren („X“) gibt). Andererseits kann aufgrund § 7 Abs. 3 UVPG eine UVP auch freiwillig durchgeführt werden, wenn eine Vorprüfung vorgesehen ist. Hier lässt die anzugebende UVP-Nummer den Schluss darauf zu, dass eine Vorprüfung durchgeführt wurde, obwohl dies nicht erfolgte. Wegen der Berichtspflicht nach § 73 UVPG werden daher die Zulassungsverfahren, bei denen eine Vorprüfung die UVP-Pflicht ergab, nunmehr durch diese Checkbox erfasst.
+Bei Änderungen/Erweiterungen wie auch bei kumulierenden Vorhaben wurde häufig eine Vorprüfung zur Feststellung der UVP-Pflicht durchgeführt. Hierfür gibt es nicht immer eine genau passende UVP-Nummer (z.B. wenn es nur eine UVP-Nummer für UVP-pflichtige Zulassungsverfahren gibt). Andererseits kann aufgrund § 7 Abs. 3 UVPG eine UVP auch freiwillig durchgeführt werden, wenn eine Vorprüfung vorgesehen ist. Hier lässt die anzugebende UVP-Nummer den Schluss darauf zu, dass eine Vorprüfung durchgeführt wurde, obwohl dies nicht erfolgte. Wegen der Berichtspflicht nach § 73 UVPG werden daher die Zulassungsverfahren, bei denen eine Vorprüfung die UVP-Pflicht ergab, nunmehr durch diese Checkbox erfasst.
 
 Verfahrensschritt hinzufügen
 ````````````````````````````
@@ -204,7 +210,7 @@ Abb.: Felder in Abschnitt Öffentliche Auslegung
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 **Wichtig:** 
-*Genau in diesem Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.*
+*Genau in diesen Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.*
 
 *Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
 
@@ -217,7 +223,7 @@ Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle er
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
  
-**Hinweis:** *Die Checkbox finden Sie unter jeder Tabelle.*
+**Hinweis:** *Die Checkbox finden Sie unter jeder Auflistung.*
 
 **Auslegungsinformationen (Pflichtfeld)**
 
@@ -225,9 +231,9 @@ Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
    
 Abb.: Auflistung Auslegungsinformationen
 
-Auslegungsinformationen (= Bekanntmachungstext) hochladen/verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
+Auslegungsinformationen (= Bekanntmachungstext) hochladen oder verlinken. Der Namen des Dokuments sollte erkennen lassen, um was es sich handelt.
 
-In der Spalte „Gültig bis“ kann eingegeben werden, bis zu welchem Tag (diesen eingeschlossen) das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird die Ausfüllung dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
+In der Spalte „Gültig bis“ kann eingegeben werden, bis zu welchem Tag das hochgeladene/verlinkte Dokument im UVP-Portal lesbar sein soll. Es bleibt auch nach Ablauf der Frist im Editor lesbar und kann ggf. auch wieder veröffentlicht werden. Für die Bekanntmachungstexte und die ausschließlich nach UVPG auszulegenden Unterlagen wird das Ausfüllen dieses Feldes erst am Ende der Darstellung des Zulassungsverfahrens im UVP-Portal in Frage kommen.
 
 Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 
