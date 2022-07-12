@@ -16,7 +16,7 @@ Zulassungsverfahren, Raumordnungsverfahren + Linienbestimmung, Ausländische Vor
 Vorhaben erfassen
 -----------------
 
-Soll ein neues Vorhaben angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Vorhaben verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Vorhaben angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Vorhaben zunächst zwischenspeichern und erst einmal die Adresse anlegen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
+Soll ein neues Vorhaben angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Vorhaben verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Vorhaben angelegt werden. Grund hierfür ist, dass die Adressverweise im Vorhaben nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden müssen. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Vorhaben zunächst zwischenspeichern und erst einmal die Adresse anlegen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Vorhaben beschrieben wird.
 Die Vorhaben werden in der Ordnerstruktur des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Vorhaben können hierarchische Strukturen mit Hilfe von weiteren Ordnern angelegt werden. 
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
@@ -24,7 +24,7 @@ Die Vorhaben werden in der Ordnerstruktur des UVP-Editors verwaltet. Für eine e
 
 Abb.: Symbolleiste: Ordner oder Vorhaben anlegen
 
-Zum Anlegen eines neuen Vorhabens muss zunächst der Ordner ausgewählt werden, unter dem das neue Vorhaben angelegt werden soll.
+Zum Anlegen eines neuen Vorhabens muss zunächst der Ordner ausgewählt werden, unter dem das neue Vorhaben angelegt werden soll. Über die Symbolleiste kann jetzt das Symbol "Neues Vorhaben anlegen" gewählt werden. Es öffnet sich das Fenster "Neues Vorhaben anlegen". Hier den entsprechenden Datensatztyp wählen und einen Titel eingeben. Anschließend den Button "ANLEGEN" betätigen.
 
 
 Verfahrensschritte
@@ -35,12 +35,10 @@ Abschnitt – Allgemein
 
 **Titel (Pflichtfeld)**
 
-Eingabe einer kurzen und prägnanten Bezeichnung des Verfahrens.
-
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :width: 400
 
-Abb.: Eingabefeld: Titel
+Abb.: Eingabefeld: Titel - Eingabe einer kurzen und prägnanten Bezeichnung des Verfahrens.
  
 **Allgemeine Vorhabenbeschreibung (Pflichtfeld)**
 
@@ -50,8 +48,6 @@ Abb.: Eingabefeld: Allgemeine Vorhabenbeschreibung
  
 Hier soll das Vorhaben beschrieben werden, damit die Öffentlichkeit erfährt, um was es in dem Vorhaben geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
 
-Die allgemeine Vorhabenbeschreibung muss ausgefüllt werden, damit sich das Vorhaben abspeichern lässt. Es handelt sich um ein Pflichtfeld.
-
 **Kontaktdaten der verfahrensführenden Dienststelle / 
 Kontakt deutsche Behörde (Pflichtfeld)**
 
@@ -60,9 +56,9 @@ An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_kontaktdaten.png
    :width: 400
 
-Abb.: Eingabefeld: Kontaktdaten der verfahrensführenden Dienststelle
+Abb.: Verknüpfung mit den Kontaktdaten der verfahrensführenden Dienststelle
 
-Über „Hinzufügen“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Wird der Button "Hinzufügen" betätigt, öffnet sich folgendes Fenster.
+Über „HINZUFÜGEN“ wird eine Referenz auf eine bereits im Teilbaum Adressen erstellte Adresse hergestellt. Wird der Button "Hinzufügen" betätigt, öffnet sich folgendes Fenster.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_adresse-hinzufuegen.png
    :width: 500
