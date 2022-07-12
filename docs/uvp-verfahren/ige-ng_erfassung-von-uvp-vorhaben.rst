@@ -17,7 +17,7 @@ Vorhaben erfassen
 -----------------
 
 Soll ein neues Vorhaben angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die bei dem neuen Vorhaben verwiesen werden soll, bereits im Adressstrukturbaum erfasst ist. Ist dieses nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Vorhaben angelegt werden. Grund hierfür ist, dass die Adressverweise beim Verfahren nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Vorhaben zunächst zwischenspeichern und erst einmal die Adresse anlegen. Diesen Umweg erspart man sich, wenn immer zuerst die Adresse angelegt und anschließend das Verfahren beschrieben wird.
-Die Vorhaben werden im Vorhaben-Strukturbaum des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Vorhaben können hierarchische Strukturen mit Hilfe von Ordnern angelegt werden. 
+Die Vorhaben werden in der Ordnerstruktur des UVP-Editors verwaltet. Für eine effiziente Verwaltung der Vorhaben können hierarchische Strukturen mit Hilfe von weiteren Ordnern angelegt werden. 
  
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
    :width: 300
@@ -35,7 +35,7 @@ Abschnitt – Allgemein
 
 **Titel (Pflichtfeld)**
 
-In dieses Feld geben Sie eine kurze und prägnante Bezeichnung des Verfahrens an.
+Eingabe einer kurzen und prägnanten Bezeichnung des Verfahrens.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :width: 400
@@ -48,16 +48,14 @@ Abb.: Engabefeld: Titel
 
 Abb.: Engabefeld: Allgemeine Vorhabenbeschreibung
  
-Hier soll das Vorhaben kurz beschrieben werden, damit die Öffentlichkeit erfährt, worum es bei diesem Verfahren überhaupt geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Anders als hier bei der Eingabe ist dort der ganze Text ohne Scroll-Notwendigkeit zu lesen.
+Hier soll das Vorhaben kurz beschrieben werden, damit die Öffentlichkeit erfährt, um was es in dem angelegten Vorhaben geht. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Die Beschreibung bildet auch auf der Portalseite die Grundinformation, die dauernd und unabhängig vom aktuellen Verfahrensstand abgebildet wird. Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
 
-Es bietet sich an, für den Text die entsprechenden Teile aus dem Bekanntmachungstext für die Auslegung zu verwenden. Dies dient auch der Minimierung des Aufwands. Denn dort wird das Vorhaben bereits allgemein verständlich beschrieben. Die Information, dass ein Antrag bei … auf Zulassung dieses Vorhabens gestellt wurde und der Hinweis auf die UVP-Pflicht nach … können daraus ebenfalls übernommen werden. Statt der Übernahme von Teilen des Bekanntmachungstextes kommt ggf. auch die Übernahme einer aussagekräftigen Betreffzeile des Bekanntmachungstextes in Betracht.
-
-Das Feld muss ausgefüllt werden, damit das Zulassungsverfahren abgespeichert werden kann - Pflichtfeld.
+Die allgemeine Vorhabenbeschreibung muss ausgefüllt werden, damit sich das Vorhaben abspeichern lässt. Es handelt sich um ein Pflichtfeld.
 
 **Kontaktdaten der verfahrensführenden Dienststelle / 
 Kontakt deutsche Behörde (Pflichtfeld)**
 
-An dieser Stelle sind Personen, Einheiten oder Institutionen anzugeben, die weitergehende Informationen zum aktuellen vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist vollkommend ausreichend.
+An dieser Stelle sind Personen oder Organisationen anzugeben, die weitergehende Informationen zum aktuellen vorhaben/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_kontaktdaten.png
    :width: 400
