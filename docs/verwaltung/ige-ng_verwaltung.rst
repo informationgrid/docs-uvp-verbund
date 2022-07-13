@@ -42,12 +42,12 @@ Der IGE-NG bietet die Möglichkeit die Nutzer im Editor über Ereignisse zu info
 
 Abb.: Menü für die Verwaltung
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigung.png
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen.png
    :width: 500
 
 Abb.: Benachrichtigungen + HINZUFÜGEN
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigung_inhalt.png
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen_inhalt.png
 
    :width: 500
 
