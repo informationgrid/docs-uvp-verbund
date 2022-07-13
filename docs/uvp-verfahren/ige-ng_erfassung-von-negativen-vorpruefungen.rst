@@ -35,22 +35,4 @@ Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfung nur mit
 Abb.: Erfassungsmaske Option vollstädige Veröffentlichung von negativen Vorprüfungen
 
 
-
-
-
-
-
-
-
-
-.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung.png
-
-Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“ 
-
-
-.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung-formular.png
-
-Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“ 
- 
-
 **Hinweis:** *Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden! Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz.*

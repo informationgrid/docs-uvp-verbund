@@ -53,4 +53,4 @@ Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“
 Abb.: Erfassungsformular für den Datensatztyp „Negative Vorprüfung“ 
  
 
-**Hinweis:** *Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden. Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz. Die Einstellung, ob negative Verfahren im Portal erscheinen oder nicht, trifft der Katalogadministrator in den Katalogeinstellungen.*
+**Hinweis:** *Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden! Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz.*
