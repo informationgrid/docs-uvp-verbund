@@ -54,6 +54,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: UVP Portal
    
    karte/portal_karte.rst
+   verwaltung/bauleitplanung_upload.rst
    
 .. toctree::
    :maxdepth: 1
@@ -84,8 +85,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Verwaltung
    
    verwaltung/ige-ng_verwaltung.rst
-   verwaltung/bauleitplanung_upload.rst
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Software-Versionen - History
