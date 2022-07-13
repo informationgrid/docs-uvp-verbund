@@ -21,7 +21,7 @@ Zeitplan Datenmigration im UVP Live-System
 * XX.XX.XX - Hessen
 * 01.08.22 - Mecklenburg-Vorpommern
 * XX.XX.XX - Niedersachsen
-* XX.XX:XX - Nordrhein-Westfalen
+* XX.XX.XX - Nordrhein-Westfalen
 * 29.08.22 - Rheinland-Pfalz
 * 22.08.22 - Saarland
 * 01.08.22 - Sachsen
