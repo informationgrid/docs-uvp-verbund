@@ -25,7 +25,7 @@ Zeitplan Datenmigration im UVP Live-System
 * 29.08.22 - Rheinland-Pfalz
 * 22.08.22 - Saarland
 * 01.08.22 - Sachsen
-* 29. KW - Sachsen-Anhalt
+* 18.07.22 - Sachsen-Anhalt
 * 05.09.22 - Schleswig-Holstein
 * 08.08.22 - Thüringen
 
