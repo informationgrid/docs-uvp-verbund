@@ -48,7 +48,8 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    suche/ige-ng_suche.rst
    reports/ige-ng_reports.rst
    hilfe/ige-ng_hilfe-erfassung.rst
-   bauleitplanung/bauleitplanung_erfassung.rst
+   karte/portal_karte.rst
+   
    
    
 .. toctree::
@@ -80,7 +81,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Verwaltung
    
    verwaltung/ige-ng_verwaltung.rst
-   verwaltung/ige-ng_bauleitplanung_upload.rst
+   verwaltung/bauleitplanung/ige-ng_bauleitplanung_upload.rst
    
 .. toctree::
    :maxdepth: 2
