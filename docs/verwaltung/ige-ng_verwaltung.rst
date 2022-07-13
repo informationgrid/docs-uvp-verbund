@@ -43,29 +43,23 @@ Der IGE-NG bietet die Möglichkeit die Nutzer im Editor über Ereignisse zu info
 Abb.: Menü für die Verwaltung
 
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen.png
-   :width: 500
 
 Abb.: Benachrichtigungen + HINZUFÜGEN
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen_inhalt.png
-
-   :width: 500
-
-Abb.: Benachrichtigungen + HINZUFÜGEN mit Inhalt
-
-
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen.png
-
    :width: 500
 
 Abb.: Fenster Benachrichtigung hinzufügen
 
 
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen.png
-
    :width: 500
 
 Abb.: Fenster Benachrichtigung hinzufügen mit Kalenderfunktion
+
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen_inhalt.png
+
+Abb.: Benachrichtigungen + HINZUFÜGEN mit Inhalt
 
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_benachrichtigungen_seitenkopf.png
 
