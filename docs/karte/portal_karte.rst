@@ -20,6 +20,6 @@ Im UVP Portal wurden Bauleitplanungsdaten integriert. Die Daten werden über ein
 
 Wenn die Bauleitplanungsdaten eines Bundeslandes in die Kartendarstellung aufgenommen werden sollen, nutzen Sie bitte das Kontaktformular des UVP-Portals. https://www.uvp-verbund.de/kontakt
 
-.. image:: ../img-ige-ng/bauleitplanung/bauleitplanung_karte.png
+.. image:: ../img-ige-ng/karte/bauleitplanung_karte.png
 
 Abb.: Karte - Layer Bauleitplanung
