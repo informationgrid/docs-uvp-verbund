@@ -9,7 +9,7 @@ UVP Editor (IGE-NG)
    
 Version der Bedienungsanleitung
  - IGE-NG-Version: 0.0.0-3938
- - letzte Änderung: 12.07.2022
+ - letzte Änderung: 13.07.2022
  - Status: in Bearbeitung
  
 
@@ -73,9 +73,9 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: Administration
    
    administration/ige-ng_katalogeinstellungen.rst
-   administration/ige-ng_benachrichtigungen.rst
    administration/ige-ng_im-export.rst
-   administration/ige-ng_bauleitplanung_upload.rst
+   verwaltung/ige-ng_verwaltung.rst
+   verwaltung/ige-ng_bauleitplanung_upload.rst
    
 .. toctree::
    :maxdepth: 2
