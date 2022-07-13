@@ -35,6 +35,8 @@ iBus-Verwaltung
 Benachrichtigungen im UVP-Editor
 ---------------------------------
 
+Der IGE-NG bietet die Möglichkeit die Nutzer im Editor über Ereignisse zu informieren (z.B. neue Felder, neue Features oder Softwareupdates).
+
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_menue.png
    :width: 400
 
