@@ -54,7 +54,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    :caption: UVP Portal
    
    karte/portal_karte.rst
-   verwaltung/bauleitplanung_upload.rst
+   karte/bauleitplanung_upload.rst
    
 .. toctree::
    :maxdepth: 1

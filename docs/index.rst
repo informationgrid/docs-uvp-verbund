@@ -79,11 +79,6 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    
    administration/ige-ng_katalogeinstellungen.rst
    administration/ige-ng_im-export.rst
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Verwaltung
-   
    verwaltung/ige-ng_verwaltung.rst
 
 .. toctree::
