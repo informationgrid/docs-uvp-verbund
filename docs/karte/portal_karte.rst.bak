@@ -14,7 +14,7 @@ Negative Vorprüfungen
 
 .. image:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
 
-Abb.: Karte - Layer Bauleitplanung
+Abb.: Karte - Layer negative Vorprüfungen
 
 
 Raumordnungsverfahren
@@ -22,7 +22,7 @@ Raumordnungsverfahren
 
 .. image:: ../img-ige-ng/karte/karte_layer-raumordnungsverfahren.png
 
-Abb.: Karte - Layer Bauleitplanung
+Abb.: Karte - Layer Raumordnungsverfahren
 
 
 Ausländische Vorhaben
@@ -30,7 +30,7 @@ Ausländische Vorhaben
 
 .. image:: ../img-ige-ng/karte/karte_layer-auslaendische-vorhaben.png
 
-Abb.: Karte - Layer Bauleitplanung
+Abb.: Karte - Layer Ausländische Vorhaben
 
 
 Bauleitplanung
