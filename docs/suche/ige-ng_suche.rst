@@ -9,7 +9,7 @@ Suche auf der Startseite
 Abb.: Suche auf der Startseite
 
 
-Suche nachs Vorhaben und Adressen
+Suche nach Vorhaben und Adressen
 ---------------------------------
 
 .. image:: ../img-ige-ng/suche/ige-ng_suche_verfahren.png
