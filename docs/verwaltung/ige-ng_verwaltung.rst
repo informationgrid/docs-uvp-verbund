@@ -6,13 +6,26 @@ Verwaltung
 Allgemein
 ---------
 
+Die Dauer der Session - Timeout wird derzeit in Keycloak bestimmt und kann nur dort geändert werden.
+
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_session-timeout.png
+
+Abb.: Session Timeout in Minuten
+
 
 Codelist Repository
 --------------------
 
 
 Katalog-Verwaltung
------------------
+------------------
+
+Im IGE-NG besteht die Möglichkeit mehrere Kataloge zu verwalten.
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_katalogverwaltung.png
+
+Abb.: Katalogverwaltung
 
 
 iBus-Verwaltung
@@ -22,6 +35,36 @@ iBus-Verwaltung
 Benachrichtigungen im UVP-Editor
 ---------------------------------
 
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_menue.png
+   :width: 400
+
+Abb.: Menü für die Verwaltung
+
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigung.png
+   :width: 500
+
+Abb.: Benachrichtigungen + HINZUFÜGEN
+
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigung_inhalt.png
+
+   :width: 500
+
+Abb.: Benachrichtigungen + HINZUFÜGEN mit Inhalt
+
+
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen.png
+
+   :width: 500
+
+Abb.: Fenster Benachrichtigung hinzufügen
+
+
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen.png
+
+   :width: 500
+
+Abb.: Fenster Benachrichtigung hinzufügen mit Kalenderfunktion
+
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_benachrichtigungen_seitenkopf.png
 
-Abb.: Benachrichtigung der Nutzer im UVP-Editor *
+Abb.: Benachrichtigung der Nutzer im UVP-Editor
