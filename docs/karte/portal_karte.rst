@@ -4,14 +4,34 @@ UVP Portal - Karte
 Zulassungsverfahren
 -------------------
 
+.. image:: ../img-ige-ng/karte/karte_layer-zulassungsverfahren.png
+
+Abb.: Karte - Layer Zulassungsverfahren
+
+
 Negative Vorprüfungen
 ---------------------
+
+.. image:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
+
+Abb.: Karte - Layer Bauleitplanung
+
 
 Raumordnungsverfahren
 ---------------------
 
+.. image:: ../img-ige-ng/karte/karte_layer-raumordnungsverfahren.png
+
+Abb.: Karte - Layer Bauleitplanung
+
+
 Ausländische Vorhaben
 ---------------------
+
+.. image:: ../img-ige-ng/karte/karte_layer-auslaendische-vorhaben.png
+
+Abb.: Karte - Layer Bauleitplanung
+
 
 Bauleitplanung
 --------------
