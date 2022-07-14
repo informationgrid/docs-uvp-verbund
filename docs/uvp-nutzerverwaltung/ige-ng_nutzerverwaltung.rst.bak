@@ -22,23 +22,3 @@ Abb.: Nutzerverwaltung - Rollen
 Der Katalog-Administrator kann Autoren und Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Autoren zu administrieren.
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
-   :width: 300
-
-Abb.: Nutzer + Hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
-   :width: 300
-
-Abb.: Fenster Benutzer hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
-   :width: 300
-
-Abb.: Benutzer hinzufügen - Rolle zuweisen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
-
-Abb.: Nutzerverwaltung - Eingabemaske
-
-
