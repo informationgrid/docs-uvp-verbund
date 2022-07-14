@@ -80,3 +80,15 @@ Abb.: Checkbox - "Alle" markieren
 
 **Hinweis:**
 *Wurde eine Kopie angelegt, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!*
+
+
+Verfahren / Adressen verschieben
+--------------------------------
+
+Markierte Adressen / Verfahren oder ganze Teilbäume können innerhalb der Ordnerstruktur an eine andere Stelle verschoben werden. Dazu die Auswahl aktivieren, die Betreffenden Dateien oder den Teilbaum markieren, "Verschieben" in der Symbolleiste wählen. Es öffnet sich das Fenster "Verschieben". Darin den Ordner wählen unter dem die markierten Datensätze eingefügt werden sollen. Abschließend den Button "EINFÜGEN" betätigen.
+
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_verschieben.png
+   :width: 500
+
+Abb.: Fenster - Verschieben
+
