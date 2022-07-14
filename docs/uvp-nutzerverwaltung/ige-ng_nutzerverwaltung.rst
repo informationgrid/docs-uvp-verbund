@@ -1,5 +1,5 @@
-Nutzer anlegen/löschen
-======================
+Nutzer anlegen / löschen
+========================
 
 Der UVP-Editor ist eine Komponente der Portal-Software InGrid. Durch die Verknüpfung der Nutzverwaltungen des UVP-Portals und des UVP-Editors ergibt sich der Vorteil, dass sich ein Nutzer nur einmal zentral im Portal anmelden muss.
 
@@ -7,16 +7,38 @@ Die UVP-Editor-Nutzerrechte, werden in der Gruppenadministration der UVP-Editor-
 
 Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
 
-**1. Metadaten-Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
+**1. Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
 
 **2. Metadaten-Administrator:** Er darf von den Verwaltungsfunktionen nur die Nutzerverwaltung bedienen. Er darf Nutzer mit der Rolle Metadaten-Autor erstellen. Die Rechte dieser Nutzer dürfen aber maximal den Rechten des jeweiligen Metadaten-Administrators entsprechen (z.B. Schreibrechte nur auf einen Teilbaum des Katalogs).
 
 **3. Katalog-Administrator:** Es gibt nur einen Nutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Nutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
 
-Eine Ebene über den Katalogadmnistrator befindet sich der Superadministrator, dieser wird duch den Katalogadministrator bei technischen Problemen kontaktiert.
+Eine Ebene über den Katalogadmnistrator ist der Superadministrator, dieser wird durch den Katalogadministrator bei technischen Problemen kontaktiert.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
 
 Abb.: Nutzerverwaltung - Rollen
 
-Der Katalog-Administrator kann Metadaten-Autoren unter beliebigen Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Metadaten-Autoren zu administrieren.
+Der Katalog-Administrator kann Autoren und Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Autoren zu administrieren.
+
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+   :width: 300
+
+Abb.: Nutzer + Hinzufügen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
+   :width: 300
+
+Abb.: Fenster Benutzer hinzufügen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_ige-ng_nutzerverwaltung_rolle-zuweisen.png
+   :width: 300
+
+Abb.: Benutzer hinzufügen - Rolle zuweisen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
+
+Abb.: Nutzerverwaltung - Maske
+
+
