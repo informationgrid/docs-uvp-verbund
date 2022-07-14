@@ -78,3 +78,27 @@ Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
    :width: 300
 
 Abb.: Button "SPEICHERN"
+
+
+
+
+
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+   :width: 300
+
+Abb.: Nutzer + Hinzufügen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
+   :width: 300
+
+Abb.: Fenster Benutzer hinzufügen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
+   :width: 300
+
+Abb.: Benutzer hinzufügen - Rolle zuweisen
+
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
+
+Abb.: Nutzerverwaltung - Eingabemaske

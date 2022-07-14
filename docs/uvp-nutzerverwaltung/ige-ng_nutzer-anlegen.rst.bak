@@ -1,5 +1,5 @@
-Nutzer neu anlegen
-==================
+Nutzer anlegen / löschen
+========================
 
 Vorbereitende Schritte:
 
