@@ -4,7 +4,7 @@ Verfahren oder Adressen bearbeiten
 Verfahren / Adressen löschen
 ----------------------------
  
-Soll ein Verfahren oder eine Adresse komplett gelöscht werden, muss das Verfahren in der Ordnerstruktur angeklickt werden, so dass es blau hinderlegt ist. Anschließend ist das Papierkorbsymbol (Löschen) in der Symbolleiste zu wählen. Es öffnet sich das Fenster "Löschen", darin muss das Löschen bestätigt werden.
+Soll ein Verfahren oder eine Adresse komplett gelöscht werden, muss das Verfahren in der Ordnerstruktur angeklickt werden, so dass es blau hinterlegt ist. Anschließend ist das Papierkorbsymbol (Löschen) in der Symbolleiste zu wählen. Es öffnet sich das Fenster "Löschen", darin muss das Löschen bestätigt werden.
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ordnerstruktur.png
    :width: 400
@@ -21,16 +21,24 @@ Abb.: Symbolleiste - Verfahren/Adressen Löschen
 
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
-Im Strukturbaum können auch mehrere Verfahren bzw. Adressen gleichzeitig selektiert werden. Dazu wird beim Markieren eines Verfahrens per Mausklick zusätzlich die "Strg"-Taste gedrückt. Auf diese Weise sind die Operationen "verschieben", "löschen" und "kopieren" auf mehrere Verfahren gleichzeitig anwendbar. 
-
 **Hinweis:** 
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind. Ist die Adresse noch mit Verfahren verknüpft, müssen diese Verfahren unter „Kontaktdaten der verfahrensführenden Behörde“ einer anderen Adresse zugeordnet werden. Die bisherige Adresse muss dann aus der Tabelle gelöscht werden.*
+
+.. image:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen.png
+   :width: 500
+
+Abb.: Fenster Adresse ersetzen
+
+.. image:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen_ordenerstruktur.png
+   :width: 500
+
+Abb.: Fenster Adresse ersetzen mit Ordnerstruktur und Suche
 
 
 Verfahren / Adressen kopieren und einfügen
 ------------------------------------------
 
-Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher übernommen werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle in der Ordnerhierachie wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Verfahren oder Adressen anlegen wollen. Sie brauchen dann nur ein Verfahren bzw. eine Adresse anzulegen. In der Kopie müssen nur noch die Änderungen eingearbeitet werden. 
+Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher übernommen werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle in der Ordnerhierarchie wieder einzufügen. Sinnvoll ist dieses beispielsweise, wenn Sie zwei ähnliche Verfahren oder Adressen anlegen wollen. Sie brauchen dann nur ein Verfahren bzw. eine Adresse anzulegen. In der Kopie müssen nur noch die Änderungen eingearbeitet werden. 
 
 Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / die Adresse und wählen anschließend das Symbol „Kopieren“ aus der Symbolleiste aus. 
 
@@ -50,10 +58,12 @@ In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig 
  
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
+   :width: 500
 
 Abb.: Checkbox - Verfahren/Adressen kopieren
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_alle-auswaehlen.png
+   :width: 500
 
 Abb.: Checkbox - "Alle" markieren
 
