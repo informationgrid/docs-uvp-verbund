@@ -57,9 +57,14 @@ Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Da
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_einfuegen.png
    :width: 300
 
-Abb.: Symbolleiste - Verfahren/Adressen kopieren
+Abb.: Symbolleiste - Verfahren/Adressen einfügen
 
 In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig markiert werden.
+
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_checkbox-auswahl.png
+   :width: 500
+
+Abb.: Verfahren/Adressen - Checkbox Auswahl
  
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
