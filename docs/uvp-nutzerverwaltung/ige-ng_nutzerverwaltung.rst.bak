@@ -39,6 +39,6 @@ Abb.: Benutzer hinzufügen - Rolle zuweisen
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
 
-Abb.: Nutzerverwaltung - Maske
+Abb.: Nutzerverwaltung - Eingabemaske
 
 

@@ -36,16 +36,13 @@ Abb.: Button "HINZUFÜGEN"
 
 Folgende Felder müssen ausgefüllt werden:
 
+Feld Login*
+-----------
+
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
    :width: 400
 
 Abb.: Dialogfenster - Benutzer hinzufügen
-
-Feld Login*
------------
-
-################
-
 
 
 Feld Rolle*

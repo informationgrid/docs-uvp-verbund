@@ -65,7 +65,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
       
 .. toctree::
    :maxdepth: 2
-   :caption: Nutzerverwaltung
+   :caption: Nutzer & Rechte
 
    uvp-nutzerverwaltung/ige-ng_nutzerverwaltung.rst
    uvp-nutzerverwaltung/ige-ng_gruppen-und-rechte.rst
