@@ -42,11 +42,6 @@ Ein markiertes Verfahren oder eine markierte Adresse kann mit der Funktion „Ko
 
 Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / die Adresse und wählen anschließend das Symbol „Kopieren“ aus der Symbolleiste aus. 
 
-.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
-   :width: 300
-
-Abb.: Symbolleiste
-
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_kopieren.png
    :width: 300
 
