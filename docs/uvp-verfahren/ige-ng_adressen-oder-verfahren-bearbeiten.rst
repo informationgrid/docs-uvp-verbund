@@ -59,7 +59,7 @@ Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Da
 
 Abb.: Symbolleiste - Verfahren/Adressen einfügen
 
-In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig markiert werden.
+In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig markiert werden. Dafür in die Checkbox "Auswahl" eine Haken setzen oder die "STRG" Taste auf der Tastaturdrücken und einen Ordner oder einen Datensatz anklicken.
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_checkbox-auswahl.png
    :width: 500
