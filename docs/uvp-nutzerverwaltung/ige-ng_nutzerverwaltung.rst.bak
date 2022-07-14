@@ -32,7 +32,7 @@ Abb.: Nutzer + Hinzufügen
 
 Abb.: Fenster Benutzer hinzufügen
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_ige-ng_nutzerverwaltung_rolle-zuweisen.png
+.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
    :width: 300
 
 Abb.: Benutzer hinzufügen - Rolle zuweisen
