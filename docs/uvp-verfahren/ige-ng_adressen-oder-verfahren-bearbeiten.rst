@@ -85,7 +85,7 @@ Abb.: Checkbox - "Alle" markieren
 Verfahren / Adressen / Teilbäume verschieben
 --------------------------------------------
 
-Markierte Adressen / Verfahren oder ganze Teilbäume können innerhalb der Ordnerstruktur an eine andere Stelle verschoben werden. Dazu die Auswahl aktivieren, die Betreffenden Dateien oder den Teilbaum markieren, "Verschieben" in der Symbolleiste wählen. Es öffnet sich das Fenster "Verschieben". Darin den Ordner wählen unter dem die markierten Datensätze eingefügt werden sollen. Abschließend den Button "EINFÜGEN" betätigen.
+Markierte Adressen / Verfahren oder ganze Teilbäume können innerhalb der Ordnerstruktur an eine andere Stelle verschoben werden. Dazu die Auswahl aktivieren, die betreffenden Dateien oder den Teilbaum markieren, "Verschieben" in der Symbolleiste wählen. Es öffnet sich das Fenster "Verschieben". Darin den Ordner wählen unter dem die markierten Datensätze eingefügt werden sollen. Abschließend den Button "EINFÜGEN" betätigen.
 
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_verschieben.png
    :width: 300
