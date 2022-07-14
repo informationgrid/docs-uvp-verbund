@@ -45,6 +45,11 @@ Zum Kopieren eines Verfahrens oder einer Adresse markieren Sie das Verfahren / d
 .. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :width: 300
 
+Abb.: Symbolleiste
+
+.. image:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_kopieren.png
+   :width: 300
+
 Abb.: Symbolleiste - Verfahren/Adressen kopieren
 
 Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Datensatz eingefügt werden soll, dann den Vorgang mit "EINFÜGEN" abschließen.

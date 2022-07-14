@@ -22,7 +22,7 @@ Abb.: Symbolleiste - Verfahren/Adressen Löschen
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
 **Hinweis:** 
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Verfahren mehr zugeordnet sind. Ist die Adresse noch mit Verfahren verknüpft, müssen diese Verfahren unter „Kontaktdaten der verfahrensführenden Behörde“ einer anderen Adresse zugeordnet werden. Die bisherige Adresse muss dann aus der Tabelle gelöscht werden.*
+*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind. Ist die Adresse noch mit Vorhaben verknüpft, öffnet sich das Fenster Adresse ersetzen. Darin muss der Button "ADRESSE AUSWÄHLEN" betätigt werden. Es öffnet sich das nächste Fenster  mit der Suche und der Ordnerstruktur der Adressen. Darin kann eine Adresse gewählt werden, mit der die bisherige Adresse ersetzt werden soll. Abschließend muss der Button "ADRESSE ERSETZEN" betätigt werden.*
 
 .. image:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen.png
    :width: 500
