@@ -8,12 +8,12 @@ Neuen Portal-Nutzer anlegen
 Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter der URL: https://www.uvp-verbund.de/log-in registrieren. Zur Bestätigung seiner Anmeldung erhält der Nutzer eine E-Mail mit einem Link. Mit der Bestätigung dieses Links wird die Anmeldung im Portal aktiviert.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-uvp_registrieren.png
-   :width: 300
+   :width: 500
 
 Abb.: Portal-Anmeldung - Registrieren
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-uvp_anmeldung.png
-   :width: 300
+   :width: 500
 
 Abb.: Portal-Anmeldung - Anmeldeformular
 
@@ -54,9 +54,9 @@ Feld Rolle*
 
 Abb.: Rolle zuweisen
 
-Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Metadaten-Autoren anlegen. Metadaten-Administratoren können nur Metadaten-Autoren anlegen. Metadaten-Autoren können keine Nutzer anlegen.
+Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Nutzer anlegen.
 
-Weisen Sie dem neuen UVP-Editor-Nutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
+Einen UVP-Editor-Nutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt.
 
 
 Feld E-Mail*
