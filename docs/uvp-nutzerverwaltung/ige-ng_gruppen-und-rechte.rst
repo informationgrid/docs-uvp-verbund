@@ -28,12 +28,10 @@ Abb.: Fenster Gruppe hinzufügen
 
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
-   :width: 200
 
 Abb.: Vergabe von allgemeinen Rechten
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte-erteilt.png
-   :width: 200
 
 Abb.: Vergabe von allgemeinen Rechten
 
