@@ -39,8 +39,8 @@ Abb.: Button "HINZUFÜGEN"
 
 Folgende Felder müssen ausgefüllt werden:
 
-Feld Login*
------------
+Feld Login
+----------
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
    :width: 400
@@ -48,8 +48,8 @@ Feld Login*
 Abb.: Dialogfenster - Benutzer hinzufügen
 
 
-Feld Rolle*
------------
+Feld Rolle
+----------
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
    :width: 400
@@ -61,14 +61,14 @@ Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Autoren a
 Einen UVP-Editor-Nutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt.
 
 
-Feld E-Mail*
-------------
+Feld E-Mail
+-----------
 
-An die angegebene Email-Adresse wird bei Klick auf "Anlegen" eine automatische E-Mail mit dem Passwort versendet.
+An die angegebene Email-Adresse wird bei Klick auf "ANLEGEN" eine automatische E-Mail mit dem Passwort versendet.
 
-Jede Email-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine Email aus dem System bekommt.
+Jede E-Mail-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine E-Mail aus dem System bekommt.
 
-Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "Anlegen" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
+Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "ANLEGEN" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-zuweisen.png
 
@@ -81,27 +81,3 @@ Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
    :width: 300
 
 Abb.: Button "SPEICHERN"
-
-
-
-
-
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
-   :width: 300
-
-Abb.: Nutzer + Hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
-   :width: 300
-
-Abb.: Fenster Benutzer hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
-   :width: 300
-
-Abb.: Benutzer hinzufügen - Rolle zuweisen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
-
-Abb.: Nutzerverwaltung - Eingabemaske
