@@ -64,13 +64,13 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
    hilfe/ige-ng_kontakt.rst
       
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Nutzer & Rechte
 
    uvp-nutzerverwaltung/ige-ng_nutzerverwaltung.rst
    uvp-nutzerverwaltung/ige-ng_gruppen-und-rechte.rst
-   uvp-nutzerverwaltung/ige-ng_anlegen-von-ige-benutzern.rst
-   uvp-nutzerverwaltung/ige-ng_bearbeiten-und-loeschen-eines-nutzers.rst
+   uvp-nutzerverwaltung/ige-ng_nutzer-anlegen.rst
+   uvp-nutzerverwaltung/ige-ng_bearbeiten-und-loeschen-von-nutzern.rst
    uvp-nutzerverwaltung/ige-ng_suche-und-csv-export.rst
    
 .. toctree::
