@@ -1,11 +1,8 @@
 
-Nutzer anlegen / löschen
-========================
+Nutzer anlegen
+==============
 
 Vorbereitende Schritte:
-
-Nutzer anlegen
---------------
 
 Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter der URL: https://www.uvp-verbund.de/log-in registrieren. Zur Bestätigung seiner Anmeldung erhält der Nutzer eine E-Mail mit einem Link. Mit der Bestätigung dieses Links wird die Anmeldung im Portal aktiviert.
 
