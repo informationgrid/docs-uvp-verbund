@@ -2,7 +2,7 @@
 Gruppen & Rechte
 =================
 
-In der Gruppenverwaltung werden die Lese- oder Schreibrechte auf Vorhaben und Adressen erteilt.
+In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Schreibrechte auf Vorhaben und Adressen erteilt.
 
 
 
@@ -13,6 +13,22 @@ Gruppen anlegen
 
 Abb.: Verwaltung von Gruppen
 
+
+.. image:: ../img/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+   :width: 300
+
+Abb.: Gruppe hinzufügen
+
+
+.. image:: ../img/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-hinzufuegen.png
+
+Abb.: Fenster Gruppe hinzufügen
+
+
+.. image:: ../img/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
+   :width: 300
+
+Abb.: Vergabe von allgemeinen Rechten
 
 .. image:: ../img/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
    :width: 300
