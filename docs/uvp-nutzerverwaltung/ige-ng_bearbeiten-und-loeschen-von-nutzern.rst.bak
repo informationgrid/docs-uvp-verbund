@@ -1,4 +1,4 @@
-Bearbeiten und Löschen eines Nutzers
+Nutzer bearbeiten / löschen
 ====================================
 
 Soll ein Nutzer gelöscht werden, muss der Nutzer in der Nutzerverwaltung ausgewählt werden.
@@ -8,3 +8,4 @@ Die Nutzerdaten werden in die Felder auf der rechten Seite des Fensters geladen.
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_nutzer-loeschen.png
 
 Abb.: Nutzer löschen
+

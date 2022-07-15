@@ -1,5 +1,14 @@
-Bearbeiten und Löschen eines Nutzers
+Nutzer bearbeiten / löschen
 ====================================
+
+Nutzer bearbeiten
+-----------------
+
+Soll ein Nutzer bearbeitet werden, muss über das Menü die Nutzerverwaltung aufgerufen werden. Darin
+
+
+Nutzer löschen
+--------------
 
 Soll ein Nutzer gelöscht werden, muss der Nutzer in der Nutzerverwaltung ausgewählt werden.
 
