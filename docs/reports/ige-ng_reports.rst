@@ -34,3 +34,21 @@ Abb.: UVP-Bericht als CSV-Datei herunterladen
    :width: 200
    
 Abb.: UVP-Bericht csv-Download
+
+
+UVP Upload Check
+----------------
+
+.. image:: ../img-ige-ng/reports/ige-ng_reports_upload-check.png
+
+Abb.: UVP Upload Check - Uploads prüfen
+
+
+.. image:: ../img-ige-ng/reports/ige-ng_reports_upload-check_alles.png
+
+Abb.: UVP Upload Check - alles anzeigen
+
+
+.. image:: ../img-ige-ng/reports/ige-ng_reports_upload-check_alles.png
+
+Abb.: UVP Upload Check - nur Fehler anzeigen
