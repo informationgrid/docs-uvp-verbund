@@ -66,7 +66,7 @@ Feld E-Mail
 
 An die angegebene Email-Adresse wird bei Klick auf "ANLEGEN" eine automatische E-Mail mit dem Passwort versendet.
 
-Jede Email-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine Email aus dem System bekommt.
+Jede E-Mail-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine E-Mail aus dem System bekommt.
 
 Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "ANLEGEN" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
 
@@ -81,27 +81,3 @@ Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
    :width: 300
 
 Abb.: Button "SPEICHERN"
-
-
-
-
-
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
-   :width: 300
-
-Abb.: Nutzer + Hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
-   :width: 300
-
-Abb.: Fenster Benutzer hinzufügen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
-   :width: 300
-
-Abb.: Benutzer hinzufügen - Rolle zuweisen
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_maske.png
-
-Abb.: Nutzerverwaltung - Eingabemaske
