@@ -10,6 +10,7 @@ Gruppen anlegen
 ---------------
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppen.png
+   :width: 500
 
 Abb.: Verwaltung von Gruppen
 
@@ -21,7 +22,7 @@ Abb.: Gruppe hinzufügen
 
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-hinzufuegen.png
-   :width: 500
+   :width: 300
 
 Abb.: Fenster Gruppe hinzufügen
 
