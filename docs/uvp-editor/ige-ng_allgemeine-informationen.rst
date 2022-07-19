@@ -8,7 +8,7 @@ Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsa
 UVP-Editor im Ausgangszustand
 -----------------------------
  
-Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden Verfahren bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wieviele Daten sich in Bearbeitung befinden und wieviele veröffentlicht sind.
+Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden Verfahren bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Daten sich in Bearbeitung befinden und wie viele veröffentlicht sind.
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    
