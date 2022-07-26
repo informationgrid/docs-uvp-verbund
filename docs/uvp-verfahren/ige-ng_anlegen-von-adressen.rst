@@ -69,7 +69,7 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 .. image:: ../img-ige-ng/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
    :width: 400
 
-App.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
+Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 **Hinweis:**
 *Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.* 
