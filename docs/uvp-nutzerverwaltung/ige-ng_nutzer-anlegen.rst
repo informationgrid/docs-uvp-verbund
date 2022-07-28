@@ -1,27 +1,12 @@
 
-Nutzer anlegen
+Benutzer anlegen
 ==============
 
-Vorbereitende Schritte:
-
-Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter der URL: https://www.uvp-verbund.de/log-in registrieren. Zur Bestätigung seiner Anmeldung erhält der Nutzer eine E-Mail mit einem Link. Mit der Bestätigung dieses Links wird die Anmeldung im Portal aktiviert.
-
-.. image:: ../img-ige-ng/nutzerverwaltung/uvp-portal_registrieren.png
-   :width: 500
-
-Abb.: Portal-Anmeldung - Registrieren
-
-.. image:: ../img-ige-ng/nutzerverwaltung/uvp-portal_anmeldung.png
-   :width: 500
-
-Abb.: Portal-Anmeldung - Anmeldeformular
-
-
-Um dem neuen Nutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der UVP-Editor-Nutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
+Um einem neuen Benutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der UVP-Editor-Benutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
 
-Abb.: Nutzer Gruppenberechtigung zuordnen
+Abb.: Benutzer Gruppenberechtigung zuordnen
 
  
 Nachdem gehen Sie bitte wie folgt vor:
@@ -53,9 +38,9 @@ Feld Rolle
 
 Abb.: Rolle zuweisen
 
-Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Nutzer anlegen.
+Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Benutzer anlegen.
 
-Einen UVP-Editor-Nutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt.
+Einem UVP-Editor-Benutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt.
 
 
 Feld E-Mail
@@ -63,9 +48,9 @@ Feld E-Mail
 
 An die angegebene Email-Adresse wird bei Klick auf "ANLEGEN" eine automatische E-Mail mit dem Passwort versendet.
 
-Jede E-Mail-Adresse darf nur einmal vergeben werden. Das hängt mit der Funktion für das Zusenden des Passwortes zusammen. So ist gewährleistet, dass nur ein Nutzer eine E-Mail aus dem System bekommt.
+Jede E-Mail-Adresse darf nur einmal vergeben werden, damit eine eindeutige Zuordnung von einem Benutzernamen zu einer E-Mail-Adresse gegeben ist.
 
-Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "ANLEGEN" betätigt werden. Der Nutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss den Nutzer noch eine Gruppe zugewiesen werden.
+Sind alle Felder im Dialogfenster ausgefüllt, muss der Button "ANLEGEN" betätigt werden. Der Benutzer ist angelegt, es können weitere Felder befüllt werden. Am Ende muss dem Benutzer noch eine Gruppe zugewiesen werden.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-zuweisen.png
 
