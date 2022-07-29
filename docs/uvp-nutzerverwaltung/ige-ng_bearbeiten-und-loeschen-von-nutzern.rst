@@ -4,7 +4,7 @@ Benutzer bearbeiten / löschen
 Benutzer bearbeiten
 -----------------
 
-Soll ein Benutzer bearbeitet werden, muss die Benutzerverwaltung über die Navigation (NUTZER & RECHTE) aufgerufen werden. Darin den entsprechenden Benutzer auswählen und anschließend, in der Eingabemaske auf der rechten Seite, die Daten bearbeiten.
+Soll ein Benutzer bearbeitet werden, muss die Benutzerverwaltung über die Navigation (BENUTZER & RECHTE) aufgerufen werden. Darin den entsprechenden Benutzer auswählen und anschließend, in der Eingabemaske auf der rechten Seite, die Daten bearbeiten.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
 
