@@ -6,7 +6,9 @@ Zugang zum UVP-Editor
 
 Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
-.. image:: ../img-ige-ng/portal/uvp-portal_anmeldung_01.png
+Über das linke Anmeldeformular gelangen Sie zur Anmeldemaske für den neuen UVP-Editor.
+
+.. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
    :width: 500
 
 Abb.: UVP-Portal - Anmeldung
@@ -19,7 +21,7 @@ Anmeldung
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich direkt am UVP Editor anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "LOGIN" ab.
 
-.. image:: ../img-ige-ng/portal/uvp-portal_anmeldung_01.png
+.. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_02.png
    :width: 500
 
 Abb.: UVP-Editor - Anmeldung
