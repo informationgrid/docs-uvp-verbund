@@ -16,7 +16,7 @@ Abb.: Übersicht
 
 
 Aufbau der Benutzeroberfläche
-------------------------------
+-----------------------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    
