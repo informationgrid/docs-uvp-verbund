@@ -16,14 +16,6 @@ Version der Bedienungsanleitung
 .. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
 
 
-Die Dokumentation ist in sechs Blöcke untergliedert:
- - Block 1 beschreibt den Aufbau des UVP-Editors, wie man sich im UVP-Portal registriert und anmeldet. 
- - Block 2 beschreibt das Anlegen von Adressen und das Anlegen von Verfahren.
- - Block 3 beschreibt die Suche, Recherche, Reports, Hilfe und die Bebauungspläne im Kartenclient
- - Block 4 beantwortung von häufig gestellten Fragen und Eläuterung zum Kontaktformular im UVP-Portal.
- - Block 5 beschreibt  die Nutzerverwaltung (für Administratoren).
- - Block 6 beschreibt die Katalogeinstellungen im UVP-Editor und den Upload von Bauleitplandaten im Kartenadministrationstool (für Katalog-Administratoren).
-
 .. toctree::
    :maxdepth: 2
    :caption: Allgemeine Informationen
@@ -65,7 +57,7 @@ Die Dokumentation ist in sechs Blöcke untergliedert:
       
 .. toctree::
    :maxdepth: 3
-   :caption: Nutzer & Rechte
+   :caption: Benutzer & Rechte
 
    uvp-nutzerverwaltung/ige-ng_nutzerverwaltung.rst
    uvp-nutzerverwaltung/ige-ng_gruppen-und-rechte.rst
