@@ -9,8 +9,8 @@ Nach Abschluss der Migration aller Kataloge wird diese Seite direkt auf die Anme
 
 Während der Migration ist der Zugang zum Editor für den festgelegten Katalog für diesen Tag nicht möglich!
 
-Zeitplan Datenmigration im UVP Live-System
-------------------------------------------
+Zeitplan Datenmigration im UVP Live-System - Stand 10.08.2022
+-------------------------------------------------------------
 
 * 06.09.22 - Baden-Württemberg
 * xx.xx.xx - Bayern
