@@ -18,7 +18,7 @@ InGrid-Version von Entwicklern bereitgestellt
  
  
 
-**InGrid-Versionen + Änderungen**
+**InGrid-Versionen und Änderungen**
 
  - 1.0.4-1.0.4, 02.08.2022, 21:48
 
