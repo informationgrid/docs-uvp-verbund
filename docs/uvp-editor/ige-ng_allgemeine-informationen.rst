@@ -217,6 +217,29 @@ Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
+Zeitgesteuerte Veröffentlichung von Datensätzen
+-----------------------------------------------
+
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
+   :width: 300
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+   
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
+   :width: 300
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
+
+Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
+
+.. image:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
+   :width: 500
+
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+
+Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
+
+
 Optionen für das Veröffentlichen von Vorhaben und Adressen
 ----------------------------------------------------------
 
@@ -254,29 +277,7 @@ Abb.: Meldung für geplante Veröffentlichung
 *Option: "Auf letzte Veröffentlichung zurücksetzten"*
 
 *Option: "Veröffentlichung zurückziehen"*
-   
 
-Zeitgesteuerte Veröffentlichung von Datensätzen
------------------------------------------------
-
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
-   :width: 300
-
-Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
-   
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
-   :width: 300
-
-Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
-
-Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
-
-.. image:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
-   :width: 500
-
-Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
-
-Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
 Dokumente bearbeiten
