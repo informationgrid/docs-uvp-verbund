@@ -258,10 +258,11 @@ Option: "Jetzt veröffentlichen"
 
 Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität. Es kann gewählt werden zwischen VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN.
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung.png
    :width: 300
 
-Abb.: Auswahl für Veröffentlichung
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+
 
 
 Option "Veröffentlichen planen"
