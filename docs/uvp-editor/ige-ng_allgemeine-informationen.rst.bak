@@ -220,6 +220,12 @@ Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mi
 Zeitgesteuerte Veröffentlichung
 -------------------------------
 
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
+   :width: 500
+   
+Abb.: VERÖFFENTLICHEN
+
+
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :width: 500
 
@@ -242,6 +248,11 @@ Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG AB
 
 Optionen für die Veröffentlichung
 ---------------------------------
+
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
+   :width: 500
+   
+Abb.: rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten)
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300

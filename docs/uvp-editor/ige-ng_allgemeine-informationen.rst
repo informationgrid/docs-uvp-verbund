@@ -284,12 +284,12 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
    
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
 
-Abb.: Meldung für geplante Veröffentlichung
+Abb.: Meldung für die geplante Veröffentlichung
 
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
 
-Abb.: Meldung für: Veröffentlichung ABBRECHEN UND VORHABEN BEARBEITEN
+Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 
 
 
