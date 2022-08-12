@@ -250,7 +250,7 @@ Abb.: Fenster mit Optionen für die Veröffentlichung
    
 
 Option: "Jetzt veröffentlichen"
-===============================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität. Es kann gewählt werden zwischen VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN.
 
@@ -261,7 +261,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
 
 Option: "Veröffentlichen planen"
-===============================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
@@ -284,12 +284,12 @@ Abb.: Meldung für: Veröffentlichung ABBRECHEN UND VORHABEN BEARBEITEN
 
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
-===================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
 Option: "Veröffentlichung zurückziehen"
-=======================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
