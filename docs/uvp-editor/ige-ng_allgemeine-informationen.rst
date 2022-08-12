@@ -217,7 +217,7 @@ Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
-Optionen für das Veröffentlichen von Adressen und Vorhaben
+Optionen für das Veröffentlichen von Vorhaben und Adressen
 ----------------------------------------------------------
 
 Veröffentlichung planen
