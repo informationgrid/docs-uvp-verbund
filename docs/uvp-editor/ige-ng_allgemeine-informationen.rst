@@ -221,7 +221,7 @@ Zeitgesteuerte Veröffentlichung von Datensätzen
 -----------------------------------------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
-   :width: 300
+   :width: 500
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    
