@@ -240,12 +240,8 @@ Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
-Optionen für Veröffentlichung
------------------------------
-
-Veröffentlichung planen
-
-Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
+Optionen für die Veröffentlichung
+---------------------------------
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
@@ -258,25 +254,31 @@ Option: "Jetzt veröffentlichen"
 
 Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität. Es kann gewählt werden zwischen VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN.
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung.png
-   :width: 300
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
+   :width: 500
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
 
-
-Option "Veröffentlichen planen"
+Option: "Veröffentlichen planen"
 ===============================
+
+Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen.png
    :width: 300
 
-Abb.: Funktion Veröffentlichung planen 
+Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
    
    
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
 
 Abb.: Meldung für geplante Veröffentlichung
+
+
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+
+Abb.: Meldung für: Veröffentlichung ABBRECHEN UND VORHABEN BEARBEITEN
 
 
 
