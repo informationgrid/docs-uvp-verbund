@@ -217,10 +217,19 @@ Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
-Zeitgesteuerte Veröffentlichung von Datensätzen
------------------------------------------------
+Veröffentlichungen planen
+-------------------------
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
+
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung_planen.png
+   :width: 300
+   
+   
+   
+
+Zeitgesteuerte Veröffentlichung von Datensätzen
+-----------------------------------------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :width: 300
