@@ -240,8 +240,8 @@ Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
-Optionen für das Veröffentlichen von Vorhaben und Adressen
-----------------------------------------------------------
+Optionen für Veröffentlichung
+-----------------------------
 
 Veröffentlichung planen
 
