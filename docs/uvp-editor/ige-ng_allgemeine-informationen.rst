@@ -178,8 +178,8 @@ Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt
 Abb.: Feldtyp - Auswahl
 
 
-SPEICHERN & VERÖFFENTLICHEN
-----------------------------------------------
+Speichern & Veröffentlichen
+---------------------------
 
 Im UVP-Editor werden zwei Speicherarten unterschieden: 
 
