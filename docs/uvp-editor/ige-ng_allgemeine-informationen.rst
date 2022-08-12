@@ -229,11 +229,14 @@ Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei 
    
 Abb.: Fenster Veröffentlichung planen
    
-Jetzt veröffentlichen
+*Option: "Jetzt veröffentlichen"*
 
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
+   :width: 300
 
+Abb.: Optionen: VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN
 
-Veröffentlichen planen
+*Option "Veröffentlichen planen"*
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen.png
    :width: 300
@@ -241,18 +244,16 @@ Veröffentlichen planen
 Abb.: Funktion Veröffentlichung planen 
    
    
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen_planen_meldung
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung
 
 Abb.: Meldung für geplante Veröffentlichung
 
 
 
 
+*Option: "Auf letzte Veröffentlichung zurücksetzten"*
 
-
-
-Auf letzte Veröffentlichung zurücksetzten
-Veröffentlichung zurückziehen
+*Option: "Veröffentlichung zurückziehen"*
    
 
 Zeitgesteuerte Veröffentlichung von Datensätzen
