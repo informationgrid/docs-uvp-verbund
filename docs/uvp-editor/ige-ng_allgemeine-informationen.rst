@@ -250,15 +250,19 @@ Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
    
-Abb.: Fenster Veröffentlichung planen
+Abb.: Fenster mit Optionen für die Veröffentlichung
    
+
 Option: "Jetzt veröffentlichen"
 ===============================
+
+Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität. Es kann gewählt werden zwischen VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN.
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
 
-Abb.: Optionen: VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN
+Abb.: Auswahl für Veröffentlichung
+
 
 Option "Veröffentlichen planen"
 ===============================
@@ -278,6 +282,8 @@ Abb.: Meldung für geplante Veröffentlichung
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ===================================================
+
+
 
 Option: "Veröffentlichung zurückziehen"
 =======================================

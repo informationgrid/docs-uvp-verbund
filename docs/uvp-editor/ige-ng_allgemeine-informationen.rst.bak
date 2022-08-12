@@ -217,8 +217,8 @@ Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
-Zeitgesteuerte Veröffentlichung von Datensätzen
------------------------------------------------
+Zeitgesteuerte Veröffentlichung
+-------------------------------
 
 .. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :width: 500
@@ -250,15 +250,19 @@ Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
    
-Abb.: Fenster Veröffentlichung planen
+Abb.: Fenster mit Optionen für die Veröffentlichung
    
+
 Option: "Jetzt veröffentlichen"
 ===============================
+
+Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität.
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
 
 Abb.: Optionen: VERÖFFENTLICHUNG PLANEN oder (jetzt) VERÖFFENTLICHEN
+
 
 Option "Veröffentlichen planen"
 ===============================
@@ -278,6 +282,8 @@ Abb.: Meldung für geplante Veröffentlichung
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ===================================================
+
+
 
 Option: "Veröffentlichung zurückziehen"
 =======================================
