@@ -292,8 +292,6 @@ Abb.: Meldung für die geplante Veröffentlichung
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 
 
-
-
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -301,6 +299,18 @@ Option: "Auf letzte Veröffentlichung zurücksetzten"
 
 Option: "Veröffentlichung zurückziehen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
+
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+
+Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
+
+
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+
+Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
+
 
 
 
