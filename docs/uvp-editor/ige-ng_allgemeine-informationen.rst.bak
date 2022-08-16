@@ -285,6 +285,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung_gross.png
+   :width: 500
 
 Abb.: Meldung für die geplante Veröffentlichung
 
@@ -297,6 +298,7 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol range/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen.
 
 
 Option: "Veröffentlichung zurückziehen"
