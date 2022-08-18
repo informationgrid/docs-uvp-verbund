@@ -298,7 +298,11 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol range/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen.
+Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol range/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
+
+.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+
+Abb.: Auf letzte Veröffentlichung zurücksetzen
 
 
 Option: "Veröffentlichung zurückziehen"
