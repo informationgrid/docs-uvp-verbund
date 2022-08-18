@@ -20,10 +20,15 @@ Anmeldung
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich direkt am UVP Editor anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "LOGIN" ab.
 
+**Hinweis:** Wenn der Katalog auf den neuen Editor umgestellt wurde, dann kann der alte Editor nicht mehr aufgerufen werden.
+
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_02.png
    :width: 500
 
-Abb.: UVP-Editor - Anmeldung
+Abb.: UVP-Editor - Anmeldung (links Anmeldung für den neuen Editor, rechts Anmeldung für den alten Editor)
+
+**Hinweis:** In der neuen UVP Software wird nach der Anmeldung direkt der Editor mit der Übersichtsseite geöffnet, weitere Klicks entfallen.
+
 
 Passwort vergessen
 ------------------
@@ -32,7 +37,6 @@ Passwort vergessen
 2. Klick auf den Link *Passwort vergessen?*
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen.png
-   :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
 
@@ -57,9 +61,13 @@ Abb.: UVP-Portal - Bestätigung Passwort versendet
 
 7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
 
+
+
 Abb.:
 
 8. Es wird automatisch auf die *Anmeldung* Seite weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+
+
 
 Abb.:
 
