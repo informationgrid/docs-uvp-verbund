@@ -44,7 +44,8 @@ Abb.:  UVP-Portal - Passwort vergessen?
 3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
 4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
 
-.. image:: ../img-ige-ng/portal/uvp-portal_passwort-vergessen.png
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen.png
+   :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
 
