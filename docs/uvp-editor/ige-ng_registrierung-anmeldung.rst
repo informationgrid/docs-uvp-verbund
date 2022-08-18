@@ -32,7 +32,6 @@ Passwort vergessen
 2. Klick auf den Link *Passwort vergessen?*
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen.png
-   :width: 500
 
 Abb.: UVP-Portal - Passwort vergessen?
 
