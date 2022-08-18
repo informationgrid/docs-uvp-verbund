@@ -270,6 +270,10 @@ Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die se
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
+.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung_meldung.png
+
+Abb.: Meldung: Das Dokument wurde veröffentlicht
+
 
 Option: "Veröffentlichen planen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
