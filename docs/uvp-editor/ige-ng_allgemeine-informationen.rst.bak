@@ -294,11 +294,6 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 Abb.: Meldung für die geplante Veröffentlichung
 
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
-
-Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
-
-
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
