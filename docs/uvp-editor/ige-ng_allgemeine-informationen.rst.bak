@@ -248,11 +248,8 @@ Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG AB
 
 Optionen für die Veröffentlichung
 ---------------------------------
-
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
-   :width: 500
    
-Abb.: rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten)
+Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
