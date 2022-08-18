@@ -470,7 +470,8 @@ Soll ein Verfahrensschritt gelöscht werden, so müssen die drei Punkte (auf der
 Abb.: Option Verfahrensschritt löschen
 
 
-**PDF erzeugen, Drucken, Druckvorschau**
+PDF erzeugen, Drucken, Druckvorschau
+------------------------------------
 
 Für eine spätere Version des neuen UVP-Editors ist eine PDF Generierung für Vorhaben vorgesehen.
 Wann diese Funktionalität bereitgestellt wird, steht derzeit noch nicht fest.
