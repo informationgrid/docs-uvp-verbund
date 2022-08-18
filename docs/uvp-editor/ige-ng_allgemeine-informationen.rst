@@ -272,7 +272,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
-Option: "Veröffentlichen planen"
+Option: "Veröffentlichung planen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
