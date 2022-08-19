@@ -66,11 +66,6 @@ Abb.: E-Mail Versand Bestätigung
 Abb.: E-Mail mit Anweisungen
 
 7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
-8. Es wird automatisch auf die *Anmeldung* Seite weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
-
-
-
-Abb.:
 
 
 Benutzername vergessen
@@ -78,7 +73,7 @@ Benutzername vergessen
 
 Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
 
-.. image:: ../img-ige-ng/portal/uvp-portal_kontaktformular.png
+.. image:: ../img-ige-ng/portal/uvp-verbund_portal_kontakt.png
 
 Abb.: UVP-Portal - Kontaktformular
 
