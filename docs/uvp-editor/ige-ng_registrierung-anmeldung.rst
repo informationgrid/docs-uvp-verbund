@@ -78,7 +78,7 @@ Benutzername vergessen
 
 Wenn Sie den Benutzernamen vergessen haben, füllen Sie das Kontaktformular aus und senden es ab: https://uvp-verbund.de/kontakt
 
-.. image:: ../img-ige-ng/portal/uvp-portal_kontaktformular.png
+.. image:: ../img-ige-ng/portal/uvp-verbund_portal_kontakt.png
 
 Abb.: UVP-Portal - Kontaktformular
 
