@@ -36,6 +36,7 @@ Passwort vergessen
 1. Aufruf der *Anmeldung*-Seite: https://www.uvp-verbund.de/log-in
 2. Klick auf den Link *Passwort vergessen?*
 
+
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_02.png
    :width: 500
 
@@ -52,12 +53,15 @@ Abb.:  UVP-Portal - Passwort vergessen?
 
 Abb.: UVP-Portal - Passwort vergessen?
 
+
 5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Sie sollten in Kürze eine E-Mail mit weiteren Instruktionen erhalten.*
+
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_bestaetigung.png
    :width: 500
 
 Abb.: E-Mail Versand Bestätigung
+
 
 6. Es wird eine E-Mail aus dem System mit den Betreff: *Passwort zurücksetzen* gesendet. Hier auf *Link zum Zurücksetzen von Anmeldeinformationen* klicken.
 
@@ -65,19 +69,24 @@ Abb.: E-Mail Versand Bestätigung
 
 Abb.: E-Mail mit Anweisungen
 
+
 7. Es öffnet sich die Seite  *Passwort aktualisieren*
+
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_passwort-aendern.png
    :width: 500
 
 Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf die Passworteigenschaften.
 
+
 8. Haben Sie nicht schnell genug den Link in der E-Mail angeklickt (5 Minuten), bekommen Sie folgende Meldung angezeigt.
 
-.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_aktion-nicht-mehr-gultig.png
+
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_aktion-nicht-mehr-gueltig.png
    :width: 500
 
 Abb.: Aktion nicht mehr gültig
+
 
 9. Führen Sie in dem Fall den *Passwort vergessen?* Vorgang erneut aus.
 
