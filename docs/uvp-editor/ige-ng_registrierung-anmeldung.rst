@@ -68,12 +68,14 @@ Abb.: E-Mail mit Anweisungen
 7. Es öffnet sich die Seite  *Passwort aktualisieren*
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_passwort-aendern.png
+   :width: 500
 
 Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf die Passworteigenschaften.
 
 8. Haben Sie nicht schnell genug den Link in der E-Mail angeklickt (5 Minuten), bekommen Sie folgende Meldung angezeigt.
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_aktion-nicht-mehr-gultig.png
+   :width: 500
 
 Abb.: Aktion nicht mehr gültig
 
