@@ -65,7 +65,18 @@ Abb.: E-Mail Versand Bestätigung
 
 Abb.: E-Mail mit Anweisungen
 
-7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
+7. Es öffnet sich die Seite  *Passwort aktualisieren*
+
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_passwort-aendern.png
+
+Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf die Passworteigenschaften.
+
+8. Haben Sie nicht schnell genug den Link in der E-Mail angeklickt (5 Minuten), bekommen Sie folgende Meldung angezeigt.
+
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_aktion-nicht-mehr-gultig.png
+
+Abb.: Beginnen Sie den Vorgang erneut.
+
 
 
 Benutzername vergessen
