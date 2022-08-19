@@ -41,34 +41,32 @@ Passwort vergessen
 
 Abb.:  UVP-Portal - Passwort vergessen?
 
-3. Es öffnet sich die *Passwort vergessen*-Seite mit der Aufforderung: *Bitte geben Sie Ihre E-Mail-Adresse an. Ihr Passwort wird Ihnen dann zugesendet.*
-4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *Passwort anfordern* anklicken.
+
+3. Es öffnet sich die *Passwort vergessen?*-Seite mit den Hinweis: *Wenn dieser Zugang existiert, bekommen Sie eine E-Mail mit der Sie Ihr Passwort zurücksetzen können, zugeschickt.*
+
+4. Pflichtfeld *E-Mail*: Tragen Sie hier Ihre E-Mail-Adresse ein, anschließend den Button *ABSENDEN* anklicken.
+
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen.png
    :width: 500
 
-Abb.: 
-
 Abb.: UVP-Portal - Passwort vergessen?
 
-5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Passwort versendet Ihr neues Passwort wurde erfolgreich an Sie versendet.*
+5. Es öffnet sich die *Passwort vergessen*-Bestätigungsseite: *Sie sollten in Kürze eine E-Mail mit weiteren Instruktionen erhalten.*
 
-.. image:: ../img-ige-ng/portal/uvp-portal_passwort-vergessen-mailadresse.png
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_bestaetigung.png
+   :width: 500
 
-Abb.: UVP-Portal - Bestätigung Passwort versendet
+Abb.: E-Mail Versand Bestätigung
 
-6. Es erfolgt eine automatische E-Mail aus dem System mit Betreff *UVP: Ihre Anfrage* Hier auf die URL unterhalb von *Sie können Ihr Passwort über folgende URL ändern:* klicken.
+6. Es wird eine E-Mail aus dem System mit Betreff *Passwort zurücksetzen* gesendet. Hier auf *Link zum Zurücksetzen von Anmeldeinformationen* klicken.
 
-.. image:: ../img-ige-ng/portal/uvp-portal_bestätigung-neues-passwort.png
+.. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_e-mail.png
+   :width: 500
 
-Abb.: UVP-Portal - Bestätigung Passwort versendet
+Abb.: E-Mail mit Anweisungen
 
 7. Es öffnet sich die *Passwort vergessen* Änderungsseite: *Passwort ändern - Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.* Hier im Feld *Benutzername* den Benutzernamen und darunter zweimal das neue Passwort eintragen. Abschließend auf den Button *Speichern* klicken.
-
-
-
-Abb.:
-
 8. Es wird automatisch auf die *Anmeldung* Seite weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
 
 
