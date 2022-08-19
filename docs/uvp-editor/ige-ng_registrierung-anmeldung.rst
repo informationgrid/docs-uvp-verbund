@@ -59,7 +59,7 @@ Abb.: UVP-Portal - Passwort vergessen?
 
 Abb.: E-Mail Versand Bestätigung
 
-6. Es wird eine E-Mail aus dem System mit Betreff *Passwort zurücksetzen* gesendet. Hier auf *Link zum Zurücksetzen von Anmeldeinformationen* klicken.
+6. Es wird eine E-Mail aus dem System mit den Betreff: *Passwort zurücksetzen* gesendet. Hier auf *Link zum Zurücksetzen von Anmeldeinformationen* klicken.
 
 .. image:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_e-mail.png
 
