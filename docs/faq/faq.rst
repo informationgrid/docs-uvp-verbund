@@ -16,7 +16,9 @@ Wann trat die Novellierung des UVP-Gesetzes in Kraft?
 Was bedeutet "Veröffentlichen"?
 ------------------------------------------------------------
 
-  Mit "Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Die Nutzer des UVP-Portals können dann das Verfahren einsehen.
+  Mit "Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Alle Bürger und Bürgerinnen können das veröffentlichte Vorhaben im UVP-Portal einsehen.
+  
+  
  
  
 Gibt es im UVP-Editor eine Vorschaufunktion?

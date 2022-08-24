@@ -13,10 +13,10 @@ Wann trat die Novellierung des UVP-Gesetzes in Kraft?
   Weitere Informationen bietet die Internetseite Infozentrum UmweltWirtschaft des Bayrischen Landesamtes für Umwelt: https://www.umweltpakt.bayern.de/abfall/recht/bund/9/uvpg-gesetz-ueber-umweltvertraeglichkeitspruefung
 
 
-Was bedeutet "Abschließendes Speichern und Veröffentlichen"?
+Was bedeutet "Veröffentlichen"?
 ------------------------------------------------------------
 
-  Mit "Abschließendes Speichern und Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Die Nutzer des UVP-Portals können dann das Verfahren einsehen.
+  Mit "Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Die Nutzer des UVP-Portals können dann das Verfahren einsehen.
  
  
 Gibt es im UVP-Editor eine Vorschaufunktion?

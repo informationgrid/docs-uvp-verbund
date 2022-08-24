@@ -82,7 +82,7 @@ Abb.: Feld Adresse: Angabe einer Organisation
 **Adressen suchen**
 
 In der Suche kann entweder nach der Organisation, den Nachnamen oder den Vornamen oder einer Kombination aus den Feldern gesucht werden.
-Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" in die Kontaktdaten des Vorhabens übernommen.
+Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBERNEHMEN" in die Kontaktdaten des Vorhabens übernommen.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_suche.png
    :width: 400
@@ -470,7 +470,8 @@ Soll ein Verfahrensschritt gelöscht werden, so müssen die drei Punkte (auf der
 Abb.: Option Verfahrensschritt löschen
 
 
-**PDF erzeugen, Drucken, Druckvorschau**
+PDF erzeugen, Drucken, Druckvorschau
+------------------------------------
 
 Für eine spätere Version des neuen UVP-Editors ist eine PDF Generierung für Vorhaben vorgesehen.
 Wann diese Funktionalität bereitgestellt wird, steht derzeit noch nicht fest.

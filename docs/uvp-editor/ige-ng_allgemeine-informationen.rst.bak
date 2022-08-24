@@ -272,7 +272,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
-Option: "Veröffentlichen planen"
+Option: "Veröffentlichung planen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
@@ -296,7 +296,7 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol range/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
+Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
 

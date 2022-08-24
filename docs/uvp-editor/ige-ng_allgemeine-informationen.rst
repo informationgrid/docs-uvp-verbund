@@ -296,7 +296,7 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol range/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
+Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
 
 .. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
 
@@ -373,7 +373,7 @@ Abb.: Vorhaben - Metadaten
 Session abgelaufen
 ------------------
 
-Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. optional kann der "Session-refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Session-refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
    :width: 300

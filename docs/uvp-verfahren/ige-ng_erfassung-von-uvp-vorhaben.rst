@@ -82,7 +82,7 @@ Abb.: Feld Adresse: Angabe einer Organisation
 **Adressen suchen**
 
 In der Suche kann entweder nach der Organisation, den Nachnamen oder den Vornamen oder einer Kombination aus den Feldern gesucht werden.
-Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBRERNEHMEN" in die Kontaktdaten des Vorhabens übernommen.
+Die gefundenen Adressen werden in einer Trefferliste angezeigt. Durch ein einfaches Klicken auf eine Adresse, wird diese markiert und durch ein anschließendes Klicken auf "ÜBERNEHMEN" in die Kontaktdaten des Vorhabens übernommen.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_felder_vorhaben-adresse_suche.png
    :width: 400
@@ -280,7 +280,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 **Hochladen und automatisches Entpacken von ZIP Archiven**
 
-Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Schalter „ZIP-Archive nach dem Übernehmen entpacken“ angeklickt nach rechts geschoben werden.
+Es besteht die Möglichkeit, gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Schalter „ZIP-Archive nach dem Übernehmen entpacken“ angeklickt nach rechts geschoben werden.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
    :width: 400
