@@ -6,7 +6,7 @@ Zugang zum UVP-Editor
 
 Sie erreichen die Anmeldeseite von UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
-links: Anmeldung für den neuen UVP-Editor (IGE-NG), rechts: Anmeldung für alten UVP-Editor (IGE)
+Linke Seite: Anmeldung für den neuen UVP-Editor (IGE-NG), rechte Seite: Anmeldung für alten UVP-Editor (IGE)
 Bundesländer, die in den neuen UVP-Editor/Katalog migriert wurden, können nach der Migration den alten Editor nicht mehr aufrufen.
 
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
