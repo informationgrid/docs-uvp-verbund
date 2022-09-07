@@ -214,7 +214,7 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 *Beispiel: von: 26.09.2022 bis: 24.10.2022*
 
-Hinweis: Der Auslegungszeitraum beginnt in dem Fall am 26.09.2022, 0:00 Uhr und geht bis 24.10.2022, 24:00 Uhr.
+**Hinweis:** *Der Auslegungszeitraum beginnt in dem Fall am 26.09.2022, 0:00 Uhr und geht bis 24.10.2022, 24:00 Uhr.*
 
 **Erst mit Beginn des Auslegungszeitraums veröffentlichen**
 

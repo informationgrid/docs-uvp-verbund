@@ -212,7 +212,9 @@ Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 **Wichtig:** 
 *Genau in diesen Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.*
 
-*Beispiel: von: TT.MM.JJJJ bis: TT.MM.JJJJ*
+*Beispiel: von: 26.09.2022 bis: 24.10.2022*
+
+Hinweis: Der Auslegungszeitraum beginnt in dem Fall am 26.09.2022, 0:00 Uhr und geht bis 24.10.2022, 24:00 Uhr.
 
 **Erst mit Beginn des Auslegungszeitraums veröffentlichen**
 
