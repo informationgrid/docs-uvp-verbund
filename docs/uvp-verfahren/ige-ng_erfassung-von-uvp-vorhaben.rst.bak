@@ -280,7 +280,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 
 **Hochladen und automatisches Entpacken von ZIP Archiven**
 
-Es besteht die Möglichkeit gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Schalter „ZIP-Archive nach dem Übernehmen entpacken“ angeklickt nach rechts geschoben werden.
+Es besteht die Möglichkeit, gepackte Dateien in das UVP-Portal zuladen. Dazu muss der Schalter „ZIP-Archive nach dem Übernehmen entpacken“ angeklickt nach rechts geschoben werden.
 
 .. image:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
    :width: 400
