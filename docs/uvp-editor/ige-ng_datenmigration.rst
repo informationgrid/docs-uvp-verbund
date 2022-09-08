@@ -1,3 +1,8 @@
+
+    .. role:: green
+
+    This text is :red:`colored red` and so is :red:`this`
+
 Datenmigration in den IGE-NG
 ============================
 
@@ -27,9 +32,9 @@ Stand 10.08.2022
 * 31.08.22 - Rheinland-Pfalz
 * 22.08.22 - Saarland
 * 01.08.22 - Sachsen
-* 18.07.22 - Sachsen-Anhalt
+:green: `* 18.07.22 - Sachsen-Anhalt`
 * 05.09.22 - Schleswig-Holstein
-* 08.08.22 - Thüringen
+:green: `* 08.08.22 - Thüringen`
 
 
 
