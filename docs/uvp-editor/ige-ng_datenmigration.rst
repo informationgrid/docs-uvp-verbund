@@ -15,12 +15,14 @@ Zeitplan Datenmigration im UVP Live-System
 
 Stand 08.09.2022
 
-* xx.xx.xx - Bayern
+
 * xx.xx.xx - Hessen
 * xx.xx.xx - Niedersachsen
-* xx.xx.xx - Nordrhein-Westfalen
+
+* 24.10.22 - Nordrhein-Westfalen
 
 * 06.09.22 - Baden-Württemberg
+* 05.09.22 - Bayern
 * 05.09.22 - Schleswig-Holstein
 * 31.08.22 - Rheinland-Pfalz
 * 29.08.22 - Brandenburg
