@@ -2,24 +2,25 @@ InGridEditor-NG - Versionen
 ===========================
 
 Version der Bedienungsanleitung
- - InGrid-Version: 1.0.4
- - letzte Änderung: 24.08.2022
+ - InGrid-Version: 1.0.9
+ - letzte Änderung: 08.09.2022
  - Status: in Bearbeitung
 
 
 Installierte InGrid-Version auf UVP-Verbund.de
- - Update wurde installiert am: 02.08.2022, 21:48
+ - Update wurde installiert am: 04.09.2022, 17:43
 
 
 InGrid-Version von Entwicklern bereitgestellt
- - InGrid-Version: 1.0.4
+ - InGrid-Version: 1.0.9
  - Release:
- - Update auf UVP-Verbund.de am: 02.08.2022, 21:48 
+ - Update auf UVP-Verbund.de am: 04.09.2022, 17:43  
  
  
 
 **InGrid-Versionen und Änderungen**
 
+ - 1.0.9, 04.09.2022, 17:43 
  - 1.0.5, 12.08.2022, 10:50 
  - 1.0.4-1.0.4, 02.08.2022, 21:48
  - 0.0.0-3951, 12.07.2022, 16:53 
