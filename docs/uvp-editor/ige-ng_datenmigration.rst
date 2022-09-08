@@ -1,7 +1,6 @@
 
-    .. role:: green
+.. role:: green
 
-    This text is :red:`colored red` and so is :red:`this`
 
 Datenmigration in den IGE-NG
 ============================
