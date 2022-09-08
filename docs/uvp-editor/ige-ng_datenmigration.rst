@@ -13,25 +13,25 @@ Während der Migration ist der Zugang zum Editor für den festgelegten Katalog f
 Zeitplan Datenmigration im UVP Live-System
 ------------------------------------------
 
-Stand 10.08.2022
+Stand 08.09.2022
 
-* 06.09.22 - Baden-Württemberg
 * xx.xx.xx - Bayern
-* 08.08.22 - Berlin
-* 29.08.22 - Brandenburg
-* 01.08.22 - Bremen
-* 23.08.22 - Hamburg
 * xx.xx.xx - Hessen
-* 16.08.22 - Mecklenburg-Vorpommern
 * xx.xx.xx - Niedersachsen
 * xx.xx.xx - Nordrhein-Westfalen
+
+* 06.09.22 - Baden-Württemberg
+* 05.09.22 - Schleswig-Holstein
 * 31.08.22 - Rheinland-Pfalz
+* 29.08.22 - Brandenburg
+* 23.08.22 - Hamburg
 * 22.08.22 - Saarland
+* 16.08.22 - Mecklenburg-Vorpommern
+* 08.08.22 - Berlin
+* 08.08.22 - Thüringen
+* 01.08.22 - Bremen
 * 01.08.22 - Sachsen
 * 18.07.22 - Sachsen-Anhalt
-* 05.09.22 - Schleswig-Holstein
-* 08.08.22 - Thüringen
-
 
 
 

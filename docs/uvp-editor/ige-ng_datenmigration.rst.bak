@@ -1,7 +1,4 @@
 
-.. role:: green
-
-
 Datenmigration in den IGE-NG
 ============================
 
@@ -31,9 +28,9 @@ Stand 10.08.2022
 * 31.08.22 - Rheinland-Pfalz
 * 22.08.22 - Saarland
 * 01.08.22 - Sachsen
-:green: `* 18.07.22 - Sachsen-Anhalt`
+* 18.07.22 - Sachsen-Anhalt
 * 05.09.22 - Schleswig-Holstein
-:green: `* 08.08.22 - Thüringen`
+* 08.08.22 - Thüringen
 
 
 
