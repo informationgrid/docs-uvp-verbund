@@ -161,6 +161,8 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 Abb.:  Feldtyp - Textfeld
 
+In Textfeldern dürfen die folgenden Tags verwendet werden:
+<b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
 
 **Datumsangaben**
 
