@@ -64,7 +64,8 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 3
-   :caption: Historie - Software-Versionen   
+   :caption: Historie - Software-Versionen
+   
    software/ingrid_historie.rst
 
 
