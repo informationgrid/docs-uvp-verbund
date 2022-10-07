@@ -3,7 +3,7 @@ InGridEditor-NG - Versionen
 
 Version der Bedienungsanleitung
  - InGrid-Version: 1.0.9
- - letzte Änderung: 08.09.2022
+ - letzte Änderung: 07.10.2022
  - Status: in Bearbeitung
 
 
