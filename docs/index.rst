@@ -63,10 +63,9 @@ Version der Bedienungsanleitung
    katalogverwaltung/ige-ng_katalogverwaltung.rst
    
 .. toctree::
-   :maxdepth: 2
-   :caption: Software-Versionen - History
-   
-   software/ige-ng_versionen.rst
+   :maxdepth: 3
+   :caption: Historie - Software-Versionen   
+   software/ingrid_historie.rst
 
 
 

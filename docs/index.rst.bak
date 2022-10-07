@@ -64,9 +64,9 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 2
-   :caption: Software-Versionen - History
+   :caption: Software-Versionen - Historie
    
-   administration/ige-ng_versionen.rst
+   software/ige-ng_versionen.rst
 
 
 
