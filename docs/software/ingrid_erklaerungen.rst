@@ -13,4 +13,4 @@ Erklärungen
 
  1. Ziffer: Softwaregeneration
  2. Ziffer: neue Features/Funktionen
- 3. Ziffer: Fehlerbereinigung
+ 3. Ziffer: Fehlerbereinigungen
