@@ -60,13 +60,8 @@ Version der Bedienungsanleitung
    :caption: Administration
    
    benutzerverwaltung/ige-ng_benutzerverwaltung.rst
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Administration
-   
    katalogverwaltung/ige-ng_katalogverwaltung.rst
-
+   
 .. toctree::
    :maxdepth: 2
    :caption: Software-Versionen - History
