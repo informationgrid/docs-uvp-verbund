@@ -2,6 +2,10 @@
 Benutzerverwaltung
 ==================
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Administration
+
    ige-ng_rollen.rst
    ige-ng_gruppen-und-rechte.rst
    ige-ng_benutzer-anlegen.rst

@@ -4,7 +4,7 @@ Benutzerverwaltung
 
 .. toctree::
    :maxdepth: 1
-   :caption: Administration
+   :caption: Benutzerverwaltung
 
    ige-ng_rollen.rst
    ige-ng_gruppen-und-rechte.rst
