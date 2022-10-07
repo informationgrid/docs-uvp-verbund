@@ -1,4 +1,4 @@
-InGridEditor-NG - Versionen
+UVP Editor - Versionen
 ===========================
 
 *Version der Bedienungsanleitung*
