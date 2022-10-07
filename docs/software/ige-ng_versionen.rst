@@ -10,8 +10,8 @@ UVP Editor - Versionen
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
 
- - Update wurde installiert am: 1.0.12, 05.10.2022, 17:19
-
+ - UVP-Editor Update wurde installiert am: 1.0.12, 05.10.2022, 17:19
+ - UVP-Portal Update wurde installiert am:
 
 **InGrid-Versionen von Entwicklern bereitgestellt**
 
