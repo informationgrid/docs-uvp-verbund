@@ -12,6 +12,7 @@ InGridEditor-NG - Versionen
 
 
 *InGrid-Versionen von Entwicklern bereitgestellt*
+
  - UVP-Editor-NG-Version: 1.0.12
  - Update auf UVP-Verbund.de am: 05.10.2022, 17:19 
  
