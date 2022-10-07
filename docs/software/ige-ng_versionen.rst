@@ -5,8 +5,8 @@ UVP Editor - Versionen
  - InGrid-Version: 1.0.9
  - letzte Änderung: 07.10.2022
  - Status: in Bearbeitung
-
-
+ 
+ 
 **Installierte InGrid-Version auf UVP-Verbund.de**
  - Update wurde installiert am: 1.0.12, 05.10.2022, 17:19 
 

@@ -1,5 +1,5 @@
 UVP Editor - Versionen
-===========================
+======================
 
 **Version der Bedienungsanleitung**
  - InGrid-Version: 1.0.9
