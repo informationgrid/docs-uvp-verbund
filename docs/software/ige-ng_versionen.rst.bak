@@ -50,5 +50,5 @@ UVP Editor - Versionen
 
 **Versionen und Änderungen UVP-Portal**
 
-- 5.14, 12.10.2022, 16:00
+ - 5.14, 12.10.2022, 16:00
 
