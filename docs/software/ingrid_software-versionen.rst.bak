@@ -17,7 +17,7 @@ Software-Versionen
 **Von den Entwicklern bereitgestellte Software-Versionen UVP-Editor**
 
  - UVP-Editor-NG-Version: 1.1.1
- - Installation auf UVP-Verbund.de am: 10.10.2022, 16:00 - 19:00
+ - Installation auf UVP-Verbund.de am: 12.10.2022, 16:00 - 19:00
  
  
 **Von den Entwicklern bereitgestellte Software-Versionen UVP-Portal**
