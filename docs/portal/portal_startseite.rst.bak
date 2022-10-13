@@ -50,15 +50,15 @@ Abb.: Portal - Startseite - Überblick
 Kategorien, Verfahrenstypen, Bundesländer
 -----------------------------------------
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_Kategorien.png
+.. image:: ../img-ige-ng/portal/portal_auswahl_kategorien.png
 
 Abb.: Portal - Startseite - Auswahl - Kategorien
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_Verfahrenstypen.png
+.. image:: ../img-ige-ng/portal/portal_auswahl_verfahrenstypen.png
 
 Abb.: Portal - Startseite - Auswahl - Verfahrenstypen
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_Bundesländer.png
+.. image:: ../img-ige-ng/portal/portal_auswahl_bundeslaender.png
 
 Abb.: Portal - Startseite - Auswahl - Bundesländer
 
