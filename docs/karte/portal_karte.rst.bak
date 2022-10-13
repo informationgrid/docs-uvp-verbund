@@ -9,7 +9,7 @@ Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahls
 
 .. image:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
 
-Abb: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
+Abb: Legende: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
 
 
 Zulassungsverfahren
