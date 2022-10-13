@@ -23,7 +23,7 @@ Abb.: Karte - Layer Zulassungsverfahren
 Negative Vorprüfungen
 ---------------------
 
-Ob ein Bundesland negative Vorprüfungen in der Kartenansicht anzeigt oder nicht, obliegt dem jeweiligen Bundesland. Wenn negative Vorprüfungen dargestellt werden sollen, muss der Katalogadministrator die entsprechende Einstellung in der Katalogverwaltung vornehmen. Wurde die Einstellung vorgenommen, müssen die Autoren den Titel, die Beschreibung, den Raumbezug, das Datum der Entscheidung und das Dokument mit dem Ergebnis der UVP-Vorprüfung erfassen. (Querverweis: `Negative Vorprüfungen erfassen https://uvp-verbund-bedienungsanleitung.readthedocs.io/de/igeng/uvp-verfahren/ige-ng_erfassung-von-negativen-vorpruefungen.html)
+Ob ein Bundesland negative Vorprüfungen in der Kartenansicht anzeigt oder nicht, obliegt dem jeweiligen Bundesland. Wenn negative Vorprüfungen dargestellt werden sollen, muss der Katalogadministrator die entsprechende Einstellung in der Katalogverwaltung vornehmen. Wurde die Einstellung vorgenommen, müssen die Autoren den Titel, die Beschreibung, den Raumbezug, das Datum der Entscheidung und das Dokument mit dem Ergebnis der UVP-Vorprüfung erfassen. (Querverweis: `Negative Vorprüfungen erfassen <https://uvp-verbund-bedienungsanleitung.readthedocs.io/de/igeng/uvp-verfahren/ige-ng_erfassung-von-negativen-vorpruefungen.html>`_)
 
 .. image:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
 
