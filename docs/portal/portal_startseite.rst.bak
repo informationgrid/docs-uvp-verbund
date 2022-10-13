@@ -31,7 +31,7 @@ Menü
 
 .. image:: ../img-ige-ng/portal/portal_menue.png
 
-Abb.: Portal - Startseite - Menü
+Abb.: Portal - Startseite - Menüpunkt Behörden
 
 
 .. image:: ../img-ige-ng/portal/portal_behoerden.png
