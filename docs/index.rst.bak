@@ -43,10 +43,11 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 2
-   :caption: UVP Portal
+   :caption: Funktionalitäten UVP Portal
    
+   portal/portal_startseite.rst
    karte/portal_karte.rst
-   karte/bauleitplanung_upload.rst
+
    
 .. toctree::
    :maxdepth: 1

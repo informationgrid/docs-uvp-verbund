@@ -43,7 +43,7 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 2
-   :caption: Funktionalitäten UVP Portal
+   :caption: Funktionen UVP Portal
    
    portal/portal_startseite.rst
    karte/portal_karte.rst
