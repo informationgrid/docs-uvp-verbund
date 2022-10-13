@@ -25,7 +25,7 @@ Abb.: Portal - Startseite - Karte
 Ankündigungen
 -------------
 
-Auf der Startseite des UVP-Portals haben die Entwickler die Möglichkeit Meldungen anzuzeigen, z.B. dass in Kürze ein neues Update eingespielt wird und dass es zu Unterbrechungen der Erreichbarkeit kommen kann.
+Auf der Startseite des UVP-Portals haben die Entwickler die Möglichkeit rot umrandete Meldungen anzuzeigen, z.B. dass in Kürze ein neues Update eingespielt wird und dass es zu Unterbrechungen der Erreichbarkeit kommen kann.
 
 .. image:: ../img-ige-ng/portal/portal_ankuendigungen.png
 

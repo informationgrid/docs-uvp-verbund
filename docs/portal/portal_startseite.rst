@@ -35,7 +35,7 @@ Abb.: Portal - Startseite - Ankündigungen
 Menüpunkt Behörden
 ------------------
 
-Über den Menüpunkt *Behörden* kann die Liste der Behörden aufgerufen werden, die Vorhaben in das Portal einstellen können.
+Über den Menüpunkt *Behörden* kann die Liste der Verfahrensführenden Behörden aufgerufen werden.
 
 .. image:: ../img-ige-ng/portal/portal_menue.png
 
