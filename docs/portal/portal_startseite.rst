@@ -34,6 +34,11 @@ Menü
 Abb.: Portal - Startseite - Menü
 
 
+.. image:: ../img-ige-ng/portal/portal_behoerden.png
+
+Abb.: Portal - Startseite - Verfahrensführende Behörden
+
+
 Vorhaben im Überblick
 ---------------------
 

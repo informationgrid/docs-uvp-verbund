@@ -4,7 +4,8 @@ Startseite
 Suche
 -----
 
-.. image:: ../img-ige-ng/portal/portal_suche.png
+.. image:: ../img-ige-ng/portal/portal_suche_1.png
+.. image:: ../img-ige-ng/portal/portal_suche_2.png
 
 Abb.: Portal - Startseite - Suche
 
@@ -12,7 +13,7 @@ Abb.: Portal - Startseite - Suche
 Karte
 -----
 
-.. image:: ../img-ige-ng/portal/portal_karte.png
+.. image:: ../img-ige-ng/portal/portal_suche_1.png
 
 Abb.: Portal - Startseite - Karte
 
@@ -44,9 +45,17 @@ Abb.: Portal - Startseite - Überblick
 Kategorien, Verfahrenstypen, Bundesländer
 -----------------------------------------
 
-.. image:: ../img-ige-ng/portal/portal_auswahl.png
+.. image:: ../img-ige-ng/portal/portal_auswahl_Kategorien.png
 
-Abb.: Portal - Startseite - Auswahl
+Abb.: Portal - Startseite - Auswahl - Kategorien
+
+.. image:: ../img-ige-ng/portal/portal_auswahl_Verfahrenstypen.png
+
+Abb.: Portal - Startseite - Auswahl - Verfahrenstypen
+
+.. image:: ../img-ige-ng/portal/portal_auswahl_Bundesländer.png
+
+Abb.: Portal - Startseite - Auswahl - Bundesländer
 
 
 Informationen
