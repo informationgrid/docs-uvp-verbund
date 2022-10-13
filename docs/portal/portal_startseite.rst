@@ -4,6 +4,8 @@ Startseite
 Suche
 -----
 
+Mit *SUCHE* kann die Suchergebnisliste mit der Facettierung (Einschränkungen) des UVP-Portals aufgerufen werden. Dafür muss kein Suchbegriff in die Suchzeile eingegeben werden.
+
 .. image:: ../img-ige-ng/portal/portal_suche_1.png
 .. image:: ../img-ige-ng/portal/portal_suche_2.png
 
