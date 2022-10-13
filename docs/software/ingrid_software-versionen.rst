@@ -3,7 +3,8 @@ Software-Versionen
 
 **Version der Bedienungsanleitung**
 
- - InGrid-Version: 1.0.9
+ - Editor-Version: 1.0.9
+ - Portal-Version:
  - letzte Änderung: 13.10.2022
  - Status: in Bearbeitung
 
