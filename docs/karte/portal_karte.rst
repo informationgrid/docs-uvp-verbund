@@ -2,7 +2,7 @@ UVP Portal - Karte
 ==================
 
 
-Auswahlschalter "Nur aktuelle: ein/aus"
+Schalter "Nur aktuelle: ein/aus"
 ---------------------------------------
 
 Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahlschalter "Nur aktuelle: ein/aus" eingeführt. Dieser Schalter bietet die Möglichkeit, nur Vorhaben des zurückliegenden letzten Jahres anzuzeigen.

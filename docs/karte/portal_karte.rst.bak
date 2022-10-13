@@ -2,10 +2,10 @@ UVP Portal - Karte
 ==================
 
 
-Legende VERFAHRENSTYPEN: Auswahlschalter "Nur aktuelle: ein/aus"
+Auswahlschalter "Nur aktuelle: ein/aus"
 ---------------------------------------
 
-Auf Grund der Vielzahl der erfassten Vorhaben, wurde der Auswahlschalter "Nur aktuelle: ein/aus" eingeführt. Dieser Schalter bietet die Möglichkeit, nur Vorhaben des zurückliegenden letzten Jahres anzuzeigen.
+Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahlschalter "Nur aktuelle: ein/aus" eingeführt. Dieser Schalter bietet die Möglichkeit, nur Vorhaben des zurückliegenden letzten Jahres anzuzeigen.
 
 .. image:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
 
