@@ -26,8 +26,8 @@ Ankündigungen
 Abb.: Portal - Startseite - Ankündigungen
 
 
-Menü
-----
+Menü / Behörden
+---------------
 
 .. image:: ../img-ige-ng/portal/portal_menue.png
 
