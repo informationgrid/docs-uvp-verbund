@@ -2,7 +2,7 @@
 Verwaltung
 ==========
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_menue.png
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_menue.png
    :width: 400
 
 Abb.: Menü für die Verwaltung
