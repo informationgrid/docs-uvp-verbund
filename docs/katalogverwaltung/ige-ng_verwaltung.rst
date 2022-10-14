@@ -54,6 +54,9 @@ Benachrichtigungen
 
 Der IGE-NG bietet die Möglichkeit die Nutzer im Editor über Ereignisse zu informieren (z.B. neue Felder, neue Features oder Softwareupdates).
 
+Die Entwickler und der Superadministrator haben die Möglichkeit katalogübergreifende Meldungen zu erstellen, diese werden dann in allen Katalogen auf der Übersichtsseite des UVP Editors angezeigt.
+Katalogadministratoren können nur Meldungen für den Katalog erstellen, für den sie die Berechtigungen haben.
+
 .. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen.png
 
 Abb.: Benachrichtigungen + HINZUFÜGEN

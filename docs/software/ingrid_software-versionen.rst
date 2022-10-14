@@ -3,10 +3,10 @@ Software-Versionen
 
 **Version der Bedienungsanleitung**
 
- - Editor-Version: 1.0.9
+ - Editor-Version: 1.1.1
  - Portal-Version:
- - letzte Änderung: 13.10.2022
- - Status: in Bearbeitung
+ - letzte Änderung: 14.10.2022
+ - Status: abgeschlossen
 
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
