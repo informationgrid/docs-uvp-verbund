@@ -52,7 +52,7 @@ Abb.: Benachrichtigungen + HINZUFÜGEN
 Abb.: Fenster Benachrichtigung hinzufügen
 
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen.png
+.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_benachrichtigungen-hinzufuegen_kalender.png
    :width: 500
 
 Abb.: Fenster Benachrichtigung hinzufügen mit Kalenderfunktion
