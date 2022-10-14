@@ -13,7 +13,7 @@ Während der Migration ist der Zugang zum Editor für den festgelegten Katalog f
 Zeitplan Datenmigration im UVP Live-System
 ------------------------------------------
 
-Stand 08.09.2022
+Stand: 14.10.2022
 
 offen
 
