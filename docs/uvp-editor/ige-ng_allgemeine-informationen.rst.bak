@@ -373,10 +373,10 @@ Abb.: Vorhaben - Metadaten anzeigen
 Abb.: Vorhaben - Metadaten
 
 
-Session abgelaufen
-------------------
+Besuchszeit abgelaufen (Timeout)
+-------------------------------
 
-Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Session-refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
    :width: 300
@@ -386,7 +386,7 @@ Abb.: Countdown für den Logout und "Session-refresh-Button"
 .. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
    :width: 400
 
-Abb.: Meldung - Session abgelaufen
+Abb.: Meldung - Besuchszeit abgelaufen
 
 Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern. (Ein automatisches Zwischenspeichern ist zukünftig vorgesehen.)
 

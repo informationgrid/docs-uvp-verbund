@@ -373,8 +373,8 @@ Abb.: Vorhaben - Metadaten anzeigen
 Abb.: Vorhaben - Metadaten
 
 
-Besuchszeit abgelaufen (Timeout)
--------------------------------
+Besuchszeit ist abgelaufen (Timeout/Logout)
+-------------------------------------------
 
 Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
