@@ -161,6 +161,8 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 Abb.:  Feldtyp - Textfeld
 
+In Textfeldern dürfen die folgenden Tags verwendet werden:
+<b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
 
 **Datumsangaben**
 
@@ -373,7 +375,7 @@ Abb.: Vorhaben - Metadaten
 Session abgelaufen
 ------------------
 
-Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. optional kann der "Session-refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Session (Besuchszeit) ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Nutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Session-refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
 .. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
    :width: 300
