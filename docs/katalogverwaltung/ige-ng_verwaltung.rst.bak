@@ -2,7 +2,7 @@
 Verwaltung
 ==========
 
-.. image:: ../img-ige-ng/verwaltung/benachrichtigungen/ige-ng_verwaltung_menue.png
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_menue.png
    :width: 400
 
 Abb.: Menü für die Verwaltung
@@ -20,7 +20,14 @@ Abb.: Session Timeout in Minuten
 
 
 Codelist Repository
---------------------
+-------------------
+
+Die Codelisten werden von einem zentralen Repository (Depot) verwaltet und werden mit dem IGE NG synchronisiert. 
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_codelist-repository.png
+
+Abb.: Codelist Repository
+
 
 
 Katalog-Verwaltung
@@ -34,7 +41,13 @@ Abb.: Katalogverwaltung
 
 
 iBus-Verwaltung
------------------
+----------------
+
+Auf dieser Seite können verschiedene iBusse hinzugefügt werden, die in einem oder mehreren Katalogen verwendet werden können. 
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_ibus.png
+
+Abb.: iBus Verwaltung
 
 
 Benachrichtigungen

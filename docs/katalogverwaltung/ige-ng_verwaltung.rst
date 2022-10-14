@@ -13,14 +13,20 @@ Allgemein
 
 Die Dauer der Session - Timeout wird derzeit in Keycloak bestimmt und kann nur dort geändert werden.
 
-
 .. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_session-timeout.png
 
 Abb.: Session Timeout in Minuten
 
 
 Codelist Repository
---------------------
+-------------------
+
+Die Codelisten werden von einem zentralen Depot (Repository) verwaltet und werden mit dem IGE-NG synchronisiert. 
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_codelist-repository.png
+
+Abb.: Codelist Repository
+
 
 
 Katalog-Verwaltung
@@ -34,7 +40,13 @@ Abb.: Katalogverwaltung
 
 
 iBus-Verwaltung
------------------
+----------------
+
+Auf dieser Seite können verschiedene iBusse hinzugefügt werden, die in einem oder mehreren Katalogen verwendet werden können. 
+
+.. image:: ../img-ige-ng/verwaltung/ige-ng_verwaltung_ibus.png
+
+Abb.: iBus Verwaltung
 
 
 Benachrichtigungen
