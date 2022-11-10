@@ -15,14 +15,10 @@ Zeitplan Datenmigration im UVP Live-System
 
 Stand: 10.11.2022
 
-offen
+Die Migration der Kataloge ist abgeschlossen.
 
-* xx.xx.xx - Hessen
-* xx.xx.xx - Niedersachsen (eigenständiges Portal)
-
-
-abgeschlossen
-
+* 07.11.22 - Niedersachsen (eigenständiges Portal)
+* 31.10.22 - Hessen
 * 24.10.22 - Nordrhein-Westfalen
 * 06.09.22 - Baden-Württemberg
 * 05.09.22 - Bayern
