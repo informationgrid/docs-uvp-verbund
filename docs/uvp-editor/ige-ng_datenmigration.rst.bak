@@ -18,7 +18,7 @@ Stand: 14.10.2022
 offen
 
 * xx.xx.xx - Hessen
-* xx.xx.xx - Niedersachsen
+* xx.xx.xx - Niedersachsen (eigenständiges Portal)
 * 24.10.22 - Nordrhein-Westfalen
 
 abgeschlossen
