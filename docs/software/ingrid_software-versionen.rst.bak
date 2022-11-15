@@ -4,7 +4,7 @@ Software-Versionen
 **Version der Bedienungsanleitung**
 
  - letzte Änderung: 15.11.2022
- - Status: in Bearbeitung
+ - Status: abgeschlossen
 
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
