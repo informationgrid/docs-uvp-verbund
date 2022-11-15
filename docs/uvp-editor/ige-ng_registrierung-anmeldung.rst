@@ -1,8 +1,8 @@
 Registrierung und Anmeldung
 ============================
 
-Registrierung
--------------
+Registrierung für den UVP Editor
+--------------------------------
 
 Bevor Sie UVP-Verfahren erfassen und pflegen können, muss Ihnen Ihr Katalog-Administrator einen Zugang einrichten, mit dem Sie sich im UVP Editor anmelden können.
 Nutzen Sie dafür das Kontaktformular mit der Angabe Ihres Bundeslandes (https://uvp-verbund.de/kontakt). Teilen Sie ihm mit, dass Sie zum Erfassen von UVP-Verfahren einen Zugang zum UVP-Editor benötigen. Ihnen werden dann die Berechtigungen erteilt und Sie bekommen die Zugangsdaten zugesendet.
