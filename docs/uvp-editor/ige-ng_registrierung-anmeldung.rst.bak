@@ -15,8 +15,6 @@ Sie erreichen die Anmeldeseite von UVP-Verbund und damit den Einstieg zum UVP-Ed
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich direkt am UVP Editor anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "LOGIN" ab.
 
-**Hinweis:** Wenn der Katalog auf den neuen Editor umgestellt (migriert) wurde, dann kann der alte Editor nicht mehr aufgerufen werden.
-
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
 
 Abb.: UVP-Editor - Anmeldung
