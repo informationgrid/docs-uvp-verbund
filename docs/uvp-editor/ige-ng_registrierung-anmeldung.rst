@@ -87,7 +87,7 @@ Abb.: Aktion nicht mehr gültig
 Benutzername vergessen
 ----------------------
 
-Wenn Sie den Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular mit der Angabe Ihres Bundeslandes aus und versenden es (https://uvp-verbund.de/kontakt). Ihr Katalogadministrator wird sich dann mit ihnen in Verbindung setzten.
+Wenn Sie den Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular mit der Angabe Ihres Bundeslandes aus und versenden es (https://uvp-verbund.de/kontakt). Ihr Katalogadministrator wird sich dann mit Ihnen in Verbindung setzten.
 
 
 
