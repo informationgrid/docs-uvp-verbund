@@ -16,7 +16,7 @@ Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, 
 
 **Hinweis:** Wenn der Katalog auf den neuen Editor umgestellt (migriert) wurde, dann kann der alte Editor nicht mehr aufgerufen werden.
 
-.. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_02.png
+.. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
    :width: 500
 
 Abb.: UVP-Editor - Anmeldung
