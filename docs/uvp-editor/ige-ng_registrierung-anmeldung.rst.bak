@@ -11,7 +11,7 @@ Nutzen Sie dafür das Kontaktformular (mit Angabe des Bundeslandes) https://uvp-
 Anmeldung
 ---------
 
-Sie erreichen die Anmeldeseite von UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
+Sie erreichen die UVP-Verbund Anmeldeseite und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich direkt am UVP Editor anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "LOGIN" ab.
 
