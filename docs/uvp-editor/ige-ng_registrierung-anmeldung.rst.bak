@@ -11,7 +11,7 @@ Bundesländer, die in den neuen UVP-Editor/Katalog migriert wurden, können nach
 
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
 
-Abb.: UVP-Portal - Anmeldung
+Abb.: UVP-Portal - Anmeldung  (links Anmeldung für den neuen Editor, rechts Anmeldung für den alten Editor)
 
 Bevor Sie UVP-Verfahren erfassen und pflegen können, muss Ihnen Ihr Katalog-Administrator einen Zugang einrichten, mit dem Sie sich beim UVP Editor anmelden können. Schicken Sie Ihrem Katalogadministrator eine E-Mail oder rufen Sie ihn an. Teilen Sie ihm mit, dass Sie zum Erfassen von UVP-Verfahren einen Zugang zum UVP-Editor benötigen. Ihnen werden dann die Berechtigungen eingerichtet und Sie bekommen die Zugangsdaten zugeschickt.
 
@@ -26,7 +26,7 @@ Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, 
 .. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_02.png
    :width: 500
 
-Abb.: UVP-Editor - Anmeldung (links Anmeldung für den neuen Editor, rechts Anmeldung für den alten Editor)
+Abb.: UVP-Editor - Anmeldung
 
 **Hinweis:** In der neuen UVP Software wird nach der Anmeldung direkt der Editor mit der Übersichtsseite geöffnet, weitere Klicks entfallen.
 
