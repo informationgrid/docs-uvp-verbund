@@ -3,10 +3,8 @@ Software-Versionen
 
 **Version der Bedienungsanleitung**
 
- - Editor-Version: 1.1.1
- - Portal-Version:
- - letzte Änderung: 14.10.2022
- - Status: abgeschlossen
+ - letzte Änderung: 15.11.2022
+ - Status: in Bearbeitung
 
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
@@ -17,14 +15,14 @@ Software-Versionen
 
 **Von den Entwicklern bereitgestellte Software-Versionen UVP-Editor**
 
- - UVP-Editor-NG-Version: 1.1.1
- - Installation auf UVP-Verbund.de am: 11.10.2022, 13:26 
+ - UVP-Editor-NG-Version: 
+ - Installation auf UVP-Verbund.de am: 
  
  
 **Von den Entwicklern bereitgestellte Software-Versionen UVP-Portal**
  
- - UVP-Portal: 5.14.0
- - Installation auf UVP-Verbund.de am: 12.10.2022, 16:00 - 19:00
+ - UVP-Portal: 
+ - Installation auf UVP-Verbund.de am: 
 
 
 
