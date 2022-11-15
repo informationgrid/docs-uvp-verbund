@@ -80,7 +80,7 @@ Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf
 Abb.: Aktion nicht mehr gültig
 
 
-9. Führen Sie in dem Fall den *Passwort vergessen?* Vorgang erneut aus.
+9. Führen Sie in dem Fall den *"Passwort vergessen?"* Vorgang erneut aus.
 
 
 
