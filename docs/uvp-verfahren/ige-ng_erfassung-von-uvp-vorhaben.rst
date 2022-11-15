@@ -343,7 +343,7 @@ Abb.: Zeitraum der Erörterung
 
 Eintragung des Zeitraums der Erörterung.
 
-Wenn der Erörterungstermin an einem Tag stattfinden wird reicht es aus, das genaue Datum anzugeben. Wird der Erörterungstermin in mehrere Termine aufgeteilt, ist der Zeitraum vom ersten bis zum letzten Termin einzugeben. Eine Listung einzelner Termine ist nicht möglich. Diese Information wird sich aber aus dem Bekanntmachungstext bzw. den Informationen zum Erörterungstermin ergeben, auf die der Nutzer bzw. die Nutzerin des UVP-Portals durch einen Hinweis verwiesen wird.
+Wenn der Erörterungstermin an einem Tag stattfinden wird reicht es aus, das genaue Datum anzugeben. Wird der Erörterungstermin in mehrere Termine aufgeteilt, ist der Zeitraum vom ersten bis zum letzten Termin einzugeben. Eine Auflistung einzelner Termine ist nicht möglich. Diese Information wird sich aber aus dem Bekanntmachungstext bzw. den Informationen zum Erörterungstermin ergeben, auf die der Benutzer bzw. die Benutzerin des UVP-Portals durch einen Hinweis verwiesen wird.
 
 Beispiel: Am/vom: TT.MM.JJJJ bis: TT.MM.JJJJ
 
