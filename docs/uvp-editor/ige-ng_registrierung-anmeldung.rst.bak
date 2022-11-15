@@ -1,23 +1,16 @@
 Registrierung und Anmeldung
 ============================
 
-Zugang zum UVP-Editor
----------------------
-
-Sie erreichen die Anmeldeseite von UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
-
-Linke Seite: Anmeldung für den neuen UVP-Editor (IGE-NG), rechte Seite: Anmeldung für alten UVP-Editor (IGE)
-Bundesländer, die in den neuen UVP-Editor/Katalog migriert wurden, können nach der Migration den alten Editor nicht mehr aufrufen.
-
-.. image:: ../img-ige-ng/portal/uvp-igeng_anmeldung_01.png
-
-Abb.: UVP-Portal - Anmeldung  (links Anmeldung für den neuen Editor, rechts Anmeldung für den alten Editor)
+Registrierung
+-------------
 
 Bevor Sie UVP-Verfahren erfassen und pflegen können, muss Ihnen Ihr Katalog-Administrator einen Zugang einrichten, mit dem Sie sich beim UVP Editor anmelden können. Schicken Sie Ihrem Katalogadministrator eine E-Mail oder rufen Sie ihn an. Teilen Sie ihm mit, dass Sie zum Erfassen von UVP-Verfahren einen Zugang zum UVP-Editor benötigen. Ihnen werden dann die Berechtigungen eingerichtet und Sie bekommen die Zugangsdaten zugeschickt.
 
 
 Anmeldung
 ---------
+
+Sie erreichen die Anmeldeseite von UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
 
 Wenn Sie eine Benutzerkennung haben und als UVP-Editor-Nutzer eingetragen sind, können Sie sich direkt am UVP Editor anmelden. Geben Sie bitte Ihren Benutzernamen sowie Ihr Passwort ein und schließen die Anmeldung mit dem Button "LOGIN" ab.
 
