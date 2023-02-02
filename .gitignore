@@ -1,1 +1,4 @@
 _build
+/.vscode
+Thumbs.db
+*.bak
