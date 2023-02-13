@@ -2,7 +2,7 @@
 UVP-Portal - Historie
 =====================
 
-Update auf Version 6.0.0, 10.02.2023, 16:00 - 19:00
+Update auf Version 6.0.0, 07.02.2023, 16:00 - 19:00
 
 **Neue Funktionen im Portal**
 
