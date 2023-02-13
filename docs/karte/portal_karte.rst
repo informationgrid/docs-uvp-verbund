@@ -1,6 +1,22 @@
 Karte
 =====
 
+Nominatim Suchdienst
+--------------------
+
+Seit der Portalversion 6.0.0 ist in der Portalkarte der Nominatim Suchdienst von OpenStreetMap eingebunden. Hier kann nach Orten oder Naturräumen gesucht werden.
+
+**Beispiele:** *Bremen oder Eulenberg*
+
+.. image:: ../img-ige-ng/karte/karte_nominatim_suche_1.png
+
+Abb: Nominatim (OSM) Suche in der Karte
+
+
+.. image:: ../img-ige-ng/karte/karte_nominatim_suche_2.png
+
+Abb.: Punkt in der Karte
+
 
 Schalter "Nur aktuelle: ein/aus"
 ---------------------------------------
