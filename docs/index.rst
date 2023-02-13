@@ -8,9 +8,9 @@ UVP Editor
 ==========
    
 Version der Bedienungsanleitung
- - IGE-NG-Version: 1.1.8
- - letzte Änderung: 15.11.2022
- - Status: abgeschlossen
+ - IGE-NG-Version: 1.2.2
+ - letzte Änderung: 13.02.2023
+ - Status: in Bearbeitung
  
 
 .. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
@@ -60,7 +60,7 @@ Version der Bedienungsanleitung
    :caption: Administration
    
    benutzerverwaltung/ige-ng_benutzerverwaltung.rst
-   katalogverwaltung/ige-ng_katalogverwaltung.rst
+   katalogverwaltung/ige-ng_katalogverwaltung
    
 .. toctree::
    :maxdepth: 3

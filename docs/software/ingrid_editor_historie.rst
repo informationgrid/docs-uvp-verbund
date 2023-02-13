@@ -2,6 +2,8 @@
 UVP Editor - Historie
 =====================
 
+ - 1.2.2, 10.02.2023, 15:33
+
  - 1.1.1, 11.10.2022, 13:26
  
  Neu: Symbolleiste: Vorschau- und Druckfunktion

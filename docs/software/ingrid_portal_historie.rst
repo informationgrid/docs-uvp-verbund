@@ -2,6 +2,12 @@
 UVP-Portal - Historie
 =====================
 
+Update auf Version 6.0.0, 10.02.2023, 16:00 - 19:00
+
+**Neue Funktionen im Portal**
+
+ - **Karte:** Nominatim (OSM) Suchdienst in der Karte
+
 Update auf Version 5.14, 12.10.2022, 16:00 - 19:00
 
 **Neue Funktionen im Portal**
