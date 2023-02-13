@@ -60,7 +60,7 @@ Version der Bedienungsanleitung
    :caption: Administration
    
    benutzerverwaltung/ige-ng_benutzerverwaltung.rst
-   katalogverwaltung/ige-ng_katalogverwaltung.rst
+   katalogverwaltung/ige-ng_katalogverwaltung
    
 .. toctree::
    :maxdepth: 3
