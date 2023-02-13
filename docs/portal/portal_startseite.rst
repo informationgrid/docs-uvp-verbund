@@ -92,7 +92,7 @@ Seit der Portalversion 6.0.0 werden die Wappen der Bundesländer in der Trefferl
 
 .. image:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
 
-Abb.: Trefferliste - Darstellung der Länderwappen.png
+Abb.: Trefferliste - Darstellung der Länderwappen
 
 
 .. image:: ../img-ige-ng/portal/portal_adressen_anzeige-bundesland.png

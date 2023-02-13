@@ -90,12 +90,12 @@ Suchergebnisse
 
 Seit der Portalversion 6.0.0 werden die Wappen der Bundesländer in der Trefferliste angezeigt und in der Detaildarstellung wird in der Adresse das Bundesland angegeben, sowie das Wappen des Bundeslandes dargestellt.
 
-.. image:: ../img-ige-ng/portal/portal_.png
+.. image:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
 
-Abb.: Trefferliste - Darstellung der Länderwappen
+Abb.: Trefferliste - Darstellung der Länderwappen.png
 
 
-.. image:: ../img-ige-ng/portal/portal_adresse-bundesland.png
+.. image:: ../img-ige-ng/portal/portal_adressen_anzeige-bundesland.png
 
 Abb.: Adresse - Angabe des Bundeslandes und Darstellung des Wappens
 
