@@ -35,7 +35,7 @@ Abb.: Portal - Startseite - Ankündigungen
 Menüpunkt Behörden
 ------------------
 
-Über den Menüpunkt *Behörden* kann die Liste der Behörden aufgerufen werden, die Vorhaben in das Portal einstellen können.
+Über den Menüpunkt *Behörden* kann die Liste der Verfahrensführenden Behörden aufgerufen werden.
 
 .. image:: ../img-ige-ng/portal/portal_menue.png
 
@@ -83,3 +83,19 @@ Im Abschnitt Informationen wird über den Zweck der Umweltverträglichkeitsprüf
 .. image:: ../img-ige-ng/portal/portal_informationen.png
 
 Abb.: Portal - Startseite - Informationen
+
+
+Suchergebnisse
+==============
+
+Seit der Portalversion 6.0.0 werden die Wappen der Bundesländer in der Trefferliste angezeigt und in der Detaildarstellung wird in der Adresse das Bundesland angegeben, sowie das Wappen des Bundeslandes dargestellt.
+
+.. image:: ../img-ige-ng/portal/portal_.png
+
+Abb.: In der Trefferliste wird das Wappen des Bundeslandes dargestellt.
+
+
+.. image:: ../img-ige-ng/portal/portal_adresse-bundesland.png
+
+Abb.: In der Adresse wird das Bundesland angegeben und das Wappen wird dargestellt
+

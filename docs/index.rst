@@ -10,7 +10,7 @@ UVP Editor
 Version der Bedienungsanleitung
  - IGE-NG-Version: 1.2.2
  - letzte Änderung: 13.02.2023
- - Status: in Bearbeitung
+ - Status: abgeschlossen
  
 
 .. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
