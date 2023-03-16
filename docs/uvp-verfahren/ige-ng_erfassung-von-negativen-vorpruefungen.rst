@@ -22,7 +22,7 @@ Abb.: Katalogeinstellungen für negative Vorprüfungen
 
 **Option negative Vorprüfungen veröffentlichen - nur mit Raumbezügen**
 
-Mit der Aktivierung der Veröffentlichung der negativen Vorprüfungen muss zwingend ein Raumbezug mit angegeben werden. Dieser kann genutzt werden, um die Unterscheidung zwischen zuvor erfassten Vorprüfungen und vollständig erfassten Vorprüfungen zu treffen.
+Mit der Aktivierung der Veröffentlichung der negativen Vorprüfungen muss zwingend ein Raumbezug mit angegeben werden. Dieser kann genutzt werden, um die Unterscheidung zwischen zuvor erfassten Vorprüfungen (ohne Raumbezüge) und vollständig erfassten Vorprüfungen zu treffen. Wenn die Option "Nur mit Raumbezügen" aktiviert wird, werden nur die neu-erstellten negativen Vorprüfungen, die Raumbezüge enthalten müssen, im Portal angezeigt. Ohne diese aktivierte Option würden auch die zuvor erfassten negativen Vorprüfungen ohne Raumbezüge im Portal angezeigt.
 
 **Erfassungsmasken für die Optionen nicht im Portal veröffentlichen und im Portal veröffentlichen**
 
