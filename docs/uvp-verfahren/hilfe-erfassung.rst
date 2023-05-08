@@ -1,2 +1,0 @@
-Hilfe für die Erfassung
-========================
