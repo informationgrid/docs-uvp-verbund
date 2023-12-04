@@ -5,11 +5,9 @@
    :figwidth: 80%
 
 
-Bedienungsanleitung UVP-Portal
+Bedienungsanleitung UVP-Editor
 ==============================
-UVP Editor
-==========
-   
+
 Version der Bedienungsanleitung
  - IGE-NG-Version: 1.7.2
  - letzte Änderung: 04.12.2023
