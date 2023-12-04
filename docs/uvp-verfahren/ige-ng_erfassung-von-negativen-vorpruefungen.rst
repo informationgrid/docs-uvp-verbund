@@ -16,8 +16,9 @@ Abb.: Katalogeinstellungen für negative Vorprüfungen
 **Optionen:**
 
 - negative Vorprüfungen nicht veröffentlichen
-- negative Vorprüfungen veröffentlichen - nur mit Raumbezügen
 - negative Vorprüfungen veröffentlichen
+- negative Vorprüfungen veröffentlichen - nur mit Raumbezügen
+- Veröffentlichung im Portal auf Datensatzebene steuern
 
 
 **Option negative Vorprüfungen veröffentlichen - nur mit Raumbezügen**
