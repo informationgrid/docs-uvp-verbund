@@ -1,14 +1,14 @@
 Negative Vorprüfungen erfassen
 ===============================
 
-In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht.
+In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht. Diese Entscheidung sollte in jedem Bundesland vorab getroffen werden, weil das Erfassungsformular sich je nach Einstellung anpasst.
 
-**Achtung!** *Diese Entscheidung sollte in jedem Bundesland vorab getroffen werden, weil das Erfassungsformular sich je nach Einstellung anpasst.*
+.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Erfassung einer negativen Vorprüfung benötigt werden. Die negativen Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Bitte nach Änderung der Option die Seite neu laden.
 
-**Katalogeinstellungen: Negative Vorprüfungen veröffentlichen**
-*Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Erfassung einer negativen Vorprüfung benötigt werden. Die negativen Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Bitte nach Änderung der Option die Seite neu laden.*
-
-.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
+.. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
 
 Abb.: Katalogeinstellungen für negative Vorprüfungen
 
@@ -27,16 +27,21 @@ Mit der Aktivierung der Veröffentlichung der negativen Vorprüfungen muss zwing
 **Erfassungsmasken für die Optionen nicht im Portal veröffentlichen und im Portal veröffentlichen**
 
 
-.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_ohne-veroeffentlichung.png
-
+.. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_ohne-veroeffentlichung.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+   
 Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Portal
 
 
-
-.. image:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_mit-veroeffentlichung.png
-
+.. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_mit-veroeffentlichung.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+   
 Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
 
 
-**Hinweis:** *Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden! Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz.*
+.. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden! Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz.
 

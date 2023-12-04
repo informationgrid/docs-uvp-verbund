@@ -1,6 +1,8 @@
 
-.. image:: img-ige-ng/portal/logo-mit-tag.svg
-   :width: 300
+.. figure:: img-ige-ng/portal/logo-mit-tag.svg
+   :align: left
+   :scale: 100
+   :figwidth: 100%
 
 Bedienungsanleitung UVP-Portal
 ==============================
@@ -8,9 +10,9 @@ UVP Editor
 ==========
    
 Version der Bedienungsanleitung
- - IGE-NG-Version: 1.2.2
- - letzte Änderung: 16.03.2023
- - Status: abgeschlossen
+ - IGE-NG-Version: 1.7.2, 16.11.2023, 21:26
+ - letzte Änderung: 04.12.2023
+ - Status: in Bearbeitung
  
 
 .. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
