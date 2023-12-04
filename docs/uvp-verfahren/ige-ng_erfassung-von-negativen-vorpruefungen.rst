@@ -7,7 +7,7 @@ In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Katalogeinstellungen für negative Vorprüfungen
