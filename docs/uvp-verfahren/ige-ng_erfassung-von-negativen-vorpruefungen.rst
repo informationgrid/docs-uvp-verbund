@@ -1,9 +1,9 @@
 Negative Vorprüfungen erfassen
 ===============================
 
-In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht. Diese Entscheidung sollte in jedem Bundesland vorab getroffen werden, weil das Erfassungsformular sich je nach Einstellung anpasst.
+In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht. Diese Entscheidung muss in jedem Bundesland vorab getroffen werden, da sich das Erfassungsformular je nach Einstellung anpasst.
 
-.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Erfassung einer negativen Vorprüfung benötigt werden. Die negativen Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Nach der Einstellungsänderung muss die Seite neu geladen werden.
+.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Eingabe einer negativen Vorprüfung erforderlich sind. Negative Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Nach Änderung der Einstellungen muss die Seite neu geladen werden.
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
    :align: left
@@ -22,7 +22,7 @@ Abb.: Katalogeinstellungen für negative Vorprüfungen
 
 **Option negative Vorprüfungen veröffentlichen - nur mit Raumbezügen**
 
-Mit der Aktivierung der Veröffentlichung der negativen Vorprüfungen muss zwingend ein Raumbezug mit angegeben werden. Dieser kann genutzt werden, um die Unterscheidung zwischen zuvor erfassten Vorprüfungen (ohne Raumbezüge) und vollständig erfassten Vorprüfungen zu treffen. Wenn die Option "Nur mit Raumbezügen" aktiviert wird, werden nur die neu-erstellten negativen Vorprüfungen, die Raumbezüge enthalten müssen, im Portal angezeigt. Ohne diese aktivierte Option würden auch die zuvor erfassten negativen Vorprüfungen ohne Raumbezüge im Portal angezeigt.
+Bei der Aktivierung der Veröffentlichung negativer Vorprüfungen muss zwingend ein Raumbezug angegeben werden. Dieser kann zur Unterscheidung zwischen bereits erfassten Vorprüfungen (ohne Raumbezug) und vollständig erfassten Vorprüfungen verwendet werden. Wird die Option "Nur mit Raumbezug" aktiviert, werden nur neu erstellte negative Vorprüfungen, die einen Raumbezug enthalten müssen, im Portal angezeigt. Ohne diese aktivierte Option werden auch bereits erfasste negative Vorprüfungen ohne Raumbezug im Portal angezeigt.
 
 **Erfassungsmasken für die Optionen nicht im Portal veröffentlichen und im Portal veröffentlichen**
 
@@ -43,5 +43,4 @@ Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Port
 Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
 
 
-.. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem ein „Veröffentlichen“ ausgeführt werden! Dabei wechselt die Symbolfarbe im Strukturbaum von orange nach schwarz.
-
+.. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem eine „Veröffentlichung“ durchgeführt werden! In diesem Fall wechselt die Symbolfarbe im Gliederungsbaum von orange nach schwarz.

@@ -2,7 +2,7 @@
 .. figure:: img-ige-ng/portal/logo-mit-tag.svg
    :align: left
    :scale: 60
-   :figwidth: 80%
+   :figwidth: 70%
 
 
 Bedienungsanleitung UVP-Editor
