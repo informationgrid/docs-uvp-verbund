@@ -15,7 +15,10 @@ Version der Bedienungsanleitung
  - Status: in Bearbeitung
  
 
-.. image:: img-ige-ng/allgemein/ige-ng_uebersicht.png
+ .. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
 
 
 .. toctree::
