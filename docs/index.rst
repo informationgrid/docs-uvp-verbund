@@ -4,6 +4,7 @@
    :scale: 100
    :figwidth: 50%
 
+
 Bedienungsanleitung UVP-Portal
 ==============================
 UVP Editor
@@ -18,7 +19,7 @@ Version der Bedienungsanleitung
  .. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
    :align: left
    :scale: 100
-   :figwidth: 100%
+   :figwidth: 50%
 
 
 .. toctree::
