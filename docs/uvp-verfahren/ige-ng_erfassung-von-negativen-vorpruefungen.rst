@@ -62,7 +62,7 @@ Abb.: Menü - Veröffdentlichung steuern
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz-popup.png
    :align: left
    :scale: 100
-   :figwidth: 100%
+   :figwidth: 90%
    
 Abb.: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
 
