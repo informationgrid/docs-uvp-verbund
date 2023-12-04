@@ -3,7 +3,7 @@ Negative Vorprüfungen erfassen
 
 In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht. Diese Entscheidung sollte in jedem Bundesland vorab getroffen werden, weil das Erfassungsformular sich je nach Einstellung anpasst.
 
-.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Erfassung einer negativen Vorprüfung benötigt werden. Die negativen Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Bitte nach Änderung der Option die Seite neu laden.
+.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Erfassung einer negativen Vorprüfung benötigt werden. Die negativen Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Nach der Einstellungsänderung muss die Seite neu geladen werden.
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
    :align: left
