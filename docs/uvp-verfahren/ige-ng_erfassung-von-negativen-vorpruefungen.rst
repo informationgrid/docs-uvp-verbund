@@ -45,3 +45,25 @@ Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
 
 
 .. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem eine „Veröffentlichung“ durchgeführt werden! In diesem Fall wechselt die Symbolfarbe im Gliederungsbaum von orange nach schwarz.
+
+
+**Steuerung der Veröffentlichung im Portal auf Datensatzebene**
+
+Die erfassende Behörde kann für jede negative Vorprüfung selbst angeben, ob eine negative Vorprüfung veröffentlicht werden soll oder nicht.
+
+.. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+   
+Abb.: Menü - Veröffdentlichung steuern
+
+
+.. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz-popup.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+   
+Abb.: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
+
+.. important:: Die Änderung des Merkmals wird erst nach der vollständigen Indexierung des Katalogs wirksam. Ein Setzen des Parameters beim Anlegen des Datensatzes wird jedoch berücksichtigt.
