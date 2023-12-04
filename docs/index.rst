@@ -1,8 +1,8 @@
 
 .. figure:: img-ige-ng/portal/logo-mit-tag.svg
    :align: left
-   :scale: 100
-   :figwidth: 50%
+   :scale: 70
+   :figwidth: 100%
 
 
 Bedienungsanleitung UVP-Portal
@@ -18,8 +18,8 @@ Version der Bedienungsanleitung
 
  .. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
    :align: left
-   :scale: 100
-   :figwidth: 50%
+   :scale: 70
+   :figwidth: 100%
 
 
 .. toctree::
