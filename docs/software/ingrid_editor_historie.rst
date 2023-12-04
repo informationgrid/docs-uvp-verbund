@@ -6,6 +6,8 @@ UVP Editor - Historie
 
  Neu: Individuelle Einstellung der Veröffentlichung von negativen Vorprüfungen
 
+ - 1.7.0, 23.11.2023 
+
  - 1.2.2, 10.02.2023, 15:33
 
  - 1.1.1, 11.10.2022, 13:26
