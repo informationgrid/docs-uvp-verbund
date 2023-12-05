@@ -128,8 +128,6 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
-      :alt: alternate text
-      :name: my picture
 	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
 
 
