@@ -423,6 +423,10 @@ Neben den Hochladen von einzelnen Dokumenten, besteht auch die Möglichkeit alle
 
 Wurden die Dateien schon einmal hochgeladen, zeigt der Editor verschiedene Optionen an, wie weiter verfahren werden kann.
 
+.. hint::
+
+    Es können Einzeldateien von bis zu 1.5 GB hochgeladen werden. Alle Dateien eines Verfahrens dürfen 6 GB nicht überschreiten.
+
 .. image:: ../img-ige-ng/meldungen/ige-ng_datei-vorhanden_optionen.png
    :width: 400
 
