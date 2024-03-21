@@ -4,7 +4,7 @@
   :keywords lang=de: Umweltverträglichkeitsprüfungen, UVP, Vorhaben, negative Vorprüfungen, Zulassungsverfahren, Raumordnungsverfahren, Ausländische Vorhaben, Bauleitplanung
 
 
-.. figure:: img-ige-ng/portal/logo-mit-tag.svg
+.. figure:: img-ige-ng/portal/logo-uvp.png
    :align: left
    :scale: 20
    :figwidth: 100%
