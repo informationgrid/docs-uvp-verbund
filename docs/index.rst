@@ -2,7 +2,7 @@
 .. figure:: img-ige-ng/portal/logo-mit-tag.svg
    :align: left
    :scale: 40
-   :figwidth: 70%
+   :figwidth: 100%
 
 ====================
 Bedienungsanleitung 
