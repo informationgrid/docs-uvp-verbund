@@ -20,7 +20,7 @@ Version der Bedienungsanleitung
  - Status: in Bearbeitung
  
 
- .. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
+.. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
    :align: left
    :scale: 70
    :figwidth: 100%
