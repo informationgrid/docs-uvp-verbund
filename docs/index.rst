@@ -6,7 +6,7 @@
 
 .. figure:: img-ige-ng/portal/logo-uvp.png
    :align: left
-   :scale: 20
+   :scale: 40
    :figwidth: 100%
 
 
