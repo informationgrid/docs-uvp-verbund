@@ -25,6 +25,8 @@ Version der Bedienungsanleitung
    :scale: 70
    :figwidth: 100%
 
+   Abb.: UVP Editor - Übersicht
+
 
 .. toctree::
    :maxdepth: 2
