@@ -4,9 +4,15 @@
    :scale: 60
    :figwidth: 70%
 
-
-Bedienungsanleitung UVP-Editor
-==============================
+====================
+Bedienungsanleitung 
+====================
+========================================
+InGrid Editor - Neue Generation (IGE-NG)
+========================================
+====================
+Profil: UVP-Verbund
+====================
 
 Version der Bedienungsanleitung
  - IGE-NG-Version: 7.0.1, 11.01.2024, 19:09
