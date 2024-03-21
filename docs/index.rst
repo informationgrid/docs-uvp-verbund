@@ -1,7 +1,7 @@
 
 .. figure:: img-ige-ng/portal/logo-mit-tag.svg
    :align: left
-   :scale: 60
+   :scale: 40
    :figwidth: 70%
 
 ====================
