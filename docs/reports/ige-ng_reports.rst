@@ -15,7 +15,7 @@ In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse e
    :scale: 50
    :figwidth: 100%
 
-   Abb.: UVP Statistik - Vorhaben
+Abb.: UVP Statistik - Vorhaben
 
 
 .. figure:: ../img-ige-ng/reports/statistik_adressen.png
@@ -24,7 +24,7 @@ In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse e
    :scale: 70
    :figwidth: 100%
 
-   Abb.: UVP Statistik - Adressen
+Abb.: UVP Statistik - Adressen
 
 
 
