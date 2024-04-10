@@ -12,7 +12,7 @@ In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse e
 
 .. figure:: ../img-ige-ng/reports/statistik_vorhaben.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: UVP Statistik - Vorhaben
