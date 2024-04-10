@@ -3,7 +3,7 @@
 Reports erstellen
 ==================
 
-..hint:: Um Reports zu erstellen, muss der Katalogadministrator die verschiedenen Optionen in den Katalogeinstellungen aktivieren. Nach der Aktivierung müss der Editor neu gestartet werden, damit die Optionen im Menü erscheinen.
+.. hint:: Um Reports zu erstellen, muss der Katalogadministrator die verschiedenen Optionen in den Katalogeinstellungen aktivieren. Nach der Aktivierung müss der Editor neu gestartet werden, damit die Optionen im Menü erscheinen.
 
 Statistik
 ----------
