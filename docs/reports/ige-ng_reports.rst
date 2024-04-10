@@ -8,7 +8,9 @@ Reports erstellen
 Statistik
 ----------
 
-In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse einzugrenzen. Der "Zeitbezug" bezieht sich auf das Änderungsdatum der Metadaten.
+In der Statistik können Sie unterschiedliche Filter einstellen, um die Ergebnisse einzugrenzen. 
+
+.. hint:: Der "Zeitbezug" bezieht sich auf das Änderungsdatum der Metadaten.
 
 .. figure:: ../img-ige-ng/reports/statistik_vorhaben.png
 
@@ -46,6 +48,9 @@ Abb.: URL Pflege
 Monitoring
 -----------
 
+Integration eines vereinfachten, katalogspezifischen Berichts zur Dokumentenverfügbarkeit.
+
+Die Erreichbarkeit von Dokumenten und Verfahren kann in Echtzeit abgefragt werden. Wenn das Monitoring-Tool Zabbix eingebunden ist, wird im UVP Editor unter dem Menüpunkt 'Reports' und dem Untermenü 'Monitoring' angezeigt, ob ein Dokument oder Vorhaben nicht erreichbar ist. Die Sichtbarkeit des Menüpunkts hängt von den Berechtigungen der Benutzer ab.
 
 .. figure:: ../img-ige-ng/reports/monitoring.png
    
@@ -55,13 +60,19 @@ Monitoring
 
 Abb.: UVP Monitoring
 
-Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern
-
-Die Erreichbarkeit von Dokumenten bzw. Verfahren kann in Echtzeit abgefragt werden. Ist eine Abfrage mittels dem Monitoring-Tool Zabbix eingebunden, wird mit Version 7.1.0 im InGrid Editor (IGE-NG) im Menü-Punkt Reports Untermenü Monitoring angezeigt falls ein Dokument bzw. ein Vorhaben nicht erreichbar ist. Der Menüpunkt ist sichtbar abhänging von den Berechtigungen des jeweiligen Nutzers/der jeweiligen Nutzerin.
-
 
 Aktivitätsbericht
 ------------------
+
+Erweiterung Report über die Funktionalität “Veröffentlichung zurückziehen”
+
+Im Menüpunkt 'Reports' und dem Untermenü 'Aktivitätsbericht' können gelöschte oder zurückgezogene Verfahren eingesehen werden. Es ist möglich, nach folgenden Kriterien zu filtern:
+
+ - Daum
+ - Erstellung
+ - Aktualisierung
+ - Veröffentlichung
+ - Löschung
 
 
 .. figure:: ../img-ige-ng/reports/aktivitaetsbericht.png
@@ -72,23 +83,11 @@ Aktivitätsbericht
 
 Abb.: UVP Aktivitätsbericht
 
-Erweiterung Report über “Veröffentlichung zurückziehen”
-
-Die Löschung von Verfahren sowie zurückgezogene Veröffentlichungen können nachvollzogen werden. Im Menüpunkt Reports Untermenü Aktivitätsbericht werden Verfahren angezeigt die gelöscht oder zurückgezogen wurden. Hierbei kann gefiltert werden nach:
-
- - Daum
- - Erstellung
- - Aktualisierung
- - Veröffentlichung
- - Löschung
-
-
 
 UVP-Bericht
 ------------
 
-Im Bereich "UVP-Bericht" können für verschiedene Zeiträume die Anzahl der abgeschlossenen Verfahren ermittelt werden. Die Angabe eines Zeitraums bezieht sich hier auf das "Datum der Entscheidung". Außerdem werden die in diesen Verfahren verwendeten UVP-Nummern zusammen mit der jeweiligen Anzahl an Verfahren angegeben. In der Tabelle werden Verfahren doppelt gezählt, wenn bei ihnen mehrere UVP-Nummern angegeben wurden.
-
+Im Bereich 'UVP-Bericht' können Sie die Anzahl der abgeschlossenen Verfahren für verschiedene Zeiträume ermitteln. Die Angabe eines Zeitraums bezieht sich hier auf das Datum der Entscheidung. Außerdem werden die in diesen Verfahren verwendeten UVP-Nummern zusammen mit der jeweiligen Anzahl an Verfahren angegeben. Bitte beachten Sie, dass Verfahren in der Tabelle doppelt gezählt werden, wenn bei ihnen mehrere UVP-Nummern angegeben wurden.
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht.png
    
@@ -99,8 +98,9 @@ Im Bereich "UVP-Bericht" können für verschiedene Zeiträume die Anzahl der abg
 Abb.: UVP Statistik
 
 
-Für die Berichtspflicht an die EU müssen abgeschlossene Verfahren und negative Vorprüfungen im Strukturbaum erhalten bleiben und dürfen nicht gelöscht werden.
-Soll ein Verfahren gelöscht werden, erscheint ein Löschhinweis. Es wird darauf verwiesen, dass gelöschte Verfahren in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt werden.
+Abgeschlossene Verfahren und negative Vorprüfungen im Strukturbaum müssen für die Berichtspflicht an die EU erhalten bleiben und dürfen nicht gelöscht werden. Wenn ein Verfahren gelöscht werden soll, erscheint ein Löschhinweis.
+
+.. important: Gelöschte Verfahren werden in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt.
 
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht-herunterladen.png
@@ -118,7 +118,7 @@ Abb.: UVP-Bericht als CSV-Datei herunterladen
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP-Bericht csv-Download
+Abb.: UVP-Bericht CSV-Download
 
 
 
