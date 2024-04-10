@@ -11,7 +11,7 @@ Bei der Statistik können verschiedene Filter zur Einschränkung der Ergebnisse 
 
 .. figure:: ../img-ige-ng/reports/ige-ng_reports_statistik_vorhaben.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
    Abb.: UVP Statistik - Vorhaben
