@@ -11,6 +11,7 @@ Statistik
 In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse einzugrenzen. Der "Zeitbezug" bezieht sich auf das Änderungsdatum der Metadaten.
 
 .. figure:: ../img-ige-ng/reports/statistik_vorhaben.png
+
    :align: left
    :scale: 70
    :figwidth: 100%
