@@ -26,6 +26,22 @@ Bei der Statistik können verschiedene Filter zur Einschränkung der Ergebnisse 
    Abb.: UVP Statistik - Adressen
 
 
+
+URL-Pflege
+-----------
+
+
+
+Monitoring
+-----------
+
+
+
+Aktivitätsbericht
+------------------
+
+
+
 UVP-Bericht
 ------------
 
