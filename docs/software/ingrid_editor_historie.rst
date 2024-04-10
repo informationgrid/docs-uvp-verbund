@@ -1,7 +1,7 @@
 
-=====================
+======================
 UVP Editor - Historie
-=====================
+======================
 
 **Installierte InGrid Editor-Versionen (IGE-NG) im Livesystem**
 

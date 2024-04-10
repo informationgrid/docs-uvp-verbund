@@ -1,5 +1,7 @@
-Software-Versionen
-==================
+
+===================
+UVP Editor Version
+===================
 
 **Version der Bedienungsanleitung**
 
