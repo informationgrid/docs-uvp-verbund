@@ -2,6 +2,12 @@
 UVP Editor - Historie
 =====================
 
+InGrid Editor-Version:
+
+ - 7.1.0-3-7.1.0.1, 04.04.2024, 15:14
+
+ - 7.0.1, 11.01.2024, 19:09
+ 
  - 1.7.2, 16.11.2023, 21:26 
 
  Neu: Individuelle Einstellung der Veröffentlichung von negativen Vorprüfungen
