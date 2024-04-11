@@ -8,7 +8,17 @@ Reports erstellen
 Statistik
 ----------
 
-In der Statistik können Sie unterschiedliche Filter einstellen, um die Ergebnisse einzugrenzen. 
+In der Statistik können Sie verschiedene Filter einstellen, um die Ergebnisse zu begrenzen.
+
+Die Statistik kann auf folgende Angaben eingegrenzt werden:
+
+ - Vorhaben / Adressen
+ - Raumbezug
+ - Zeitbezug
+ - Verfahrenstyp
+ - UVP Nummer
+ - Verfahrensschritt
+
 
 .. hint:: Der "Zeitbezug" bezieht sich auf das Änderungsdatum der Metadaten.
 
@@ -34,6 +44,11 @@ Abb.: UVP Statistik - Adressen
 URL-Pflege
 -----------
 
+Bitte überprüfen Sie alle URLs in den Datensätzen auf ihre Richtigkeit und Erreichbarkeit. Nicht erreichbare URLs werden in einer Tabelle mit der entsprechenden Fehlermeldung (Status) aufgeführt. Sie können direkt zu den betroffenen Datensätzen springen.
+
+Wenn Sie eine URL ersetzen möchten, markieren Sie die zu ersetzenden URLs in der Tabelle und geben Sie im Eingabefeld unter der Tabelle eine neue URL ein. Klicken Sie dann auf den Button 'Ersetzen', um die URL auszutauschen. 
+
+
 .. figure:: ../img-ige-ng/reports/url-pflege.png
    
    :align: left
@@ -48,9 +63,11 @@ Abb.: URL Pflege
 Monitoring
 -----------
 
-Integration eines vereinfachten, katalogspezifischen Berichts zur Dokumentenverfügbarkeit.
+Vereinfachter, katalogspezifischer Bericht zur Dokumentenverfügbarkeit
 
-Die Erreichbarkeit von Dokumenten und Verfahren kann in Echtzeit abgefragt werden. Wenn das Monitoring-Tool Zabbix eingebunden ist, wird im UVP Editor unter dem Menüpunkt 'Reports' und dem Untermenü 'Monitoring' angezeigt, ob ein Dokument oder Vorhaben nicht erreichbar ist. Die Sichtbarkeit des Menüpunkts hängt von den Berechtigungen der Benutzer ab.
+Die Erreichbarkeit von Dokumenten und Verfahren kann in Echtzeit überprüft werden. Wenn das Monitoring-Tool Zabbix integriert ist, wird im UVP Editor unter dem Menüpunkt "Reports" und dem Untermenü "Monitoring" angezeigt, ob ein Dokument oder Vorhaben nicht erreichbar ist. 
+
+.. hint:: Die Sichtbarkeit dieses Menüpunkts hängt von den Berechtigungen der Benutzer ab.
 
 .. figure:: ../img-ige-ng/reports/monitoring.png
    
@@ -64,15 +81,15 @@ Abb.: UVP Monitoring
 Aktivitätsbericht
 ------------------
 
-Erweiterung Report über die Funktionalität “Veröffentlichung zurückziehen”
+Report zu der Funktion “Veröffentlichung zurückziehen”
 
-Im Menüpunkt 'Reports' und dem Untermenü 'Aktivitätsbericht' können gelöschte oder zurückgezogene Verfahren eingesehen werden. Es ist möglich, nach folgenden Kriterien zu filtern:
+Im Menüpunkt "Reports" und dem Untermenü "Aktivitätsbericht" können gelöschte oder zurückgezogene Verfahren eingesehen werden. Es ist möglich, nach folgenden Kriterien zu filtern:
 
- - Daum
- - Erstellung
- - Aktualisierung
- - Veröffentlichung
- - Löschung
+ - Erstellt
+ - Aktualisiert
+ - Veröffentlicht
+ - Veröffentlichung zurückgezogen
+ - Gelöscht
 
 
 .. figure:: ../img-ige-ng/reports/aktivitaetsbericht.png
@@ -87,7 +104,9 @@ Abb.: UVP Aktivitätsbericht
 UVP-Bericht
 ------------
 
-Im Bereich 'UVP-Bericht' können Sie die Anzahl der abgeschlossenen Verfahren für verschiedene Zeiträume ermitteln. Die Angabe eines Zeitraums bezieht sich hier auf das Datum der Entscheidung. Außerdem werden die in diesen Verfahren verwendeten UVP-Nummern zusammen mit der jeweiligen Anzahl an Verfahren angegeben. Bitte beachten Sie, dass Verfahren in der Tabelle doppelt gezählt werden, wenn bei ihnen mehrere UVP-Nummern angegeben wurden.
+Im Bereich "UVP-Bericht" können Sie die Anzahl der abgeschlossenen Verfahren für verschiedene Zeiträume ermitteln. Die Angabe eines Zeitraums bezieht sich hier auf das Datum der Entscheidung. Außerdem werden die in diesen Verfahren verwendeten UVP-Nummern zusammen mit der jeweiligen Anzahl an Verfahren angegeben.
+
+.. hint:: Bitte beachten Sie, dass Verfahren in der Tabelle doppelt gezählt werden, wenn bei Ihnen mehrere UVP-Nummern angegeben wurden.
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht.png
    
@@ -95,7 +114,7 @@ Im Bereich 'UVP-Bericht' können Sie die Anzahl der abgeschlossenen Verfahren f�
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP Statistik
+Abb.: UVP Bericht
 
 
 Abgeschlossene Verfahren und negative Vorprüfungen im Strukturbaum müssen für die Berichtspflicht an die EU erhalten bleiben und dürfen nicht gelöscht werden. Wenn ein Verfahren gelöscht werden soll, erscheint ein Löschhinweis.
@@ -125,13 +144,15 @@ Abb.: UVP-Bericht CSV-Download
 UVP Upload Check
 -----------------
 
+Über den Menüpunkt "UVP UPLOAD CHECK" können Sie kontrollieren, ob alle Dokumente korrekt in den UVP Editor geladen wurden oder ob es fehlerhafte Uploads gibt.
+
 .. figure:: ../img-ige-ng/reports/upload-check.png
 
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP Upload Check - Uploads prüfen
+Abb.: UVP UPLOAD CHECK - Uploads prüfen
 
 
 .. figure:: ../img-ige-ng/reports/upload-check_alles.png
@@ -140,7 +161,7 @@ Abb.: UVP Upload Check - Uploads prüfen
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP Upload Check - alles anzeigen
+Abb.: UVP UPLOAD CHECK - Alles anzeigen
 
 
 .. figure:: ../img-ige-ng/reports/upload-check_fehler.png
@@ -149,4 +170,4 @@ Abb.: UVP Upload Check - alles anzeigen
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP Upload Check - nur Fehler anzeigen
+Abb.: UVP UPLOAD CHECK - Nur Fehler anzeigen
