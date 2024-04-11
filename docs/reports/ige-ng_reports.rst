@@ -100,7 +100,7 @@ Abb.: UVP Statistik
 
 Abgeschlossene Verfahren und negative Vorprüfungen im Strukturbaum müssen für die Berichtspflicht an die EU erhalten bleiben und dürfen nicht gelöscht werden. Wenn ein Verfahren gelöscht werden soll, erscheint ein Löschhinweis.
 
-.. important: Gelöschte Verfahren werden in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt.
+.. important:: Gelöschte Verfahren werden in der Statistik für die Berichtspflicht an die EU nicht mehr berücksichtigt.
 
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht-herunterladen.png
