@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'IGE-NG Bedienungsanleitung Profil UVP-Verbund'
+project = 'Bedienungsanleitung IGE-NG Profil UVP-Verbund'
 copyright = '2019-{}, wemove'.format(
     datetime.datetime.now().year
 )
