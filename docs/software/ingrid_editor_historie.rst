@@ -5,9 +5,14 @@ UVP Editor - Historie
 
 **Installierte InGrid Editor-Versionen (IGE-NG) im Livesystem**
 
- - 7.1.0-3-7.1.0.1, 04.04.2024, 15:14
+ - 7.2.0, 04.08.2024, 01:52
 
-https://www.ingrid-oss.eu/latest/about/history.html#version-710
+https://www.ingrid-oss.eu/latest/about/history.html
+
+
+**Historie**
+
+ - 7.1.0-3-7.1.0.1, 04.04.2024
 
 **Neu: Menüpunkt Reports / Aktivitätsbericht**
 
