@@ -6,7 +6,7 @@ Erläuterungen
 **Bezeichnungen**
 
  - Name der Software: InGrid
- - Name der Softwaregeneration des Editors: InGrid Editor - Neue Generation (IGE-NG) oder UVP Editor - Neue Generation
+ - Name des Editors: InGrid-Editor (IGE) oder UVP-Editor
  - Profil: UVP
 
 
