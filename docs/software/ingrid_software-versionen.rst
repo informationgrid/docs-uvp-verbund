@@ -6,7 +6,7 @@ UVP Editor Version
 **Version der Bedienungsanleitung**
 
  - letzte Änderung: 21.08.2024
- - Status: in Bearbeitung
+ - Status: abgeschlossen
 
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
