@@ -5,17 +5,18 @@ UVP Editor Version
 
 **Version der Bedienungsanleitung**
 
- - letzte Änderung: 10.04.2024
+ - letzte Änderung: 21.08.2024
  - Status: in Bearbeitung
 
 
 **Installierte InGrid-Version auf UVP-Verbund.de**
 
- - UVP Editor (neue Generation) Installierte Version: 7.1.0-3-7.1.0.1, 04.04.2024, 15:14
- - UVP-Editor Update installiert am: 09.04.2024, 16:00
+ - UVP-Editor Installierte Version:  7.2.1 
+ - UVP-Editor Update installiert am: 04.08.2024, 01:52
+ - GIT Commit ID: 83d6c78016990465c09d998de97964e7006e556a
 
 
 **Von den Entwicklern bereitgestellte Software-Versionen UVP-Editor**
 
- - UVP Editor (neue Generation) Version: 7.1.0-3-7.1.0.1, 04.04.2024, 15:14
- - Ankündigung - UVP-Editor Update Installation am: 09.04.2024, 16:00
+ - UVP Editor Version: 7.1.3 (Release 04.06.2024)
+ - Ankündigung - UVP-Editor Update Installation am:

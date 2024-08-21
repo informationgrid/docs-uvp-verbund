@@ -18,8 +18,8 @@ Profil: UVP-Verbund
 ====================
 
 Version der Bedienungsanleitung
- - InGrid Editor-Version: 7.1.0-3-7.1.0.1, 04.04.2024, 15:14 
- - letzte Änderung: 11.04.2024
+ - InGrid Editor-Version: 7.2.1, 04.08.2024, 01:52
+ - letzte Änderung: 21.08.2024
  - Status: in Bearbeitung
  
 
