@@ -43,9 +43,9 @@ Was passiert mit Verfahren die abgeschlossen sind?
 
   Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Verfahrensschritte "Öffentliche Auslegung" und "Erörterungstermin" können gelöscht werden, der Verfahrensschritt "Entscheidung über die Zulassung" darf nicht gelöscht werden, die Dokumente müssen erhalten bleiben, damit das Verfahren für die EU Statistik gezählt werden kann.
 
-  **Die Veröffentlichung von einzelnen Dokumenten kann über das „Gültig bis“-Datum gesteuert werden.**
+  Die Veröffentlichung von einzelnen Dokumenten kann über das „Gültig bis“-Datum gesteuert werden.
 
-.. hint:: Das "Gültig bis"-Datum eingeben/ändern: Klicken Sie auf das Drei-Punkte-Menü rechts neben dem Dokument, klicken Sie auf Bearbeiten und geben Sie das Datum ein. Oder über den hochgeladenen Dokumenten auf die Schaltfläche "BEARBEITEN" klicken, die Checkboxen vor den Dokumenten anklicken und über der Dokumententabelle auf die aktivierte Schaltfläche "GÜLTIG BIS Ändern" klicken.
+  .. hint:: Das "Gültig bis"-Datum eingeben/ändern: Klicken Sie auf das Drei-Punkte-Menü rechts neben dem Dokument, klicken Sie auf Bearbeiten und geben Sie das Datum ein. Oder über den hochgeladenen Dokumenten auf die Schaltfläche "BEARBEITEN" klicken, die Checkboxen vor den Dokumenten anklicken und über der Dokumententabelle auf die aktivierte Schaltfläche "GÜLTIG BIS Ändern" klicken.
 
 
 Werden die Dokumente nach dem Löschen noch im Portal gespeichert?
