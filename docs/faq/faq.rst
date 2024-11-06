@@ -2,8 +2,7 @@
 Häufig gestellte Fragen
 ===========================
 
-Wann trat die Novellierung des UVP-Gesetzes in Kraft?
------------------------------------------------------
+**Wann trat die Novellierung des UVP-Gesetzes in Kraft?**
 
   - Am 07. Juli 2017 passierte das Gesetz den Bundesrat.
   - Am 28. Juli 2017 wurde das Gesetz im Bundesgesetzblatt veröffentlicht.
@@ -14,7 +13,7 @@ Wann trat die Novellierung des UVP-Gesetzes in Kraft?
 
 
 Was bedeutet "Veröffentlichen"?
-------------------------------------------------------------
+--------------------------------
 
   Mit "Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Alle Bürger und Bürgerinnen können das veröffentlichte Vorhaben im UVP-Portal einsehen.
   
@@ -92,7 +91,7 @@ Ich habe Probleme bei der Erfassung von Verfahren. Was kann ich tun?
 
 
 Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien abgelegt werden?
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
   Sofern im Rahmen eines Verfahrens mehrere Offenlegungen erfolgen und die Namen der (gezippten) Ordner in den verschiedenen Verfahrensstadien identisch sind, wird der Inhalt des älteren Ordners mit den Daten des neueren überschrieben. Um den Nutzern das Zurechtfinden in den Unterlagen zu vereinfachen ist jedoch eine gleichlautende Namensvergabe der Antragsunterlagen wünschenswert.
 
