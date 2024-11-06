@@ -18,9 +18,7 @@ Was bedeutet "Veröffentlichen"?
 
   Mit "Veröffentlichen" werden angelegte Verfahren im UVP-Portal sichtbar gemacht. Alle Bürger und Bürgerinnen können das veröffentlichte Vorhaben im UVP-Portal einsehen.
   
-  
- 
- 
+
 Gibt es im UVP-Editor eine Vorschaufunktion?
 --------------------------------------------
 
@@ -43,10 +41,10 @@ Lassen sich einzelne Verfahrensschritte löschen und müssen vorher die Dokument
 Was passiert mit Verfahren die abgeschlossen sind?
 --------------------------------------------------
 
-  Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Verfahrensschritte "Öffentliche Auslegung" und "Erörterungstermin" können gelöscht werden, der Verfahrensschritt "Entscheidung über die Zulassung" darf nicht gelöscht werden, die Dokumente müssen erhalten bleiben, damit das Verfahren für die EU Statistik gezählt werden kann. Die Veröffentlichung von einzelnen Dokumenten kann über das `„Gültig bis“-Datum <../uvp-verfahren/ige-ng_erfassung-von-uvp-vorhaben.html#abschnitt-allgemein>`_. gesteuert werden.
+  Die abgeschlossen Verfahren bleiben für die EU-Zählung im Portal, die Verfahrensschritte "Öffentliche Auslegung" und "Erörterungstermin" können gelöscht werden, der Verfahrensschritt "Entscheidung über die Zulassung" darf nicht gelöscht werden, die Dokumente müssen erhalten bleiben, damit das Verfahren für die EU Statistik gezählt werden kann. Die Veröffentlichung von einzelnen Dokumenten kann über das `„Gültig bis“-Datum <../uvp-verfahren/ige-ng_erfassung-von-uvp-vorhaben.html#verfahrensschritt-offentliche-auslegung>`_. gesteuert werden.
 
   
-  
+
 
 Werden die Dokumente nach dem Löschen noch im Portal gespeichert?
 -----------------------------------------------------------------
