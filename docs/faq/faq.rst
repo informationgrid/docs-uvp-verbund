@@ -45,7 +45,7 @@ Was passiert mit Verfahren die abgeschlossen sind?
 
   Die Veröffentlichung von einzelnen Dokumenten kann über das „Gültig bis“-Datum gesteuert werden.
 
-  .. hint:: Das "Gültig bis"-Datum eingeben/ändern: Klicken Sie auf das Drei-Punkte-Menü rechts neben dem Dokument, klicken Sie auf Bearbeiten und geben Sie das Datum ein. Oder über den hochgeladenen Dokumenten auf die Schaltfläche "BEARBEITEN" klicken, die Checkboxen vor den Dokumenten anklicken und über der Dokumententabelle auf die aktivierte Schaltfläche "GÜLTIG BIS Ändern" klicken.
+  .. hint:: Das "Gültig bis"-Datum eingeben/ändern: Klicken Sie auf das Drei-Punkte-Menü rechts neben dem Dokument, klicken Sie auf Bearbeiten und geben Sie das Datum ein. Oder über den hochgeladenen Dokumenten auf die Schaltfläche "BEARBEITEN" klicken, die Checkboxen vor den Dokumenten anklicken und über der Dokumententabelle auf die aktivierte Schaltfläche "GÜLTIG BIS ÄNDERN" klicken.
 
 
 Werden die Dokumente nach dem Löschen noch im Portal gespeichert?
