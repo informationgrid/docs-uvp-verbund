@@ -7,6 +7,10 @@ Benutzer bearbeiten
 Soll ein Benutzer bearbeitet werden, muss die Benutzerverwaltung über die Navigation (BENUTZER & RECHTE) aufgerufen werden. Darin den entsprechenden Benutzer auswählen und anschließend, in der Eingabemaske auf der rechten Seite, die Daten bearbeiten.
 
 .. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
+   :alt: Screenshot InGrid-Editor Übersicht
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Benutzer bearbeiten
 
