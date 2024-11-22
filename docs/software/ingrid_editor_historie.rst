@@ -7,7 +7,7 @@ UVP Editor - Historie
 
 - 7.3.2, 16.10.2024, 18:59
 
- - https://www.ingrid-oss.eu/latest/about/history.html
+ - `InGrid News <https://www.ingrid-oss.eu/latest/about/history.html>`_
 
 
 **Historie**
@@ -23,7 +23,7 @@ UVP Editor - Historie
 - 7.1.0-3-7.1.0.1, 04.04.2024
 
  - `[Feature] Erweiterung Report über “Veröffentlichung zurückziehen” (REDMINE-6042) <https://redmine.informationgrid.eu/issues/6042>`_
- - [Feature] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern (REDMINE-5798) <https://redmine.informationgrid.eu/issues/5798>`_
+ - `[Feature] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern (REDMINE-5798) <https://redmine.informationgrid.eu/issues/5798>`_
  - `[Feature] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) (REDMINE-5676) <https://redmine.informationgrid.eu/issues/5676>`_
  - `[Feature] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente (REDMINE-5016) <https://redmine.informationgrid.eu/issues/5016>`_
 
