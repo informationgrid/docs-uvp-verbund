@@ -99,19 +99,22 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
   Vorschläge: 
 
   | **Variante 1:** An die Dateibezeichnung eine Versionsnummer anhängen.
+    
     | Beispiel: _01, _02, _03
 
   | **Variante 2:** An die Datei die Beteichnung des Verfahrensschrittes anhängen.
+    
     | Beispiel: _öffentliche-Auslegung, _Erörterungstermin, _Zulassungsentscheidung
 
   | **Variante 3:** Es gibt mehrere Auslegungstermine, dann kann auch das Veröffentlichungdatum der Dokumente angegeben werden.
+    
     | Beispiel: _öA_2021-08-13
 
 
 Kontakt
 -------
 
-   `Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
-   Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
+  |`Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
+  |Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
 
    
