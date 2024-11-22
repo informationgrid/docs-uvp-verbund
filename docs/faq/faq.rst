@@ -109,6 +109,6 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
 Kontakt
 -------
 
-   `Kontaktformular UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
+   `Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
 
    
