@@ -12,7 +12,7 @@ Die Bedienungsanleitung kann über die Hilfe im UVP-Editor geöffnet werden. Kli
 Abb.: Menü mit Link zur Hilfe
 
 
-.. note:: *Nutzen sie für Ihre Recherchen in den Bedienungsanleitung auch die vorhandene Suche!* Achten Sie auf Hinweise, Beispiele und Tipps!
+.. note:: Nutzen Sie für Ihre Recherchen in der Bedienungsanleitung auch die vorhandene Suche und achten Sie auf Hinweise, Beispiele und Tipps!
 
 .. figure:: ../img-ige-ng/suche/ige-ng_bedienungsanleitung_suche.png
    :alt: Suche in der Bedienungsanleitung
