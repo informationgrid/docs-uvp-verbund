@@ -7,7 +7,7 @@ Um einem neuen Benutzer passende Rechte für den InGrid-Editor zuordnen zu könn
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
    :alt: Benutzer die Guppenberechtigung zuordnen
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Benutzer Gruppenberechtigung zuordnen
@@ -20,7 +20,7 @@ Durch Betätigen des Buttons "HINZUFÜGEN", wird ein Dialogfenster geöffnet.
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
    :alt: Schaltfläche HINZUFÜGEN betätigen
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Schaltfläche "HINZUFÜGEN" betätigen
@@ -34,7 +34,7 @@ Feld Login
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_benutzer-hinzufuegen.png
    :alt: Dialogfenster - Benutzer hinzufügen - Benutzernamen vergeben
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Dialogfenster - Benutzer hinzufügen - Benutzernamen vergeben
@@ -46,7 +46,7 @@ Feld Rolle
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rolle-zuweisen.png
    :alt: Dialogfenster - Benutzer hinzufügen - Rolle auswählen
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Rolle zuweisen
