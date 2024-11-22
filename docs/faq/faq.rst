@@ -73,7 +73,7 @@ Was muss bei der Erfassung von negativen Vorprüfungen in des Formular eingetrag
 
   | **Variante 1:** Werden die negativen Vorprüfungen nur für die EU Zählung erfasst, müssen: der Titel, die Kontaktdaten der federführenden Dienststelle und das Datum der Entscheidung erfasst werden. Die Vorprüfung erscheint nicht im UVP-Portal (nicht in  der Suche und nicht in der Karte).
   
-  | **Variante 2:* Werden die negativen Vorprüfungen erfasst um sie im Portal und in der Karte anzuzeigen, müssen: der Titel, die allgemeine Vorhabenbeschreibung, die Kontaktdaten der federführenden Stelle, der Raumbezug, die UVP-Nummer, das Datum der Entscheidung und das Ergebnis der UVP-Vorprüfung (Dokument) erfasst werden.*
+  | **Variante 2:** Werden die negativen Vorprüfungen erfasst um sie im Portal und in der Karte anzuzeigen, müssen: der Titel, die allgemeine Vorhabenbeschreibung, die Kontaktdaten der federführenden Stelle, der Raumbezug, die UVP-Nummer, das Datum der Entscheidung und das Ergebnis der UVP-Vorprüfung (Dokument) erfasst werden.*
   
 
 Wann wird ein Verfahren für die EU Statistik gezählt?
@@ -100,8 +100,10 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
 
 | **Variante 1:** An die Dateibezeichnung eine Versionsnummer anhängen.
      | Beispiel: _01, _02, _03
+
 | **Variante 2:** An die Datei die Beteichnung des Verfahrensschrittes anhängen.
      | Beispiel: _öffentliche-Auslegung, _Erörterungstermin, _Zulassungsentscheidung
+     
 | **Variante 3:** Es gibt mehrere Auslegungstermine, dann kann auch das Veröffentlichungdatum der Dokumente angegeben werden.
      | Beispiel: _öA_2021-08-13
 
