@@ -3,14 +3,7 @@
 UVP Editor - Historie
 ======================
 
-**Installierte InGrid Editor-Versionen im Livesystem**
-
-- 7.3.2  - 16.10.2024, 18:59
-
 - `InGrid News <https://www.ingrid-oss.eu/latest/about/history.html>`_
-
-
-**Historie**
 
 - 7.3.2  - 16.10.2024
 
