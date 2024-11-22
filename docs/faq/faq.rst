@@ -109,12 +109,4 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
   | **Variante 3:** Es gibt mehrere Auslegungstermine, dann kann auch das Veröffentlichungdatum der Dokumente angegeben werden.
     
     | Beispiel: _öA_2021-08-13
-
-
-Kontakt
--------
-
-  | `Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
-  | Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
-
    
