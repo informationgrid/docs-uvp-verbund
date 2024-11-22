@@ -8,7 +8,7 @@ Um einem neuen Benutzer passende Rechte für den InGrid-Editor zuordnen zu könn
    :alt: Benutzer die Guppenberechtigung zuordnen
    :align: left
    :scale: 90
-   :figwidth: 80%
+   :figwidth: 100%
 
 Abb.: Benutzer Gruppenberechtigung zuordnen
 

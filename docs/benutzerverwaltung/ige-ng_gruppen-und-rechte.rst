@@ -13,7 +13,7 @@ Gruppen anlegen
    :alt: Verwaltung von Gruppen
    :align: left
    :scale: 90
-   :figwidth: 80%
+   :figwidth: 100%
 
 Abb.: Verwaltung von Gruppen
 
