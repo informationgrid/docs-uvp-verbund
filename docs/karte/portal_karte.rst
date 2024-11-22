@@ -8,12 +8,20 @@ Seit der Portalversion 6.0.0 ist in der Portalkarte der Nominatim Suchdienst von
 
 **Beispiele:** *Bremen oder Eulenberg*
 
-.. image:: ../img-ige-ng/karte/karte_nominatim_suche_1.png
+.. figure:: ../img-ige-ng/karte/karte_nominatim_suche_1.png
+   :alt: Suche in der Karte
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb: Nominatim (OSM) Suche in der Karte
 
 
-.. image:: ../img-ige-ng/karte/karte_nominatim_suche_2.png
+.. figure:: ../img-ige-ng/karte/karte_nominatim_suche_2.png
+   :alt: Punkt in der Karte
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Punkt in der Karte
 
@@ -23,7 +31,11 @@ Schalter "Nur aktuelle: ein/aus"
 
 Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahlschalter "Nur aktuelle: ein/aus" eingeführt. Dieser Schalter bietet die Möglichkeit, nur Vorhaben des zurückliegenden letzten Jahres anzuzeigen.
 
-.. image:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
+.. figure:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
+   :alt: Legende - Auswahlschalter
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb: Legende: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
 
@@ -31,7 +43,11 @@ Abb: Legende: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
 Zulassungsverfahren
 -------------------
 
-.. image:: ../img-ige-ng/karte/karte_layer-zulassungsverfahren.png
+.. figure:: ../img-ige-ng/karte/karte_layer-zulassungsverfahren.png
+   :alt: Karte - Layer Zulassungsverfahren
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Karte - Layer Zulassungsverfahren
 
@@ -41,7 +57,11 @@ Negative Vorprüfungen
 
 Ob ein Bundesland negative Vorprüfungen in der Kartenansicht anzeigt oder nicht, obliegt dem jeweiligen Bundesland. Wenn negative Vorprüfungen dargestellt werden sollen, muss der Katalogadministrator die entsprechende Einstellung in der Katalogverwaltung vornehmen. Wurde die Einstellung vorgenommen, müssen die Autoren den Titel, die Beschreibung, den Raumbezug, das Datum der Entscheidung und das Dokument mit dem Ergebnis der UVP-Vorprüfung erfassen. (Querverweis: `Negative Vorprüfungen erfassen <https://uvp-verbund-bedienungsanleitung.readthedocs.io/de/igeng/uvp-verfahren/ige-ng_erfassung-von-negativen-vorpruefungen.html>`_)
 
-.. image:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
+.. figure:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
+   :alt: Karte - Layer negative Vorprüfungen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Karte - Layer negative Vorprüfungen
 
@@ -49,7 +69,11 @@ Abb.: Karte - Layer negative Vorprüfungen
 Raumordnungsverfahren
 ---------------------
 
-.. image:: ../img-ige-ng/karte/karte_layer-raumordnungsverfahren.png
+.. figure:: ../img-ige-ng/karte/karte_layer-raumordnungsverfahren.png
+   :alt: Karte - Layer Raumordnungsverfahren
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Karte - Layer Raumordnungsverfahren
 
@@ -57,7 +81,11 @@ Abb.: Karte - Layer Raumordnungsverfahren
 Ausländische Vorhaben
 ---------------------
 
-.. image:: ../img-ige-ng/karte/karte_layer-auslaendische-vorhaben.png
+.. figure:: ../img-ige-ng/karte/karte_layer-auslaendische-vorhaben.png
+   :alt: Karte - Layer Ausländische Vorhaben
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Karte - Layer Ausländische Vorhaben
 
@@ -69,6 +97,10 @@ Im UVP Portal wurden Bauleitplanungsdaten integriert. Die Daten werden über ein
 
 Wenn die Bauleitplanungsdaten eines Bundeslandes in die Kartendarstellung aufgenommen werden sollen, nutzen Sie bitte das `Kontaktformular des UVP-Portals <https://www.uvp-verbund.de/kontakt>`_.
 
-.. image:: ../img-ige-ng/karte/karte_layer-bauleitplanung.png
+.. figure:: ../img-ige-ng/karte/karte_layer-bauleitplanung.png
+   :alt: Karte - Layer Bauleitplanung
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Karte - Layer Bauleitplanung
