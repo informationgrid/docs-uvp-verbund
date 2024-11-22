@@ -5,6 +5,7 @@ UVP Editor - Historie
 
 - `InGrid News <https://www.ingrid-oss.eu/latest/about/history.html>`_
 
+
 - 7.3.2  - 16.10.2024
 
  - `[Feature #6768] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde <https://redmine.informationgrid.eu/issues/6768>`_ 
