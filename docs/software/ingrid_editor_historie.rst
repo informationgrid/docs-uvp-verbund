@@ -14,7 +14,7 @@ UVP Editor - Historie
 
 - 7.3.2, 16.10.2024, 18:59
 
- - `[Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)<https://redmine.informationgrid.eu/issues/6768>`_ 
+ - `[Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768) <https://redmine.informationgrid.eu/issues/6768>`_ 
 
 
 
