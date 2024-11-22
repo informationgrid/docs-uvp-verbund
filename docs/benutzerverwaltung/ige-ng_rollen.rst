@@ -1,7 +1,3 @@
-
-Rollen
-======
-
 Die Rechte der Benutzer im UVP-Editor werden in der Gruppenadministration der UVP-Editor-Benutzerverwaltung festgelegt. Zunächst werden Gruppen definiert, die spezifische Rechte für einen Teilbereich des Katalogs aufweisen und anschließend die Benutzer einer oder mehreren Gruppen zugeordnet.
 
 Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
@@ -14,10 +10,12 @@ Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
 
 Eine Ebene über den Katalogadmnistrator ist der Superadministrator, dieser wird durch den Katalogadministrator bei technischen Problemen kontaktiert.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
+.. figure:: .../_images/ige-ng_nutzerverwaltung_rollen.png
+   :alt: Die Rollen in der Benutzerverwaltung
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Benutzerverwaltung - Rollen
+Abb.: Die Rollen in der Benutzerverwaltung
 
 Der Katalog-Administrator kann Autoren und Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Autoren zu administrieren.
-
-
