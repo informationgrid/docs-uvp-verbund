@@ -31,7 +31,7 @@ Eine Gruppe eines Landes wird angesprochen, wenn das Kontaktformular **mit Angab
 Kontaktformular im UVP-Portal
 -----------------------------
 
-Bitte wählen Sie im `Kontaltformular <https://www.uvp-verbund.de/kontakt>`_ Ihr zuständiges Land aus.
+Bitte wählen Sie für eine Anfrage im `Kontaltformular <https://www.uvp-verbund.de/kontakt>`_ Ihr zuständiges Land aus.
 
 .. figure:: ../img-ige-ng/portal/uvp-verbund_portal_kontakt.png
    :alt: Ansicht Kontaktformular im UVP-Portal
