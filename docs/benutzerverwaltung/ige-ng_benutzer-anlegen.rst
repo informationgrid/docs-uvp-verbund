@@ -51,7 +51,7 @@ Feld Rolle
 
 Abb.: Rolle zuweisen
 
-Hinweis: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Benutzer anlegen.
+.. hint:: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Benutzer anlegen.
 
 Einem UVP-Editor-Benutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt.
 
