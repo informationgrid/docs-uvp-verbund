@@ -16,8 +16,6 @@ UVP Editor - Historie
 
  - `[Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768) <https://redmine.informationgrid.eu/issues/6768>`_ 
 
-
-
 - 7.2.0, 04.08.2024, 01:52
 
 - 7.1.0-3-7.1.0.1, 04.04.2024
@@ -27,21 +25,15 @@ UVP Editor - Historie
  - `[Feature #5676] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) <https://redmine.informationgrid.eu/issues/5676>`_
  - `[Feature 5016] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente <https://redmine.informationgrid.eu/issues/5016>`_
 
-
 - 7.0.1, 11.01.2024, 19:09
  
 - 1.7.2, 16.11.2023, 21:26
 
- - [Feature #4944] IGE-NG: Veröffentlichung von negativen Vorprüfungen individueller einstellen können
-
+ - `[Feature #4944] IGE-NG: Veröffentlichung von negativen Vorprüfungen individueller einstellen können <https://redmine.informationgrid.eu/issues/4944>`_
 
 - 1.7.0, 23.11.2023 
 - 1.2.2, 10.02.2023, 15:33
-
 - 1.1.1, 11.10.2022, 13:26
-
- - Neu: Symbolleiste: Vorschau- und Druckfunktion
- 
 - 1.0.12, 05.10.2022, 17:19
 - 1.0.9, 04.09.2022, 17:43
 - 1.0.5, 12.08.2022, 10:50
