@@ -102,7 +102,7 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
     
     | Beispiel: _01, _02, _03
 
-  | **Variante 2:** An die Datei die Beteichnung des Verfahrensschrittes anhängen.
+  | **Variante 2:** An die Datei die Bezeichnung des Verfahrensschrittes anhängen.
     
     | Beispiel: _öffentliche-Auslegung, _Erörterungstermin, _Zulassungsentscheidung
 
