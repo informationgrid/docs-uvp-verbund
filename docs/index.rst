@@ -5,6 +5,7 @@
 
 
 .. figure:: img-ige-ng/portal/logo-uvp.png
+   :alt: UVP-Verbund Logo
    :align: left
    :scale: 30
    :figwidth: 100%
@@ -18,12 +19,13 @@ Profil: UVP-Verbund
 ====================
 
 Version der Bedienungsanleitung
- - InGrid Editor-Version: 7.2.1, 04.08.2024, 01:52
- - letzte Änderung: 06.11.2024
- - Status: abgeschlossen
+ - InGrid Editor-Version: 7.3.2, 16.10.2024, 18:59
+ - letzte Änderung: 22.11.2024
+ - Status: in Bearbeitung
  
 
 .. figure:: img-ige-ng/allgemein/ige-ng_uebersicht.png
+   :alt: Screenshot InGrid-Editor Übersicht
    :align: left
    :scale: 70
    :figwidth: 100%

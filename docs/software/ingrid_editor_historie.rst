@@ -5,19 +5,29 @@ UVP Editor - Historie
 
 **Installierte InGrid Editor-Versionen (IGE-NG) im Livesystem**
 
- - 7.2.0, 04.08.2024, 01:52
+ - 7.3.2, 16.10.2024, 18:59
 
 https://www.ingrid-oss.eu/latest/about/history.html
 
 
 **Historie**
 
+ - 7.3.2, 16.10.2024, 18:59
+
+ - [Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)
+ - https://redmine.informationgrid.eu/issues/6768
+
+ Im Report über die Änderung von Verfahren (#5676) soll die Information über Verfahren, bei denen eine Veröffentlichung zurückgezogen wurde, ergänzt werden.
+
+ - 7.2.0, 04.08.2024, 01:52
+
  - 7.1.0-3-7.1.0.1, 04.04.2024
+
 
 **Neu: Menüpunkt Reports / Aktivitätsbericht**
 
-Erweiterung Report über “Veröffentlichung zurückziehen”
-https://redmine.informationgrid.eu/issues/6042
+ - [Feature] Erweiterung Report über “Veröffentlichung zurückziehen” (REDMINE-6042)
+ - https://redmine.informationgrid.eu/issues/6042
 
 Die Löschung von Verfahren sowie zurückgezogene Veröffentlichungen können nachvollzogen werden. Im Menüpunkt Reports Untermenü Aktivitätsbericht werden Verfahren angezeigt die gelöscht oder zurückgezogen wurden. Hierbei kann gefiltert werden nach:
 
@@ -29,16 +39,16 @@ Die Löschung von Verfahren sowie zurückgezogene Veröffentlichungen können na
 
 **Neu: Menüpunkt Reports / Monitoring**
 
-Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern
-https://redmine.informationgrid.eu/issues/5798
+- [Feature] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern (REDMINE-5798)
+- https://redmine.informationgrid.eu/issues/5798
 
 Die Erreichbarkeit von Dokumenten bzw. Verfahren kann in Echtzeit abgefragt werden. Ist eine Abfrage mittels dem Monitoring-Tool Zabbix eingebunden, wird mit Version 7.1.0 im InGrid Editor (IGE-NG) im Menü-Punkt Reports Untermenü Monitoring angezeigt falls ein Dokument bzw. ein Vorhaben nicht erreichbar ist. Der Menüpunkt ist sichtbar abhänging von den Berechtigungen des jeweiligen Nutzers/der jeweiligen Nutzerin.
 
-Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung)
-https://redmine.informationgrid.eu/issues/5676
+- [Feature] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) (REDMINE-5676)
+- https://redmine.informationgrid.eu/issues/5676
 
-IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente
-https://redmine.informationgrid.eu/issues/5016
+- [Feature] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente (REDMINE-5016)
+- https://redmine.informationgrid.eu/issues/5016
 
 
  - 7.0.1, 11.01.2024, 19:09
