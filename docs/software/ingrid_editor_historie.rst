@@ -7,7 +7,7 @@ UVP Editor - Historie
 
 - 7.3.2, 16.10.2024, 18:59
 
- - `InGrid News <https://www.ingrid-oss.eu/latest/about/history.html>`_
+- `InGrid News <https://www.ingrid-oss.eu/latest/about/history.html>`_
 
 
 **Historie**
