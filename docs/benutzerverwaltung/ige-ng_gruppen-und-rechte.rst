@@ -21,7 +21,7 @@ Abb.: Verwaltung von Gruppen
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
    :alt: Eine Gruppe hinzufügen - Schaltfläche HINZUFÜGEN betätigen
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Eine Gruppe hinzufügen - Schaltfläche "HINZUFÜGEN" betätigen
