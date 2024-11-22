@@ -114,7 +114,7 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
 Kontakt
 -------
 
-  |`Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
-  |Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
+  | `Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
+  | Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
 
    
