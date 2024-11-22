@@ -10,7 +10,7 @@ Wann trat die Novellierung des UVP-Gesetzes in Kraft?
   - Am 29. Juli 2017 trat das Gesetz in Kraft.
   
   
-  Weitere Informationen bietet die Internetseite Infozentrum UmweltWirtschaft des Bayrischen Landesamtes für Umwelt: https://www.umweltpakt.bayern.de/abfall/recht/bund/9/uvpg-gesetz-ueber-umweltvertraeglichkeitspruefung
+  Weitere Informationen bietet die Internetseite `Infozentrum UmweltWirtschaft <https://www.umweltpakt.bayern.de/abfall/recht/bund/9/uvpg-gesetz-ueber-umweltvertraeglichkeitspruefung>`_ des Bayrischen Landesamtes für Umwelt. 
 
 
 Was bedeutet "Veröffentlichen"?
@@ -109,6 +109,6 @@ Wie können bei mehrfachen Veröffentlichungen gleichlautende gezipte Dateien ab
 Kontakt
 -------
 
-   `Support <https://www.uvp-verbund.de/kontakt>`_ 
+   `Kontaktformular UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
 
    
