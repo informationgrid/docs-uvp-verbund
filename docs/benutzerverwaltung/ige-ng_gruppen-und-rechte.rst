@@ -9,29 +9,49 @@ In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Sc
 Gruppen anlegen
 ---------------
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppen.png
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppen.png
+   :alt: Verwaltung von Gruppen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Verwaltung von Gruppen
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
-   :width: 300
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+   :alt: Eine Gruppe hinzufügen - Schaltfläche HINZUFÜGEN betätigen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Gruppe hinzufügen
-
-
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-hinzufuegen.png
-
-Abb.: Fenster Gruppe hinzufügen
+Abb.: Eine Gruppe hinzufügen - Schaltfläche "HINZUFÜGEN" betätigen
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-hinzufuegen.png
+   :alt: Fenster für das Anlegen einer Gruppe
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Vergabe von allgemeinen Rechten
+Abb.: Fenster für das Anlegen einer Gruppe
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte-erteilt.png
 
-Abb.: Vergabe von allgemeinen Rechten
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
+   :alt: Vergabe von allgemeinen Rechten - ausgeschaltet
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Vergabe von allgemeinen Rechten - ausgeschaltet
+
+
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte-erteilt.png
+   :alt: Vergabe von allgemeinen Rechten -eingeschaltet
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Vergabe von allgemeinen Rechten -eingeschaltet
 
 
 Rechte vergeben
