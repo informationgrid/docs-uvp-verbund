@@ -14,8 +14,8 @@ UVP Editor - Historie
 
 - 7.3.2, 16.10.2024, 18:59
 
- - [Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)
-  - https://redmine.informationgrid.eu/issues/6768
+ - `[Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)<https://redmine.informationgrid.eu/issues/6768>`_ 
+
 
 
 - 7.2.0, 04.08.2024, 01:52
@@ -34,14 +34,16 @@ UVP Editor - Historie
 
 - 7.0.1, 11.01.2024, 19:09
  
-- 1.7.2, 16.11.2023, 21:26 
-  - Neu: Individuelle Einstellung der Veröffentlichung von negativen Vorprüfungen
+- 1.7.2, 16.11.2023, 21:26
+
+ - Neu: Individuelle Einstellung der Veröffentlichung von negativen Vorprüfungen
 
 - 1.7.0, 23.11.2023 
 - 1.2.2, 10.02.2023, 15:33
 
 - 1.1.1, 11.10.2022, 13:26
-  - Neu: Symbolleiste: Vorschau- und Druckfunktion
+
+ - Neu: Symbolleiste: Vorschau- und Druckfunktion
  
 - 1.0.12, 05.10.2022, 17:19
 - 1.0.9, 04.09.2022, 17:43
