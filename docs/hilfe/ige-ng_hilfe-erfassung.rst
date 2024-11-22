@@ -1,6 +1,8 @@
 Hilfen für die Erfassung
 ========================
 
+.. note:: Nutzen Sie für Ihre Recherchen in der Bedienungsanleitung auch die vorhandene Suche und achten Sie in der Anleitung auf Hinweise, Beispiele und Tipps!
+
 Die Bedienungsanleitung kann über die Hilfe im UVP-Editor geöffnet werden. Klicken Sie dazu im UVP-Editor oben rechts auf die drei Punkte.
 
 .. figure:: ../img-ige-ng/hilfe/ige-ng_hilfe.png
@@ -39,5 +41,3 @@ Abb.: Feldbezeichnungen mit hinterlegtem Hilfetext
    :figwidth: 100%
 
 Abb.: Hilfetext für Eingabefelder
-
-.. note:: Nutzen Sie für Ihre Recherchen in der Bedienungsanleitung auch die vorhandene Suche und achten Sie in der Anleitung auf Hinweise, Beispiele und Tipps!
