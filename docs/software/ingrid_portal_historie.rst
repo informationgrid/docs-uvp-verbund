@@ -1,6 +1,6 @@
 
 ======================
-UVP-Portal - Historie
+UVP Portal - Historie
 ======================
 
 Version 7.1.0, 27.03.2024, 16:34
