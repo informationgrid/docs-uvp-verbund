@@ -12,7 +12,7 @@ Gruppen anlegen
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppen.png
    :alt: Verwaltung von Gruppen
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Verwaltung von Gruppen
