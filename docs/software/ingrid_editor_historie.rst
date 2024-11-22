@@ -14,22 +14,22 @@ UVP Editor - Historie
 
 - 7.3.2, 16.10.2024, 18:59
 
- - `[Feature #6768] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde <https://redmine.informationgrid.eu/issues/6768>`_ 
+- `[Feature #6768] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde <https://redmine.informationgrid.eu/issues/6768>`_ 
 
 - 7.2.0, 04.08.2024, 01:52
 
 - 7.1.0-3-7.1.0.1, 04.04.2024
 
- - `[Feature #6042] Erweiterung Report über “Veröffentlichung zurückziehen” <https://redmine.informationgrid.eu/issues/6042>`_
- - `[Feature #5798] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern <https://redmine.informationgrid.eu/issues/5798>`_
- - `[Feature #5676] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) <https://redmine.informationgrid.eu/issues/5676>`_
- - `[Feature #5016] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente <https://redmine.informationgrid.eu/issues/5016>`_
+- `[Feature #6042] Erweiterung Report über “Veröffentlichung zurückziehen” <https://redmine.informationgrid.eu/issues/6042>`_
+- `[Feature #5798] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern <https://redmine.informationgrid.eu/issues/5798>`_
+- `[Feature #5676] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) <https://redmine.informationgrid.eu/issues/5676>`_
+- `[Feature #5016] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente <https://redmine.informationgrid.eu/issues/5016>`_
 
 - 7.0.1, 11.01.2024, 19:09
  
 - 1.7.2, 16.11.2023, 21:26
 
- - `[Feature #4944] IGE-NG: Veröffentlichung von negativen Vorprüfungen individueller einstellen können <https://redmine.informationgrid.eu/issues/4944>`_
+- `[Feature #4944] IGE-NG: Veröffentlichung von negativen Vorprüfungen individueller einstellen können <https://redmine.informationgrid.eu/issues/4944>`_
 
 - 1.7.0, 23.11.2023 
 - 1.2.2, 10.02.2023, 15:33
