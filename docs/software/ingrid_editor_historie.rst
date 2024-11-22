@@ -23,9 +23,6 @@ Im Report über die Änderung von Verfahren (#5676) soll die Information über V
 
  - 7.1.0-3-7.1.0.1, 04.04.2024
 
-
-**Neu: Menüpunkt Reports / Aktivitätsbericht**
-
  - [Feature] Erweiterung Report über “Veröffentlichung zurückziehen” (REDMINE-6042)
  - https://redmine.informationgrid.eu/issues/6042
 
@@ -36,8 +33,6 @@ Die Löschung von Verfahren sowie zurückgezogene Veröffentlichungen können na
  - Aktualisierung
  - Veröffentlichung
  - Löschung
-
-**Neu: Menüpunkt Reports / Monitoring**
 
 - [Feature] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern (REDMINE-5798)
 - https://redmine.informationgrid.eu/issues/5798
