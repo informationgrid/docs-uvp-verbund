@@ -11,7 +11,7 @@ Support-Level
 
 - First Level Support
 - Second Level Support
-- Gruppen in den Bundesländern
+- Gruppen in den Ländern
 
 
 **First Level Support**
@@ -24,7 +24,7 @@ Der First Level Support wird angesprochen, wenn das Kontaktformular **ohne Angab
 Der Second Level Support wird angesprochen, wenn das Kontaktformular **ohne Angabe eines Landes und mit der Option Checkbox** "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." versendet wird. Die Nachricht wird an die **Software-Entwickler** gerichtet.
 
 
-**Gruppen in den Bundesländern**
+**Gruppen in den Ländern**
 
 Eine Gruppe eines Landes wird angesprochen, wenn das Kontaktformular **mit Angabe eines Landes und ohne Option Checkbox** "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." versendet wird. Die Nachricht wird an den **Katalogadministrator oder einen anderen Ansprechpartner des ausgewählten Landes** gerichtet.
 
