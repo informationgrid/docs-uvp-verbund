@@ -1,7 +1,11 @@
-UVP-Portal Kontakt
-==================
+Kontakt
+=======
 
-https://www.uvp-verbund.de/kontakt
+Kontaktformular im UVP-Portal
+-----------------------------
+
+Bitte wählen Sie im `Kontaltformular <https://www.uvp-verbund.de/kontakt>`_ Ihr zuständiges Land aus.
+
 
 Ticketsystem Zammad
 -------------------
@@ -30,7 +34,10 @@ Der Second Level Support wird angesprochen, wenn das Kontaktformular **ohne Anga
 
 Eine Gruppe eines Bundeslandes wird angesprochen, wenn das Kontaktformular **mit Angabe eines Bundeslandes und ohne Option Checkbox** "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." versendet wird. Die Nachricht wird an den **Katalogadministrator oder einen anderen Ansprechpartner des ausgewählten Bundeslandes** gerichtet.
 
-
-.. image:: ../img-ige-ng/portal/uvp-verbund_portal_kontakt.png
+.. figure:: img-ige-ng/portal/uvp-verbund_portal_kontakt.png
+   :alt: UVP-Verbund Logo
+   :align: left
+   :scale: 30
+   :figwidth: 100%
 
 Abb.: UVP Portal - Ansicht Kontaktformular
