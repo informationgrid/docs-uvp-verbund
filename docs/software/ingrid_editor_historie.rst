@@ -13,20 +13,22 @@ UVP Editor - Historie
 **Historie**
 
 - 7.3.2, 16.10.2024, 18:59
-  - [Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)
+
+ - [Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)
   - https://redmine.informationgrid.eu/issues/6768
 
 
 - 7.2.0, 04.08.2024, 01:52
 
 - 7.1.0-3-7.1.0.1, 04.04.2024
-  - [Feature] Erweiterung Report über “Veröffentlichung zurückziehen” (REDMINE-6042)
+
+ - [Feature] Erweiterung Report über “Veröffentlichung zurückziehen” (REDMINE-6042)
   - https://redmine.informationgrid.eu/issues/6042
  - [Feature] Integration eines vereinfachten, katalogspezifischen Reports über die Ereichbarkeit der Dokumente - Sichtbarkeit erweitern (REDMINE-5798)
   - https://redmine.informationgrid.eu/issues/5798
-  - [Feature] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) (REDMINE-5676)
+ - [Feature] Report Änderungen von Verfahren / neg. Vorprüfungen (insbesondere Löschung) (REDMINE-5676)
   - https://redmine.informationgrid.eu/issues/5676
-  - [Feature] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente (REDMINE-5016)
+ - [Feature] IGE-NG: Integration eines vereinfachten, katalogspezifischen Reports über die Erreichbarkeit der Dokumente (REDMINE-5016)
   - https://redmine.informationgrid.eu/issues/5016
 
 
