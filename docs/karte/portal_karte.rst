@@ -20,7 +20,7 @@ Abb: Nominatim (OSM) Suche in der Karte
 .. figure:: ../img-ige-ng/karte/karte_nominatim_suche_2.png
    :alt: Punkt in der Karte
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Punkt in der Karte
