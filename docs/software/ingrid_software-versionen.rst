@@ -1,6 +1,6 @@
 
 ===================
-UVP Editor Version
+UVP Editor - Version
 ===================
 
 **Version der Bedienungsanleitung**
