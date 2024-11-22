@@ -112,5 +112,6 @@ Kontakt
 -------
 
    `Kontaktformular im UVP-Portal <https://www.uvp-verbund.de/kontakt>`_ 
+   Bitte wählen Sie im Kontaktformular Ihr zuständiges Land aus.
 
    
