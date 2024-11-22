@@ -3,7 +3,7 @@
 UVP Editor - Historie
 ======================
 
-**Installierte InGrid Editor-Versionen (IGE-NG) im Livesystem**
+**Installierte InGrid Editor-Versionen im Livesystem**
 
 - 7.3.2  - 16.10.2024, 18:59
 
