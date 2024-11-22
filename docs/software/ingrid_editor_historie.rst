@@ -17,7 +17,7 @@ https://www.ingrid-oss.eu/latest/about/history.html
  - [Feature] Synchronisation mit UVP Monitoring nachdem eine Veröffentlichung zurückgezogen wurde (REDMINE-6768)
  - https://redmine.informationgrid.eu/issues/6768
 
- Im Report über die Änderung von Verfahren (#5676) soll die Information über Verfahren, bei denen eine Veröffentlichung zurückgezogen wurde, ergänzt werden.
+Im Report über die Änderung von Verfahren (#5676) soll die Information über Verfahren, bei denen eine Veröffentlichung zurückgezogen wurde, ergänzt werden.
 
  - 7.2.0, 04.08.2024, 01:52
 
