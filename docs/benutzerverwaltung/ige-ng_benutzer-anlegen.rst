@@ -20,7 +20,7 @@ Durch Betätigen des Buttons "HINZUFÜGEN", wird ein Dialogfenster geöffnet.
 .. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
    :alt: Schaltfläche HINZUFÜGEN betätigen
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Schaltfläche "HINZUFÜGEN" betätigen
