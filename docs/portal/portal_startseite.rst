@@ -6,8 +6,18 @@ Suche
 
 Mit *SUCHE* kann die Suchergebnisliste mit der Facettierung (Einschränkungen) des UVP-Portals aufgerufen werden. Dafür muss kein Suchbegriff in die Suchzeile eingegeben werden.
 
-.. image:: ../img-ige-ng/portal/portal_suche_1.png
-.. image:: ../img-ige-ng/portal/portal_suche_2.png
+.. figure:: ../img-ige-ng/portal/portal_suche_1.png
+   :alt: Portal - Startseite - UVP Logo mit Icons
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+
+.. figure:: ../img-ige-ng/portal/portal_suche_2.png
+   :alt: Portal - Startseite - Suchfeld
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Suche
 
@@ -17,7 +27,12 @@ Karte
 
 Über *KARTE* kann die Kartenanwendung im UVP-Portal geöffnet werden.
 
-.. image:: ../img-ige-ng/portal/portal_suche_1.png
+.. figure:: ../img-ige-ng/portal/portal_suche_1.png
+   :alt: Portal - Startseite - Symbol Karte
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
 
 Abb.: Portal - Startseite - Karte
 
@@ -27,7 +42,11 @@ Ankündigungen
 
 Auf der Startseite des UVP-Portals haben die Entwickler die Möglichkeit rot umrandete Meldungen anzuzeigen, z.B. dass in Kürze ein neues Update eingespielt wird und dass es zu Unterbrechungen der Erreichbarkeit kommen kann.
 
-.. image:: ../img-ige-ng/portal/portal_ankuendigungen.png
+.. figure:: ../img-ige-ng/portal/portal_ankuendigungen.png
+   :alt: Portal - Startseite - Feld für Ankündigungen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Ankündigungen
 
@@ -37,12 +56,20 @@ Menüpunkt Behörden
 
 Über den Menüpunkt *Behörden* kann die Liste der Verfahrensführenden Behörden aufgerufen werden.
 
-.. image:: ../img-ige-ng/portal/portal_menue.png
+.. figure:: ../img-ige-ng/portal/portal_menue.png
+   :alt: Portal - Startseite - Menüpunkt Behörden
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Menüpunkt Behörden
 
 
-.. image:: ../img-ige-ng/portal/portal_behoerden.png
+.. figure:: ../img-ige-ng/portal/portal_behoerden.png
+   :alt: Portal - Startseite - Verfahrensführende Behörden
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Verfahrensführende Behörden
 
@@ -52,7 +79,11 @@ Vorhaben im Überblick
 
 An dieser Stelle werden die aktuellsten Vorhaben angezeigt.
 
-.. image:: ../img-ige-ng/portal/portal_ueberblick.png
+.. figure:: ../img-ige-ng/portal/portal_ueberblick.png
+   :alt: Portal - Startseite - Vorhaben im Überblick
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Überblick
 
@@ -62,17 +93,29 @@ Kategorien, Verfahrenstypen, Bundesländer
 
 Über die Navigationspunkte *KATEGORIEN, VERFAHRENSTYPEN und BUNDESLÄNDER* können unterschiedliche Einstiegspunkte für die Recherche nach Vorhaben gewählt werden. 
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_kategorien.png
+.. figure:: ../img-ige-ng/portal/portal_auswahl_kategorien.png
+   :alt: Portal - Startseite - Auswahl der UVP-Kategorien
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Portal - Startseite - Auswahl - Kategorien
+Abb.: Portal - Startseite - Auswahl der UVP-Kategorien
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_verfahrenstypen.png
+.. figure:: ../img-ige-ng/portal/portal_auswahl_verfahrenstypen.png
+   :alt: Portal - Startseite - Auswahl der Verfahrenstypen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Portal - Startseite - Auswahl - Verfahrenstypen
+Abb.: Portal - Startseite - Auswahl der Verfahrenstypen
 
-.. image:: ../img-ige-ng/portal/portal_auswahl_bundeslaender.png
+.. figure:: ../img-ige-ng/portal/portal_auswahl_bundeslaender.png
+   :alt: Portal - Startseite - Auswahl der Bundesländer
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Abb.: Portal - Startseite - Auswahl - Bundesländer
+Abb.: Portal - Startseite - Auswahl der Bundesländer
 
 
 Informationen
@@ -80,7 +123,11 @@ Informationen
 
 Im Abschnitt Informationen wird über den Zweck der Umweltverträglichkeitsprüfung informiert und wie die Bürger am Entscheidungsprozess beteiligt werden. Am Ende des vollständigen Informationstextes befinden sich weiterführende Links zum Thema Umweltverträglichkeitsprüfung.
 
-.. image:: ../img-ige-ng/portal/portal_informationen.png
+.. figure:: ../img-ige-ng/portal/portal_informationen.png
+   :alt: Portal - Startseite - Informationen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Portal - Startseite - Informationen
 
@@ -90,12 +137,20 @@ Suchergebnisse
 
 Seit der Portalversion 6.0.0 werden die Wappen der Bundesländer in der Trefferliste angezeigt und in der Detaildarstellung wird in der Adresse das Bundesland angegeben, sowie das Wappen des Bundeslandes dargestellt.
 
-.. image:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
+.. figure:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
+   :alt: Trefferliste - Darstellung der Länderwappen
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Trefferliste - Darstellung der Länderwappen
 
 
-.. image:: ../img-ige-ng/portal/portal_adressen_anzeige-bundesland.png
+.. figure:: ../img-ige-ng/portal/portal_adressen_anzeige-bundesland.png
+   :alt: Adresse - Angabe des Bundeslandes und Darstellung des Wappens
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
 Abb.: Adresse - Angabe des Bundeslandes und Darstellung des Wappens
 
