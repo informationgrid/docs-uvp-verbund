@@ -25,7 +25,7 @@ Aufbau der Benutzeroberfläche
 .. figure:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    :alt: UVP-Editor - Benutzeroberfläche
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
    
 Abb.: UVP-Editor - Benutzeroberfläche
