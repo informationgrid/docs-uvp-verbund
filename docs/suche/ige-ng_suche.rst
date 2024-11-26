@@ -7,7 +7,11 @@ Suche
 Suche auf der Startseite
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../img-ige-ng/suche/ige-ng_suche_suchfeld-startseite.png
+.. figure:: ../img-ige-ng/suche/ige-ng_suche_suchfeld-startseite.png
+   :alt: Suche auf der Startseite
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Suche auf der Startseite
 
@@ -15,8 +19,11 @@ Abb.: Suche auf der Startseite
 Suche nach Vorhaben und Adressen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../img-ige-ng/suche/ige-ng_suche_verfahren.png
-   :width: 400
+.. figure:: ../img-ige-ng/suche/ige-ng_suche_verfahren.png
+   :alt: Suche nach Vorhaben und Adressen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Suche nach Vorhaben und Adressen
 
@@ -27,7 +34,11 @@ Recherche
 Erweiterte Suche
 ^^^^^^^^^^^^^^^^
 
-.. image:: ../img-ige-ng/recherche/ige-ng_recherche_erweiterte-suche.png
+.. figure:: ../img-ige-ng/recherche/ige-ng_recherche_erweiterte-suche.png
+   :alt: Erweiterte Suche
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Erweiterte Suche
 
@@ -36,7 +47,11 @@ Abb.: Erweiterte Suche
 SQL Suche
 ^^^^^^^^^
 
-.. image:: ../img-ige-ng/recherche/ige-ng_recherche_sql-suche.png
+.. figure:: ../img-ige-ng/recherche/ige-ng_recherche_sql-suche.png
+   :alt: SQL Suche
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: SQL Suche
 
@@ -45,6 +60,10 @@ Abb.: SQL Suche
 Gespeicherte Suchen
 ^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../img-ige-ng/recherche/ige-ng_recherche_gespeicherte-suche.png
+.. figure:: ../img-ige-ng/recherche/ige-ng_recherche_gespeicherte-suche.png
+   :alt: gespeicherte Suchanfragen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
-Abb.: gsepeicherte Suchanfragen
+Abb.: gespeicherte Suchanfragen
