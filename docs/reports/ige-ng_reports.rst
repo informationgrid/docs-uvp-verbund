@@ -23,7 +23,7 @@ Die Statistik kann auf folgende Angaben eingegrenzt werden:
 .. hint:: Der "Zeitbezug" bezieht sich auf das Änderungsdatum der Metadaten.
 
 .. figure:: ../img-ige-ng/reports/statistik_vorhaben.png
-
+   :alt: UVP Statistik - Vorhaben
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -32,7 +32,7 @@ Abb.: UVP Statistik - Vorhaben
 
 
 .. figure:: ../img-ige-ng/reports/statistik_adressen.png
-   
+   :alt: UVP Statistik - Adressen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -50,7 +50,7 @@ Wenn Sie eine URL ersetzen möchten, markieren Sie die zu ersetzenden URLs in de
 
 
 .. figure:: ../img-ige-ng/reports/url-pflege.png
-   
+   :alt: URL Pflege
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -70,7 +70,7 @@ Die Erreichbarkeit von Dokumenten und Verfahren kann in Echtzeit überprüft wer
 .. hint:: Die Sichtbarkeit dieses Menüpunkts hängt von den Berechtigungen der Benutzer ab.
 
 .. figure:: ../img-ige-ng/reports/monitoring.png
-   
+   :alt: UVP Monitoring
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -93,12 +93,12 @@ Im Menüpunkt "Reports" und dem Untermenü "Aktivitätsbericht" können gelösch
 
 
 .. figure:: ../img-ige-ng/reports/aktivitaetsbericht.png
-   
+   :alt: UVP Aktivitätsbericht
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: UVP Aktivitätsbericht
+Abb.: 
 
 
 UVP-Bericht
@@ -109,7 +109,7 @@ Im Bereich "UVP-Bericht" können Sie die Anzahl der abgeschlossenen Verfahren f�
 .. hint:: Bitte beachten Sie, dass Verfahren in der Tabelle doppelt gezählt werden, wenn bei Ihnen mehrere UVP-Nummern angegeben wurden.
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht.png
-   
+   :alt: UVP Bericht
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -123,7 +123,7 @@ Abgeschlossene Verfahren und negative Vorprüfungen im Strukturbaum müssen für
 
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht-herunterladen.png
-   
+   :alt: UVP-Bericht als CSV-Datei herunterladen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -132,7 +132,7 @@ Abb.: UVP-Bericht als CSV-Datei herunterladen
 
 
 .. figure:: ../img-ige-ng/reports/uvp-bericht-download.png
-
+   :alt: UVP-Bericht CSV-Download
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -147,7 +147,7 @@ UVP Upload Check
 Über den Menüpunkt "UVP UPLOAD CHECK" können Sie kontrollieren, ob alle Dokumente korrekt in den UVP Editor geladen wurden oder ob es fehlerhafte Uploads gibt.
 
 .. figure:: ../img-ige-ng/reports/upload-check.png
-
+   :alt: UVP UPLOAD CHECK - Uploads prüfen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -156,7 +156,7 @@ Abb.: UVP UPLOAD CHECK - Uploads prüfen
 
 
 .. figure:: ../img-ige-ng/reports/upload-check_alles.png
-
+   :alt: UVP UPLOAD CHECK - Alles anzeigen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -165,7 +165,7 @@ Abb.: UVP UPLOAD CHECK - Alles anzeigen
 
 
 .. figure:: ../img-ige-ng/reports/upload-check_fehler.png
-
+   :alt: UVP UPLOAD CHECK - Nur Fehler anzeigen
    :align: left
    :scale: 70
    :figwidth: 100%
