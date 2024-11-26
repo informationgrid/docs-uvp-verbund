@@ -12,7 +12,7 @@ Seit der Portalversion 6.0.0 ist in der Portalkarte der Nominatim Suchdienst von
    :alt: Suche in der Karte
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb: Nominatim (OSM) Suche in der Karte
 
@@ -21,7 +21,7 @@ Abb: Nominatim (OSM) Suche in der Karte
    :alt: Punkt in der Karte
    :align: left
    :scale: 70
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Punkt in der Karte
 
@@ -35,7 +35,7 @@ Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahls
    :alt: Legende - Auswahlschalter
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb: Legende: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
 
@@ -47,7 +47,7 @@ Zulassungsverfahren
    :alt: Karte - Layer Zulassungsverfahren
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Karte - Layer Zulassungsverfahren
 
@@ -61,7 +61,7 @@ Ob ein Bundesland negative Vorprüfungen in der Kartenansicht anzeigt oder nicht
    :alt: Karte - Layer negative Vorprüfungen
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Karte - Layer negative Vorprüfungen
 
@@ -73,7 +73,7 @@ Raumordnungsverfahren
    :alt: Karte - Layer Raumordnungsverfahren
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Karte - Layer Raumordnungsverfahren
 
@@ -85,7 +85,7 @@ Ausländische Vorhaben
    :alt: Karte - Layer Ausländische Vorhaben
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Karte - Layer Ausländische Vorhaben
 
@@ -101,6 +101,6 @@ Wenn die Bauleitplanungsdaten eines Bundeslandes in die Kartendarstellung aufgen
    :alt: Karte - Layer Bauleitplanung
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Karte - Layer Bauleitplanung
