@@ -25,7 +25,7 @@ Aufbau der Benutzeroberfläche
 .. figure:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    :alt: UVP-Editor - Benutzeroberfläche
    :align: left
-   :scale: 60
+   :scale: 40
    :figwidth: 100%
    
 Abb.: UVP-Editor - Benutzeroberfläche
@@ -108,7 +108,7 @@ Menü
 .. figure:: ../img-ige-ng/editor/ige-ng_menue.png
    :alt: Menü Symbole mit Beschriftung
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
@@ -117,7 +117,7 @@ Abb.: Menü Symbole mit Beschriftung
 .. figure:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
    :alt: Menü verkleinern
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
    
 Abb.: Menü verkleinern
@@ -126,7 +126,7 @@ Abb.: Menü verkleinern
 .. figure:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
    :alt: Menü (verkleinernert) - Symbole
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
    
 Abb.: Menü (verkleinernert) - Symbole
@@ -135,7 +135,7 @@ Abb.: Menü (verkleinernert) - Symbole
 .. figure:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
    :alt: Menü erweitern
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
    
 Abb.: Menü erweitern
@@ -149,7 +149,7 @@ Symbolleiste
 .. figure:: ../img-ige-ng/editor/ige-ng_toolbar.png
    :alt: Symbolleiste
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
    
 Abb.: Symbolleiste
@@ -172,7 +172,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 .. figure:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
    :alt: Symbolleiste - Untermenü für Kopieren / Verschieben
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
@@ -242,7 +242,7 @@ Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Date
 .. figure:: ../img-ige-ng/editor/ige-ng_speichern.png
    :alt: Speichern
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Speichern
@@ -253,7 +253,7 @@ Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet fr
 .. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
    :alt: Veröffentlichen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Veröffentlichen
@@ -269,6 +269,7 @@ Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflicht
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
+
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
 
 
@@ -279,6 +280,7 @@ Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die F
    :figwidth: 100%
 
 Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
+
 
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
@@ -302,6 +304,7 @@ Abb.: VERÖFFENTLICHEN
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+
    
 .. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
    :alt: Dialogfenster - Auswahl für Veröffentlichungsdatum
@@ -310,6 +313,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
+
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
@@ -320,6 +324,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
    :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+
 
 Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
@@ -355,7 +360,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_meldung.png
    :alt: Meldung: Das Dokument wurde veröffentlicht
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
@@ -369,7 +374,7 @@ Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei 
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen.png
    :alt: Funktion Veröffentlichung planen - Angabe eines Datums
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
@@ -378,7 +383,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
    :alt: Meldung für die geplante Veröffentlichung
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
@@ -387,7 +392,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
    :alt: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
@@ -401,7 +406,7 @@ Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben ein
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
    :alt: Auf letzte Veröffentlichung zurücksetzen
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
@@ -424,7 +429,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
    :alt: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
@@ -533,7 +538,7 @@ Soll der UVP-Editor beendet werden, muss auf der Seite (oben rechts) der Punkt f
 .. figure:: ../img-ige-ng/editor/ige-ng_abmeldung.png
    :alt: Profilverwaltung mit Button "ABMELDEN"
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Profilverwaltung mit Button "ABMELDEN"
