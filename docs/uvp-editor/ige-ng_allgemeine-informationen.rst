@@ -10,7 +10,11 @@ UVP-Editor im Ausgangszustand
  
 Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden Verfahren bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Daten sich in Bearbeitung befinden und wie viele veröffentlicht sind.
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
+   :alt: Übersicht
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Übersicht
 
@@ -18,7 +22,11 @@ Abb.: Übersicht
 Aufbau der Benutzeroberfläche
 -----------------------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
+.. figure:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
+   :alt: UVP-Editor - Benutzeroberfläche
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: UVP-Editor - Benutzeroberfläche
 
@@ -34,13 +42,19 @@ Strukturierung der Daten
 
 Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
-.. image:: ../img-ige-ng/editor/ige-ng_icon_ordner.png
-   :width: 50
+.. figure:: ../img-ige-ng/editor/ige-ng_icon_ordner.png
+   :alt: UVP-Editor - Ordnersymbol im Eingabeformular
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
 
-.. image:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
+   :alt: UVP-Editor - Aufbau der Ordnerstruktur
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: UVP-Editor - Aufbau der Ordnerstruktur
 
@@ -54,15 +68,21 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 
 **Vorhaben**
 
-.. image:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
+   :alt: Vorhabentypen in der Ordnerstruktur
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Vorhabentypen in der Ordnerstruktur
 
 **Adressen**
 
-.. image:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
+   :alt: Adresstypen in der Ordnerstruktur
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Adresstypen in der Ordnerstruktur
 
@@ -77,33 +97,48 @@ Neben dem Verfahrens- bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweil
     :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. image:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
-    .. image:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Vorhabens bzw. der Adresse - der Datensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
+    .. figure:: ../img-ige-ng/editor/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. figure:: ../img-ige-ng/editor/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
+    .. figure:: ../img-ige-ng/editor/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Vorhabens bzw. der Adresse - der Datensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
 Menü
 ----
 
-.. image:: ../img-ige-ng/editor/ige-ng_menue.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_menue.png
+   :alt: Menü Symbole mit Beschriftung
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
 
-.. image:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
-   :width: 150
+
+.. figure:: ../img-ige-ng/editor/ige-ng_menu_verkleinern.png
+   :alt: Menü verkleinern
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Menü verkleinern
 
-.. image:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
-   :height: 300
+
+.. figure:: ../img-ige-ng/editor/ige-ng_menue_verkleinert.png
+   :alt: Menü (verkleinernert) - Symbole
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Menü (verkleinernert) - Symbole
 
-.. image:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
-   :width: 50
+
+.. figure:: ../img-ige-ng/editor/ige-ng_menue_vergroessern.png
+   :alt: Menü erweitern
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
-Abb.: Menü vergrößern
+Abb.: Menü erweitern
 
 
 
@@ -111,8 +146,11 @@ Abb.: Menü vergrößern
 Symbolleiste
 ------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_toolbar.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_toolbar.png
+   :alt: Symbolleiste
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Symbolleiste
 
@@ -122,19 +160,22 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
-    .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
-	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-    .. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
-	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
-	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
-	.. image:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
+    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
+	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
+    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
+	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
+	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
-   :width: 200
+.. figure:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
+   :alt: Symbolleiste - Untermenü für Kopieren / Verschieben
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
-Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
+Abb.: 
 
 
 
@@ -143,7 +184,11 @@ Eingabefelder
 
 Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
 
-.. image:: ../img-ige-ng/editor/ige-ng_felder.png
+.. figure:: ../img-ige-ng/editor/ige-ng_felder.png
+   :alt: Eingabefelder mit * sind Pflichtfelder
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
 
@@ -157,8 +202,11 @@ Unterschiedliche Feldtypen
 Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_textfeld.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_feldtyp_textfeld.png
+   :alt: Feldtyp - Textfeld
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.:  Feldtyp - Textfeld
 
@@ -175,8 +223,11 @@ Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufge
 
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../img-ige-ng/editor/ige-ng_feldtyp_auswahl.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_feldtyp_auswahl.png
+   :alt: Feldtyp - Auswahl
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Feldtyp - Auswahl
 
@@ -188,32 +239,44 @@ Im UVP-Editor werden zwei Speicherarten unterschieden:
 
 Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur in der Ordnerstruktur des UVP-Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
-.. image:: ../img-ige-ng/editor/ige-ng_speichern.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_speichern.png
+   :alt: Speichern
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Speichern
 
 
 Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
+   :alt: Veröffentlichen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Veröffentlichen
 
 
 Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons "VERÖFFENTLICHEN" eine Fehlermeldung und die Überschriften der entsprechenden Felder werden in rot angezeigt. 
 
-.. image:: ../img-ige-ng/editor/ige-ng_fehler_felder-korrekt-ausfuellen.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_fehler_felder-korrekt-ausfuellen.png
+   :alt: Hinweis - Alle Pflichtfelder ausfüllen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_meldungen_ein-eintrag-erwartet.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_meldungen_ein-eintrag-erwartet.png
+   :alt: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
 
@@ -223,26 +286,38 @@ Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mi
 Zeitgesteuerte Veröffentlichung
 -------------------------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichen.png
+   :alt: VERÖFFENTLICHEN
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: VERÖFFENTLICHEN
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung-planen-kalender.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsdatum
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
-.. image:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
+   :alt: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
@@ -254,8 +329,11 @@ Optionen für die Veröffentlichung
    
 Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
-   :width: 300
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
+   :alt: Fenster mit Optionen für die Veröffentlichung
+   :align: left
+   :scale: 80
+   :figwidth: 100%
    
 Abb.: Fenster mit Optionen für die Veröffentlichung
    
@@ -265,12 +343,20 @@ Option: "Jetzt veröffentlichen"
 
 Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität.
 
-.. image:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
-   :width: 500
+.. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_meldung.png
+
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_meldung.png
+   :alt: Meldung: Das Dokument wurde veröffentlicht
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
@@ -280,18 +366,29 @@ Option: "Veröffentlichung planen"
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen.png
-   :width: 300
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen.png
+   :alt: Funktion Veröffentlichung planen - Angabe eines Datums
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
    
    
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
+   :alt: Meldung für die geplante Veröffentlichung
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
 
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+   :alt: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 
@@ -301,7 +398,11 @@ Option: "Auf letzte Veröffentlichung zurücksetzten"
 
 Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+   :alt: Auf letzte Veröffentlichung zurücksetzen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
 
@@ -311,12 +412,20 @@ Option: "Veröffentlichung zurückziehen"
 
 Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+   :alt: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
-.. image:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+.. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+   :alt: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
 
@@ -326,27 +435,40 @@ Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wu
 Dokumente bearbeiten
 --------------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_dokumente_bearbeiten.png
+.. figure:: ../img-ige-ng/editor/ige-ng_dokumente_bearbeiten.png
+   :alt: Dokumente - Bearbeiten
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dokumente - Bearbeiten
 
 Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_editor_auswahl.png
+   :alt: Dokumente - Bearbeiten - Checkbox "Auswahl"
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_editor_alle-auswaehlen.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_editor_alle-auswaehlen.png
+   :alt: Dokumente - Bearbeiten - Alle Dokumente auswählen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_editor_ausgewaehlte-kopieren.png
-   :width: 400
+.. figure:: ../img-ige-ng/editor/ige-ng_editor_ausgewaehlte-kopieren.png
+   :alt: Dokumente - Bearbeiten - Dokumente auswählen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Dokumente - Bearbeiten - Dokumente auswählen
 
@@ -363,12 +485,20 @@ Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter 
 Metadaten anzeigen
 ------------------
 
-.. image:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-anzeigen.png
+.. figure:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-anzeigen.png
+   :alt: Vorhaben - Metadaten anzeigen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Vorhaben - Metadaten anzeigen
 
 
-.. image:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-ansicht.png
+.. figure:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-ansicht.png
+   :alt: Vorhaben - Metadaten
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Vorhaben - Metadaten
 
@@ -378,13 +508,20 @@ Besuchszeit ist abgelaufen (Logout)
 
 Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
-.. image:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
+   :alt: Countdown für den Logout und "Session-refresh-Button"
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
 
-.. image:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
-   :width: 400
+
+.. figure:: ../img-ige-ng/meldungen/ige-ng_fehler_timeout.png
+   :alt: Meldung - Besuchszeit abgelaufen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Meldung - Besuchszeit abgelaufen
 
@@ -396,7 +533,10 @@ UVP-Editor schließen
 
 Soll der UVP-Editor beendet werden, muss auf der Seite (oben rechts) der Punkt für die Profilverwaltung betätigt werden.
 
-.. image:: ../img-ige-ng/editor/ige-ng_abmeldung.png
-   :width: 300
+.. figure:: ../img-ige-ng/editor/ige-ng_abmeldung.png
+   :alt: Profilverwaltung mit Button "ABMELDEN"
+   :align: left
+   :scale: 80
+   :figwidth: 100%
 
 Abb.: Profilverwaltung mit Button "ABMELDEN"
