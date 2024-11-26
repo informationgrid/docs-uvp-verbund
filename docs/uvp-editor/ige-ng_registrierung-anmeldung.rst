@@ -19,7 +19,7 @@ Wenn Sie die Zugangsdaten bekommen haben und als Benutzer registriert sind, kön
 
 Abb.: UVP-Editor - Anmeldung
 
-**Hinweis:** In der neuen UVP Software wird nach der Anmeldung direkt der Editor mit der Übersichtsseite geöffnet, weitere Klicks entfallen.
+.. hint:: In der neuen UVP Software wird nach der Anmeldung direkt der Editor mit der Übersichtsseite geöffnet, weitere Klicks entfallen.
 
 
 Passwort vergessen
@@ -69,7 +69,7 @@ Abb.: E-Mail Versand Bestätigung
 .. figure:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_e-mail.png
    :alt: E-Mail mit Anweisungen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: E-Mail mit Anweisungen
@@ -81,7 +81,7 @@ Abb.: E-Mail mit Anweisungen
 .. figure:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_passwort-aendern.png
    :alt: Passwort aktualisieren 
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf die Passworteigenschaften.
@@ -93,7 +93,7 @@ Abb.: Passwort aktualisieren - Folgen Sie der Passwortrichtlinie, achten Sie auf
 .. figure:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_aktion-nicht-mehr-gueltig.png
    :alt: Passwort vergessen Vorgang
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Aktion nicht mehr gültig
