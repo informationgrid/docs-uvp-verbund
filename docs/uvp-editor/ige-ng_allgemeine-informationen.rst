@@ -71,7 +71,7 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 .. figure:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
    :alt: Vorhabentypen in der Ordnerstruktur
    :align: left
-   :scale: 60
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Vorhabentypen in der Ordnerstruktur
@@ -493,7 +493,7 @@ Metadaten anzeigen
 .. figure:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-anzeigen.png
    :alt: Vorhaben - Metadaten anzeigen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vorhaben - Metadaten anzeigen
@@ -502,7 +502,7 @@ Abb.: Vorhaben - Metadaten anzeigen
 .. figure:: ../img-ige-ng/editor/ige-ng_vorhaben_metadaten-ansicht.png
    :alt: Vorhaben - Metadaten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vorhaben - Metadaten
