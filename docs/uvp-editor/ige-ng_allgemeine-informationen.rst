@@ -13,7 +13,7 @@ Nach dem Laden des UVP-Editors wird die Übersicht angezeigt. Dargestellt werden
 .. figure:: ../img-ige-ng/allgemein/ige-ng_uebersicht.png
    :alt: Übersicht
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Übersicht
@@ -25,7 +25,7 @@ Aufbau der Benutzeroberfläche
 .. figure:: ../img-ige-ng/editor/ige-ng_benutzeroberflaeche.png
    :alt: UVP-Editor - Benutzeroberfläche
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
    
 Abb.: UVP-Editor - Benutzeroberfläche
@@ -53,7 +53,7 @@ Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
 .. figure:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :alt: UVP-Editor - Aufbau der Ordnerstruktur
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
    
 Abb.: UVP-Editor - Aufbau der Ordnerstruktur
@@ -71,7 +71,7 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 .. figure:: ../img-ige-ng/editor/ige-ng_icons-typen-vorhaben.png
    :alt: Vorhabentypen in der Ordnerstruktur
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Vorhabentypen in der Ordnerstruktur
@@ -81,7 +81,7 @@ Abb.: Vorhabentypen in der Ordnerstruktur
 .. figure:: ../img-ige-ng/editor/ige-ng_icons-adressen.png
    :alt: Adresstypen in der Ordnerstruktur
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Adresstypen in der Ordnerstruktur
@@ -108,7 +108,7 @@ Menü
 .. figure:: ../img-ige-ng/editor/ige-ng_menue.png
    :alt: Menü Symbole mit Beschriftung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
@@ -149,7 +149,7 @@ Symbolleiste
 .. figure:: ../img-ige-ng/editor/ige-ng_toolbar.png
    :alt: Symbolleiste
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
    
 Abb.: Symbolleiste
@@ -172,10 +172,10 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 .. figure:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
    :alt: Symbolleiste - Untermenü für Kopieren / Verschieben
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
-Abb.: 
+Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 
 
 
@@ -187,7 +187,7 @@ Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können,
 .. figure:: ../img-ige-ng/editor/ige-ng_felder.png
    :alt: Eingabefelder mit * sind Pflichtfelder
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
@@ -242,7 +242,7 @@ Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Date
 .. figure:: ../img-ige-ng/editor/ige-ng_speichern.png
    :alt: Speichern
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Speichern
@@ -264,7 +264,7 @@ Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflicht
 .. figure:: ../img-ige-ng/editor/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :alt: Hinweis - Alle Pflichtfelder ausfüllen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
@@ -298,7 +298,7 @@ Abb.: VERÖFFENTLICHEN
 .. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
@@ -316,7 +316,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
 .. figure:: ../img-ige-ng/editor/ige-ng_anzeige-veroeffentlichung.png
    :alt: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
@@ -332,7 +332,7 @@ Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen 
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_planen.png
    :alt: Fenster mit Optionen für die Veröffentlichung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Fenster mit Optionen für die Veröffentlichung
@@ -346,7 +346,7 @@ Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die se
 .. figure:: ../img-ige-ng/editor/ige-ng_veroeffentlichung.png
    :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
@@ -355,7 +355,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_meldung.png
    :alt: Meldung: Das Dokument wurde veröffentlicht
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
@@ -378,7 +378,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
    :alt: Meldung für die geplante Veröffentlichung
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
@@ -387,7 +387,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
    :alt: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
@@ -401,7 +401,7 @@ Wurde ein Vorhaben veröffentlicht und danach eine Änderung in das Vorhaben ein
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
    :alt: Auf letzte Veröffentlichung zurücksetzen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
@@ -415,7 +415,7 @@ Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
    :alt: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
@@ -424,7 +424,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 .. figure:: ../img-ige-ng/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
    :alt: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
@@ -509,10 +509,7 @@ Besuchszeit ist abgelaufen (Logout)
 Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem UVP-Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
 .. figure:: ../img-ige-ng/editor/ige-ng_editor_countdown.png
-   :alt: Countdown für den Logout und "Session-refresh-Button"
-   :align: left
-   :scale: 80
-   :figwidth: 100%
+
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
 
