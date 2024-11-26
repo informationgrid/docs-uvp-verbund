@@ -11,7 +11,7 @@ Seit der Portalversion 6.0.0 ist in der Portalkarte der Nominatim Suchdienst von
 .. figure:: ../img-ige-ng/karte/karte_nominatim_suche_1.png
    :alt: Suche in der Karte
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb: Nominatim (OSM) Suche in der Karte
@@ -34,7 +34,7 @@ Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahls
 .. figure:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
    :alt: Legende - Auswahlschalter
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb: Legende: Auswahlschalter "Nur aktuelle: ein/aus" (Zeitraum: letztes Jahr)
@@ -46,7 +46,7 @@ Zulassungsverfahren
 .. figure:: ../img-ige-ng/karte/karte_layer-zulassungsverfahren.png
    :alt: Karte - Layer Zulassungsverfahren
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Karte - Layer Zulassungsverfahren
@@ -60,7 +60,7 @@ Ob ein Bundesland negative Vorprüfungen in der Kartenansicht anzeigt oder nicht
 .. figure:: ../img-ige-ng/karte/karte_layer-negative-vorpruefungen.png
    :alt: Karte - Layer negative Vorprüfungen
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Karte - Layer negative Vorprüfungen
@@ -72,7 +72,7 @@ Raumordnungsverfahren
 .. figure:: ../img-ige-ng/karte/karte_layer-raumordnungsverfahren.png
    :alt: Karte - Layer Raumordnungsverfahren
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Karte - Layer Raumordnungsverfahren
@@ -84,7 +84,7 @@ Ausländische Vorhaben
 .. figure:: ../img-ige-ng/karte/karte_layer-auslaendische-vorhaben.png
    :alt: Karte - Layer Ausländische Vorhaben
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Karte - Layer Ausländische Vorhaben
@@ -100,7 +100,7 @@ Wenn die Bauleitplanungsdaten eines Bundeslandes in die Kartendarstellung aufgen
 .. figure:: ../img-ige-ng/karte/karte_layer-bauleitplanung.png
    :alt: Karte - Layer Bauleitplanung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Karte - Layer Bauleitplanung
