@@ -69,7 +69,7 @@ Abb.: E-Mail Versand Bestätigung
 .. figure:: ../img-ige-ng/portal/uvp-portal_link-passwort-vergessen_e-mail.png
    :alt: E-Mail mit Anweisungen
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: E-Mail mit Anweisungen
