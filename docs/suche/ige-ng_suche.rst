@@ -37,7 +37,7 @@ Erweiterte Suche
 .. figure:: ../img-ige-ng/recherche/ige-ng_recherche_erweiterte-suche.png
    :alt: Erweiterte Suche
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
    
 Abb.: Erweiterte Suche
