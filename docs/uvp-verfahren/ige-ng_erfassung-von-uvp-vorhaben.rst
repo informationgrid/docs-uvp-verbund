@@ -680,5 +680,20 @@ Abb.: Option Verfahrensschritt löschen
 PDF erzeugen, Drucken, Druckvorschau
 ------------------------------------
 
-Für eine spätere Version des neuen UVP-Editors ist eine PDF Generierung für Vorhaben vorgesehen.
-Wann diese Funktionalität bereitgestellt wird, steht derzeit noch nicht fest.
+.. figure:: ../img-ige-ng/allgemein/symbol_druckvorschau.png
+   :alt: Symbol Vorschau
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Symbol Vorschau
+
+Über das Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll.
+
+.. figure:: ../img-ige-ng/allgemein/vorschau.png
+   :alt: Vorschau
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Vorschau / Druckversion
