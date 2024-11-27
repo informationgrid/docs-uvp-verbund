@@ -694,6 +694,6 @@ Abb.: Symbolleiste - Symbol Vorschau
    :alt: Vorschau
    :align: left
    :scale: 50
-   :figwidt6: 100%
+   :figwidt: 100%
 
 Abb.: Vorschau / Druckversion
