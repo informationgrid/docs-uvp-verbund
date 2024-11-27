@@ -43,7 +43,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
    :alt: Eingabemaske für Adressen
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Eingabemaske für Adressen
