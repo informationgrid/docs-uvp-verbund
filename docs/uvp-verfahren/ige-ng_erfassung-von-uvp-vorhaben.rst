@@ -607,12 +607,12 @@ Neben den Hochladen von einzelnen Dokumenten, besteht auch die Möglichkeit alle
 
 Wurden die Dateien schon einmal hochgeladen, zeigt der Editor verschiedene Optionen an, wie weiter verfahren werden kann.
 
-.. hint:: Es können Einzeldateien von bis zu 1.5 GB hochgeladen werden. Alle Dateien eines Verfahrens dürfen 10 GB nicht überschreiten.
+.. hint:: Es können Einzeldateien von bis zu 1.5 GB in den Editor geladen werden. Alle Dateien eines Verfahrens dürfen 10 GB nicht überschreiten.
 
 .. figure:: ../img-ige-ng/meldungen/ige-ng_datei-vorhanden_optionen.png
    :alt: Meldung - Die Datei existiert bereits 
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN oder EXISTIERENDE VERWENDEN
@@ -621,7 +621,7 @@ Abb.: Meldung: Die Datei existiert bereits. Optionen: ÜBERSCHREIBEN, UMBENENNEN
 .. figure:: ../img-ige-ng/meldungen/ige-ng_konflikt_optionen.png
    :alt: Dialogfenster Konflikt
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dialogfenster Konflikt: Es trat ein Konflikt beim extrahieren der ZIP-Datei auf, was möchten Sie tun? Optionen: ÜBERSCHREIBEN oder UMBENENNEN
@@ -646,7 +646,7 @@ In der Zeile des Eintrages erscheinen rechts drei Punkte, werden diese betätigt
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_link-bearbeiten.png
    :alt: Verlinkung bearbeiten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Verlinkung bearbeiten
