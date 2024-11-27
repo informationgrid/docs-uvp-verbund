@@ -156,7 +156,7 @@ Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich 
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
    :alt: Raumbezug hinzufügen
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Raumbezug hinzufügen
@@ -167,7 +167,7 @@ Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" ei
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
    :alt: Raumbezug - nach Orten suchen
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Raumbezug - nach Orten suchen
@@ -306,7 +306,7 @@ Abb.: Felder in Abschnitt Öffentliche Auslegung
 Abb.: Eintragung des Zeitraums der Auslegung von/bis (Pflichtfeld)
 
 
-..important:: Genau in diesen Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.
+.. important:: Genau in diesen Zeitraum müssen die Unterlagen auch im UVP-Portal zu lesen sein. Die nach dem UVPG auszulegenden Unterlagen können auch danach im UVP-Portal lesbar bleiben. Die Lesbarkeit wird durch die Eingabe des Auslegungszeitraums nicht beeinflusst.
 
 *Beispiel: von: 26.09.2022 bis: 24.10.2022*
 
@@ -351,7 +351,7 @@ Beispiel: 170719 A26O1 Amtl. Anz Auslegung
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_aktion.png
    :alt: Gültig bis Datum
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Aktion - Gültig bis - Datum eintragen
@@ -371,7 +371,7 @@ Abb.: Datum wählen
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_bearbeiten.png
    :alt: Menü Bearbeiten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Menü Bearbeiten / Aktion
@@ -481,7 +481,7 @@ Verfahrensschritt - Erörterungstermin
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_eroerterungstermin.png
    :alt: Felder im Abschnitt Erörterungstermin
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Felder im Abschnitt Erörterungstermin
@@ -490,7 +490,7 @@ Abb.: Felder im Abschnitt Erörterungstermin
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_eroerterungstermin.png
    :alt: Zeitraum der Erörterung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Zeitraum der Erörterung
