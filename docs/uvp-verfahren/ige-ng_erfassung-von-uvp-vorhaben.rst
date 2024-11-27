@@ -683,7 +683,7 @@ Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
 .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png
    :alt: Symbol Vorschau
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste - Symbol Vorschau
