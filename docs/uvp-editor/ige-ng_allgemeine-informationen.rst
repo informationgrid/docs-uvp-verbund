@@ -171,7 +171,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 .. figure:: ../img-ige-ng/editor/ige-ng_toolbar_submenue.png
    :alt: Symbolleiste - Untermenü für Kopieren / Verschieben
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
@@ -208,7 +208,7 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 Abb.:  Feldtyp - Textfeld
 
-In Textfeldern dürfen die folgenden Tags verwendet werden:
+.. hint:: In Textfeldern dürfen die folgenden Tags verwendet werden:
 <b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
 
 **Datumsangaben**
