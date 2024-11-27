@@ -678,7 +678,7 @@ Abb.: Option Verfahrensschritt löschen
 
 
 Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
-``````````````````````````````````````````````````````
+`````````````````````````````````````````````````````
 
 .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png
    :alt: Symbol Vorschau
@@ -686,7 +686,7 @@ Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
    :scale: 60
    :figwidth: 100%
 
-Abb.: Symbolleiste - Symbol Vorschau
+Abb.: Symbol Vorschau
 
 Über dieses Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll (sofern die Funktionalität im Druckdialog vorhanden ist).
 
