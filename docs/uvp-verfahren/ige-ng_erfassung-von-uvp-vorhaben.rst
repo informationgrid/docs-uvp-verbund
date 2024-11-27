@@ -11,7 +11,7 @@ Zulassungsverfahren, Raumordnungsverfahren + Linienbestimmung, Ausländische Vor
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_icons-typen.png
    :alt: Verfahrenstypen
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Verfahrenstypen
@@ -45,7 +45,7 @@ Abschnitt – Allgemein
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_neuen-datensatz-anlegen.png
    :alt: Eingabefeld Titel
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Eingabefeld: Titel - Eingabe einer kurzen und prägnanten Bezeichnung des Verfahrens
@@ -360,7 +360,7 @@ Abb.: Aktion - Gültig bis - Datum eintragen
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_fenster_eintag-bearbeiten.png
    :alt: Datum wählen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Datum wählen
