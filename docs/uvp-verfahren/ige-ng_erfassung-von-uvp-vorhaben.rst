@@ -677,8 +677,8 @@ Soll ein Verfahrensschritt gelöscht werden, so müssen die drei Punkte (auf der
 Abb.: Option Verfahrensschritt löschen
 
 
-PDF erzeugen, Drucken, Druckvorschau
-------------------------------------
+Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
+-----------------------------------------------------
 
 .. figure:: ../img-ige-ng/allgemein/symbol_druckvorschau.png
    :alt: Symbol Vorschau
@@ -688,12 +688,12 @@ PDF erzeugen, Drucken, Druckvorschau
 
 Abb.: Symbol Vorschau
 
-Über das Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll.
+Über das Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll (sofern die Funktionalität im Druckdialog vorhanden ist).
 
 .. figure:: ../img-ige-ng/allgemein/vorschau.png
    :alt: Vorschau
    :align: left
-   :scale: 80
-   :figwidth: 100%
+   :scale: 50
+   :figwidt6: 100%
 
 Abb.: Vorschau / Druckversion
