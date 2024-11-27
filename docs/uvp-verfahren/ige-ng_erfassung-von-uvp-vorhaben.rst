@@ -680,7 +680,7 @@ Abb.: Option Verfahrensschritt löschen
 Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
 -----------------------------------------------------
 
-.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion
+.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png
    :alt: Symbol Vorschau
    :align: left
    :scale: 80
