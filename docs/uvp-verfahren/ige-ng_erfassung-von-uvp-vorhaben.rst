@@ -11,7 +11,7 @@ Zulassungsverfahren, Raumordnungsverfahren + Linienbestimmung, Ausländische Vor
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_icons-typen.png
    :alt: Verfahrenstypen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Verfahrenstypen
@@ -26,7 +26,7 @@ Die Vorhaben werden in der Ordnerstruktur des UVP-Editors verwaltet. Für eine e
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_vorhaben_ordner-erstellen.png
    :alt: Neues Vorhaben oder neuen Ordner anlegen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste: neues Vorhaben oder neuen Ordner anlegen (+)
@@ -56,7 +56,7 @@ Abb.: Eingabefeld: Titel - Eingabe einer kurzen und prägnanten Bezeichnung des 
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_eingabefeld_vorhabenbeschreibung.png
    :alt: Eingabefeld Allgemeine Vorhabenbeschreibung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Eingabefeld: Allgemeine Vorhabenbeschreibung
@@ -156,7 +156,7 @@ Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich 
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
    :alt: Raumbezug hinzufügen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezug hinzufügen
@@ -167,7 +167,7 @@ Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" ei
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
    :alt: Raumbezug - nach Orten suchen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezug - nach Orten suchen
@@ -203,7 +203,7 @@ Abb.: Freier Raumbezug und BoundingBox
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_bearbeiten.png
    :alt: Raumbezug bearbeiten
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezug bearbeiten
@@ -217,7 +217,7 @@ Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte k
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_eingang-des-antrags.png
    :alt: Auswahlfeld Eingang des Antrags
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahlfeld: Eingang des Antrags
@@ -232,7 +232,7 @@ Angabe des Datums des Antragseingangs.
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern.png
    :alt: Auswahlfeld UVP-Nummer
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahlfeld: UVP-Nummer
@@ -241,7 +241,7 @@ Abb.: Auswahlfeld: UVP-Nummer
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_uvp-nummern_auswahl.png
    :alt: Auswahlliste UVP-Nummern
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahlliste: UVP-Nummern
@@ -277,7 +277,7 @@ Soll einem Vorhaben ein weiterer Verfahrensschritt hinzu gefügt werden, dann mu
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-hinzufuegen_auswahl.png
    :alt: Auswahlmenü der Verfahrensschritte
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahlmenü der Verfahrensschritte
@@ -289,7 +289,7 @@ Verfahrensschritt - Öffentliche Auslegung
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_oeffentliche-auslegung.png
    :alt: Felder in Abschnitt Öffentliche Auslegung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Felder in Abschnitt Öffentliche Auslegung
@@ -321,7 +321,7 @@ Wenn diese Checkbox aktiviert ist, werden die Dokumente in der oberen Tabelle er
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_mit-beginn-des-auslegungszeitraumes-veroeffentlichen.png
    :alt: Checkbox Erst mit Beginn des Auslegungszeitraumes veröffentlichen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Checkbox - Erst mit Beginn des Auslegungszeitraumes veröffentlichen
@@ -383,7 +383,7 @@ Für das Bearbeiten eines hochgeladenen Dokumentes, auf der rechten Seite auf di
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokument-upload_bearbeiten-funktionen.png
    :alt: Sortierfunktion
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Sortierfunktion (sechs Punkte)
@@ -397,7 +397,7 @@ Soll die Reihenfolge der hochgeladenen Dokument geändert werden, dann müssen m
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_pflichtfelder.png
    :alt: Feld UVP Bericht, Antragsunterlagen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld - UVP Bericht / Antragsunterlagen
@@ -416,7 +416,7 @@ Es besteht die Möglichkeit, gepackte Dateien in das UVP-Portal zuladen. Dazu mu
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_hochladen-zip.png
    :alt: Dialog Dateien hochladen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dialog Datei(en) hochladen mit Schalter für das Entpacken von ZIP-Dateien
@@ -427,7 +427,7 @@ Der Name der ZIP Datei bleibt erhalten, die Ordnerstrukturen bleiben erhalten un
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_liste.png
    :alt: Auflistung UVP Bericht/Antragsunterlagen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auflistung UVP Bericht/Antragsunterlagen mit entpackten Dateien
@@ -441,7 +441,7 @@ Im Portal erfolgt die Darstellung hierarchisch, die Struktur innerhalb des ZIP-A
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_berichte.png
    :alt: Auflistung der Berichte und Empfehlungen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auflistung der Berichte und Empfehlungen
@@ -462,7 +462,7 @@ Beispiel: 2022-06-29 Zustandsanalyse FFH-Gebiet Oberes Hochtal
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_dokumente_weitere-unterlagen.png
    :alt: Auflistung weiterer Unterlagen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auflistung weiterer Unterlagen
@@ -527,7 +527,7 @@ Verfahrensschritt - Entscheidung über die Zulassung
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_abschnitt_entscheidung-ueber-zulassung.png
    :alt: Felder im Abschnitt Entscheidung über die Zulassung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Felder im Abschnitt Entscheidung über die Zulassung
@@ -538,7 +538,7 @@ Datum der Entscheidung (Pflichtfeld)
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_felder_datum-der-entscheidung.png
    :alt: Feld Datum der Entscheidung
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld Datum der Entscheidung
@@ -585,7 +585,7 @@ In der Spalte „Gültig bis“ kann im Format TT.MM.JJJJ eingegeben werden, bis
 Beispiel: 2021-05-25_Bekanntmachung-Entscheidung_WKA-Erxleben
 
 
-Dateien hochladen & Verfahrensschritt löschen
+Dateien in den Editor laden & Verfahrensschritt löschen
 `````````````````````````````````````````````
 
 **Dateien hochladen**
