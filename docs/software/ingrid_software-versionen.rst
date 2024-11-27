@@ -5,7 +5,7 @@ UVP Editor - Version
 
 **Version der Bedienungsanleitung**
 
- - letzte Änderung: 26.11.2024
+ - letzte Änderung: 27.11.2024
  - Status: in Bearbeitung
 
 
