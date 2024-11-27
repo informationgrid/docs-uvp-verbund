@@ -3,7 +3,7 @@
 Reports erstellen
 ==================
 
-.. hint:: Um Reports zu erstellen, muss der Katalogadministrator die verschiedenen Optionen in den Katalogeinstellungen aktivieren. Nach der Aktivierung muss der Editor neu gestartet werden, damit die Optionen im Menü erscheinen.
+.. hint:: Um Reports erstellen zu können, muss der Katalogadministrator die verschiedenen Optionen in den Katalogeinstellungen aktivieren. Nach der Aktivierung muss der Editor neu gestartet werden, damit die Optionen im Menü erscheinen.
 
 Statistik
 ----------
@@ -67,7 +67,7 @@ Vereinfachter, katalogspezifischer Bericht zur Dokumentenverfügbarkeit
 
 Die Erreichbarkeit von Dokumenten und Verfahren kann in Echtzeit überprüft werden. Wenn das Monitoring-Tool Zabbix integriert ist, wird im UVP Editor unter dem Menüpunkt "Reports" und dem Untermenü "Monitoring" angezeigt, ob ein Dokument oder Vorhaben nicht erreichbar ist. 
 
-.. hint:: Die Sichtbarkeit dieses Menüpunkts hängt von den Berechtigungen der Benutzer ab.
+.. hint:: Die Sichtbarkeit dieses Menüpunktes hängt von den Benutzerrechten ab.
 
 .. figure:: ../img-ige-ng/reports/monitoring.png
    :alt: UVP Monitoring
@@ -98,7 +98,7 @@ Im Menüpunkt "Reports" und dem Untermenü "Aktivitätsbericht" können gelösch
    :scale: 70
    :figwidth: 100%
 
-Abb.: 
+Abb.: UVP Aktivitätsbericht
 
 
 UVP-Bericht
