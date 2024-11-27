@@ -43,7 +43,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
    :alt: Eingabemaske für Adressen
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Eingabemaske für Adressen
@@ -61,7 +61,7 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_anrede.png
    :alt: Auswahlfeld Anrede
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Auswahlfeld Anrede
@@ -70,7 +70,7 @@ Abb.: Auswahlfeld Anrede
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_titel.png
    :alt: Auswahlfeld Titel
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Auswahlfeld Titel
@@ -82,7 +82,7 @@ Abb.: Auswahlfeld Titel
 .. figure:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :alt: Hinweis - alle Pflichtfelder ausfüllen
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
@@ -94,7 +94,7 @@ Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Z
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
    :alt: Zeile löschen
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Zeile löschen
