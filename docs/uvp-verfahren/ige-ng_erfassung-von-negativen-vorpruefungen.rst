@@ -6,6 +6,7 @@ In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten
 .. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Eingabe einer negativen Vorprüfung erforderlich sind. Negative Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Nach Änderung der Einstellungen muss die Seite neu geladen werden.
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
+   :alt: Katalogeinstellungen für negative Vorprüfungen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -25,10 +26,11 @@ Abb.: Katalogeinstellungen für negative Vorprüfungen
 
 Bei der Aktivierung der Veröffentlichung negativer Vorprüfungen muss zwingend ein Raumbezug angegeben werden. Dieser kann zur Unterscheidung zwischen bereits erfassten Vorprüfungen (ohne Raumbezug) und vollständig erfassten Vorprüfungen verwendet werden. Wird die Option "Nur mit Raumbezug" aktiviert, werden nur neu erstellte negative Vorprüfungen, die einen Raumbezug enthalten müssen, im Portal angezeigt. Ohne diese aktivierte Option werden auch bereits erfasste negative Vorprüfungen ohne Raumbezug im Portal angezeigt.
 
+
 **Erfassungsmasken für die Optionen nicht im Portal veröffentlichen und im Portal veröffentlichen**
 
-
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_ohne-veroeffentlichung.png
+   :alt: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Portal
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -37,6 +39,7 @@ Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Port
 
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_mit-veroeffentlichung.png
+   :alt: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -52,6 +55,7 @@ Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
 Die erfassende Behörde kann für jede negative Vorprüfung selbst angeben, ob eine negative Vorprüfung veröffentlicht werden soll oder nicht.
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz.png
+   :alt: Menü - Veröffdentlichung steuern
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -60,6 +64,7 @@ Abb.: Menü - Veröffdentlichung steuern
 
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz-popup.png
+   :alt: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
    :align: left
    :scale: 90
    :figwidth: 100%
