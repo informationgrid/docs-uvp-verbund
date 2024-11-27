@@ -688,7 +688,7 @@ Vorschau/Druckversion, Drucken, PDF-Dokument erzeugen
 
 Abb.: Symbolleiste - Symbol Vorschau
 
-Über das Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll (sofern die Funktionalität im Druckdialog vorhanden ist).
+Über dieses Symbol Vorschau kann eine Druckversion erzeugt werden. An dieser Stelle kann man sich die Portalansicht als Vorschau ansehen und entscheiden, ob diese ausgedruckt oder ein PDF-Dokument erzeugt werden soll (sofern die Funktionalität im Druckdialog vorhanden ist).
 
 .. figure:: ../img-ige-ng/editor/vorschau.png
    :alt: Vorschau
