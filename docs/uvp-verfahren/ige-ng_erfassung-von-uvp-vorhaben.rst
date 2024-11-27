@@ -671,7 +671,7 @@ Soll ein Verfahrensschritt gelöscht werden, so müssen die drei Punkte (auf der
 .. figure:: ../img-ige-ng/vorhaben/ige-ng_verfahrensschritt-loeschen.png
    :alt: Option Verfahrensschritt löschen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Option Verfahrensschritt löschen
