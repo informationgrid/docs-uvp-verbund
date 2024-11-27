@@ -18,7 +18,7 @@ Abb.: Markiertes Vorhaben in der Ordnerstruktur
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_symbolleiste.png
    :alt: Symbolleiste - Verfahren/Adressen Löschen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste - Verfahren/Adressen Löschen
@@ -38,7 +38,7 @@ Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen.png
    :alt: Fenster Adresse ersetzen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Fenster Adresse ersetzen
@@ -47,7 +47,7 @@ Abb.: Fenster Adresse ersetzen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen_ordenerstruktur.png
    :alt: Fenster Adresse ersetzen mit Ordnerstruktur und Suche
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster Adresse ersetzen mit Ordnerstruktur und Suche
@@ -74,7 +74,7 @@ Es öffnet sich das Fenster Kopieren. Hier einen Ordner wählen unter dem der Da
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_einfuegen.png
    :alt: Symbolleiste - Verfahren/Adressen einfügen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste - Verfahren/Adressen einfügen
@@ -85,7 +85,7 @@ In der Ordnerstruktur können auch mehrere Verfahren bzw. Adressen gleichzeitig 
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_checkbox-auswahl.png
    :alt: Verfahren/Adressen - Checkbox Auswahl
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Verfahren/Adressen - Checkbox Auswahl
@@ -94,7 +94,7 @@ Abb.: Verfahren/Adressen - Checkbox Auswahl
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_ausgewaehlte-kopieren.png
    :alt: Checkbox - Verfahren/Adressen kopieren
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Checkbox - Verfahren/Adressen kopieren
@@ -103,7 +103,7 @@ Abb.: Checkbox - Verfahren/Adressen kopieren
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_alle-auswaehlen.png
    :alt: Checkbox "Alle" markieren
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Checkbox - "Alle" markieren
@@ -120,7 +120,7 @@ Markierte Adressen / Verfahren oder ganze Teilbäume können innerhalb der Ordne
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_verschieben.png
    :alt: Fenster - Verschieben
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster - Verschieben
