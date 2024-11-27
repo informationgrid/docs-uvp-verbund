@@ -52,7 +52,7 @@ Abb.: Eingabemaske für Adressen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_organisation-anlegen.png
    :alt: Eingabefenster für die Wahl des Adresstyps
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Eingabefenster für die Wahl des Adresstyps
