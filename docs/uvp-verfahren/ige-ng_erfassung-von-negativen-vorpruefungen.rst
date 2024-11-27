@@ -3,7 +3,7 @@ Negative Vorprüfungen erfassen
 
 In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten negativen Vorprüfungen im Portal verfügbar sein sollen oder nicht. Diese Entscheidung muss in jedem Bundesland vorab getroffen werden, da sich das Erfassungsformular je nach Einstellung anpasst.
 
-.. hint:: Katalogeinstellungen: Negative Vorprüfungen veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Eingabe einer negativen Vorprüfung erforderlich sind. Negative Vorprüfungen werden nur im Portal angezeigt, wenn diese Option ausgewählt ist. Nach Änderung der Einstellungen muss die Seite neu geladen werden.
+.. hint:: Katalogeinstellungen: Negative Vorprüfung veröffentlichen - Es werden zusätzliche Formularfelder angezeigt, die für die vollständige Eingabe einer negativen Vorprüfung erforderlich sind. Negative Vorprüfungsergebnisse werden im Portal nur angezeigt, wenn diese Option ausgewählt ist. Nach Änderung der Einstellungen muss die Seite neu geladen werden.
 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
    :alt: Katalogeinstellungen für negative Vorprüfungen
@@ -47,8 +47,7 @@ Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Port
 Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
 
 
-.. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem eine „Veröffentlichung“ durchgeführt werden! In diesem Fall wechselt die Symbolfarbe im Gliederungsbaum von orange nach schwarz.
-
+.. hint:: Wenn eine negative Vorprüfung ohne Veröffentlichung für das UVP-Portal erfasst wurde, muss trotzdem eine „Veröffentlichung“ erfolgen! In diesem Fall wechselt die Symbolfarbe im Gliederungsbaum von orange nach schwarz.
 
 **Steuerung der Veröffentlichung im Portal auf Datensatzebene**
 
@@ -71,4 +70,4 @@ Abb.: Menü - Veröffdentlichung steuern
    
 Abb.: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
 
-.. important:: Die Änderung des Merkmals wird erst nach der vollständigen Indexierung des Katalogs wirksam. Ein Setzen des Parameters beim Anlegen des Datensatzes wird jedoch berücksichtigt.
+.. important:: Die Änderung des Merkmals wird erst nach der vollständigen Indexierung des Katalogs wirksam. Eine Einstellung des Parameters beim Anlegen des Datensatzes wird jedoch berücksichtigt.
