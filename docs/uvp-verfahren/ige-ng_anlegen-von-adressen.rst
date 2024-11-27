@@ -6,7 +6,7 @@ Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukture
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen-struktur.png
    :alt: Anlegen einer Adressstruktur
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Anlegen einer Adressstruktur
@@ -21,7 +21,7 @@ Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswähle
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-anlegen.png
    :alt: Auswahl der Adresstypen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahl der Adresstypen
@@ -30,7 +30,7 @@ Abb.: Auswahl der Adresstypen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_typ-waehlen.png
    :alt: Adresstypen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Adresstypen
@@ -43,7 +43,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-eingabemaske-komplett.png
    :alt: Eingabemaske für Adressen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Eingabemaske für Adressen
@@ -52,7 +52,7 @@ Abb.: Eingabemaske für Adressen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_organisation-anlegen.png
    :alt: Eingabefenster für die Wahl des Adresstyps
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Eingabefenster für die Wahl des Adresstyps
@@ -61,7 +61,7 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_anrede.png
    :alt: Auswahlfeld Anrede
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahlfeld Anrede
@@ -70,18 +70,19 @@ Abb.: Auswahlfeld Anrede
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_titel.png
    :alt: Auswahlfeld Titel
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahlfeld Titel
 
 
-Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
+.. hint:: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu nachfolgender Fehlermeldung.
+
 
 .. figure:: ../img-ige-ng/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :alt: Hinweis - alle Pflichtfelder ausfüllen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
@@ -93,7 +94,7 @@ Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Z
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_eingabefelder-loeschen.png
    :alt: Zeile löschen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Zeile löschen
@@ -106,20 +107,20 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
    :alt: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 
-..hint:: Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.
+.. hint:: Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.
 
 Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
 
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_zugeordnete-datensaetze_anzeigen.png
    :alt: Zugeordnete Datensätze anzeigen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Zugeordnete Datensätze anzeigen
@@ -128,18 +129,18 @@ Abb.: Zugeordnete Datensätze anzeigen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
    :alt: Zugeordnete Datensätze
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Zugeordnete Datensätze
 
 
-..hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
+.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
 
 .. figure:: ../img-ige-ng/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
    :alt: Datensatzverknüpfung
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
@@ -148,7 +149,7 @@ Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gel
 .. figure:: ../img-ige-ng/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
    :alt: Vorhaben mit dem der Datensatz verknüpft ist
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Vorhaben mit dem der Datensatz verknüpft ist
@@ -159,10 +160,10 @@ Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mi
 .. figure:: ../img-ige-ng/adressen/ige-ng_veroeffentlichen.png
    :alt: Veröffentlichen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Veröffentlichen
 
 
-..hint:: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
+.. hint:: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
