@@ -27,7 +27,7 @@ Abb.: Symbolleiste - Verfahren/Adressen Löschen
 .. figure:: ../img-ige-ng/bearbeiten/ige-ng_bearbeiten_datensatz-loeschen.png
    :alt: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
@@ -38,7 +38,7 @@ Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen.png
    :alt: Fenster Adresse ersetzen
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Fenster Adresse ersetzen
