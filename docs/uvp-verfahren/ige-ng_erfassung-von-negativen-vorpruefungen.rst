@@ -8,7 +8,7 @@ In den Katalogeinstellungen der Länder kann festgelegt werden, ob die erfassten
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_katalogeinstellungen.png
    :alt: Katalogeinstellungen für negative Vorprüfungen
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Katalogeinstellungen für negative Vorprüfungen
@@ -32,7 +32,7 @@ Bei der Aktivierung der Veröffentlichung negativer Vorprüfungen muss zwingend 
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_ohne-veroeffentlichung.png
    :alt: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Portal
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
    
 Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Portal
@@ -41,7 +41,7 @@ Abb.: Erfassungsmaske Option negative Vorprüfung ohne Veröffentlichung im Port
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_mit-veroeffentlichung.png
    :alt: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
    
 Abb.: Erfassungsmaske Option Veröffentlichung von negativen Vorprüfungen
@@ -57,7 +57,7 @@ Die erfassende Behörde kann für jede negative Vorprüfung selbst angeben, ob e
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz.png
    :alt: Menü - Veröffdentlichung steuern
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
    
 Abb.: Menü - Veröffdentlichung steuern
@@ -66,7 +66,7 @@ Abb.: Menü - Veröffdentlichung steuern
 .. figure:: ../img-ige-ng/negative-vorpruefung/ige-ng_negative-vorpruefung_einstellung_datensatz-popup.png
    :alt: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
    :align: left
-   :scale: 90
+   :scale: 80
    :figwidth: 100%
    
 Abb.: Fenster - Veröffentlichung der negativen Vorprüfungen im UVP-Portal steuern
