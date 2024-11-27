@@ -33,7 +33,7 @@ Abb.: Symbolleiste - Verfahren/Adressen Löschen
 Abb.: Fenster "Löschen" - Mit "LÖSCHEN" bestätigen
 
 
-.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind. Ist die Adresse noch mit Vorhaben verknüpft, öffnet sich das Fenster Adresse ersetzen. Darin muss der Button "ADRESSE AUSWÄHLEN" betätigt werden. Es öffnet sich das nächste Fenster  mit der Suche und der Ordnerstruktur der Adressen. Darin kann eine Adresse gewählt werden, mit der die bisherige Adresse ersetzt werden soll. Abschließend muss der Button "ADRESSE ERSETZEN" betätigt werden.
+.. hint:: Eine Adresse kann nur gelöscht werden, wenn ihr keine Vorhaben mehr zugeordnet sind. Ist die Adresse noch mit Vorhaben verknüpft, öffnet sich das Fenster Adresse ersetzen. Dort muss die Schaltfläche "ADRESSE AUSWÄHLEN" betätigt werden. Es öffnet sich das nächste Fenster mit der Suche und der Ordnerstruktur der Adressen. Darin kann eine Adresse ausgewählt werden, mit der die bisherige Adresse ersetzt werden soll. Abschließend muss der Button "ADRESSE ERSETZEN" betätigt werden.
 
 .. figure:: ../img-ige-ng/adressen/ige-ng_adresse-ersetzen.png
    :alt: Fenster Adresse ersetzen
@@ -109,7 +109,7 @@ Abb.: Checkbox - Verfahren/Adressen kopieren
 Abb.: Checkbox - "Alle" markieren
 
 
-.. hint:: Wurde eine Kopie angelegt, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dieses nicht, so existieren im Katalog zwei Verfahren / Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!
+.. hint:: Wenn eine Kopie erstellt wurde, muss der Verfahrensname bzw. die Adresse geändert werden. Geschieht dies nicht, existieren im Katalog zwei Verfahren/Adressen mit dem gleichen Namen. Dies ist unbedingt zu vermeiden!
 
 
 Verfahren / Adressen / Teilbäume verschieben
