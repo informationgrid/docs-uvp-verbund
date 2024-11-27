@@ -37,7 +37,7 @@ Erweiterte Suche
 .. figure:: ../img-ige-ng/recherche/ige-ng_recherche_erweiterte-suche.png
    :alt: Erweiterte Suche
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Erweiterte Suche
@@ -50,7 +50,7 @@ SQL Suche
 .. figure:: ../img-ige-ng/recherche/ige-ng_recherche_sql-suche.png
    :alt: SQL Suche
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
    
 Abb.: SQL Suche
@@ -63,7 +63,7 @@ Gespeicherte Suchen
 .. figure:: ../img-ige-ng/recherche/ige-ng_recherche_gespeicherte-suche.png
    :alt: gespeicherte Suchanfragen
    :align: left
-   :scale: 80
+   :scale: 60
    :figwidth: 100%
    
 Abb.: gespeicherte Suchanfragen
