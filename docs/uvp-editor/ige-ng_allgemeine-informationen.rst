@@ -46,6 +46,7 @@ Im UVP-Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
 Abb.: UVP-Editor - Ordnersymbol im Eingabeformular
 
+
 .. figure:: ../img-ige-ng/editor/ige-ng_datenstruktur.png
    :alt: UVP-Editor - Aufbau der Ordnerstruktur
    :align: left
@@ -71,6 +72,7 @@ Im UVP-Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
    :figwidth: 100%
 
 Abb.: Vorhabentypen in der Ordnerstruktur
+
 
 **Adressen**
 
@@ -104,7 +106,7 @@ Menü
 .. figure:: ../img-ige-ng/editor/ige-ng_menue.png
    :alt: Menü Symbole mit Beschriftung
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
@@ -115,6 +117,7 @@ Abb.: Menü Symbole mit Beschriftung
    :align: left
    :scale: 90
    :figwidth: 100%
+
    
 Abb.: Menü verkleinern
 
@@ -187,7 +190,6 @@ Im UVP-Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können,
    :figwidth: 100%
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
-
 
 
 Unterschiedliche Feldtypen
@@ -444,6 +446,7 @@ Dokumente bearbeiten
 
 Abb.: Dokumente - Bearbeiten
 
+
 Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
 
 
@@ -525,6 +528,7 @@ Abb.: Countdown für den Logout und "Session-refresh-Button"
    :figwidth: 100%
 
 Abb.: Meldung - Besuchszeit abgelaufen
+
 
 Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern. (Ein automatisches Zwischenspeichern ist zukünftig vorgesehen.)
 
