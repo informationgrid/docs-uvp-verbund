@@ -14,13 +14,14 @@
 ==================================
 Bedienungsanleitung InGrid Editor
 ==================================
-====================
-Profil: UVP-Verbund
-====================
 
-Version der Bedienungsanleitung
- - InGrid Editor-Version: 7.3.2, 16.10.2024, 18:59
- - letzte Änderung: 27.11.2024
+
+ - Portal: UVP-Verbund (Umweltverträglichkeitsprüfungen der Länder)
+ - Software: InGrid (Open-Source)
+ - InGrid-Version: 7.3.2, 16.10.2024, 18:59
+ - Komponente: InGrid Editor
+ - Profil: UVP
+ - letzte Änderung: 21.01.2025
  - Status: in Bearbeitung
  
 

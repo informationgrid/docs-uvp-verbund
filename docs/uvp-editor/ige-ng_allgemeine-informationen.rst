@@ -159,10 +159,10 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
-    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
+   .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+   .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
 	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-    .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+   .. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
 	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_loeschen.png , Löschen
 	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
 	.. figure:: ../img-ige-ng/editor/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument (Wird dieses Symbol länger gedrückt erscheint eine Historie.)
