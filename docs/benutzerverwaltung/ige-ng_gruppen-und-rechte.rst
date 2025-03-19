@@ -1,4 +1,5 @@
 
+=================
 Gruppen & Rechte
 =================
 
@@ -56,6 +57,8 @@ Abb.: Vergabe von allgemeinen Rechten -eingeschaltet
 
 Rechte vergeben
 ---------------
+
+
 
 
 
