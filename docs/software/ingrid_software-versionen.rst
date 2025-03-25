@@ -1,7 +1,7 @@
 
-===================
+====================
 UVP Editor - Version
-===================
+====================
 
 **Version der Bedienungsanleitung**
 
