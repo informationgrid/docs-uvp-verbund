@@ -3,6 +3,12 @@
 UVP Portal - Historie
 ======================
 
+Version 7.3.3 - Release 07.11.2024
+
+  **Suche:** Filterung nach Aktualität, Ergebnisliste verändern
+
+Version 7.1.0, 27.03.2024, 16:34
+
 Version 7.1.0, 27.03.2024, 16:34
 
 Version 6.0.0, 07.02.2023, 16:00
