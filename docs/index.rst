@@ -23,7 +23,7 @@ Bedienungsanleitung InGrid Editor
 | **Komponente:** InGrid Editor
 | **Profil:** UVP
 
-| **letzte Änderung:** 19.03.2025
+| **letzte Änderung:** 25.03.2025
 | **Status:** in Bearbeitung
  
 ---------------------------------------------------------------------------------------------------------------------------
