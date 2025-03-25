@@ -12,7 +12,6 @@ UVP Editor - Historie
  | [Feature #7378] Automatische Aktualisierung des Index bei der Archivierung<https://redmine.informationgrid.eu/issues/7378>`_ 
  | [Feature #7448] Überarbeitung des Textes bei der Bestätigung Archivierung<https://redmine.informationgrid.eu/issues/7448>`_ 
 
-
 | 7.3.3 - Release 07.11.2024
 
  | [Feature #6793] Portal: Filterung nach Aktualität, Ergebnisliste verändern<https://redmine.informationgrid.eu/issues/6793>`_ 
