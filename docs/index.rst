@@ -60,6 +60,7 @@ Bedienungsanleitung InGrid Editor
    
    suche/ige-ng_suche.rst
    reports/ige-ng_reports.rst
+   archivierung/ige-ng_archivierung.rst
    hilfe/ige-ng_hilfe-erfassung.rst
    
 .. toctree::
