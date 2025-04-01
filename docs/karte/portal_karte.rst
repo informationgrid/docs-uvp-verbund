@@ -29,7 +29,7 @@ Abb.: Punkt in der Karte
 Schalter "Nur aktuelle: ein/aus"
 ---------------------------------------
 
-Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahlschalter "Nur aktuelle: ein/aus" eingeführt. Dieser Schalter bietet die Möglichkeit, nur Vorhaben des zurückliegenden letzten Jahres anzuzeigen.
+.. hint:: Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Legende der Auswahlschalter „Nur aktuelle: ein/aus“ eingeführt. Dieser Schalter bietet die Möglichkeit, sich nur die Vorhaben des letzten Jahres anzuzeigen zu lassen.
 
 .. figure:: ../img-ige-ng/karte/karte_auswahlschalter_nur-aktuelle.png
    :alt: Legende - Auswahlschalter
