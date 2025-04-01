@@ -135,7 +135,7 @@ Abb.: Portal - Startseite - Informationen
 Suchergebnisse
 ==============
 
-Seit der Portalversion 6.0.0 werden die Wappen der Bundesländer in der Trefferliste angezeigt und in der Detaildarstellung wird in der Adresse das Bundesland angegeben, sowie das Wappen des Bundeslandes dargestellt.
+..hint:: Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Facettierung der Auswahlschalter „Nur aktuelle Verfahren anzeigen: ein/aus“ eingeführt. Dieser Schalter bietet die Möglichkeit, sich nur die Vorhaben des letzten Jahres anzuzeigen zu lassen.
 
 .. figure:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
    :alt: Trefferliste - Darstellung der Länderwappen
