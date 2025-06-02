@@ -38,7 +38,7 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgn
 .. hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
 
 
-    Betätigen Sie den Button "JETZT ARCHIVIEREN"
+Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
     Es wird angezeigt:
 
