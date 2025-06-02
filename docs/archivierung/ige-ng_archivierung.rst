@@ -48,4 +48,4 @@ Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
 .. important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
 
-Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Symbol gekennzeichnet. Im Strukturbaum erscheinen die entsprechenden Symbole ausgegraut. Archivierte Verfahren können geändert werden, dazu muss nach der Änderung der Button „IM ARCHIV SPEICHERN” rechts oben betätigt werden.
+Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Symbol gekennzeichnet. Im Strukturbaum erscheinen die entsprechenden Symbole ausgegraut. Archivierte Verfahren können geändert werden, dazu muss nach der Änderung der Button "IM ARCHIV SPEICHERN" rechts oben betätigt werden.
