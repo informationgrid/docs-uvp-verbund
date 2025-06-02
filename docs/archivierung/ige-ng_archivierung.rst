@@ -8,7 +8,7 @@ Mit dem Softwareupdate im März 2025 wurde Archivierungsfunktion für den UVP-Ed
 
 Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgnde Einstellung in der Katalogverwaltung vorgenommen werden.
 
-1. Im Abschnitt Datensätze/Archivierung "Datensätze können archiviert werden." einschalten.
+**1.** Im Abschnitt Datensätze/Archivierung "Datensätze können archiviert werden." einschalten.
 
 **Optionen**
 
@@ -18,7 +18,7 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgn
 
 
 
-2. Im Abschnitt UVP/UVP Archivierung muss die Erweiterungen für die Archivierung von UVP-Dokumenten aktiviert werden.
+**2.** Im Abschnitt UVP/UVP Archivierung muss die Erweiterungen für die Archivierung von UVP-Dokumenten aktiviert werden.
 
 **Optionen**
 
@@ -30,7 +30,7 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgn
 | c) **Nur Dokumente der Entscheidung sichtbar belassen:** Nur Dokumente aus der Entscheidung, werden weiterhin im Portal angezeigt. Alle anderen Dokumente werden ausgeblendet, indem die Gültigkeit auf das gestrige Datum gesetzt wird, insofern sich das Datum nicht bereits in der Vergangenheit befindet.
 
 
-3. In der Menüleiste muss "UVP Achivierung" gewählt werden.
+**3.** In der Menüleiste muss "UVP Achivierung" gewählt werden.
 
 Wählen Sie ein Datum aus, um alle Verfahren zu archivieren, deren Entscheidungsdatum vor diesem Datum oder an diesem Datum liegt.
 
