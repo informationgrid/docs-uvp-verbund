@@ -3,10 +3,9 @@
 Archivierung von Verfahren
 ==========================
 
-Mit dem Softwareupdate im März 2025 wurde Archivierungsfunktion für den UVP-Editor eingeführt.
+Mit dem Software-Update im März 2025 wurde eine Archivierungsfunktion für den UVP-Editor eingeführt. Das Archivieren und das Zurückholen von Verfahren aus dem Archiv ist nur dem Katalogadministrator möglich.
 
-
-Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgnde Einstellung in der Katalogverwaltung vorgenommen werden.
+Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgende Einstellung in der Katalogverwaltung vorgenommen werden.
 
 1. Im Abschnitt Datensätze/Archivierung "Datensätze können archiviert werden." einschalten.
 
@@ -48,3 +47,5 @@ Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
 
 .. important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
+
+Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Symbol gekennzeichnet. Im Strukturbaum erscheinen die entsprechenden Symbole ausgegraut. Archivierte Verfahren können geändert werden, dazu muss nach der Änderung der Button „IM ARCHIV SPEICHERN” rechts oben betätigt werden.
