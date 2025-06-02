@@ -34,7 +34,7 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgn
 
     Wählen Sie ein Datum aus, um alle Verfahren zu archivieren, deren Entscheidungsdatum vor diesem Datum oder an diesem Datum liegt.
 
-..hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
+.. hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
 
     Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
@@ -44,4 +44,4 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgn
     | Ende: tt.mm.yyyy hh:mm:ss
     | Archivierte Verfahren: xxx
 
-..important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
+.. important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
