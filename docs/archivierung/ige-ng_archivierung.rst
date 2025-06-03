@@ -106,7 +106,7 @@ Einzelne Verfahren archivieren
 .. figure:: ../img-ige-ng/archivieren/verfahren_archivieren.png
    :alt: Archivierung von Verfahren
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Archivierung von Verfahren
@@ -118,7 +118,7 @@ Verfahren im Archiv speichern
 .. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern.png
    :alt: Verfahren im Archiv speichern
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Verfahren im Archiv speichern
