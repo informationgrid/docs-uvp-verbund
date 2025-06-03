@@ -143,7 +143,7 @@ Nach der Archivierung können die Verfahren bearbeitet werden. Dazu muss nach de
 Abb.: Verfahren im Archiv speichern
 
 
-.. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern_fenster.png
+.. figure:: ../img-ige-ng/archivieren/im_archiv_speichern_fenster.png
    :alt: im Archiv speichern - Abfrage
    :align: left
    :scale: 90
