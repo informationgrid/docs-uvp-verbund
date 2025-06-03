@@ -7,6 +7,11 @@ Archivierung von Verfahren
 
 Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgende Einstellung in der Katalogverwaltung vorgenommen werden.
 
+
+
+Katalogeinstellungen Archivierung
+---------------------------------
+
 1. Im Abschnitt Datensätze/Archivierung "Datensätze können archiviert werden." einschalten.
 
   **Optionen**
@@ -30,8 +35,6 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folge
 
 
 3. In der Menüleiste muss "UVP Achivierung" gewählt werden.
-
-
 
 .. figure:: ../img-ige-ng/archivieren/archivierung.png
    :alt: UVP Archivierung
@@ -70,6 +73,10 @@ Betätigen Sie den Button "JETZT ARCHIVIEREN"
 .. important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
 
 
+
+Verfahren aus dem Achiv holen
+-----------------------------
+
 .. figure:: ../img-ige-ng/archivieren/verfahren_entarchivieren.png
    :alt: Verfahren aus dem Archiv holen
    :align: left
@@ -102,18 +109,33 @@ Abb.: zuletzt bearbeitete archivierte Verfahren
 
 
 Einzelne Verfahren archivieren
+------------------------------
+
+Einzelne Verfahren können archiviert werden. Neben den Buttons „Speichern” und „Veröffentlichen” wurde dafür der Button „Archivieren” hinzugefügt.
 
 .. figure:: ../img-ige-ng/archivieren/verfahren_archivieren.png
-   :alt: Archivierung von Verfahren
+   :alt: Archivierung von einzelnen Verfahren
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Archivierung von Verfahren
+Abb.: Archivierung von einzelnen Verfahren
+
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_archivieren_fenster.png
+   :alt: Archivierung von einzelnen Verfahren - Abfrage
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Archivierung von einzelnen Verfahren - Abfrage
 
 
 
 Verfahren im Archiv speichern
+-----------------------------
+
+Nach der Archivierung können die Verfahren bearbeitet werden. Dazu muss nach der Änderung der Button „IM ARCHIV SPEICHERN” betätigt werden.
 
 .. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern.png
    :alt: Verfahren im Archiv speichern
@@ -122,3 +144,12 @@ Verfahren im Archiv speichern
    :figwidth: 100%
 
 Abb.: Verfahren im Archiv speichern
+
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern_fenster.png
+   :alt: Verfahren im Archiv speichern - Abfrage
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: Verfahren im Archiv speichern - Abfrage
