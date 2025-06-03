@@ -12,7 +12,7 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folge
 Katalogeinstellungen Archivierung
 ---------------------------------
 
-1. Im Abschnitt Datensätze/Archivierung "Datensätze können archiviert werden." einschalten.
+1. Im Abschnitt **Datensätze/Archivierung** "Datensätze können archiviert werden." einschalten.
 
   **Optionen**
 
@@ -22,7 +22,7 @@ Katalogeinstellungen Archivierung
 
 
 
-2. Im Abschnitt UVP/UVP Archivierung muss die Erweiterungen für die Archivierung von UVP-Dokumenten aktiviert werden.
+2. Im Abschnitt **UVP/UVP Archivierung** muss die Erweiterungen für die Archivierung von UVP-Dokumenten aktiviert werden.
 
   **Optionen**
 
