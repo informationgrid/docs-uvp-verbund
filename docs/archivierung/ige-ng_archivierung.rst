@@ -132,8 +132,8 @@ Abb.: Archivierung von einzelnen Verfahren - Abfrage
 
 
 
-Verfahren im Archiv speichern
------------------------------
+Im Archiv speichern
+-------------------
 
 Nach der Archivierung können die Verfahren bearbeitet werden. Dazu muss nach der Änderung der Button „IM ARCHIV SPEICHERN” betätigt werden.
 
@@ -147,9 +147,9 @@ Abb.: Verfahren im Archiv speichern
 
 
 .. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern_fenster.png
-   :alt: Verfahren im Archiv speichern - Abfrage
+   :alt: im Archiv speichern - Abfrage
    :align: left
    :scale: 90
    :figwidth: 100%
 
-Abb.: Verfahren im Archiv speichern - Abfrage
+Abb.: Im Archiv speichern - Abfrage
