@@ -31,7 +31,28 @@ Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folge
 
 3. In der Menüleiste muss "UVP Achivierung" gewählt werden.
 
+
+
+.. figure:: ../img-ige-ng/archivieren/archivierung.png
+   :alt: UVP Archivierung
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: UVP Archivierung
+
+
+
     Wählen Sie ein Datum aus, um alle Verfahren zu archivieren, deren Entscheidungsdatum vor diesem Datum oder an diesem Datum liegt.
+
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_archivieren_datum.png
+   :alt: Verfahren archivieren Angabe des Datums
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Verfahren archivieren Angabe des Datums
     
 
 .. hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
@@ -48,4 +69,56 @@ Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
 .. important:: Nach der Archivierung ist diese nicht mehr rückgängig zu machen! Es ist jedoch möglich, einzelne Verfahren aus dem Archiv zu holen.
 
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_entarchivieren.png
+   :alt: Verfahren entarchivieren
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Verfahren entarchivieren
+
+
 Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Symbol gekennzeichnet. Im Strukturbaum erscheinen die entsprechenden Symbole ausgegraut. Archivierte Verfahren können geändert werden, dazu muss nach der Änderung der Button "IM ARCHIV SPEICHERN" rechts oben betätigt werden.
+
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_archiviert.png
+   :alt: Verfahren archiviert
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Verfahren archiviert
+
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_archiviert_zuletzt bearbeitet.png
+   :alt: zuletzt bearbeitete archivierte Verfahren
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: zuletzt bearbeitete archivierte Verfahren
+
+
+
+Einzelne Verfahren archivieren
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_archivieren.png
+   :alt: Archivierung von Verfahren
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Archivierung von Verfahren
+
+
+
+Verfahren im Archiv speichern
+
+.. figure:: ../img-ige-ng/archivieren/verfahren_im archiv speichern.png
+   :alt: Verfahren im Archiv speichern
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Verfahren im Archiv speichern
