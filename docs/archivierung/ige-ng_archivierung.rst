@@ -56,9 +56,6 @@ Abb.: UVP Archivierung
    :figwidth: 100%
 
 Abb.: Verfahren archivieren - Angabe des Datums
-    
-
-.. hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
 
 
 Betätigen Sie den Button "JETZT ARCHIVIEREN"
