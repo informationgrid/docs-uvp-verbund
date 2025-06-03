@@ -47,12 +47,12 @@ Abb.: UVP Archivierung
 
 
 .. figure:: ../img-ige-ng/archivieren/verfahren_archivieren_datum.png
-   :alt: Verfahren archivieren Angabe des Datums
+   :alt: Verfahren archivieren - Angabe des Datums
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Verfahren archivieren Angabe des Datums
+Abb.: Verfahren archivieren - Angabe des Datums
     
 
 .. hint:: Unter „Hinweis: Das folgende konfigurierte Verhalten wird angewendet:” wird die gewählte Konfiguration aus der Katalogeinstellung angezeigt.
@@ -71,12 +71,12 @@ Betätigen Sie den Button "JETZT ARCHIVIEREN"
 
 
 .. figure:: ../img-ige-ng/archivieren/verfahren_entarchivieren.png
-   :alt: Verfahren entarchivieren
+   :alt: Verfahren aus dem Archiv holen
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
-Abb.: Verfahren entarchivieren
+Abb.: Verfahren aus dem Archiv holen
 
 
 Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Symbol gekennzeichnet. Im Strukturbaum erscheinen die entsprechenden Symbole ausgegraut. Archivierte Verfahren können geändert werden, dazu muss nach der Änderung der Button "IM ARCHIV SPEICHERN" rechts oben betätigt werden.
@@ -91,7 +91,7 @@ Wenn Verfahren archiviert wurden, dann werden diese mit einem grauen Punkt im Sy
 Abb.: Verfahren archiviert
 
 
-.. figure:: ../img-ige-ng/archivieren/verfahren_archiviert_zuletzt bearbeitet.png
+.. figure:: ../img-ige-ng/archivieren/verfahren_archiviert_zuletzt_bearbeitet.png
    :alt: zuletzt bearbeitete archivierte Verfahren
    :align: left
    :scale: 70
@@ -115,7 +115,7 @@ Abb.: Archivierung von Verfahren
 
 Verfahren im Archiv speichern
 
-.. figure:: ../img-ige-ng/archivieren/verfahren_im archiv speichern.png
+.. figure:: ../img-ige-ng/archivieren/verfahren_im_archiv_speichern.png
    :alt: Verfahren im Archiv speichern
    :align: left
    :scale: 70
