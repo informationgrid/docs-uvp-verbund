@@ -5,9 +5,9 @@ Archivierung von Verfahren
 
 Mit dem Software-Update im März 2025 wurde eine Archivierungsfunktion für den UVP-Editor eingeführt.
 
-Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgende Einstellung in der Katalogverwaltung vorgenommen werden.
-
 .. important:: Nur der Katalogadministrator kann die Archivierung vornehmen und Verfahren aus dem Archiv holen. Die Bearbeitung der Verfahren ist den Bearbeitern vorbehalten.
+
+Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgende Einstellung in der Katalogverwaltung vorgenommen werden.
 
 
 
