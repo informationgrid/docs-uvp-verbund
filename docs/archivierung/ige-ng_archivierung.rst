@@ -7,6 +7,8 @@ Archivierung von Verfahren
 
 Um Verfahren achivieren zu können, müssen durch den Katalogadministrator folgende Einstellung in der Katalogverwaltung vorgenommen werden.
 
+.. important:: Nur der Katalogadministrator kann die Archivierung vornehmen und Verfahren aus dem Archiv holen. Die Bearbeitung der Verfahren ist den Bearbeitern vorbehalten.
+
 
 
 Katalogeinstellungen Archivierung
