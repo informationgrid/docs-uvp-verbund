@@ -3,7 +3,7 @@
 Archivierung von Verfahren
 ==========================
 
-Mit dem Software-Update im März 2025 wurde eine Archivierungsfunktion für den UVP-Editor eingeführt.
+Mit dem Software-Update im März 2025 wurde die Langzeitspeicherung von Daten für den UVP-Editor eingeführt.
 
 .. important:: Nur der Katalogadministrator kann die Archivierung vornehmen und Verfahren aus dem Archiv holen. Die Bearbeitung der Verfahren ist den Bearbeitern vorbehalten.
 
