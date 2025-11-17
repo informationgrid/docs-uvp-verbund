@@ -10,4 +10,5 @@ Die im UVP-Portal hochgeladenen und verlinkten Dokumente werden durch ein Monito
 
 .. important:: Die E-Mail wird an den angegebenen Ansprechpartner für das Verfahren gesendet.
 
+.. hint:: Die Dokumentation umfasst vor allem die Informationen für die Erfasser. Eine umfassende Dokumentation des verwendeten Tools ZABBIX wird nicht Bestandteil der Dokumentation sein.
 
