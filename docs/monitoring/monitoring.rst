@@ -3,7 +3,7 @@
 Monitoring von Dokumenten
 =========================
 
-Das Monitoring wird mit Stand 2025 in folgenden den Ländern eingesetzt:  BB, BE, BW, NI, NRW, SH und ST. 
+Das Monitoring wird mit Stand 2025 von folgenden Ländern eingesetzt:  BB, BE, BW, NI, NRW, SH und ST. 
 
 Die im UVP-Portal hochgeladenen und verlinkten Dokumente werden durch ein Monitoringsystem auf ihre Zugänglichkeit überwacht. Fehlt ein Dokument oder ist es über das UVP-Portal nicht erreichbar, wird der zuständige Bearbeiter per E-Mail informiert. Das Monitoringsystem informiert außerdem den zuständigen Katalogadministrator. 
 
