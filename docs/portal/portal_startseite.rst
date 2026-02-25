@@ -135,7 +135,7 @@ Abb.: Portal - Startseite - Informationen
 Suchergebnisse
 ==============
 
-.. hint:: Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Facettierung der Auswahlschalter „Nur aktuelle Verfahren anzeigen: ein/aus“ eingeführt. Dieser Schalter bietet die Möglichkeit, sich nur die Vorhaben des letzten Jahres anzuzeigen zu lassen.
+.. hint:: Auf Grund der Vielzahl der erfassten Vorhaben, wurde in der Facettierung der Auswahlschalter „Nur aktuelle Verfahren anzeigen: ein/aus“ eingeführt. Dieser Schalter bietet die Möglichkeit, sich die im letzten Jahr bearbeiteten sowie laufende Verfahren anzeigen zu lassen.
 
 .. figure:: ../img-ige-ng/portal/portal_wappen-in-trefferliste.png
    :alt: Trefferliste - Darstellung der Länderwappen
